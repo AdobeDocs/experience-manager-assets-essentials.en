@@ -16,7 +16,7 @@ Adobe offers a robust Digital Asset Management (DAM) solution for you to get the
 
 [!DNL Assets Essentials] focuses on simple interface and efficient search and discovery of digital asset, to ensure asset utilization, governance, and brand consistency across teams. The end-user experience can be via a standalone web user interface and an embedded experience in other Adobe solutions. 
 
-For administrators, it offers simpler configuration and administration that leads to faster time to value. Administrators get immediate access to the solution and can work with familiar functionality and user entitlements in [!DNL Adobe Admin Console]. Administrators need to carry out a user-friendly one-time deployment step to make the solution available to users. See [deploy and administer](/help/deploy-administer.md).
+For administrators, it offers simpler configuration and administration that leads to faster time to value. Administrators get immediate access to the solution and can work with familiar functionality and user entitlements in [!DNL Adobe Admin Console]. See [deploy and administer](/help/deploy-administer.md).
 
 For users, managing your digital assets with [!DNL Assets Essentials] is as simple as the following 3 steps. See [get started using [!DNL Assets Essentials]](/help/get-started.md).
 
