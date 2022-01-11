@@ -19,7 +19,7 @@ To know more about the solution, see the [introduction to [!DNL Assets Essential
 
 The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
 
-* Individual assets cannot be uploaded to the top folder (Assets), only to any subfolder in the system. <!-- CQ-4337638 -->
+* None at the moment
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
