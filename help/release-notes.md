@@ -19,7 +19,7 @@ To know more about the solution, see the [introduction to [!DNL Assets Essential
 
 The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
 
-* None at the moment
+* None
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
