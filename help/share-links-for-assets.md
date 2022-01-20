@@ -27,7 +27,17 @@ To generate a link for an asset or a folder containing assets:
 
 ## Access the shared assets {#access-shared-assets}
 
-To access the shared assets:
+After sharing the public link for assets, the recipients can click the link to preview or download the shared assets in a web browser without accessing [!DNL Assets Essentials].
 
-1. 
+>[!NOTE]
+   >
+   >[!DNL Assets Essentials] allows the download of assets only if you enable the download option while [generating the link](#share-links-assets).
+
+Click the link, click the folder to navigate to the asset, and then click the asset to preview it. You can select to view the shared assets in a List View or a Card View.
+
+Click the link and hover the mouse over the shared asset or the shared assets folder to either select the asset or download it.
+
+You can also select multiple assets and click **[!UICONTROL Download]**. [!DNL Assets Essentials] downloads the selected assets as a zip file.
+
+![Option to crop and straighten](assets/preview-shared-assets.png)
 
