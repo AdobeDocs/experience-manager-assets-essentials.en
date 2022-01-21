@@ -1,6 +1,6 @@
 ---
 title: How to share links for assets?
-description: Edit images using [!DNL Adobe Photoshop Express] powered options and save updated images as versions.
+description: Generate a link and share assets with others who do not have access to the [!DNL Assets Essentials] application.
 ---
 
 # Share links for assets {#share-links-assets}
@@ -11,7 +11,7 @@ description: Edit images using [!DNL Adobe Photoshop Express] powered options an
 
 * If the recipients are allowed to download the asset after accessing the link. 
 
-The recipient of the link can choose to preview the assets or download them.
+Based on these settings, the recipient of the link can choose to preview the assets or download them.
 
 ## Generate a link for assets {#generate-link-for-assets}
 
@@ -29,7 +29,7 @@ To generate a link for an asset or a folder containing assets:
 
    ![Option to crop and straighten](assets/share-asset-link.png)
 
-1. Click **[!UICONTROL Close]** and share the link using email or other collaborarion tools.
+1. Click **[!UICONTROL Close]** and share the link using email or other collaboration tools.
 
 ## Access the shared assets {#access-shared-assets}
 
