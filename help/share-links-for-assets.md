@@ -42,8 +42,8 @@ You can hover the mouse over the shared asset or the shared assets folder to eit
 You can also select multiple assets and click **[!UICONTROL Download]**. [!DNL Assets Essentials] downloads the selected assets as a zip file. [!DNL Assets Essentials] creates a sub-folder in the parent zip file, with the same name as that of the asset, for each asset that you select to download.
 
 >[!NOTE]
-   >
-   >If you do not enable the download option while [generating the link](#share-links-assets) for an asset and if the recipient of the link selects to download the asset, [!DNL Assets Essentials] downloads an empty zip file.
+>
+>If you do not enable the download option while [generating the link](#share-links-assets) for an asset and if the recipient of the link selects to download the asset, [!DNL Assets Essentials] downloads an empty zip file.
 
 ![Option to crop and straighten](assets/preview-shared-assets.png)
 
