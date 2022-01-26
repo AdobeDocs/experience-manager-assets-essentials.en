@@ -5,11 +5,11 @@ description: Generate a link and share assets with others who do not have access
 
 # Share links for assets {#share-links-assets}
 
-[!DNL Assets Essentials] enables you to generate a link and share assets with others who do not have access to the [!DNL Assets Essentials] application. You can define:
+[!DNL Assets Essentials] enables you to generate a link and share assets with external stakeholders, who do not have access to the [!DNL Assets Essentials] application. You can define:
 
 * An expiration date for the link
 
-* If the recipients are allowed to download the asset after accessing the link. 
+* If the recipients are allowed to download the assets (original binaries) after accessing the link. 
 
 Based on these settings, the recipient of the link can choose to preview the assets or download them.
 
@@ -17,11 +17,11 @@ Based on these settings, the recipient of the link can choose to preview the ass
 
 To generate a link for an asset or a folder containing assets:
 
-1. Select the asset(s) or the folder containing assets and click **[!UICONTROL Share Link]**.
+1. Select the asset(s) and/or the folder(s) containing assets and click **[!UICONTROL Share Link]**.
 
-1. Click the Calendar icon to define an expiration date for the link using the **[!UICONTROL Expiration Date]** field. You can also specify a date directly in the `yyyy-mm-dd` format. 
+1. By default, expiration date is set to 2 weeks from the date of sharing. If you want to adjust it, click the Calendar icon to define an expiration date for the link using the **[!UICONTROL Expiration Date]** field. You can also specify a date directly in the `yyyy-mm-dd` format. 
 
-1. Select **[!UICONTROL Allow download]** to allow the recipient of the link to download assets.
+1. Select **[!UICONTROL Allow download]** to allow the recipient of the link to download assets. 
 
 1. Click **[!UICONTROL Generate Link]**.
 
@@ -33,13 +33,15 @@ To generate a link for an asset or a folder containing assets:
 
 ## Access the shared assets {#access-shared-assets}
 
-After sharing the public link for assets, the recipients can click the link to preview or download the shared assets in a web browser without accessing [!DNL Assets Essentials].
+After sharing the public link for assets, the recipients can click the link to preview or download the shared assets in a web browser without the need to log in to [!DNL Assets Essentials].
 
 Click the link, click the folder to navigate to the asset, and then click the asset to preview it. You can select to view the shared assets in a List View or a Card View.
 
 You can hover the mouse over the shared asset or the shared assets folder to either select the asset or download it.
 
 You can also select multiple assets and click **[!UICONTROL Download]**. [!DNL Assets Essentials] downloads the selected assets as a zip file. [!DNL Assets Essentials] creates a sub-folder in the parent zip file, with the same name as that of the asset, for each asset that you select to download.
+
+To download all assets at once, switch to the **[!UICONTROL List view]**, click **[!UICONTROL Select all]** and then on **[!UICONTROL Download]**.
 
 >[!NOTE]
 >
