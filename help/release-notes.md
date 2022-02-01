@@ -9,13 +9,15 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 
 The current release of [!DNL Assets Essentials] is released on January 27, 2022. With this release:
 
-* [!DNL Assets Essentials] now enables you to generate a link and share assets with others who do not have access to the [!DNL Assets Essentials] application. You can define:
+* [!DNL Assets Essentials] now enables you to generate a link and share assets with others who do not have access to the [!DNL Assets Essentials] application. You can define: <!-- CQ-4329575 -->
 
   * An expiration date for the link
 
   * If the recipients are allowed to download the asset after accessing the link. 
 
   Based on these settings, the recipient of the link can choose to preview the assets or download them.
+  
+* Folder creation performance is improved <!-- CQ-4338818 -->
 
 ## Known issues {#known-issues}
 
