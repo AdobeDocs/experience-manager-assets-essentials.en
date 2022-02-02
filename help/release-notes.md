@@ -17,7 +17,7 @@ The current release of [!DNL Assets Essentials] is released on January 27, 2022.
 
   Based on these settings, the recipient of the link can choose to preview the assets or download them.
   
-* Folder creation performance is improved <!-- CQ-4338818 -->
+* Performace improvements for the [!UICONTROL Create Folder] operation. <!-- CQ-4338818 -->
 
 ## Known issues {#known-issues}
 
