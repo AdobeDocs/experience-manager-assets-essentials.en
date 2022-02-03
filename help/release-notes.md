@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of [!DNL Assets Essentials] is released on January 27, 2022. With this release:
+The current release of [!DNL Assets Essentials] is released on February 03, 2022. With this release:
 
 * [!DNL Assets Essentials] now enables you to generate a link and share assets with others who do not have access to the [!DNL Assets Essentials] application. You can define: <!-- CQ-4329575 -->
 
