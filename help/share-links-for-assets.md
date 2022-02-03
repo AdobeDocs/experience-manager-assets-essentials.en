@@ -1,8 +1,8 @@
 ---
 title: How to share links for assets?
 description: Generate a link and share assets with others who do not have access to the [!DNL Assets Essentials] application.
+exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
 ---
-
 # Share links for assets {#share-links-assets}
 
 [!DNL Assets Essentials] enables you to generate a link and share assets with external stakeholders, who do not have access to the [!DNL Assets Essentials] application. You can define:
@@ -48,4 +48,3 @@ To download all assets at once, switch to the **[!UICONTROL List view]**, click 
 >If you do not enable the download option while [generating the link](#share-links-assets) for an asset and if the recipient of the link selects to download the asset, [!DNL Assets Essentials] downloads an empty zip file.
 
 ![Option to crop and straighten](assets/preview-shared-assets.png)
-
