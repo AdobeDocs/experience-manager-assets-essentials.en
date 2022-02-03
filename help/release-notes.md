@@ -7,13 +7,17 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of [!DNL Assets Essentials] is released on December 16, 2021. With this release:
+The current release of [!DNL Assets Essentials] is released on January 27, 2022. With this release:
 
-* Adobe deploys Assets Essentials automatically after completing the provisioning process. The administrators do not need to perform additional steps to deploy Assets Essentials using [!DNL Cloud Manager] user interface. This automatic deployment will be available for environments provisioned after 6 January 2022.
-* New versions of Creative Cloud plugins working with Assets Essentials are available on Adobe Exchange - [Adobe Asset Link for Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) and [Adobe Asset Link for Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
-* Various bugfixes and product enhancements, including previous known issues (folders now display correctly in the left navigation tree after upload<!-- CQ-4337638 -->, drag and drop upload allows user to select either current folder or any subfolder when dropping for upload<!-- CQ-4327753 -->).
+* [!DNL Assets Essentials] now enables you to generate a link and share assets with others who do not have access to the [!DNL Assets Essentials] application. You can define: <!-- CQ-4329575 -->
 
-To know more about the solution, see the [introduction to [!DNL Assets Essentials]](introduction.md). To start using the features, see [get started](/help/get-started.md).
+  * An expiration date for the link
+
+  * If the recipients are allowed to download the asset after accessing the link. 
+
+  Based on these settings, the recipient of the link can choose to preview the assets or download them.
+  
+* Performance improvements for the [!UICONTROL Create Folder] operation. <!-- CQ-4338818 -->
 
 ## Known issues {#known-issues}
 
@@ -24,6 +28,14 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
 ## Past releases {#past-release}
+
+### 2021.11.0 release {#november-2021}
+
+[!DNL Assets Essentials] is released on December 16, 2021, with the following updates:
+
+* Adobe deploys Assets Essentials automatically after completing the provisioning process. The administrators do not need to perform additional steps to deploy Assets Essentials using [!DNL Cloud Manager] user interface. This automatic deployment will be available for environments provisioned after 6 January 2022.
+* New versions of Creative Cloud plugins working with Assets Essentials are available on Adobe Exchange - [Adobe Asset Link for Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) and [Adobe Asset Link for Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
+* Various bugfixes and product enhancements, including previous known issues (folders now display correctly in the left navigation tree after upload<!-- CQ-4337638 -->, drag and drop upload allows user to select either current folder or any subfolder when dropping for upload<!-- CQ-4327753 -->).
 
 ### 2021.8.0 release {#august2021}
 
