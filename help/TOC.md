@@ -23,5 +23,4 @@ role: User,Leader
 + [Asset management tasks](manage-organize.md)
 + [Edit images](edit-images.md)
 + [Manage asset metadata](metadata.md)
-+ [Share links for assets](share-links-for-assets.md)
 + [Integration with other solutions](integration.md)
