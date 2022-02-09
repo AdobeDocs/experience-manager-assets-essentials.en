@@ -14,7 +14,7 @@ exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 * ![document file type icon](assets/do-not-localize/document-icon.png) Documents: DOCX, PDF, PPTX, and XLSX
 * ![video file type icon](assets/do-not-localize/video-icon.png) Videos: MP4
 
-Assets essentials supports any binary file format with basic services, such as, storage, upload, copy, move, delete, and adding metadata.
+[!DNL Assets Essentials] supports any binary file format with basic services, such as, storage, upload, copy, move, delete, and adding metadata.
 
 The various file types have different degrees of support for the use cases and features as described below. Use the legend to understand the support level.
 
@@ -48,13 +48,13 @@ The various file types have different degrees of support for the use cases and f
 | Asset type    | [Download](/help/manage-organize.md#download) | Drag and drop | [Image editor](/help/edit-images.md) | [Search](/help/search.md)   | [Smart Tags](/help/metadata.md#tags) | [Rename](/help/manage-organize.md)   | [Versions](/help/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Raster images | &#10003; | &#10003;      | &#10003;     | &#10003; | &#10003;   | &#10003; | &#10003; |
-| RAW files (CR2, NEF, and others)    | &#10003; | &#10003; | &minus; | &minus;  | &#10003; | &#10003;          | &#10003;   | &#10003;        |
+| RAW files (CR2, NEF, and others)    | &#10003; | &#10003; | &minus; |  &#10003;   | &#10003; | &#10003;          | &#10003;   | &#10003;        |
 | Folders       | &#10003; | &#10003;      | &minus;      | &#10003; | &minus;    | &#10003; | &#10003;  |
 | Videos        | &#10003; | &#10003;      | &minus;      | &#10003; | &#10003;   | &#10003; | &#10003;  |
 | CC Libraries  | &minus;  | &minus;       | &minus;      | &minus;  | &minus;    | &#10003; | &#10003;  |
 | PDF           | &#10003; | &#10003;      | &minus;      | &#10003; | &#10003;   | &#10003; | &#10003;  |
 | PSD, AI, and INDD           | &#10003; | &#10003;      | &minus;      | &#10003; | &#10003;   | &#10003; | &#10003;  |
-| Other binary files          | &minus; | &minus;      | &minus;      | &minus; |&minus;   | &minus; | &minus;  |
+| Other binary files          |  &#10003;  | &minus;      | &minus;      |  &#10003;  |&minus;   |  &#10003;  | &minus;  |
 
 
 ## Review assets and collaborate {#support-to-review-collaborate}
