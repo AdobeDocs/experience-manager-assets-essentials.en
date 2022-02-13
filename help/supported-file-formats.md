@@ -11,7 +11,7 @@ exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 
 * ![image file type icon](assets/do-not-localize/image-icon.png) Images: JPG, PNG, GIF, TIFF, and others
 * ![document file type icon](assets/creative-cloud-files.svg) Creative Cloud files: PSD/PSB, AI, and INDD
-* ![raw file type icon](assets/do-not-localize/image-raw.png) Camera RAW files: CR2/CR3, NEF, SRW/SRF, and others
+* ![raw file type icon](assets/creative-cloud-files.svg) Camera RAW files: CR2/CR3, NEF, SRW/SRF, and others
 * ![document file type icon](assets/do-not-localize/document-icon.png) Documents: DOCX, PDF, PPTX, and XLSX
 * ![video file type icon](assets/do-not-localize/video-icon.png) Videos: MP4
 
