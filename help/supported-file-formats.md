@@ -9,17 +9,17 @@ exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 
 [!DNL Assets Essentials] supports a wide range of file formats and each functionality has varied support for different file types.
 
-* ![image file type icon](assets/do-not-localize/image-icon.png) Images: JPG, PNG, GIF, TIFF, and others
-* ![document file type icon](assets/creative-cloud-files.svg) Creative Cloud files: PSD, AI, and INDD
-* ![raw file type icon](assets/creative-cloud-files.svg) Camera RAW files: CR2/CR3, NEF, SRW/SRF, and others
-* ![document file type icon](assets/do-not-localize/document-icon.png) Documents: DOCX, PDF, PPTX, and XLSX
-* ![video file type icon](assets/do-not-localize/video-icon.png) Videos: MP4
+* ![image file type icon](assets/image-icon.svg) Images: JPG, PNG, GIF, TIFF, and others
+* ![creative cloudtype icon](assets/creative-cloud-files.svg) Creative Cloud files: PSD, AI, and INDD
+* ![camera type icon](assets/camera-icon.svg) Camera RAW files: CR2/CR3, NEF, SRW/SRF, and others
+* ![document file type icon](assets/document-icon.svg) Documents: DOCX, PDF, PPTX, and XLSX
+* ![video file type icon](assets/video-icon.svg) Videos: MP4
 
 [!DNL Assets Essentials] supports any binary file format with basic services, such as, storage, upload, copy, move, delete, and adding metadata.
 
-[!DNL Assets Essentials] supports camera RAW files from a wide range of leading camera manufacturers, including Canon (CR2/CR3), Nikon (NEF), Sony (SRW/SRF), Fujifilm (RAF), Olympus (ORF) and others, powered by Adobe Camera Raw.
+[!DNL Assets Essentials] supports camera RAW files from a wide range of leading camera manufacturers including Canon (CR2/CR3), Nikon (NEF), Sony (SRW/SRF), Fujifilm (RAF), Olympus (ORF), and others, powered by Adobe Camera Raw.
 
-The various file types have different degrees of support for the use cases and features as described below. Use the legend to understand the support level.
+The various file types have different degrees of support for the use cases and features, as described below. Use the legend to understand the support level.
 
 | Support Level     | Description             |
 |-------------------|-------------------------|
