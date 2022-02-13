@@ -17,7 +17,7 @@ exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 
 [!DNL Assets Essentials] supports any binary file format with basic services, such as, storage, upload, copy, move, delete, and adding metadata.
 
-[!DNL Assets Essentials] supports camera RAW files from a wide range of leading camera manufacturers including Canon (CR2/CR3), Nikon (NEF), Sony (SRW/SRF), Fujifilm (RAF), Olympus (ORF), and others, powered by Adobe Camera Raw.
+[!DNL Assets Essentials] also supports camera RAW files from a wide range of leading camera manufacturers including Canon (CR2/CR3), Nikon (NEF), Sony (SRW/SRF), Fujifilm (RAF), Olympus (ORF), and others, powered by Adobe Camera Raw.
 
 The various file types have different degrees of support for the use cases and features, as described below. Use the legend to understand the support level.
 
