@@ -16,7 +16,4 @@ Create a folder structure based on the considerations.
 
 ## Manage permissions on folders {#manage-permissions-folders}
 
-## Examples for effective permission management {example-permission-management}
-
-
-
+## Examples for effective permission management {#example-permission-management}
