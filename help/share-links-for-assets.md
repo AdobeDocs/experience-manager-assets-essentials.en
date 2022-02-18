@@ -21,8 +21,6 @@ To generate a link for an asset or a folder containing assets:
 
 1. If you want to adjust it, click the Calendar icon to define an expiration date for the link using the **[!UICONTROL Expiration Date]** field. You can also specify a date directly in the `yyyy-mm-dd` format. By default, expiration date for a link is set to 2 weeks from the date of sharing.
 
-1. Select **[!UICONTROL Allow download]** to allow the recipient of the link to download assets. 
-
 1. Click **[!UICONTROL Generate Link]**.
 
 1. Click **[!UICONTROL Copy Link]** to copy the link. You can also copy the link from the **[!UICONTROL Share Link]** field. 
@@ -42,10 +40,6 @@ You can hover the mouse over the shared asset or the shared assets folder to eit
 You can also select multiple assets and click **[!UICONTROL Download]**. [!DNL Assets Essentials] downloads the selected assets as a zip file. [!DNL Assets Essentials] creates a sub-folder in the parent zip file, with the same name as that of the asset, for each asset that you select to download.
 
 To download all assets at once, switch to the **[!UICONTROL List view]**, click **[!UICONTROL Select all]** and then click **[!UICONTROL Download]**.
-
->[!NOTE]
->
->If you do not enable the download option while [generating the link](#share-links-assets) for an asset and if the recipient of the link selects to download the asset, [!DNL Assets Essentials] downloads an empty zip file.
 
 ![Option to crop and straighten](assets/preview-shared-assets.png)
 
