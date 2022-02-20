@@ -76,7 +76,7 @@ You can assign the following permissions to the user groups or users (not recomm
 
 **Sequence to assign folder permissions to user groups**
 
-Create rules to assign folder permissions to user groups. The order that you use to assign permissions to a folder is important and decides the access available to the users groups and eventually users. For example, if you assign the `Can View` permissions for a folder to a super group and then assign `Can Edit` permissions to its sub-group, only the members of the sub-group have edit permissions to the folder. The super group users  have view access to the folder.
+Create rules to assign folder permissions to user groups. The sequence that you use to assign permissions to a folder is important and decides the access available to the users groups and eventually users. For example, if you assign the `Can View` permissions for a folder to a super group and then assign `Can Edit` permissions to its sub-group, only the members of the sub-group have edit permissions to the folder. The super group users  have view access to the folder.
 
 If you need to provide edit permissions to the `Marketing` folder only to marketing department of your organization and view permissions to others, assign `Can View` permissions to super-group `All Authenticated Users` and `Can Edit` permissions to its sub-group `Marketing`.
 
