@@ -44,7 +44,7 @@ For information on how to manage user groups, see [Manage user groups](https://h
 
 >[!NOTE]
 >
->If your Admin Console is set up to leverage an external system to manage users/groups assignments, such as Azure or Google connectors, user sync tool or User Management Rest API, your groups and user assignments are configured automatically. For more information, see [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html)
+>If your Admin Console is set up to leverage an external system to manage users/groups assignments, such as Azure or Google connectors, user sync tool or User Management Rest API, your groups and user assignments are configured automatically. For more information, see [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html).
 
 
 ### Add users to groups {#add-users-to-uesr-groups}
@@ -74,11 +74,73 @@ You can assign the following permissions to the user groups or users (not recomm
 | Owner |  <ul><li>All privileges available for Can Edit permissions</li><li>Manage permissions on a folder and its subfolders</li>This permission allows the administrators to delegate the admininstrator privileges to others for a folder and its subfolders.<ul>|
 | Deny access | Remove Can View, Can Edit, and Owner permissions for a folder and its subfolders. |
 
-### Assign permissions to user groups {#assign-permissions}
+**Sequence to assign folder permissions to user groups**
+
+Create rules to assign folder permissions to user groups. The order that you use to assign permissions to a folder is important and decides the access available to the users groups and eventually users. For example, if you assign the `Can View` permissions for a folder to a super group and then assign `Can Edit` permissions to its sub-group, only the members of the sub-group have edit permissions to the folder. The super group users  have view access to the folder.
+
+If you need to provide edit permissions to the `Marketing` folder only to marketing department of your organization and view permissions to others, assign `Can View` permissions to super-group `All Authenticated Users` and `Can Edit` permissions to its sub-group `Marketing`.
+
+![Assign Permissions](assets/permissions-management-groups.png)
+
+**Permission inheritance**
+
+Assets Essentials also has a concept of permission inheritance, which enables you to inherit the permissions set for the parent folder in the child folder. For example, if the parent folder has `Can View` permissions for `All Authenticated Users` group and the child folder has `Can Edit` permissions for the `Marketing` user group, it enables all authenticated users to have view permissions for the child folder and the `Marketing` user group to have edit permissions for the child folder.
+
+![Assign Permissions](assets/permissions-inheritance.png)
+
+**Default permissions**
+
+All users who are authenticated and can log on to the Assets Essentials application have `Can Edit` permissions to the Assets Essentials repository.
+
+### Add permissions to user groups {#add-permissions}
 
 To assign permissions to user groups on folders:
 
-1.
+1.Select the folder and click **[!UICONTROL Manage Permissions]**.
+
+1. On the **[!UICONTROL Manage Permissions]** dialog, specify the name of the group or a user in the **[!UICONTROL Groups & Users]** field.
+
+1. Select the [level of access](#manage-permissions-folders) from the **[!UICONTROL Access]** dropdown list.
+
+1. Click **[!UICONTROL Add]** to save the permissions for the user or user group.
+
+1. Repeat steps 1 to 3 to add more rules to the **[!UICONTROL Manage Permissions]** dialog.
+
+   ![Add Permissions](assets/add-permissions.png)
+
+   The order that you use to assign permissions to a folder is important and decides the access available to the users groups and eventually users added to the groups.
+
+   If you are managing permissions for multiple folders, you can also select any other folder from the left pane and start managing permissions for that folder.
+
+1. Click **[!UICONTROL Close]**.
+
+### Edit permissions assigned to user groups {#edit-permissions}
+
+To edit permissions assigned to user groups on folders:
+
+1. Select the folder and click **[!UICONTROL Manage Permissions]**.
+
+1. On the **[!UICONTROL Manage Permissions]** dialog, edit the [level of access](#manage-permissions-folders) from the **[!UICONTROL Access]** dropdown list.
+
+1. [Add more user groups or users](#add-permissions) to the existing permission rules, if required.
+
+1. Click X to remove the permissions assigned to a user group.
+
+### Edit permissions for the entire Assets Essentials repository {#edit-permissions-entire-repository}
+
+An application administrator can edit permissions for the entire Assets Essentials repository from a default `Can Edit` to any other access level.
+
+>[!NOTE]
+>
+>An administrator cannot select the `Deny Access` permission level for the entire Assets Essentials repository to ensure that users atleast have read access to the application.
+
+To edit permissions for the entire Assets Essentials repository:
+
+1. Select the folder and click **[!UICONTROL Manage Permissions]**.
+
+1. On the **[!UICONTROL Manage Permissions]** dialog, click **[!UICONTROL All Assets]** in the left rail.
+
+1. [Edit the permissions](#edit-permissions) and close the dialog.
 
 
 ## Examples for effective permission management {#example-permission-management}
