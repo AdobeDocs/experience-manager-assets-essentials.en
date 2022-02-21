@@ -144,3 +144,42 @@ To edit permissions for the entire Assets Essentials repository:
 
 
 ## Examples for effective permission management {#example-permission-management}
+
+**Use Case**
+
+* All Authenticated Users group have view access to the repository.
+* Team-specific user groups have edit permissions to their own function-specific folder. 
+* Legal folder is not avaialble for viewing to all authenticated user except the Legal team.
+
+Create the following user groups in Admi Console:
+
+* Marketing Team
+
+* Brand Approvers Team
+
+* Project Managers Team
+
+* Project X Team
+
+* Legal Team
+
+The following diagram illustrates the folder hierarchy and the permissions assigned to each user group:
+![Assign Permissions](assets/use-case-permissions-mamagement.png)
+
+The following are the access levels for all user groups in the folder hierarchy:
+
+* /All Assets: Administrator changed the permissions at the rool level from the default `Can Edit` to `Can View`. All users can view folders and assets but cannot edit them.
+
+* /marketing: All users can view the folders and its subfolders, however, the Marketing Team user group have edit permissions to the folder.
+
+* /brand: All users can view the folders and its subfolders, however, the Project Managers Team user group have edit permissions to the folder.
+
+* /projects: All users can view the folders and its subfolders. Project Managers Team user group have:
+
+  * Edit permissions
+
+  * Manage permissions on a folder and its subfolders
+
+* /projects/project-x: All users can view the folders and its subfolders. Project Managers Team user group have edit permissions and can manage permissions on a folder and its subfolders. Legal Team user group have edit permissions.
+
+* /legal: None of the users can access the folder. The Legal Team user group have edit permissions.
