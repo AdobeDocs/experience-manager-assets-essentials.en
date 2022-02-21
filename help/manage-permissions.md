@@ -151,7 +151,7 @@ To edit permissions for the entire Assets Essentials repository:
 * Team-specific user groups have edit permissions to their own function-specific folder. 
 * Legal folder is not avaialble for viewing to all authenticated user except the Legal team.
 
-Create the following user groups in Admi Console:
+Create the following user groups in Admin Console:
 
 * Marketing Team
 
