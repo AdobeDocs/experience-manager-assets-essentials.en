@@ -1,6 +1,6 @@
 ---
 title: Integration with other Adobe solutions
-description: [!DNL Assets Essentials] integrates with other Adobe solutions and provides an embedded experience from within the native application.
+description: "[!DNL Assets Essentials] integrates with other Adobe solutions and provides an embedded experience from within the native application."
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
 ---
