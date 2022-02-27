@@ -28,11 +28,11 @@ Consider the following points when you start planning to create a folder structu
 
 * Size: A folder must not contain too many assets. It might lead to usability issues and can become difficult to manage.
 
-* Intuitive: The folder structure must be easy to browse and intuitive for the end users. Users must be able to intuitively identify where to upload a new asset in the folder structure.
+* Intuitive: The folder structure must be easy to browse and intuitive for the end users. Users must be able to easily identify where to upload a new asset in the folder structure.
 
-There are various possible folder structure types. The following are the most recommended folder structures: 
+There are various possible folder structure types that you can use for your organization. The following are the most recommended folder structures: 
 
-* Function and categorization
+* Function and categorization based
    ![Function and Categorization](assets/function-categorization.png)
 
 * Campaign based
