@@ -33,12 +33,15 @@ Consider the following points when you start planning to create a folder structu
 There are various possible folder structure types that you can use for your organization. The following are the most recommended folder structures: 
 
 * Function and categorization based
+
    ![Function and Categorization](assets/function-categorization.png)
 
 * Campaign based
+
    ![Caampaign Based](assets/campaign-based.png)
 
 * Offer location (or channel) based
+
    ![Offer Location Based](assets/offer-location.png)
 
 
