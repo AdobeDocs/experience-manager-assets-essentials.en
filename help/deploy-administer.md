@@ -37,7 +37,7 @@ An administrator manages which users have access to [!DNL Assets Essentials]. Ad
 
 In [!DNL Admin Console], these three access types are represented by three [!UICONTROL Product Profiles]. To add and remove members of your organization to any of the two profiles, follow these steps:
 
-1. Access [!DNL Admin Console] for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. [!DNL Assets Essentials] has two product profiles that represent access for regular and consumer users.
+1. Access [!DNL Admin Console] for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. [!DNL Assets Essentials] has three product profiles that represent access for administrator, regular, and consumer users.
 
    ![Three profiles for three types of users](assets/admin-console-admin-profile.png)
    <!-- Need to update screenshot to include 3 profiles -->
