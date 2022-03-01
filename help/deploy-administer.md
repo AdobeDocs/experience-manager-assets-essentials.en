@@ -39,7 +39,7 @@ In [!DNL Admin Console], these three access types are represented by three [!UIC
 
 1. Access [!DNL Admin Console] for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. [!DNL Assets Essentials] has two product profiles that represent access for regular and consumer users.
 
-   ![Three profiles for three types of users](assets/adminconsole-user-types.png)
+   ![Three profiles for three types of users](assets/admin-console-admin-profile.png)
    <!-- Need to update screenshot to include 3 profiles -->
 
    *Figure: Three profiles are available to add the three types of users.*
