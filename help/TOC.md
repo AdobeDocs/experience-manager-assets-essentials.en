@@ -14,8 +14,10 @@ role: User,Leader
 
 + [Solution overview](introduction.md)
 + [Release Notes](release-notes.md)
-+ [Administer and add users](deploy-administer.md)
-+ [Manage permissions](manage-permissions.md)
++ [Deploy and add users](deploy-administer.md)
++ Manage folder access{#folder-access}
+  + [Manage folder permissions](manage-permissions.md)
+  + [Best practices for permissions management](permission-management-best-practices.md)
 + [Get started using [!DNL Assets Essentials]](get-started.md)
 + [Supported file types and use cases](supported-file-formats.md)
 + [View assets](navigate-view.md)
