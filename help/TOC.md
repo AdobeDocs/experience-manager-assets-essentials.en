@@ -14,7 +14,8 @@ role: User,Leader
 
 + [Solution overview](introduction.md)
 + [Release Notes](release-notes.md)
-+ [Deploy and add users](deploy-administer.md)
++ [Administer and add users](deploy-administer.md)
++ [Manage permissions](manage-permissions.md)
 + [Get started using [!DNL Assets Essentials]](get-started.md)
 + [Supported file types and use cases](supported-file-formats.md)
 + [View assets](navigate-view.md)
@@ -23,4 +24,5 @@ role: User,Leader
 + [Asset management tasks](manage-organize.md)
 + [Edit images](edit-images.md)
 + [Manage asset metadata](metadata.md)
++ [Share assets](share-links-for-assets.md)
 + [Integration with other solutions](integration.md)
