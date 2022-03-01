@@ -1,12 +1,12 @@
 ---
-title: Deploy and manage users
+title: Administer and manage users
 description: Administration use cases such as deployment and user management in [!DNL Assets Essentials].
 role: Admin
 exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 ---
-# Deploy [!DNL Assets Essentials] and add users {#administer}
+# Administer [!DNL Assets Essentials] and add users {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. The customers also have access to [!DNL Experience Manager Cloud Manager] as a deployment tool and to [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution.
+[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. Administrators will use [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution, and assign application administrators to set up permissions and metadata forms in [!DNL Assets Essentials].
 
 ## Automatic deployment of Assets Essentials {#automatic-deployment-assets-essentials}
 
@@ -18,6 +18,7 @@ After the Assets Essentials solution is provisioned, the administrator receives 
 
 Administrators need to perform the following tasks after successful deployment of the Assets Essentials solution:
 
+* [Set up user groups, folder structure and assign permissions](manage-permissions.md) for the solution. Follow [best practices](permission-management-best-practices.md) to ensure a simple and effective permissions setup.
 * [Manage the user access](#add-users-to-essentials) of organization members to [!DNL Assets Essentials].
 * Optionally, [view service status and logs](#view-logs).
 
@@ -30,16 +31,18 @@ Administrators need to perform the following tasks after successful deployment o
 
 An administrator manages which users have access to [!DNL Assets Essentials]. Administrators use [!DNL Adobe Admin Console] to add or remove user access. [!DNL Assets Essentials] has the following two types of user access available.
 
+* **[!DNL Assets Essentials] Administrators** have administrative access to the application. In addition to all end-user capabilities, application administrators in this group can manage permissions for any folder and group/user in the whole application repository.
 * **[!DNL Assets Essentials] Users** have access to the complete user interface. These users can upload, organize, tag, and find digital assets.
 * **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Journey Optimizer] email template editor. For more information, see [Use [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
 
-In [!DNL Admin Console], these two access types are represented by two [!UICONTROL Product Profiles]. To add and remove members of your organization to any of the two profiles, follow these steps:
+In [!DNL Admin Console], these three access types are represented by three [!UICONTROL Product Profiles]. To add and remove members of your organization to any of the two profiles, follow these steps:
 
 1. Access [!DNL Admin Console] for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. [!DNL Assets Essentials] has two product profiles that represent access for regular and consumer users.
 
-   ![Two profiles for two types of users](assets/adminconsole-user-types.png)
+   ![Three profiles for three types of users](assets/admin-console-admin-profile.png)
+   <!-- Need to update screenshot to include 3 profiles -->
 
-   *Figure: Two profiles are available to add the two types of users.*
+   *Figure: Three profiles are available to add the three types of users.*
 
 1. To add a user to a group, click the group, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. When you add a user, the user receives an email invitation to get started. You can turn off the email invitations in the product profile settings in [!DNL Admin Console].
 

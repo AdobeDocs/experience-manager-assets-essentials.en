@@ -61,7 +61,7 @@ You can use the following methods to create a folder structure in the Assets Ess
 
 * Click **[!UICONTROL Add Assets]** option available in the toolbar to [upload a folder structure available on your local machine](add-delete.md).
 
-Create a folder structure that works well with the business objectives for the organization. If you are uploading an existing folder structure to the Assets Essentials repository, you must review the structure. For more information, see [Best practices for effective permissions management](permission-management-best-practices.md).
+Create a folder structure that works well with the business objectives for the organization. If you are uploading an existing folder structure to the Assets Essentials repository, you should review the structure. For more information, see [Best practices for effective permissions management](permission-management-best-practices.md).
 
 ## Manage permissions on folders {#manage-permissions-folders}
 
@@ -88,9 +88,13 @@ Assets Essentials also has a concept of permission inheritance, which enables yo
 
 ![Assign Permissions](assets/permissions-inheritance.png)
 
+>[!NOTE]
+>
+> Setting a `Deny Access` permissions for a group on a higher-level folder, and then restoring access (`Can view`, `Can edit` or `Owner`) for that group or its member is not supported. Please use `Deny Access` sparingly. 
+
 **Default permissions**
 
-All users who are authenticated and can log on to the Assets Essentials application have `Can Edit` permissions to the Assets Essentials repository.
+All users who are authenticated and can log on to the Assets Essentials application have `Can Edit` permissions to the Assets Essentials repository initially. Administrator can adjust change the default permissions by [editing permissions for the entire Assets Essentials repository](#edit-permissions-entire-repository).
 
 ### Add permissions to user groups {#add-permissions}
 
@@ -113,6 +117,10 @@ To assign permissions to user groups on folders:
    If you are managing permissions for multiple folders, you can also select any other folder from the left pane and start managing permissions for that folder.
 
 1. Click **[!UICONTROL Close]**.
+
+>[!NOTE]
+>
+> It is recommended to manage permissions for user groups as opposed to individual users. Please note that setting the `Deny access` permission is only supported for user groups, but not individual users.
 
 ### Edit permissions assigned to user groups {#edit-permissions}
 

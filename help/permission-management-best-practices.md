@@ -24,13 +24,13 @@ Consider the following points when you start planning to create a folder structu
 
 * Future governance: The folders that are governed by administrators and the folders that are [delegated for permissions to other users as owners](manage-permissions.md##manage-permissions-folders).
 
-* Scalable: The folder structure must adhere to your organization's future needs and must be easily scalable.
+* Scalable: The folder structure should adhere to your organization's future needs and should be easily scalable.
 
 * Size: A folder must not contain too many assets. It might lead to usability issues and can become difficult to manage.
 
-* Intuitive: The folder structure must be easy to browse and intuitive for the end users. Users must be able to easily identify where to upload a new asset in the folder structure.
+* Intuitive: The folder structure should be easy to browse and intuitive for the end users. Users should be able to easily identify where to upload a new asset in the folder structure.
 
-There are various possible folder structure types that you can use for your organization. The following are the most recommended folder structures: 
+There are various possible folder structure types that you can use for your organization. The following are a few examples of typical folder structures: 
 
 * Function and categorization based
 
@@ -48,6 +48,8 @@ There are various possible folder structure types that you can use for your orga
 ## Folder permissions {#folder-permissions}
 
 After creating user groups for your organization, adding users to those user groups, and selecting and creating a folder structure in the Assets Essentials repository that suits your organization's needs, you can start managing folder permissions for your organization. Consider the following points when you start managing folder permissions:
+
+* Apply permissions for user groups, not individual users. This results in a simpler, more efficient permissions structure.
 
 * Keep the permission structure as simple as possible for operational efficiency.
 
