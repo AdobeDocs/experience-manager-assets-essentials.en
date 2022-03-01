@@ -23,4 +23,8 @@ role: User,Leader
 + [Asset management tasks](manage-organize.md)
 + [Edit images](edit-images.md)
 + [Manage asset metadata](metadata.md)
++ [Share links to assets](share-links-for-assets.md)
++ Manage folder access{#folder-access}
+  + [Manage folder permissions](manage-permissions.md)
+  + [Best practices for permissions management](permission-management-best-practices.md)
 + [Integration with other solutions](integration.md)
