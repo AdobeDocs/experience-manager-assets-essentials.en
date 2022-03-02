@@ -11,6 +11,8 @@ The current release of [!DNL Assets Essentials] is released on March 03, 2022. T
 
 * [!DNL Assets Essentials] now enables you to [generate a link and share assets with external stakeholders](share-links-for-assets.md), who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link can preview assets and download them.
 
+* The [!DNL Assets Essentials] now comprises [an administrator product profile](deploy-administer.md#add-users-to-essentials) on Admin Console in addition to the existing regular and consumer user product profiles. An administrator can assign other users to the administrator product profile.
+
 * Assets Essentials now allows the administrators to [manage the access levels for folders available in the repository](manage-permissions.md). As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder-level.
 
 ## Known issues {#known-issues}

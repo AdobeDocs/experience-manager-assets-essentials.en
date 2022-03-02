@@ -69,7 +69,7 @@ You can assign the following permissions to the user groups or users. Adobe does
 
 | Permission Name | Description |
 |-----|------|
-| Can View |<ul><li>Read-access to view and navigate folders </li><li>Preview assets</li><li>Download assets</li><li>Copy assets</li><ul>  |
+| Can View |<ul><li>Read-access to view and navigate folders </li><li>Preview assets</li><li>Download assets</li><li>Copy assets</li><li>Share links to assets</li><ul>  |
 | Can Edit |<ul><li>All privileges available for Can View permissions </li><li>Create folders</li><li>Remove folders</li><li>Rename folders</li><li>Create assets</li><li>Update assets</li><li>Remove assets</li><li>Move assets</li><li>Rename assets</li><ul>  |
 | Owner |  <ul><li>All privileges available for Can Edit permissions</li><li>Manage permissions on a folder and its subfolders</li>This permission allows the administrators to delegate the administrator privileges to others for a folder and its subfolders.<ul>|
 | Deny access | Remove Can View, Can Edit, and Owner permissions for a folder and its subfolders. |
@@ -142,10 +142,6 @@ To edit permissions assigned to user groups on folders:
 
 An application administrator can edit permissions for the entire Assets Essentials repository from a default `Can Edit` to any other access level.
 
->[!NOTE]
->
->An administrator cannot select the `Deny Access` permission level for the entire Assets Essentials repository to ensure that users at least have read access to the application.
-
 To edit permissions for the entire Assets Essentials repository:
 
 1. Select any folder and click **[!UICONTROL Manage Permissions]**.
@@ -153,6 +149,10 @@ To edit permissions for the entire Assets Essentials repository:
 1. On the **[!UICONTROL Manage Permissions]** dialog, click **[!UICONTROL All Assets]** in the left rail.
 
 1. [Edit the permissions](#edit-permissions) and close the dialog.
+
+>[!NOTE]
+>
+>An administrator cannot select the `Deny Access` permission level for the entire Assets Essentials repository to ensure that users at least have read access to the application. Similarly, `All Authenticated Users` have at least read permissions to the repository, even if the administrator explicity remove the `Can Edit` permissions on the [!UICONTROL Manage Permissions] dialog.
 
 
 ## Examples for effective permission management {#example-permission-management}
