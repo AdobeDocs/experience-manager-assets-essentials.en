@@ -7,9 +7,11 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of [!DNL Assets Essentials] is released on February 03, 2022. This release provides:
+The current release of [!DNL Assets Essentials] is released on March 03, 2022. This release provides:
 
-* Performance improvements for the [!UICONTROL Create Folder] operation. <!-- CQ-4338818 -->
+* [!DNL Assets Essentials] now enables you to [generate a link and share assets with external stakeholders](share-links-for-assets.md), who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link can preview assets and download them.
+
+* Assets Essentials now allows the administrators to [manage the access levels for folders available in the repository](manage-permissions.md). As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder-level.
 
 ## Known issues {#known-issues}
 
@@ -20,6 +22,12 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
 ## Past releases {#past-release}
+
+### 2022.1.0 release {#january-2022}
+
+[!DNL Assets Essentials] is released on February 03, 2022, with the following updates:
+
+* Performance improvements for the [!UICONTROL Create Folder] operation. <!-- CQ-4338818 -->
 
 ### 2021.11.0 release {#november-2021}
 
