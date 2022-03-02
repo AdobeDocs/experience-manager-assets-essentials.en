@@ -40,7 +40,7 @@ Create user groups and assign permissions to those groups to manage folder acces
 
 You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
 
-For information on how to manage user groups, see [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html).
+For information on how to manage user groups, see `Create user groups` and `Edit user groups` available at [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html).
 
 >[!NOTE]
 >
@@ -51,7 +51,7 @@ For information on how to manage user groups, see [Manage user groups](https://h
 
 After creating user groups, you can start adding users to user groups. 
 
-For information on how to manage adding users to user groups, see [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html). 
+For information on how to manage adding users to user groups, see `Add users to groups` available at [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html). 
 
 ### Create folder structure {#create-folder-structure}
 
@@ -155,9 +155,9 @@ To edit permissions for the entire Assets Essentials repository:
 
 **Use Case**
 
-* All Authenticated Users group have view access to the repository.
+* All Authenticated Users group has view access to the repository.
 * Team-specific user groups have edit permissions to their own function-specific folder. 
-* Legal folder is not available for viewing to all authenticated user except the Legal team.
+* Legal folder is not available for viewing to any authenticated user except the Legal team.
 
 Create the following user groups in Admin Console:
 
@@ -178,16 +178,16 @@ The following are the access levels for all user groups in the folder hierarchy:
 
 * /All Assets: Administrator modifies the permissions at the root level from the default `Can Edit` to `Can View`. All users can view folders and assets but cannot edit them.
 
-* /marketing: All users can view the folders and its subfolders based on permission inheritance, however, the Marketing Team user group have edit permissions to the folder.
+* /marketing: All users can view the folders and its subfolders based on permission inheritance, however, the Marketing Team user group has edit permissions to the folder.
 
-* /brand: All users can view the folders and its subfolders based on permission inheritance, however, the Project Managers Team user group have edit permissions to the folder.
+* /brand: All users can view the folders and its subfolders based on permission inheritance, however, the Brand Approvers Team user group has edit permissions to the folder.
 
-* /projects: All users can view the folders and its subfolders based on permission inheritance. Project Managers Team user group have:
+* /projects: All users can view the folders and its subfolders based on permission inheritance. Project Managers Team user group has:
 
   * Edit permissions
 
-  * Manage permissions on a folder and its subfolders
+  * Owner permissions: Manage permissions on a folder and its subfolders.
 
-* /projects/project-x: All users can view the folders and its subfolders. Project Managers Team user group have edit permissions and can manage permissions on a folder and its subfolders. Project X Team user group have edit permissions.
+* /projects/project-x: All users can view the folders and its subfolders. Project Managers Team user group has edit permissions and can manage permissions on a folder and its subfolders (Owner permissions). Project X Team user group has edit permissions.
 
-* /legal: None of the users can access the folder based on the `Deny Access` permissions for `All Authenticated Users` group.. The Legal Team user group have edit permissions.
+* /legal: None of the users can access the folder based on the `Deny Access` permissions for `All Authenticated Users` group. The Legal Team user group has edit permissions.
