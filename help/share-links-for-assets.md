@@ -5,7 +5,7 @@ description: Generate a link and share assets with others who do not have access
 
 # Share links to assets {#share-links-assets}
 
-[!DNL Assets Essentials] enables you to generate a link and share assets with external stakeholders, who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link will be able to preview assets and download them.
+[!DNL Assets Essentials] enables you to generate a link and share assets with external stakeholders, who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link are able to preview assets and download them.
 
 ## Generate a link for assets {#generate-link-for-assets}
 
