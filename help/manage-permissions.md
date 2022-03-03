@@ -152,7 +152,7 @@ To edit permissions for the entire Assets Essentials repository:
 
 >[!NOTE]
 >
->An administrator cannot select the `Deny Access` permission level for the entire Assets Essentials repository to ensure that users at least have read access to the application. Similarly, `All Authenticated Users` have at least read permissions to the repository, even if the administrator explicity removes the `Can Edit` permissions on the [!UICONTROL Manage Permissions] dialog.
+>An administrator cannot select the `Deny Access` permission level for the entire Assets Essentials repository to ensure that users at least have read access to the application. Similarly, `All Authenticated Users` have at least read permissions to the repository, even if the administrator explicitly removes the `Can Edit` permissions on the [!UICONTROL Manage Permissions] dialog.
 
 
 ## Examples for effective permission management {#example-permission-management}
