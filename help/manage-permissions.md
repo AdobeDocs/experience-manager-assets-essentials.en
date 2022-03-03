@@ -116,7 +116,7 @@ To assign group permissions on folders:
 
    >[!NOTE]
    >
-   > The order that you use to assign permissions to a folder is important and decides the access available to the users groups and eventually users added to the groups.   
+   > The order that you use to assign permissions to a folder is important and decides the access available to the user groups and eventually users added to the groups.   
 
    If you are managing permissions for multiple folders, you can also select any other folder from the left pane and start managing permissions for that folder.
 
