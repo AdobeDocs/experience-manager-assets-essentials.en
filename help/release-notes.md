@@ -15,6 +15,11 @@ The current release of [!DNL Assets Essentials] is released on March 03, 2022. T
 
 * Assets Essentials now allows the administrators to [manage the access levels for folders available in the repository](manage-permissions.md). As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder-level.
 
+* Enhancements and bugfixes based on customer feedback.
+
+In addition, [!DNL Adobe Asset Link] extension for Creative Cloud (Photoshop, Illustrator, and InDesign) released a [new version 3.2.0](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), with performance improvements in the panel startup time and in download speed.
+
+
 ## Known issues {#known-issues}
 
 The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
