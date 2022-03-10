@@ -1,8 +1,8 @@
 ---
 title: How to share links to assets?
 description: Generate a link and share assets with others who do not have access to the [!DNL Assets Essentials] application.
+exl-id: 6e05b06c-7436-40e3-acee-c8b1ed218f9e
 ---
-
 # Share links to assets {#share-links-assets}
 
 [!DNL Assets Essentials] enables you to generate a link and share assets with external stakeholders, who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link can preview assets and download them.
@@ -36,4 +36,3 @@ You can also select multiple assets and click **[!UICONTROL Download]**. [!DNL A
 To download all assets at once, switch to the **[!UICONTROL List view]**, click **[!UICONTROL Select all]** and then click **[!UICONTROL Download]**.
 
 ![Preview shared assets](assets/preview-shared-assets.png)
-

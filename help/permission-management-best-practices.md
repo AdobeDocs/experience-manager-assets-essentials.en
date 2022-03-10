@@ -1,6 +1,7 @@
 ---
 title: How to effectively manage folder permissions?
 description: Best practices for effective permissions management
+exl-id: 06b06f0b-3806-44ce-abc4-c1449a93dd29
 ---
 # Best practices for effective permissions management {#best-practices-permissions-management}
 
@@ -56,4 +57,3 @@ After creating user groups for your organization, adding users to those user gro
 * Use Deny access permissions carefully and prefer to apply positive permissions (Can Edit, Can View, Owner) to the folder structure.
 
 For examples on how to achieve an efficient and simple folder structure, see [Manage permissions on folders](manage-permissions.md##manage-permissions-folders).
-
