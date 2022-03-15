@@ -12,7 +12,7 @@ role: User
 
 The following data flow diagram illustrates the sequence of tasks that an administrator must perform to configure and manage Assets Essentials:
 
-![Assets Essentials admin flow](assets/permissions-management-cce-next-updated.png)
+![Assets Essentials admin flow](assets/permissions-management-cce-next.png)
 
 After the Assets Essentials solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. In addition, Adobe starts the process to deploy Assets Essentials automatically. The deployment process takes an hour to complete.  
 
@@ -82,21 +82,13 @@ Consider the following points when you start planning to create a folder structu
 
 There are various possible folder structure types that you can use for your organization. The following are a few examples of typical folder structures: 
 
-* Function and categorization based
-
-   ![Function and Categorization](assets/function-categorization.png)
-
-* Campaign based
-
-   ![Caampaign Based](assets/campaign-based.png)
-
-* Offer location (or channel) based
-
-   ![Offer Location Based](assets/offer-location.png)
+![Typical folder structures](assets/folder-structure.png)
 
 ## Manage permissions for folders {#manage-permissions-for-folders}
 
 Assets Essentials allows the administrators to manage the access levels for folders available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder-level.
+
+ ![Add Permissions](assets/add-permissions.png)
 
 For more information, see [Manage permissions for folders](manage-permissions.md).
 
