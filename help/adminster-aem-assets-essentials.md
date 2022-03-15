@@ -6,7 +6,20 @@ role: User
 
 # Administer AEM Assets Essentials {#administer-assets-essentials}
 
-![Preference to switch dark and light theme](assets/cce-next-banner-2.png)
+![Preference to switch dark and light theme](assets/cce-next-admin-journey-copy1.png)
+
+[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. Administrators use [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution, and assign application administrators to set up permissions and metadata forms in [!DNL Assets Essentials].
+
+The following data flow diagram illustrates the sequence of tasks that an administrator must perform to configure and manage Assets Essentials:
+
+![Assets Essentials admin flow](assets/permissions-management-cce-next-updated.png)
+
+After the Assets Essentials solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. In addition, Adobe starts the process to deploy Assets Essentials automatically. The deployment process takes an hour to complete.  
+
+ From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the top bar. Once the automatic deployment process is complete, the product card for [!DNL AEM Assets Essentials] is visible in the [!DNL Admin Console].
+
+![Assets Essentials Deployment](assets/admin-console-cards.png)
+
 
 ## Add administrators {#add-admin-users}
 
@@ -80,4 +93,14 @@ There are various possible folder structure types that you can use for your orga
 * Offer location (or channel) based
 
    ![Offer Location Based](assets/offer-location.png)
+
+## Manage permissions for folders {#manage-permissions-for-folders}
+
+Assets Essentials allows the administrators to manage the access levels for folders available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder-level.
+
+For more information, see [Manage permissions for folders](manage-permissions.md).
+
+## Setup metadata forms {#metadata-forms}
+
+Introduction
 
