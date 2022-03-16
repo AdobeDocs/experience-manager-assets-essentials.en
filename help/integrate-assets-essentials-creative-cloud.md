@@ -11,3 +11,16 @@ role: User
 [Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines the access to assets that in turn increases content velocity.
 
 Creative Cloud application users can view the Adobe Asset Link in-app panel only when you integrate the Creative Cloud applications with the AEM Assets Essentials repository. This tutorial explains the steps to integrate AEM Assets Essentials repository with the Creative Cloud applications.
+
+## Create directory trusting between Creative Cloud and Experience Cloud admin consoles {#directory-trusting-cc-assets-essentials-consoles}
+
+Overview
+
+## Install Adobe Asset Link {#install-asset-link}
+
+Procedure
+
+
+## Use Adobe Asset Link {#use-asset-link}
+
+Overview
