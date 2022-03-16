@@ -16,6 +16,10 @@ Creative Cloud application users can view the Adobe Asset Link in-app panel only
 
 Overview
 
+## Add Creative Cloud users to Assets Essentials product profile {#add-cc-users-assets-essentials-product-profiles}
+
+Overview
+
 ## Install Adobe Asset Link {#install-asset-link}
 
 Procedure
