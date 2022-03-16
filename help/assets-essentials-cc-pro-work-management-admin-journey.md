@@ -10,21 +10,21 @@ role: User
 
 ## Introduction {#introduction}
 
-Creative Cloud for Enterprise Pro with Work Management Solutions integrates creative, content, and work management tools to increase your ability to produce creative content and quickly achieve business goals. The solution includes the following components:
+Creative Cloud Pro for enterprise with Work Management Solutions integrates creative, content, and work management tools to increase your ability to produce creative content and quickly achieve business goals. The solution includes the following components:
 
 * Creative Cloud Pro
 
 * Adobe Workfront
 
-* AEM Assets Essentials
+* Adobe Experience Manager Assets Essentials
 
-This tutorial introduces you with the administrator journey to enable Assets Essentials application integrate with Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Adobe XD Creative Cloud desktop applications and Adobe Workfront applications. 
+This tutorial introduces an administrator journey to enable Assets Essentials application to integrate with Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Adobe XD Creative Cloud desktop applications and Adobe Workfront application. 
 
 As the solution consists of applications and services from both Creative Cloud and Adobe Experience Cloud, they might be deployed in two Adobe Admin Consoles for your company.
 
-## AEM Documentation Journeys {#aem-documentation-journeys}
+## Experience Manager Documentation Journeys {#aem-documentation-journeys}
 
-A Documentation Journey ties together many different and perhaps complicated topics and features by providing a narrative that helps the reader, who can be new to AEM Assets Essentials, understand and solve a business problem from beginning to end, while assuming minimal prior topic or Assets Essentials knowledge.
+A Documentation Journey ties together many different and perhaps complex topics and features by providing a narrative that helps the reader, who can be new to  Assets Essentials, understand and solve a business problem from beginning to end, while assuming minimal prior topic or Assets Essentials knowledge.
 
 Documentation Journeys are designed around best practices principles, informed by Adobe’s latest research, proven implementation experience from Adobe consultants, and feedback from customer projects.
 
@@ -32,9 +32,9 @@ Documentation Journeys are designed around best practices principles, informed b
 
 * [Access to Adobe Admin Console for Experience Cloud solutions](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html)
 
-* [Access to Adobe Admin Console for Creative Cloud deployment](https://helpx.adobe.com/enterprise/admin-guide.html)
+* [Access to Adobe Admin Console for Creative Cloud for enterprise deployment](https://helpx.adobe.com/enterprise/admin-guide.html)
 
-## Administer AEM Assets Essentials {#assets-essentials}
+## Administer Experience Manager Assets Essentials {#assets-essentials}
 
 ![Preference to switch dark and light theme](assets/cce-next-banner-2.png)
 
@@ -42,7 +42,7 @@ Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adob
 
 Adobe Experience Manager Assets Essentials is provisioned by Adobe for its customers. As part of the provisioning, Assets Essentials is added to a customer’s organization in Adobe Admin Console. 
 
-Administrators use the Admin console to:
+Administrators use the Admin console to manage user entitlements to Assets Essentials product:
 
 * Add user groups
 
@@ -52,9 +52,9 @@ Administrators use the Admin console to:
 
 After managing the user entitlements in Admin Console, administrators can use the Assets Essentials application to:
 
-*  Create the folder structure to plan the movement of Assets from a local repository to Assets Essentials repository.
+* Create a folder structure to best support organization's needs
 
-* Manage permissions to the folder structure.
+* Manage permissions to the folder structure
 
 * Setup metadata forms
 
