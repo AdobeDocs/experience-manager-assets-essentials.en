@@ -87,7 +87,7 @@ For example, if you assign the `Can View` permissions for a folder to a super gr
 
 If you need to provide edit permissions to the `Marketing` folder only to marketing department of your organization and view permissions to others, assign `Can View` permissions to super group `All Authenticated Users` and `Can Edit` permissions to its subgroup `Marketing`.
 
-![Assign Permissions](assets/permissions-management-groups.png)
+![Assign Permissions](assets/permissions-management-groups-updated.png)
 
 **Permission inheritance**
 
