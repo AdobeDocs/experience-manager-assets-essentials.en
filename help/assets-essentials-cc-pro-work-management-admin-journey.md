@@ -68,7 +68,7 @@ After managing the user entitlements in Admin Console, administrators can use th
 
 This tutorial guides you to administer Adobe Workfront and then integrate it with AEM Assets Essentials.
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](create-adaptive-form.md)
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-creative-cloud.md)
 
 
 ## Integrate Creative Cloud applications with AEM Assets Essentials {#administer-adobe-workfront}
@@ -79,5 +79,5 @@ This tutorial guides you to administer Adobe Workfront and then integrate it wit
 
 This tutorial guides you to integrate [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD] Creative Cloud applications with AEM Assets Essentials.
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront-creative-cloud.md)
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront.md)
 
