@@ -9,7 +9,7 @@ Assets Essentials allows the administrators to manage the access levels for fold
 
 The following data flow diagram illustrates the sequence of tasks that you perform to configure and manage permissions on folders available in Assets Essentials repository:
 
-![Toolbar options when you select an asset](assets/permissions-management.png)
+![Toolbar options when you select an asset](assets/permissions-management-updated.png)
 
 ## Before managing permissions for folders {#before-managing-permissions}
 
@@ -87,7 +87,7 @@ For example, if you assign the `Can View` permissions for a folder to a super gr
 
 If you need to provide edit permissions to the `Marketing` folder only to marketing department of your organization and view permissions to others, assign `Can View` permissions to super group `All Authenticated Users` and `Can Edit` permissions to its subgroup `Marketing`.
 
-![Assign Permissions](assets/permissions-management-groups.png)
+![Assign Permissions](assets/permissions-management-groups-updated.png)
 
 **Permission inheritance**
 
@@ -177,7 +177,7 @@ Create the following user groups in Admin Console:
 * Legal Team
 
 The following diagram illustrates the folder hierarchy and the permissions assigned to each user group:
-![Assign Permissions](assets/use-case-permissions-mamagement.png)
+![Assign Permissions](assets/use-case-permissions-management.png)
 
 The following are the access levels for all user groups in the folder hierarchy:
 
