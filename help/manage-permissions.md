@@ -64,7 +64,7 @@ You can use the following methods to create a folder structure in the Assets Ess
 
 Create a folder structure that works well with the business objectives for the organization. If you are uploading an existing folder structure to the Assets Essentials repository, you should review the structure. For more information, see [Best practices for effective permissions management](permission-management-best-practices.md).
 
-## Manage permissions on folders {#manage-permissions-folders}
+## Manage permissions on folders {#manage-permissions-on-folders}
 
 You can assign the following permissions to the user groups or users. Adobe does not recommend to assign permissions to users.
 
