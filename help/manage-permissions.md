@@ -87,13 +87,13 @@ For example, if you assign the `Can View` permissions for a folder to a super gr
 
 If you need to provide edit permissions to the `Marketing` folder only to marketing department of your organization and view permissions to others, assign `Can View` permissions to super group `All Authenticated Users` and `Can Edit` permissions to its subgroup `Marketing`.
 
-![Assign Permissions](assets/permissions-management-groups-updated.png)
+![Assign Permissions](assets/permissions-management-groups.png)
 
 **Permission inheritance**
 
 Assets Essentials uses permission inheritance, which enables you to inherit the permissions set for the parent folder in the child folder. For example, if the parent folder has `Can View` permissions for the `All Authenticated Users` group and the child folder has `Can Edit` permissions for the `Marketing` user group, it enables all authenticated users to have view permissions for the child folder and the `Marketing` user group to have edit permissions for the child folder. The `Marketing` user group has edit permissions for further levels of folders under the child folder (Marketing).
 
-![Assign Permissions](assets/permissions-inheritance.png)
+![Assign Permissions](assets/permissions-inheritance-updated.png)
 
 >[!NOTE]
 >
