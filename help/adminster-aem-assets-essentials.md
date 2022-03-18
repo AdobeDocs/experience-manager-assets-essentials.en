@@ -12,7 +12,7 @@ role: User
 
 The following data flow diagram illustrates the sequence of tasks that an administrator must perform to configure and manage Assets Essentials:
 
-![Assets Essentials admin flow](assets/permissions-management-cce-next.png)
+![Assets Essentials admin flow](assets/permissions-management-cce-next.svg)
 
 After the Assets Essentials solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. In addition, Adobe starts the process to deploy Assets Essentials automatically. The deployment process takes an hour to complete.  
 
@@ -21,7 +21,7 @@ After the Assets Essentials solution is provisioned, the administrator receives 
 ![Assets Essentials Deployment](assets/admin-console-cards.png)
 
 
-## Add administrators {#add-admin-users}
+## Add users to product profiles {#add-users-to-product-profiles}
 
 Add administrators for the Assets Essentials application so that they can manage folder permissions for other user groups.
 
@@ -43,7 +43,7 @@ To add administrators:
 
 Create user groups and assign permissions to those groups to manage folder access levels in the Assets Essentials repository. You can then assign your users to the user groups.
 
-![Add users to groups and product profiles](assets/user-groups-product-profiles.png)
+![Add users to groups and product profiles](assets/user-groups-product-profiles.svg)
 
 You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
 
@@ -82,7 +82,7 @@ Consider the following points when you start planning to create a folder structu
 
 There are various possible folder structure types that you can use for your organization. The following are a few examples of typical folder structures: 
 
-![Typical folder structures](assets/folder-structure.png)
+![Typical folder structures](assets/folder-structure.svg)
 
 ## Manage permissions for folders {#manage-permissions-for-folders}
 

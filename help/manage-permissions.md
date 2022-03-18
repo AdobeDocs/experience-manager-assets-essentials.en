@@ -37,7 +37,7 @@ To add administrators:
 
 Create user groups and assign permissions to those groups to manage folder access levels in the Assets Essentials repository. You can then assign your users to the user groups.
 
-![Add users to groups and product profiles](assets/user-groups-product-profiles.png)
+![Add users to groups and product profiles](assets/user-groups-product-profiles.svg)
 
 You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
 
