@@ -4,24 +4,11 @@ description: Understand user interface of and navigation in [!DNL Assets Essenti
 role: User
 ---
 
-# Integrate Assets Assentials with Creative Cloud applications {#integrate-assets-essentials-creative-cloud-applications}
+# Integrate Assets Essentials with Adobe Workfront {#integrate-assets-essentials-workfront}
 
 ![Preference to switch dark and light theme](assets/cce-next-banner-1.jpeg)
 
-[Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines the access to assets that in turn increases content velocity.
+[[!DNL Adobe Workfront]](https://www.workfront.com/) is a work management application that helps you manage the entire lifecycle of work in one place. The native integration between [!DNL Adobe Workfront] and [!DNL Assets Essentials] lets organizations improve content velocity and time-to-market by intrinsically connecting work and asset management. Within the context of managing their work, users have access to required documents and images in the same solution.
 
-Creative Cloud application users can view the Adobe Asset Link in-app panel only when you integrate the Creative Cloud applications with the AEM Assets Essentials repository. This tutorial explains the steps to integrate AEM Assets Essentials repository with the Creative Cloud applications.
+This tutorial guides you to administer Adobe Workfront and then integrate it with AEM Assets Essentials.
 
-
-## Create directory trusting between Creative Cloud and Experience Cloud admin consoles {#directory-trusting-cc-assets-essentials-consoles}
-
-Overview
-
-## Install Adobe Asset Link {#install-asset-link}
-
-Procedure
-
-
-## Use Adobe Asset Link {#use-asset-link}
-
-Overview
