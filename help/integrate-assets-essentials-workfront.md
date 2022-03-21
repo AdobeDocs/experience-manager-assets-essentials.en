@@ -10,19 +10,27 @@ role: User
 
 [[!DNL Adobe Workfront]](https://www.workfront.com/) is a work management application that helps you manage the entire lifecycle of work in one place. The native integration between [!DNL Adobe Workfront] and [!DNL Assets Essentials] lets organizations improve content velocity and time-to-market by intrinsically connecting work and asset management. Within the context of managing their work, users have access to required documents and images in the same solution.
 
-This tutorial guides you to administer Adobe Workfront and then integrate it with AEM Assets Essentials.
+Execute the following tasks to integrate Workfront with Experience Manager Assets Essentials:
+
+* [Add users to Workfront product profiles](#add-users-to-product-profiles)
+
+* [Add Workfront users to Assets Essentials product profiles](#add-workfront-users-assets-essentials-product-profiles)
+
+* [Configure Experience Manager Assets Essentials Integration](#configure-assets-essentials-integration)
 
 ## Add users to Workfront product profiles {#add-users-to-product-profiles}
 
 To add users to Workfront product profiles:
 
-1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. [!DNL Assets Essentials] has three product profiles that represent access for administrators, regular, and consumer users.
+1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL Workfront]**, and click the first instance in the list. Do not click the second and third instances in the list.
 
-   ![Admin Console admin profile](assets/admin-console-admin-profile.png)
+   ![Admin Console admin profile](assets/workfront-instances.png)
+
+   Admin Console displays the only available product profile.
   
-1. To add a user to a group, click the Assets Essentials Administrators group, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
+1. To add a user to a product profile, click the profile profile, click **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
 
-   ![Add users admin profile](assets/add-users-admin-profile.png)
+   ![Add users admin profile](assets/add-users-workfront.png)
 
    When you add a user, the user receives an email invitation to get started. You can turn off the email invitations in the product profile settings in [!DNL Admin Console].
 
@@ -38,3 +46,16 @@ Assign the Workfront users to one of the following Assets Essentials product pro
 
 For more information on how to assign users to Assets Essentials product pofiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md)
 
+## Configure Experience Manager Assets Essentials Integration {#configure-assets-essentials-integration}
+
+After adding users to the Workfront and Assets Essentials product profiles using the Admin Console, you can [configure the Experience Manager Assets Essentials integration](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsetup-asset-essentials.htm&_LANG=enus).
+
+After setting up the integration, you can:
+
+* [Link assets and folders from Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Flink-to-aem.htm&_LANG=enus)
+
+* [Send a Document to Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsend-to-aem.htm&_LANG=enus)
+
+* [Proof a linked asset for Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fproof-linked-asset-aem.htm)
+
+* [View or download a linked asset from Experience Manager Assets Essentials](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fview-download-asset.htm)

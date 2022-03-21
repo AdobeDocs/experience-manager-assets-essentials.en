@@ -23,15 +23,15 @@ After the Assets Essentials solution is provisioned, the administrator receives 
 
 ## Add users to product profiles {#add-users-to-product-profiles}
 
-Add administrators for the Assets Essentials application so that they can manage folder permissions for other user groups.
+Add users to product profiles so that they can manage the Assets Essentials appliation.
 
-To add administrators:
+To add usrs to product profiles:
 
-1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. [!DNL Assets Essentials] has three product profiles that represent access for administrators, regular, and consumer users.
+1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. Do not click the Cloud Manager environment. [!DNL Assets Essentials] has three product profiles that represent access for administrators, regular, and consumer users.
 
    ![Admin Console admin profile](assets/admin-console-admin-profile.png)
   
-1. To add a user to a group, click the Assets Essentials Administrators group, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
+1. To add a user to a group, click the Assets Essentials product profile, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
 
    ![Add users admin profile](assets/add-users-admin-profile.png)
 
