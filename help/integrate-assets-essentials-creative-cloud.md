@@ -8,6 +8,18 @@ role: User
 
 ![Preference to switch dark and light theme](assets/cce-next-banner-1.jpeg)
 
+## The story so far
+
+After [configuring Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) in the first article of this tutorial, you can build on to integrate the Creative Cloud applications with Assets Essentials.
+
+## Objective
+
+* **Audience**: Creative Cloud administrators
+
+* **Objective**: Integrate Assets Essentials with Creative Cloud applications so that you can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps.
+
+## Overview
+
 [Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines the access to assets that in turn increases content velocity.
 
 Creative Cloud application users can view the Adobe Asset Link in-app panel only when you integrate the Creative Cloud applications with the AEM Assets Essentials repository.
@@ -62,3 +74,7 @@ Use Adobe Asset Link to work with and modify assets stored in Assets Essentials 
 * View version history and file details
 
 For instructions on how to perform these tasks, see [Manage assets using Adobe Asset Link](https://helpx.adobe.com/in/enterprise/using/manage-assets-using-adobe-asset-link.html).
+
+## What's Next
+
+Now that you have  integrated the Creative Cloud applications with Assets Essentials, integrate Adobe Workfront with Experience Manager Assets Essentials as well.

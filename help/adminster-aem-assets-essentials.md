@@ -4,7 +4,7 @@ description: Understand user interface of and navigation in [!DNL Assets Essenti
 role: User
 ---
 
-# Administer AEM Assets Essentials {#administer-assets-essentials}
+# Administer Experience Manager Assets Essentials {#administer-assets-essentials}
 
 ![Preference to switch dark and light theme](assets/cce-next-admin-journey-copy1.png)
 
