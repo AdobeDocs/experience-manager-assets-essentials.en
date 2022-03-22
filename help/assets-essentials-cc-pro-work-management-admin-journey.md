@@ -22,9 +22,15 @@ This tutorial introduces an administrator journey to enable Assets Essentials ap
 
 As the solution consists of applications and services from both Creative Cloud and Adobe Experience Cloud, they are deployed in two Adobe Admin Consoles for your company:
 
-* Creative Cloud services and applications (Creative Cloud for enteprise Pro and optional modules) are managed in Adobe Admin Console for your Creative Cloud deployment. 
+* Creative Cloud services and applications (Creative Cloud for enteprise Pro and optional modules) are managed in [Adobe Admin Console for your Creative Cloud deployment](https://chl-author-preview.corp.adobe.com/content/help/en/enterprise/admin-guide.html). 
 
-* Adobe Workfront and Adobe Experience Manager Assets Essentials are managed in Adobe Admin Console for Experience Cloud solutions. 
+* Adobe Workfront and Adobe Experience Manager Assets Essentials are managed in [Adobe Admin Console for Experience Cloud solutions](https://experienceleague.adobe.com/docs/core-services/interface/administration/admin-getting-started.html).
+
+To integrate Creative Cloud and Assets Essentials applications, the users that are available in Admin Console for Creative Cloud must be made available in Admin Console for Experience Cloud. To make the users available in Experience Cloud Admin Console, create a new directory to establish [directory trusting](https://helpx.adobe.com/enterprise/using/set-up-identity.html#directory-trusting) between the two admin consoles.
+
+![Creative Cloud Users](assets/creative-cloud-users.svg)
+
+As depicted in the diagram, the Creative Cloud users are automatically made available in the Experience Cloud Admin Console based on a trust relationship between the two consoles. You can then add the users to Assets Essentials product profiles. As a result, the Creative Cloud users can access the Adobe Asset Link application that can interact with the Assets Essentials repository. For more information, see [Integrate Assets Essentials with Creative Cloud applications](integrate-assets-essentials-creative-cloud.md).
 
 ## Experience Manager Documentation Journeys {#aem-documentation-journeys}
 
