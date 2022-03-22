@@ -92,7 +92,21 @@ Assets Essentials allows the administrators to manage the access levels for fold
 
 For more information, see [Manage permissions for folders](manage-permissions.md).
 
-## Setup metadata forms {#metadata-forms}
+## Setup Metadata Forms {#metadata-forms}
 
-Introduction
+Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets. You can create forms from scratch or re-purpose an existing form.
+
+You can configure metadata forms for different types of assets (different MIME types). Use the same form name as the file's MIME type. Essentials automatically matches uploaded assets to the name of the form. For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contains metadata fields as defined in the form. If a metadata form by the name `PDF` or `pdf` does not exist, Assets Essentials matches if there is a metadata form by the name `application`. If there is a metadata form by the name `application`, the uploaded PDF documents contains metadata fields as defined in the form. If Assets Essentials still does not find a matching metadata form, it searches for the `default` metadata form to apply metadata fields defined in the form to the uploaded PDF documents. If none of these steps work, Assets Essentials applies metadata fields defined in the out-of-the-box form to the uploaded all PDF documents.
+
+To summarize, Assets Essentials follows the following search mechanism for metadata form names to apply the metadata fields to the uploaded assets of a particular type:
+
+MIME sub-type (`pdf` in the example) > MIME type (`application` in the example) > `default` form > Out-of-the-box form
+
+>[!IMPORTANT] 
+>
+>The new metadata form for a specific file type completely replaces the default metadata form that [!DNL Assets Essentials] provides. If you delete or rename a metadata form, the default metadata fields are again available for new assets.
+
+>[!VIDEO](https://video.tv.adobe.com/v/341275)
+
+For more information on Metadata Forms, see [Metadata Forms in Assets Essentials](metadata.md#metadata-forms).
 
