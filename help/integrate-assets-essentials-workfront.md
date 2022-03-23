@@ -47,6 +47,8 @@ To add users to Workfront product profiles:
 
 1. To remove a user from a group, click the group, select an existing user, and select **[!UICONTROL Remove User]**.
 
+For more information on how to create users and system administrators with Adobe Admin Console, see [Manage users in the Adobe Admin Console](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FAdministration_and_Setup%2FAdd_users%2FCreate_and_manage_users%2Fadmin-console.htm&_LANG=enus).
+
 ## Add users to Assets Essentials product profiles {#add-workfront-users-assets-essentials-product-profiles}
 
 Assign the Workfront users to one of the following Assets Essentials product profiles:
