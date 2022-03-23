@@ -1,7 +1,6 @@
 ---
-title: [!DNL Assets Essentials] user interface
-description: Understand user interface of and navigation in [!DNL Assets Essentials].
-role: User
+title: Assets Essentials user interface
+description: Understand user interface of and navigation in Assets Essentials.
 ---
 
 # Administer Experience Manager Assets Essentials {#administer-assets-essentials}

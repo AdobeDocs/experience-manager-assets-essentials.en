@@ -1,7 +1,6 @@
 ---
-title: [!DNL Assets Essentials] user interface
-description: Understand user interface of and navigation in [!DNL Assets Essentials].
-role: User
+title: Assets Essentials user interface
+description: Understand user interface of and navigation in Assets Essentials.
 ---
 
 # Assets Essentials for Creative Cloud Pro with Work Management Solutions {#creative-cloud-enterprise-user-journeys}
@@ -44,7 +43,7 @@ Documentation Journeys are designed around best practices principles, informed b
 
 * [Access to Adobe Admin Console for Creative Cloud for enterprise deployment](https://helpx.adobe.com/enterprise/admin-guide.html)
 
-## Administer Experience Manager Assets Essentials {#assets-essentials}
+## Administer Experience Manager Assets Essentials {#administer-assets-essentials}
 
 ![Preference to switch dark and light theme](assets/cce-next-banner-2.png)
 
@@ -81,7 +80,7 @@ This tutorial guides you to administer Adobe Workfront and then integrate it wit
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-creative-cloud.md)
 
 
-## Integrate Creative Cloud applications with Experience Manager Assets Essentials {#administer-adobe-workfront}
+## Integrate Creative Cloud applications with Experience Manager Assets Essentials {#administer-creative-cloud-applications}
 
 ![Preference to switch dark and light theme](assets/integrate-cc-ae.png)
 
