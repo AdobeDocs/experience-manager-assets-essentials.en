@@ -69,6 +69,16 @@ After managing the user entitlements in Admin Console, administrators can use th
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](adminster-aem-assets-essentials.md)
 
+## Integrate Creative Cloud applications with Experience Manager Assets Essentials {#administer-creative-cloud-applications}
+
+![Preference to switch dark and light theme](assets/integrate-cc-ae.png)
+
+[Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines the access to assets that in turn increases content velocity.
+
+This tutorial guides you to integrate [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD] Creative Cloud applications with Experience Manager Assets Essentials.
+
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront.md)
+
 ## Integrate Adobe Workfront with Experience Manager Assets Essentials {#administer-adobe-workfront}
 
 ![Preference to switch dark and light theme](assets/cce-next-banner-1.jpeg)
@@ -79,14 +89,4 @@ This tutorial guides you to administer Adobe Workfront and then integrate it wit
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-creative-cloud.md)
 
-
-## Integrate Creative Cloud applications with Experience Manager Assets Essentials {#administer-creative-cloud-applications}
-
-![Preference to switch dark and light theme](assets/integrate-cc-ae.png)
-
-[Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines the access to assets that in turn increases content velocity.
-
-This tutorial guides you to integrate [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD] Creative Cloud applications with Experience Manager Assets Essentials.
-
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront.md)
 

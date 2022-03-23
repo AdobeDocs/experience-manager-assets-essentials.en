@@ -9,13 +9,13 @@ description: Understand user interface of and navigation in Assets Essentials.
 
 ## The story so far
 
-After [configuring Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) in the first article of this tutorial, you can build on to integrate the Creative Cloud applications with Assets Essentials.
+After [configuring Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) in this tutorial, you can build on to integrate the Creative Cloud applications with Assets Essentials.
 
 ## Objective
 
 * **Audience**: Creative Cloud administrators
 
-* **Objective**: Integrate Assets Essentials with Creative Cloud applications so that you can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps.
+* **Objective**: Integrate Assets Essentials with Creative Cloud applications so that you can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop applications.
 
 ## Overview
 
@@ -47,7 +47,7 @@ After establishing directory trusting between the Admin Console for Creative Clo
 * **[!DNL Assets Essentials] Users** have access to the complete user interface. These users can upload, organize, tag, and find digital assets.
 * **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Journey Optimizer] email template editor. For more information, see [Use [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
 
-For more information on how to assign users to Assets Essentials product pofiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md)
+For more information on how to assign users to Assets Essentials product pofiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
 
 ## Install Adobe Asset Link {#install-asset-link}
 
@@ -76,4 +76,4 @@ For instructions on how to perform these tasks, see [Manage assets using Adobe A
 
 ## What's Next
 
-Now that you have  integrated the Creative Cloud applications with Assets Essentials, [integrate Adobe Workfront with Experience Manager Assets Essentials as well](integrate-assets-essentials-workfront.md).
+Now that you have  integrated the Creative Cloud applications with Assets Essentials, [integrate Adobe Workfront with Experience Manager Assets Essentials](integrate-assets-essentials-workfront.md).

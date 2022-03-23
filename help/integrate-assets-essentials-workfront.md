@@ -25,7 +25,7 @@ Execute the following tasks to integrate Workfront with Experience Manager Asset
 
 * [Add users to Workfront product profiles](#add-users-to-product-profiles)
 
-* [Add Workfront users to Assets Essentials product profiles](#add-workfront-users-assets-essentials-product-profiles)
+* [Add users to Assets Essentials product profiles](#add-workfront-users-assets-essentials-product-profiles)
 
 * [Configure Experience Manager Assets Essentials Integration](#configure-assets-essentials-integration)
 
@@ -47,7 +47,7 @@ To add users to Workfront product profiles:
 
 1. To remove a user from a group, click the group, select an existing user, and select **[!UICONTROL Remove User]**.
 
-## Add Workfront users to Assets Essentials product profiles {#add-workfront-users-assets-essentials-product-profiles}
+## Add users to Assets Essentials product profiles {#add-workfront-users-assets-essentials-product-profiles}
 
 Assign the Workfront users to one of the following Assets Essentials product profiles:
 
@@ -55,11 +55,11 @@ Assign the Workfront users to one of the following Assets Essentials product pro
 * **[!DNL Assets Essentials] Users** have access to the complete user interface. These users can upload, organize, tag, and find digital assets.
 * **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Journey Optimizer] email template editor. For more information, see [Use [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
 
-For more information on how to assign users to Assets Essentials product pofiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md)
+For more information on how to assign users to Assets Essentials product pofiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
 
 ## Configure Experience Manager Assets Essentials Integration {#configure-assets-essentials-integration}
 
-After adding users to the Workfront and Assets Essentials product profiles using the Admin Console, you can [configure the Experience Manager Assets Essentials integration](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2Fsetup-asset-essentials.htm&_LANG=enus).
+After adding users to the Workfront and Assets Essentials product profiles using the Admin Console, you can [configure the Experience Manager Assets Essentials integration](https://one.workfront.com/s/document-item?bundleId=the-new-workfront-experience&topicId=Content%2FDocuments%2FAdobe_Workfront_for_Experience_Manager_Assets_Essentials%2F_workfront-for-aem-asset-essentials.htm).
 
 After setting up the integration, you can:
 

@@ -22,6 +22,8 @@ The following data flow diagram illustrates the sequence of tasks that an admini
 
 ![Assets Essentials admin flow](assets/permissions-management-cce-next.svg)
 
+## Access the Admin Console {#access-admin-console}
+
 After the Assets Essentials solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. In addition, Adobe starts the process to deploy Assets Essentials automatically. The deployment process takes an hour to complete.  
 
  From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the top bar. Once the automatic deployment process is complete, the product card for [!DNL AEM Assets Essentials] is visible in the [!DNL Admin Console].
@@ -49,11 +51,9 @@ To add users to product profiles:
 
 ## Add user groups {#add-user-groups}
 
-Create user groups and assign permissions to those groups to manage folder access levels in the Assets Essentials repository. You can then assign your users to the user groups.
+Create user groups and then assign your users to the user groups. You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
 
 ![Add users to groups and product profiles](assets/user-groups-product-profiles.svg)
-
-You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
 
 For information on how to manage user groups, see `Create user groups` and `Edit user groups` available at [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html).
 
@@ -112,7 +112,7 @@ Assets Essentials uses the following sequence to search for existing metadata fo
 
 MIME subtype > MIME type > `default` form > Out-of-the-box form
 
-For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contains metadata fields as defined in the form. If a metadata form by the name `PDF` or `pdf` does not exist, Assets Essentials matches if there is a metadata form by the name `application`. If there is a metadata form by the name `application`, the uploaded PDF documents contains metadata fields as defined in the form. If Assets Essentials still does not find a matching metadata form, it searches for the `default` metadata form to apply metadata fields defined in the form to the uploaded PDF documents. If none of these steps work, Assets Essentials applies metadata fields defined in the out-of-the-box form to the all uploaded PDF documents.
+For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contains metadata fields as defined in the form. If a metadata form by the name `PDF` or `pdf` does not exist, Assets Essentials matches if there is a metadata form by the name `application`. If there is a metadata form by the name `application`, the uploaded PDF documents contains metadata fields as defined in the form. If Assets Essentials still does not find a matching metadata form, it searches for the `default` metadata form to apply metadata fields defined in the form to the uploaded PDF documents. If none of these steps work, Assets Essentials applies metadata fields defined in the out-of-the-box form to all the uploaded PDF documents.
 
 >[!IMPORTANT] 
 >
