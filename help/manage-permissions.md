@@ -9,7 +9,7 @@ Assets Essentials allows the administrators to manage the access levels for fold
 
 The following data flow diagram illustrates the sequence of tasks that you perform to configure and manage permissions on folders available in Assets Essentials repository:
 
-![Toolbar options when you select an asset](assets/permissions-management.png)
+![Toolbar options when you select an asset](assets/permissions-management-new.png)
 
 ## Before managing permissions for folders {#before-managing-permissions}
 
@@ -64,7 +64,7 @@ You can use the following methods to create a folder structure in the Assets Ess
 
 Create a folder structure that works well with the business objectives for the organization. If you are uploading an existing folder structure to the Assets Essentials repository, you should review the structure. For more information, see [Best practices for effective permissions management](permission-management-best-practices.md).
 
-## Manage permissions on folders {#manage-permissions-folders}
+## Manage permissions on folders {#manage-permissions-on-folders}
 
 You can assign the following permissions to the user groups or users. Adobe does not recommend to assign permissions to users.
 
@@ -87,13 +87,13 @@ For example, if you assign the `Can View` permissions for a folder to a super gr
 
 If you need to provide edit permissions to the `Marketing` folder only to marketing department of your organization and view permissions to others, assign `Can View` permissions to super group `All Authenticated Users` and `Can Edit` permissions to its subgroup `Marketing`.
 
-![Assign Permissions](assets/permissions-management-groups.png)
+![Assign Permissions](assets/permissions-management-groups.svg)
 
 **Permission inheritance**
 
 Assets Essentials uses permission inheritance, which enables you to inherit the permissions set for the parent folder in the child folder. For example, if the parent folder has `Can View` permissions for the `All Authenticated Users` group and the child folder has `Can Edit` permissions for the `Marketing` user group, it enables all authenticated users to have view permissions for the child folder and the `Marketing` user group to have edit permissions for the child folder. The `Marketing` user group has edit permissions for further levels of folders under the child folder (Marketing).
 
-![Assign Permissions](assets/permissions-inheritance.png)
+![Assign Permissions](assets/permissions-inheritance.svg)
 
 >[!NOTE]
 >
@@ -177,7 +177,7 @@ Create the following user groups in Admin Console:
 * Legal Team
 
 The following diagram illustrates the folder hierarchy and the permissions assigned to each user group:
-![Assign Permissions](assets/use-case-permissions-mamagement.png)
+![Assign Permissions](assets/use-case-permissions-management.png)
 
 The following are the access levels for all user groups in the folder hierarchy:
 
