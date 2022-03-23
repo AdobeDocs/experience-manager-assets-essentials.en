@@ -8,6 +8,15 @@ role: User
 
 ![Preference to switch dark and light theme](assets/cce-next-admin-journey-copy1.png)
 
+## Objective
+
+* **Audience**: Assets Essentials administrators
+
+* **Objective**: Configure the access to the Assets Essentials application using the Admin Console and then manage the tasks that can be performed after logging to the Assets Essentials application.
+
+## Overview {#overview}
+
+
 [!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. Administrators use [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution, and assign application administrators to set up permissions and metadata forms in [!DNL Assets Essentials].
 
 The following data flow diagram illustrates the sequence of tasks that an administrator must perform to configure and manage Assets Essentials:
@@ -23,9 +32,9 @@ After the Assets Essentials solution is provisioned, the administrator receives 
 
 ## Add users to product profiles {#add-users-to-product-profiles}
 
-Add users to product profiles so that they can manage the Assets Essentials appliation.
+Add users to product profiles so that they can manage the Assets Essentials application.
 
-To add usrs to product profiles:
+To add users to product profiles:
 
 1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. Do not click the Cloud Manager environment. [!DNL Assets Essentials] has three product profiles that represent access for administrators, regular, and consumer users.
 
@@ -86,7 +95,7 @@ There are various possible folder structure types that you can use for your orga
 
 ## Manage permissions for folders {#manage-permissions-for-folders}
 
-Assets Essentials allows the administrators to manage the access levels for folders available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder-level.
+Assets Essentials allows the administrators to manage the access levels for folders available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder level.
 
  >[!VIDEO](https://video.tv.adobe.com/v/341104)
 
@@ -96,13 +105,15 @@ For more information, see [Manage permissions for folders](manage-permissions.md
 
 Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets. You can create forms from scratch or re-purpose an existing form.
 
-You can configure metadata forms for different types of assets (different MIME types). Use the same form name as the file's MIME type. Essentials automatically matches uploaded assets to the name of the form.
+You can configure metadata forms for different types of assets (different MIME types). Use the same form name as the file's MIME type. Essentials automatically matches uploaded assets MIME type to the name of the form and updates the metadata for the uploaded assets based on the form fields.
 
-Assets Essentials follows the following search mechanism for metadata form names to apply the metadata fields to the uploaded assets of a particular type:
+For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contain metadata fields as defined in the form.
 
-MIME sub-type (`pdf` in the example) > MIME type (`application` in the example) > `default` form > Out-of-the-box form
+Assets Essentials uses the following sequence to search for existing metadata form names to apply the metadata fields to the uploaded assets of a particular type:
 
-For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contains metadata fields as defined in the form. If a metadata form by the name `PDF` or `pdf` does not exist, Assets Essentials matches if there is a metadata form by the name `application`. If there is a metadata form by the name `application`, the uploaded PDF documents contains metadata fields as defined in the form. If Assets Essentials still does not find a matching metadata form, it searches for the `default` metadata form to apply metadata fields defined in the form to the uploaded PDF documents. If none of these steps work, Assets Essentials applies metadata fields defined in the out-of-the-box form to the uploaded all PDF documents.
+MIME subtype > MIME type > `default` form > Out-of-the-box form
+
+For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contains metadata fields as defined in the form. If a metadata form by the name `PDF` or `pdf` does not exist, Assets Essentials matches if there is a metadata form by the name `application`. If there is a metadata form by the name `application`, the uploaded PDF documents contains metadata fields as defined in the form. If Assets Essentials still does not find a matching metadata form, it searches for the `default` metadata form to apply metadata fields defined in the form to the uploaded PDF documents. If none of these steps work, Assets Essentials applies metadata fields defined in the out-of-the-box form to the all uploaded PDF documents.
 
 >[!IMPORTANT] 
 >
@@ -111,4 +122,8 @@ For example, if a metadata form by the name `PDF` or `pdf` exists, then the uplo
 >[!VIDEO](https://video.tv.adobe.com/v/341275)
 
 For more information on Metadata Forms, see [Metadata Forms in Assets Essentials](metadata.md#metadata-forms).
+
+## What's Next
+
+Now that you have configured and managed the Assets Essentials application, [integrate Creative Cloud applications with Experience Manager Assets Essentials application](integrate-assets-essentials-creative-cloud.md).
 

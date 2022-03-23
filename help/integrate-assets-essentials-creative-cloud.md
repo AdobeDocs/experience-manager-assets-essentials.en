@@ -22,11 +22,11 @@ After [configuring Experience Manager Assets Essentials](adminster-aem-assets-es
 
 [Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines the access to assets that in turn increases content velocity.
 
-Creative Cloud application users can view the Adobe Asset Link in-app panel only when you integrate the Creative Cloud applications with the AEM Assets Essentials repository.
+Creative Cloud application users can view the Adobe Asset Link in-app panel only when you integrate the Creative Cloud applications with the Experience Manager Assets Essentials repository.
 
 Execute the following tasks to integrate Assets Essentials with Creative Cloud applications:
 
-* [Create directory trusting between Creative Cloud and Experience Cloud admin console](#directory-trusting-cc-assets-essentials-consoles)
+* [Create directory trusting between Creative Cloud and Experience Cloud Admin Console](#directory-trusting-cc-assets-essentials-consoles)
 
 * [Add Creative Cloud users to Assets Essentials product profiles](#add-cc-users-assets-essentials-product-profiles)
 
@@ -34,11 +34,11 @@ Execute the following tasks to integrate Assets Essentials with Creative Cloud a
 
 * [Use Adobe Asset Link](#use-asset-link)
 
-## Create directory trusting between Creative Cloud and Experience Cloud admin consoles {#directory-trusting-cc-assets-essentials-consoles}
+## Create directory trusting between Creative Cloud and Experience Cloud Admin Consoles {#directory-trusting-cc-assets-essentials-consoles}
 
 To integrate Creative Cloud and Assets Essentials applications, the users that are available in Admin Console for Creative Cloud must be made available in Admin Console for Experience Cloud.
 
-On the Experience Cloud Admin Console, click **[!UICONTROL Settings]** and use the **[!UICONTROL Directories]** tab to create a new directory to establish [directory trusting](https://helpx.adobe.com/enterprise/using/set-up-identity.html#directory-trusting) between the two admin consoles.
+On the Experience Cloud Admin Console, click **[!UICONTROL Settings]** and use the **[!UICONTROL Directories]** tab to create a directory to establish [directory trusting](https://helpx.adobe.com/enterprise/using/set-up-identity.html#directory-trusting) between the two Admin Consoles.
 
 ## Add Creative Cloud users to Assets Essentials product profiles {#add-cc-users-assets-essentials-product-profiles}
 
@@ -77,4 +77,4 @@ For instructions on how to perform these tasks, see [Manage assets using Adobe A
 
 ## What's Next
 
-Now that you have  integrated the Creative Cloud applications with Assets Essentials, integrate Adobe Workfront with Experience Manager Assets Essentials as well.
+Now that you have  integrated the Creative Cloud applications with Assets Essentials, [integrate Adobe Workfront with Experience Manager Assets Essentials as well](integrate-assets-essentials-workfront.md).

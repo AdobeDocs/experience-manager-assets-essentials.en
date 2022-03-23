@@ -20,7 +20,7 @@ After [configuring Experience Manager Assets Essentials](adminster-aem-assets-es
 
 ## Overview
 
-[[!DNL Adobe Workfront]](https://www.workfront.com/) is a work management application that helps you manage the entire lifecycle of work in one place. The native integration between [!DNL Adobe Workfront] and [!DNL Assets Essentials] lets organizations improve content velocity and time-to-market by intrinsically connecting work and asset management. Within the context of managing their work, users have access to required documents and images in the same solution.
+[[!DNL Adobe Workfront]](https://www.workfront.com/) is a work management application that helps you manage the entire lifecycle of work in one place. The native integration between [!DNL Adobe Workfront] and [!DNL Assets Essentials] lets organizations improve content velocity and time to market by intrinsically connecting work and asset management. Within the context of managing their work, users have access to required documents and images in the same solution.
 
 Execute the following tasks to integrate Workfront with Experience Manager Assets Essentials:
 
@@ -40,7 +40,7 @@ To add users to Workfront product profiles:
 
    Admin Console displays the only available product profile.
   
-1. To add a user to a product profile, click the profile profile, click **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
+1. To add a user to a product profile, click the profile, click **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
 
    ![Add users admin profile](assets/add-users-workfront.png)
 
