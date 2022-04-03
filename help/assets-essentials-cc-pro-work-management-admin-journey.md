@@ -15,9 +15,9 @@ Creative Cloud Pro for enterprise with Work Management Solutions integrates crea
 
 * Adobe Workfront
 
-* Adobe Experience Manager Assets Essentials
+* Experience Manager Assets Essentials
 
-This tutorial introduces an administrator journey to enable Assets Essentials application to integrate with Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Adobe XD Creative Cloud desktop applications and Adobe Workfront application. 
+This tutorial introduces an administrator journey to enable Assets Essentials application to integrate with Creative Cloud desktop applications and Adobe Workfront application. The Creative Cloud desktop applications include Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Adobe XD. 
 
 As the solution consists of applications and services from both Creative Cloud and Adobe Experience Cloud, they are deployed in two Adobe Admin Consoles for your company:
 
@@ -47,9 +47,9 @@ Documentation Journeys are designed around best practices principles, informed b
 
 ![Preference to switch dark and light theme](assets/cce-next-banner-2.png)
 
-Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adobe Experience Manager Assets. Assets Essentials provide unified asset management and collaboration with a simplified and a consistent user interface. The ease-of use enables more creative and marketing teams to store, discover, and distribute digital assets.
+Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adobe Experience Manager Assets. Assets Essentials provides unified asset management and collaboration with a simplified and a consistent user interface. The ease-of-use enables more creative and marketing teams to store, discover, and distribute digital assets.
 
-Adobe Experience Manager Assets Essentials is provisioned by Adobe for its customers. As part of the provisioning, Assets Essentials is added to a customer’s organization in Adobe Admin Console. 
+Adobe Experience Manager Assets Essentials is provisioned by Adobe for its customers. As part of the provisioning, Assets Essentials is added to a customer’s organization in the Adobe Admin Console. 
 
 Administrators use the Admin Console to manage user entitlements to Assets Essentials product:
 
