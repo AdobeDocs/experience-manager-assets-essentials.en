@@ -26,7 +26,7 @@ The following data flow diagram illustrates the sequence of tasks that an admini
 
 After the Assets Essentials solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. In addition, Adobe starts the process to deploy Assets Essentials automatically. The deployment process takes an hour to complete.  
 
- From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the top bar. Once the automatic deployment process is complete, the product card for [!DNL AEM Assets Essentials] is visible in the [!DNL Admin Console].
+ From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the [organization selector](https://helpx.adobe.com/enterprise/using/admin-console.html). Once the automatic deployment process is complete, the product card for [!DNL AEM Assets Essentials] is visible in the [!DNL Admin Console].
 
 ![Assets Essentials Deployment](assets/admin-console-cards.png)
 
@@ -41,7 +41,7 @@ To add users to product profiles:
 
    ![Admin Console admin profile](assets/admin-console-admin-profile.png)
   
-1. To add a user to a group, click the Assets Essentials product profile, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
+1. To add a user to a group, click one of the three Assets Essentials product profiles, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
 
    ![Add users admin profile](assets/add-users-admin-profile.png)
 
@@ -62,7 +62,7 @@ For information on how to manage user groups, see `Create user groups` and `Edit
 >If your Admin Console is set up to leverage an external system to manage users/groups assignments, such as Azure or Google connectors, user sync tool or User Management Rest API, your groups and user assignments are configured automatically. For more information, see [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html).
 
 
-## Add users to groups {#add-users-to-uesr-groups}
+## Add users to groups {#add-users-to-user-groups}
 
 After creating user groups, you can start adding users to user groups. 
 

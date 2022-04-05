@@ -9,7 +9,7 @@ description: Understand user interface of and navigation in Assets Essentials.
 
 ## The story so far
 
-After [configuring Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) in this tutorial, you can build on to integrate the Creative Cloud applications with Assets Essentials.
+After [configuring Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) in this tutorial, you can build on the experience to integrate the Creative Cloud applications with Assets Essentials.
 
 ## Objective
 
