@@ -1,6 +1,6 @@
 ---
-title: Assets Essentials user interface
-description: Understand user interface of and navigation in Assets Essentials.
+title: Integrate Assets Essentials with Creative Cloud applications
+description: Understand how to set up integration with Assets Essentials for Creative Cloud users.
 ---
 
 # Integrate Assets Essentials with Creative Cloud applications {#integrate-assets-essentials-creative-cloud-applications}
@@ -35,28 +35,41 @@ Execute the following tasks to integrate Assets Essentials with Creative Cloud a
 
 ## Create directory trusting between Creative Cloud and Experience Cloud Admin Consoles {#directory-trusting-cc-assets-essentials-consoles}
 
-To integrate Creative Cloud and Assets Essentials applications, the users that are available in Admin Console for Creative Cloud must be made available in Admin Console for Experience Cloud.
+To integrate Creative Cloud and Assets Essentials applications, the users that are available in Admin Console for Creative Cloud must be made available in Admin Console for Experience Cloud. If Creative Cloud and Assets Essentials are deployed into separate Admin Consoles, trust relationship between them is required to enable this.
 
 On the Experience Cloud Admin Console, click **[!UICONTROL Settings]** and use the **[!UICONTROL Directories]** tab to create a directory to establish [directory trusting](https://helpx.adobe.com/enterprise/using/set-up-identity.html#directory-trusting) between the two Admin Consoles.
 
 ## Add Creative Cloud users to Assets Essentials product profiles {#add-cc-users-assets-essentials-product-profiles}
 
-After establishing directory trusting between the Admin Console for Creative Cloud and Admin Console for Experience Cloud, assign the Creative Cloud users to one of the following Assets Essentials product profiles:
+After establishing directory trusting between the Admin Console for Creative Cloud and Admin Console for Experience Cloud, assign the Creative Cloud users to the **[!DNL Assets Essentials] Users** product profile under the [!DNL Assets Essentials] product card in the Experience Cloud Admin Console. It will let Creative Cloud users to access Assets Essentials from their Adobe Asset Link plugin panel; in addition, it will give them access to the full Assets Essentials web User Interface to upload, organize, tag and find digital assets using a web browser.
 
-* **[!DNL Assets Essentials] Administrators** have administrative access to the application. In addition to all end-user capabilities, application administrators in this group can manage permissions for any folder and group/user in the whole application repository.
-* **[!DNL Assets Essentials] Users** have access to the complete user interface. These users can upload, organize, tag, and find digital assets.
-* **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Journey Optimizer] email template editor. For more information, see [Use [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+Other Assets Essentials product profiles - **[!DNL Assets Essentials] Administrators** and **[!DNL Assets Essentials] Consumer Users** - are used for different user entitlements (application administrators and users accessing Assets Essentials via Experience Cloud integrations).
 
 For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
 
 ## Install Adobe Asset Link {#install-asset-link}
 
-Greg to add the steps
+[!DNL Adobe Asset Link] plugin can be installed and made available to creative users in two ways:
 
+ * Creative users can install the plugin from their [!DNL Creative Cloud Desktop] application
+ * Creative Cloud administrator can add Asset Link plugin to a Creative Cloud package in Admin Console
+
+The choice depends on organization IT policies. 
+
+**Installation using [!DNL Creative Cloud Desktop] application** is described [here](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html). There are two plugins avaiable and hosted on [Adobe Exchange](https://exchange.adobe.com/) marketplace, depending on the Creative Cloud application: 
+
+ * For [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], and [!DNL Adobe InDesign]: [Adobe Asset Link CEP](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)
+ * For [!DNL Adobe XD]: [Adobe Asset Link](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9)
+
+**Installation with a Creative Cloud package** is done by Creative Cloud administrator in Admin Console, by including the Asset Link plugin when building a deployment package, that can later be deployed to users computers. In the managed Choose Plugins screen, search for **Adobe Asset Link** in the **Featured business plugins** section. For more information, see [packaging apps via the Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
 
 ## Use Adobe Asset Link {#use-asset-link}
 
-You can now use Adobe Asset Link with Photoshop, Illustrator, or InDesign. To open the panel in InDesign or Illustrator, go to Windows > Extensions > Adobe Asset Link. In Photoshop, go to Window > Extensions (legacy) > Adobe Asset Link.
+Creative users can now use Adobe Asset Link with Photoshop, Illustrator, or InDesign. To open the panel in InDesign or Illustrator, go to Windows > Extensions > Adobe Asset Link. In Photoshop, go to Window > Extensions (legacy) > Adobe Asset Link.
+
+> ![NOTE]
+> When working on Apple Silicon / M1 hardware, Adobe Photoshop needs to be started using Rosetta compatibility mode to ensure creative users have access to Adobe Asset Link panel, as it is built using the CEP extension technology. For more information, see [Photoshop for Apple Silicon](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html).
+
 
 Use Adobe Asset Link to work with and modify assets stored in Assets Essentials repository. You can perform various tasks, such as:
 
