@@ -77,7 +77,7 @@ After managing the user entitlements in Admin Console, administrators can use th
 
 This tutorial guides you to integrate [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD] Creative Cloud applications with Experience Manager Assets Essentials.
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront.md)
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-creative-cloud.md)
 
 ## Integrate Adobe Workfront with Experience Manager Assets Essentials {#administer-adobe-workfront}
 
@@ -87,6 +87,6 @@ This tutorial guides you to integrate [!DNL Adobe Photoshop], [!DNL Adobe Illust
 
 This tutorial guides you to administer Adobe Workfront and then integrate it with Experience Manager Assets Essentials.
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-creative-cloud.md)
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront.md)
 
 

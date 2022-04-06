@@ -30,8 +30,17 @@ After the Assets Essentials solution is provisioned, the administrator receives 
 
 ![Assets Essentials Deployment](assets/admin-console-cards.png)
 
+## Manage Admin Console tasks {#manage-admin-console-tasks}
 
-## Add users to product profiles {#add-users-to-product-profiles}
+Perform the following tasks in Admin Console:
+
+* [Add users to product profiles](#add-users-to-product-profiles)
+
+* [Add user groups](#add-user-groups)
+
+* [Add users to groups](#add-users-to-user-groups)
+
+### Add users to product profiles {#add-users-to-product-profiles}
 
 Add users to product profiles so that they can manage the Assets Essentials application.
 
@@ -49,7 +58,7 @@ To add users to product profiles:
 
 1. To remove a user from a group, click the group, select an existing user, and select **[!UICONTROL Remove User]**.
 
-## Add user groups {#add-user-groups}
+### Add user groups {#add-user-groups}
 
 Create user groups and then assign your users to the user groups. You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
 
@@ -62,13 +71,24 @@ For information on how to manage user groups, see `Create user groups` and `Edit
 >If your Admin Console is set up to leverage an external system to manage users/groups assignments, such as Azure or Google connectors, user sync tool or User Management Rest API, your groups and user assignments are configured automatically. For more information, see [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html).
 
 
-## Add users to groups {#add-users-to-user-groups}
+### Add users to groups {#add-users-to-user-groups}
 
 After creating user groups, you can start adding users to user groups. 
 
-For information on how to manage adding users to user groups, see `Add users to groups` available at [Manage user groups](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups). 
+For information on how to manage adding users to user groups, see `Add users to groups` available at [Manage user groups](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
 
-## Create folder structure {#create-folder-structure}
+## Manage Assets Essentials tasks {#manage-assets-essentials-tasks}
+
+After performing the Admin Console tasks, you can now perform the following tasks in the Assets Essentials application:
+
+* [Create folder structure](#create-folder-structure)
+
+* [Manage permissions for folders](#manage-permissions-for-folders)
+
+* [Setup Metadata Forms](#metadata-forms)
+
+
+### Create folder structure {#create-folder-structure}
 
 You can use the following methods to create a folder structure in the Assets Essentials repository:
 
@@ -92,7 +112,7 @@ There are various possible folder structure types that you can use for your orga
 
 ![Typical folder structures](assets/folder-structure.svg)
 
-## Manage permissions for folders {#manage-permissions-for-folders}
+### Manage permissions for folders {#manage-permissions-for-folders}
 
 Assets Essentials allows the administrators to manage the access levels for folders available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder level.
 
@@ -100,7 +120,7 @@ Assets Essentials allows the administrators to manage the access levels for fold
 
 For more information, see [Manage permissions for folders](manage-permissions.md).
 
-## Setup Metadata Forms {#metadata-forms}
+### Setup Metadata Forms {#metadata-forms}
 
 Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets. You can create forms from scratch or re-purpose an existing form.
 

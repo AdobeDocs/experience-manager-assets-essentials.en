@@ -53,9 +53,8 @@ For more information on how to create users and system administrators in Workfro
 
 Assign the Workfront users to one of the following Assets Essentials product profiles:
 
-* **[!DNL Assets Essentials] Administrators** have administrative access to the application. In addition to all end-user capabilities, application administrators in this group can manage permissions for any folder and group/user in the whole application repository.
-* **[!DNL Assets Essentials] Users** have access to the complete user interface. These users can upload, organize, tag, and find digital assets.
-* **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Journey Optimizer] email template editor. For more information, see [Use [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+* **[!DNL Assets Essentials] Users** have access to the complete Assets Essentials user interface. These users can upload, organize, tag, and find digital assets in Assets Essentials application. In addition, the users have access to the embedded asset selection experience in [!DNL Adobe Workfront] application.
+* **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Workfront] application.
 
 For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
 
