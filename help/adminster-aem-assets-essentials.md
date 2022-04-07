@@ -67,7 +67,7 @@ To add users to product profiles:
 
    >[!NOTE]
    >
-   >You must add users to the Administrator Assets Essentials product profile to manage tasks in the Assets Essentials application, such as [Create folder structure](#create-folder-structure), [Manage permissions for folders](#manage-permissions-for-folders), and [Setup Metadata Forms](#metadata-forms).
+   >You must add users to the Administrator Assets Essentials product profile in the Admin Console to manage tasks, such as [Create folder structure](#create-folder-structure), [Manage permissions for folders](#manage-permissions-for-folders), and [Setup Metadata Forms](#metadata-forms), in the Assets Essentials application.
 
 ### Add user groups {#add-user-groups}
 
