@@ -45,7 +45,7 @@ Documentation Journeys are designed around best practices principles, informed b
 
 ## Administer Experience Manager Assets Essentials {#administer-assets-essentials}
 
-![Preference to switch dark and light theme](assets/cce-next-banner-2.png)
+![Preference to switch dark and light theme](assets/cce-assets.png)
 
 Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adobe Experience Manager Assets. Assets Essentials provides unified asset management and collaboration with a simplified and a consistent user interface. The ease-of-use enables more creative and marketing teams to store, discover, and distribute digital assets.
 
@@ -71,7 +71,7 @@ After managing the user entitlements in Admin Console, administrators can use th
 
 ## Integrate Creative Cloud applications with Experience Manager Assets Essentials {#administer-creative-cloud-applications}
 
-![Preference to switch dark and light theme](assets/integrate-cc-ae.png)
+![Preference to switch dark and light theme](assets/cce-creative-cloud.png)
 
 [Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines the access to assets that in turn increases content velocity.
 
@@ -81,7 +81,7 @@ This tutorial guides you to integrate [!DNL Adobe Photoshop], [!DNL Adobe Illust
 
 ## Integrate Adobe Workfront with Experience Manager Assets Essentials {#administer-adobe-workfront}
 
-![Preference to switch dark and light theme](assets/cce-next-banner-1.jpeg)
+![Preference to switch dark and light theme](assets/cce-workfront.png)
 
 [[!DNL Adobe Workfront]](https://www.workfront.com/) is a work management application that helps you manage the entire lifecycle of work in one place. The native integration between [!DNL Adobe Workfront] and [!DNL Assets Essentials] lets organizations improve content velocity and time to market by intrinsically connecting work and asset management. Within the context of managing their work, users have access to required documents and images in the same solution.
 

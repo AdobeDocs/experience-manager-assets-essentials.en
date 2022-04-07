@@ -5,7 +5,7 @@ description: Understand user interface of and navigation in Assets Essentials.
 
 # Administer Experience Manager Assets Essentials {#administer-assets-essentials}
 
-![Preference to switch dark and light theme](assets/cce-next-admin-journey-copy1.png)
+![Preference to switch dark and light theme](assets/cce-assets.png)
 
 ## Objective
 

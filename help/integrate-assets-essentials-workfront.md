@@ -5,7 +5,7 @@ description: Understand user interface of and navigation in Assets Essentials.
 
 # Integrate Assets Essentials with Adobe Workfront {#integrate-assets-essentials-workfront}
 
-![Preference to switch dark and light theme](assets/integrate-cc-ae.png)
+![Preference to switch dark and light theme](assets/cce-workfront.png)
 
 ## The story so far
 

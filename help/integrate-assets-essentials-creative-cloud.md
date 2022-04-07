@@ -5,7 +5,7 @@ description: Understand how to set up integration with Assets Essentials for Cre
 
 # Integrate Assets Essentials with Creative Cloud applications {#integrate-assets-essentials-creative-cloud-applications}
 
-![Preference to switch dark and light theme](assets/cce-next-banner-1.jpeg)
+![Preference to switch dark and light theme](assets/cce-creative-cloud.png)
 
 ## The story so far
 
@@ -61,7 +61,7 @@ The choice depends on organization IT policies.
  * For [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], and [!DNL Adobe InDesign]: [Adobe Asset Link CEP](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)
  * For [!DNL Adobe XD]: [Adobe Asset Link](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9)
 
-**Installation with a Creative Cloud package** is done by Creative Cloud administrator in Admin Console, by including the Asset Link plugin when building a deployment package, that can later be deployed to users computers. In the managed Choose Plugins screen, search for **Adobe Asset Link** in the **Featured business plugins** section. For more information, see [packaging apps via the Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
+**Installation with a Creative Cloud package** is done by Creative Cloud administrator in Admin Console, by including the Asset Link plugin when building a deployment package, that can later be deployed to user machines. In the managed Choose Plugins screen, search for **Adobe Asset Link** in the **Featured business plugins** section. For more information, see [packaging apps via the Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
 
 ## Use Adobe Asset Link {#use-asset-link}
 
