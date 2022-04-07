@@ -46,7 +46,14 @@ Add users to product profiles so that they can manage the Assets Essentials appl
 
 To add users to product profiles:
 
-1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. Do not click the Cloud Manager environment. [!DNL Assets Essentials] has three product profiles that represent access for administrators, regular, and consumer users.
+1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. 
+   >[!NOTE]
+   >
+   >Do not click the Cloud Manager environment.
+
+   ![Admin Console admin profile](assets/assets-essentials-instance.png)
+
+   [!DNL Assets Essentials] has three product profiles that represent access for administrators, regular, and consumer users.
 
    ![Admin Console admin profile](assets/admin-console-admin-profile.png)
   
@@ -57,6 +64,10 @@ To add users to product profiles:
    When you add a user, the user receives an email invitation to get started. You can turn off the email invitations in the product profile settings in [!DNL Admin Console].
 
 1. To remove a user from a group, click the group, select an existing user, and select **[!UICONTROL Remove User]**.
+
+   >[!NOTE]
+   >
+   >You must add users to the Administrator Assets Essentials product profile to manage tasks in the Assets Essentials application, such as [Create folder structure](#create-folder-structure), [Manage permissions for folders](#manage-permissions-for-folders), and [Setup Metadata Forms](#metadata-forms).
 
 ### Add user groups {#add-user-groups}
 
@@ -86,6 +97,10 @@ After performing the Admin Console tasks, you can now perform the following task
 * [Manage permissions for folders](#manage-permissions-for-folders)
 
 * [Setup Metadata Forms](#metadata-forms)
+
+>[!NOTE]
+>
+>To be able to manage these tasks, you must add users to the [Administrator Assets Essentials product profile](#add-users-to-product-profiles). 
 
 
 ### Create folder structure {#create-folder-structure}
