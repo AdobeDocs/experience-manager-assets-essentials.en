@@ -1,6 +1,6 @@
 ---
-title: Assets Essentials user interface
-description: Understand user interface of and navigation in Assets Essentials.
+title: Administer Experience Manager Assets Essentials
+description: Configure the access to the Assets Essentials application using the Admin Console and then manage the tasks that can be performed after logging to the Assets Essentials application.
 ---
 
 # Administer Experience Manager Assets Essentials {#administer-assets-essentials}

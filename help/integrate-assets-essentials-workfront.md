@@ -1,6 +1,6 @@
 ---
-title: Assets Essentials user interface
-description: Understand user interface of and navigation in Assets Essentials.
+title: Integrate Assets Essentials with Adobe Workfront
+description: Integrate Assets Essentials with Adobe Workfront application so that you can access Assets Essentials repository within the Workfront application.
 ---
 
 # Integrate Assets Essentials with Adobe Workfront {#integrate-assets-essentials-workfront}

@@ -1,6 +1,6 @@
 ---
 title: Integrate Assets Essentials with Creative Cloud applications
-description: Understand how to set up integration with Assets Essentials for Creative Cloud users.
+description: Integrate Assets Essentials with Creative Cloud applications so that you can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop applications.
 ---
 
 # Integrate Assets Essentials with Creative Cloud applications {#integrate-assets-essentials-creative-cloud-applications}
@@ -51,12 +51,12 @@ For more information on how to assign users to Assets Essentials product profile
 
 [!DNL Adobe Asset Link] plugin can be installed and made available to creative users in two ways:
 
- * Creative users can install the plugin from their [!DNL Creative Cloud Desktop] application
- * Creative Cloud administrator can add Asset Link plugin to a Creative Cloud package in Admin Console
+* Creative users can install the plugin from their [!DNL Creative Cloud Desktop] application
+* Creative Cloud administrator can add Asset Link plugin to a Creative Cloud package in Admin Console
 
 The choice depends on organization IT policies. 
 
-**Installation using [!DNL Creative Cloud Desktop] application** is described [here](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html). There are two plugins avaiable and hosted on [Adobe Exchange](https://exchange.adobe.com/) marketplace, depending on the Creative Cloud application: 
+**Installation using [!DNL Creative Cloud Desktop] application** is described [here](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html). There are two plugins available and hosted on [Adobe Exchange](https://exchange.adobe.com/) marketplace, depending on the Creative Cloud application: 
 
  * For [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], and [!DNL Adobe InDesign]: [Adobe Asset Link CEP](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)
  * For [!DNL Adobe XD]: [Adobe Asset Link](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9)
@@ -67,8 +67,9 @@ The choice depends on organization IT policies.
 
 Creative users can now use Adobe Asset Link with Photoshop, Illustrator, or InDesign. To open the panel in InDesign or Illustrator, go to Windows > Extensions > Adobe Asset Link. In Photoshop, go to Window > Extensions (legacy) > Adobe Asset Link.
 
-> ![NOTE]
-> When working on Apple Silicon / M1 hardware, Adobe Photoshop needs to be started using Rosetta compatibility mode to ensure creative users have access to Adobe Asset Link panel, as it is built using the CEP extension technology. For more information, see [Photoshop for Apple Silicon](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html).
+>[!NOTE]
+>
+>When working on Apple Silicon / M1 hardware, Adobe Photoshop needs to be started using Rosetta compatibility mode to ensure creative users have access to Adobe Asset Link panel, as it is built using the CEP extension technology. For more information, see [Photoshop for Apple Silicon](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html).
 
 
 Use Adobe Asset Link to work with and modify assets stored in Assets Essentials repository. You can perform various tasks, such as:

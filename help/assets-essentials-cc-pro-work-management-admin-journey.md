@@ -1,6 +1,6 @@
 ---
-title: Assets Essentials user interface
-description: Understand user interface of and navigation in Assets Essentials.
+title: Set up Assets Essentials for Creative Cloud Pro with Work Management Solutions
+description: This tutorial introduces an administrator journey to enable Assets Essentials application to integrate with Creative Cloud desktop applications and Adobe Workfront application. The Creative Cloud desktop applications include Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Adobe XD. 
 ---
 
 # Assets Essentials for Creative Cloud Pro with Work Management Solutions {#creative-cloud-enterprise-user-journeys}
