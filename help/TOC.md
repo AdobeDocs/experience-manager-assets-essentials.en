@@ -18,6 +18,11 @@ role: User,Leader
 + Manage folder access{#folder-access}
   + [Manage folder permissions](manage-permissions.md)
   + [Best practices for permissions management](permission-management-best-practices.md)
++ Administrator journey for Assets Essentials for Creative Cloud Pro with Work Management Solutions{#admin-journey}
+  + [Administrator journey overview](assets-essentials-cc-pro-work-management-admin-journey.md)
+  + [Administer Experience Manager Assets Essentials](adminster-aem-assets-essentials.md)
+  + [Integrate Assets Essentials with Creative Cloud applications](integrate-assets-essentials-creative-cloud.md)
+  + [Integrate Assets Essentials with Adobe Workfront](integrate-assets-essentials-workfront.md)
 + [Get started using [!DNL Assets Essentials]](get-started.md)
 + [Supported file types and use cases](supported-file-formats.md)
 + [View assets](navigate-view.md)
