@@ -5,7 +5,7 @@ description: This tutorial introduces an administrator journey to enable Assets 
 
 # Assets Essentials for Creative Cloud Pro with Work Management Solutions {#creative-cloud-enterprise-user-journeys}
 
-![Preference to switch dark and light theme](assets/cce-next-admin-journey.png)
+![Preference to switch dark and light theme](assets/cce-next-banner-landing-page.png)
 
 ## Introduction {#introduction}
 
