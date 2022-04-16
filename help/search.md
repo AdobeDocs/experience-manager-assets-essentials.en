@@ -34,6 +34,66 @@ You can filter the search results based on the following parameters.
 
 You can sort the searched assets in increasing or decreasing order of `Name`, `Relevancy`, `Size`, `Modified`, and `Created`.
 
+## Manage custom filters {#custom-filters}
+
+Assets Essentials also enables you to add custom filters to the user interface. You can then apply those custom filters in additon to the [standard filters](#refine-search-results) to refine your search results.
+
+Assets Essentials provides the following custom filters:
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Custom filter name</strong></th>
+      <th><strong>Description</strong></th>
+     </tr>
+     <tr>
+      <td>Title</td>
+      <td>Filter assets using the asset title. The title that you specify in the case-sensitive search criteria must match the exact title of the asset to display in the results.</td>
+     </tr>
+     <tr>
+      <td>Name</td>
+      <td>Filter assets using the asset file name. The name that you specify in the case-sensitive search criteria must match the exact file name of the asset to display in the results.</td>
+     </tr>
+     <tr>
+      <td>Asset Size</td>
+      <td>Filter assets by defining a size range in the search criteria for an asset to display in the results.</td>
+     </tr>
+     <tr>
+      <td>Predicted Tags</td>
+      <td>Filter assets using the asset smart tag. The smart tag name that you specify in the case-sensitive search criteria must match the exact smart tag name of the asset to display in the results. You cannot specify multiple smart tags in search criteria.</td>
+     </tr>
+     <tr>
+      <td>Predicted Tags Confidence</td>
+      <td>Filter assets by defining a <a href="/help/metadata.md##tags" target="_blank"> smart tags confidence score </a> range in the search criteria for an asset to display in the results.</td>
+     </tr>     
+    </tbody>
+   </table>
+
+### Add custom filters {#add-custom-filters}
+
+To add custom filters:
+
+1. Click **[!UICONTROL Filters]**. 
+
+1. In the **[!UICONTROL Custom Filters]** section, click **[!UICONTROL Edit]** or **[!UICONTROL Add Filters]**.
+
+1. On the **[!UICONTROL Custom filters management]** dialog box, select the filters that you need to add to the existing list of filters. Select **[!UICONTROL Custom Filters]** to select all filters.
+
+1. Click **[!UICONTROL Confirm]** to add the filters to the user interface.
+
+### Remove custom filters {#remove-custom-filters}
+
+To remove custom filters:
+
+1. Click **[!UICONTROL Filters]**. 
+
+1. In the **[!UICONTROL Custom Filters]** section, click **[!UICONTROL Edit]**.
+
+1. On the **[!UICONTROL Custom filters management]** dialog box, deselect the filters that you need to remove from the existing list of filters.
+
+1. Click **[!UICONTROL Confirm]** to remove the filters from the user interface. 
+
+
 ## Saved searches {#saved-search}
 
 Search functionality is quite easy to use in [!DNL Assets Essentials]. From within the search box, you can not only just type a keyword and press return to see the results, you can also quickly search again for your recently searched keywords in a single click.
