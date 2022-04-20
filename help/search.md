@@ -26,6 +26,8 @@ You can filter the search results based on the following parameters.
 
 *Figure: Filter searched assets based on various parameters.*
 
+* Asset Status: Filter the search results using an `Approved` or `Rejected` asset status.
+
 * File type: Filter the search results by the supported types of files that is, `Images`, `Documents`, and `Videos`.
 * MIME type: Filter for one or more of the supported file formats. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Image size: Provide one of more of the minimum and maximum dimensions to filter images. Size is provided in dimensions in pixel and is not the file size of the images.
@@ -35,6 +37,8 @@ You can filter the search results based on the following parameters.
 You can sort the searched assets in increasing or decreasing order of `Name`, `Relevancy`, `Size`, `Modified`, and `Created`.
 
 ## Manage custom filters {#custom-filters}
+
+**Permissions required:**  `Can Edit`, `Owner`, or Administrator.
 
 Assets Essentials also enables you to add custom filters to the user interface. You can then apply those custom filters in additon to the [standard filters](#refine-search-results) to refine your search results.
 
