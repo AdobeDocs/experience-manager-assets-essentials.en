@@ -40,7 +40,7 @@ You can sort the searched assets in increasing or decreasing order of `Name`, `R
 
 **Permissions required:**  `Can Edit`, `Owner`, or Administrator.
 
-Assets Essentials also enables you to add custom filters to the user interface. You can then apply those custom filters in additon to the [standard filters](#refine-search-results) to refine your search results.
+Assets Essentials also enables you to add custom filters to the user interface. You can then apply those custom filters in addition to the [standard filters](#refine-search-results) to refine your search results.
 
 Assets Essentials provides the following custom filters:
 

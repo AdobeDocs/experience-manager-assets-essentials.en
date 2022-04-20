@@ -123,10 +123,10 @@ For more information on how to add additional metadata fields to the metadata fo
 
 **Add Asset Status metadata field to the form**
 
-To add Asset Status matadata field to the form, drag **[!UICONTROL Asset Status]** component from the left rail to the form. The mapping property is pre-populated. Save the form.
+To add Asset Status metadata field to the form, drag **[!UICONTROL Asset Status]** component from the left rail to the form. The mapping property is pre-populated. Save the form.
 
 **Add Expiration Date metadata field to the form**
 
-To add expiration date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form.
+To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form.
 
 
