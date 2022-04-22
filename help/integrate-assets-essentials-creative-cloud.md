@@ -15,13 +15,13 @@ After [configuring Experience Manager Assets Essentials](adminster-aem-assets-es
 
 * **Audience**: Creative Cloud administrators
 
-* **Objective**: Integrate Assets Essentials with Creative Cloud applications so that you can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop applications.
+* **Objective**: Integrate Assets Essentials with Creative Cloud applications so that your creative users can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop applications.
 
 ## Overview
 
-[Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines the access to assets that in turn increases content velocity.
+[Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines access to assets, which in turn helps increase content velocity.
 
-Creative Cloud application users can view the Adobe Asset Link in-app panel only when you integrate the Creative Cloud applications with the Experience Manager Assets Essentials repository.
+Creative Cloud application users can use the Adobe Asset Link in-app panel only when you integrate the Creative Cloud applications with the Experience Manager Assets Essentials repository.
 
 Execute the following tasks to integrate Assets Essentials with Creative Cloud applications:
 
@@ -34,6 +34,8 @@ Execute the following tasks to integrate Assets Essentials with Creative Cloud a
 * [Use Adobe Asset Link](#use-asset-link)
 
 ## Create directory trusting between Creative Cloud and Experience Cloud Admin Consoles {#directory-trusting-cc-assets-essentials-consoles}
+
+If your Creative Cloud is deployed in a separate Adobe Admin Consle from the one with Assets Essentials (Experience Cloud solution), you need to add trust relationship between the two consoles.
 
 To integrate Creative Cloud and Assets Essentials applications, the users that are available in Admin Console for Creative Cloud must be made available in Admin Console for Experience Cloud. If Creative Cloud and Assets Essentials are deployed into separate Admin Consoles, trust relationship between them is required to enable this.
 

@@ -19,7 +19,9 @@ Creative Cloud Pro for enterprise with Work Management Solutions integrates crea
 
 This tutorial introduces an administrator journey to enable Assets Essentials application to integrate with Creative Cloud desktop applications and Adobe Workfront application. The Creative Cloud desktop applications include Adobe Photoshop, Adobe Illustrator, Adobe InDesign, and Adobe XD. 
 
-As the solution consists of applications and services from both Creative Cloud and Adobe Experience Cloud, they are deployed in two Adobe Admin Consoles for your company:
+As the solution consists of applications and services from both Creative Cloud and Adobe Experience Cloud, they might be deployed in one or two Adobe Admin Consoles for your company. 
+
+In case of deployment into two Admin Consoles, an additional configuration step is required:
 
 * Creative Cloud services and applications (Creative Cloud for enterprise Pro and optional modules) are managed in [Adobe Admin Console for your Creative Cloud deployment](https://chl-author-preview.corp.adobe.com/content/help/en/enterprise/admin-guide.html). 
 

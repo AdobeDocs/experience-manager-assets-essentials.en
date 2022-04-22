@@ -42,14 +42,14 @@ Perform the following tasks in Admin Console:
 
 ### Add users to product profiles {#add-users-to-product-profiles}
 
-Add users to product profiles so that they can manage the Assets Essentials application.
+Add users to product profiles so that they have access to the Assets Essentials application.
 
 To add users to product profiles:
 
-1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. 
+1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click the instance for [!DNL Assets Essentials]. The name of the instance might be different than in the screenshot below. 
    >[!NOTE]
    >
-   >Do not click the Cloud Manager environment.
+   >[!DNL Cloud Manager] instance is for special admin use only like checking service status and getting access to service logs and cannot be used to add users to the product. For more information, see [admin guide](deploy-administer.md#view-service-status-and-access-logs-view-logs).
 
    ![Admin Console admin profile](assets/assets-essentials-instance.png)
 
@@ -57,7 +57,7 @@ To add users to product profiles:
 
    ![Admin Console admin profile](assets/admin-console-admin-profile.png)
   
-1. To add a user to a group, click one of the three Assets Essentials product profiles, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
+1. To add a user to the product, click one of the three Assets Essentials product profiles, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. 
 
    ![Add users admin profile](assets/add-users-admin-profile.png)
 
@@ -67,11 +67,13 @@ To add users to product profiles:
 
    >[!NOTE]
    >
-   >You must add users to the Administrator Assets Essentials product profile in the Admin Console to manage tasks, such as [Create folder structure](#create-folder-structure), [Manage permissions for folders](#manage-permissions-for-folders), and [Setup Metadata Forms](#metadata-forms), in the Assets Essentials application.
+   >You must add a user to the Administrator Assets Essentials product profile in the Admin Console, in order for them to carry out administrative tasks in the Assets Essentials application. These tasks include [Create folder structure](#create-folder-structure), [Manage permissions for folders](#manage-permissions-for-folders), and [Setup Metadata Forms](#metadata-forms).
 
 ### Add user groups {#add-user-groups}
 
-Create user groups and then assign your users to the user groups. You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
+Create user groups and then assign your users to the user groups. These user groups will be available in the Assets Essentials application for setting permissions on folders.
+
+You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
 
 ![Add users to groups and product profiles](assets/user-groups-product-profiles.svg)
 
@@ -88,9 +90,9 @@ After creating user groups, you can start adding users to user groups.
 
 For information on how to manage adding users to user groups, see `Add users to groups` available at [Manage user groups](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
 
-## Manage Assets Essentials tasks {#manage-assets-essentials-tasks}
+## Manage Assets Essentials administration tasks {#manage-assets-essentials-tasks}
 
-After performing the Admin Console tasks, you can now perform the following tasks in the Assets Essentials application:
+After performing the Admin Console tasks, you can now perform the following administration tasks in the Assets Essentials application:
 
 * [Create folder structure](#create-folder-structure)
 
@@ -100,7 +102,7 @@ After performing the Admin Console tasks, you can now perform the following task
 
 >[!NOTE]
 >
->To be able to manage these tasks, you must add users to the [Administrator Assets Essentials product profile](#add-users-to-product-profiles). 
+>To be able to manage these tasks, especially managing permissions, your user must have application administration rights - it needs to be added to the [Administrator Assets Essentials product profile](#add-users-to-product-profiles). 
 
 
 ### Create folder structure {#create-folder-structure}
