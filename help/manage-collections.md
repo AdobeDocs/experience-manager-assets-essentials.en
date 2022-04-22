@@ -24,7 +24,15 @@ To create a collection:
 
 ## Add assets to a collection {#add-assets-to-collection}
 
-Overview
+To add assets to a collection:
+
+1. Click **[!UICONTROL Assets]** in the left rail and select asset(s).
+
+1. Click **[!UICONTROL Add to Collection]**.
+
+1. On the [!UICONTROL Collections] dialog box, select the collections to add the selected assets.
+
+1. Click **[!UICONTROL Add]** to add the asset to the selected collections.
 
 ## Manage access to a collection {#manage-collection-access}
 
