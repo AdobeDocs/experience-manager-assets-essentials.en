@@ -12,7 +12,15 @@ You can share multiple collections with a user. Each collection contains referen
 
 ## Create a collection {#create-collection}
 
-Overview
+To create a collection:
+
+1. Click **[!UICONTROL Collections]** in the left rail and then click **[!UICONTROL Create Collection]**.
+
+1. Specify a title and an optional description for the collection.
+
+1. Select **[!UICONTROL Public Collection]** if you need to share the collection with all users. You can select **[!UICONTROL Private Collection]** and then manage permissions to provide access to limited set of users.
+
+1. Click **[!UICONTROL Save]** to save the collection.
 
 ## Add assets to a collection {#add-assets-to-collection}
 
@@ -20,7 +28,9 @@ Overview
 
 ## Manage access to a collection {#manage-collection-access}
 
-Overview
+The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
+
+For more information, see [Manage permissions for folders and collections](manage-permissions).
 
 ## Remove assets from a collection {#remove-assets-from-collection}
 
