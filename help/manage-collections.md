@@ -34,15 +34,21 @@ To add assets to a collection:
 
 1. Click **[!UICONTROL Add]** to add the asset to the selected collections.
 
+## Remove assets from a collection {#remove-assets-from-collection}
+
+To remove assets from a collection:
+
+1. Click **[!UICONTROL Collections]** in the left rail to view the list of collections.
+
+1. Click the collection and select asset(s) that you need to remove from the collection.
+
+1. Click **[!UICONTROL Remove]**.
+
 ## Manage access to a collection {#manage-collection-access}
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
 For more information, see [Manage permissions for folders and collections](manage-permissions).
-
-## Remove assets from a collection {#remove-assets-from-collection}
-
-Overview
 
 ## Search a collection {#search-collections}
 
@@ -50,12 +56,40 @@ Overview
 
 ## View and edit collection metadata {#view-edit-collection-metadata}
 
-Overview
+Collection metadata comprises data about the collection, including any tags that are added.
+
+To view and edit collection metadata:
+
+1. Click **[!UICONTROL Collections]** in the left rail, select a collection, and click **[!UICONTROL Details]**.
+1. View the collection metadata using the **[!UICONTROL Basic]** and **[!UICONTROL Tags]** tabs.
+1. Modify the metadata, as necessary. You can modify the 
+
+## Share links for collections {#share-collection-links}
+
+[!DNL Assets Essentials] enables you to generate a link and share collections and assets within collections with external stakeholders, who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link can preview assets and download them.
+
+For more information on how to share collection links with external stakeholders, see [Share links for assets](share-links-for-assets.md).
 
 ## Download a collection {#download-collection}
 
-Overview
+To download a collection:
+
+1. Click **[!UICONTROL Collections]** in the left rail.
+
+1. Select the collection that you need to download.
+
+1. Click **[!UICONTROL Download]**.
+
+1. On the [!UICONTROL Download Asset] dialog box, click **[!UICONTROL OK]**.
+
+The collection downloads as a .ZIP file on your local machine.
 
 ## Delete a collection {#delete-collection}
 
-Overview
+To delete a collection:
+
+1. Click **[!UICONTROL Collections]** in the left rail.
+
+1. Select the collection that you need to delete.
+
+1. Click **[!UICONTROL Delete]**.
