@@ -100,6 +100,8 @@ To set asset status:
 
 1. In the **[!UICONTROL Basic]** tab, select the asset status from the **[!UICONTROL Status]** dropdown list. The possible values include Approved, Rejected, and No Status (default).
 
+   >[!VIDEO](https://video.tv.adobe.com/v/342495)
+
 ### Set asset expiration date {#set-asset-expiration-date}
 
 To set asset expiration date:
