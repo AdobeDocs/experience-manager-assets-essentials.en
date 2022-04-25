@@ -10,6 +10,24 @@ Unlike folders, a collection can include assets from different locations. You ca
 
 You can share multiple collections with a user. Each collection contains references to assets. The referential integrity of assets is maintained across collections.
 
+You can perform the following tasks to manage and use collections:
+
+* [Create a collection](#create-collection)
+
+* [Add assets to a collection](#add-assets-to-collection)
+
+* [Remove assets to a collection](#remove-assets-from-collection)
+
+* [Manage access to a collection](#manage-collection-access)
+
+* [Search a collection](#search-collections)
+
+* [View and edit collection metadata](#view-edit-collection-metadata)
+
+* [Download a collection](#download-collection)
+
+* [Delete a collection](#delete-collection)
+
 ## Create a collection {#create-collection}
 
 To create a collection:
@@ -18,7 +36,7 @@ To create a collection:
 
 1. Specify a title and an optional description for the collection.
 
-1. Select **[!UICONTROL Public Collection]** if you need to share the collection with all users. You can select **[!UICONTROL Private Collection]** and then manage permissions to provide access to limited set of users.
+1. Select **[!UICONTROL Public Collection]** if you need to share the collection with all users. You can select **[!UICONTROL Private Collection]** and then [manage permissions](#manage-collection-access) to provide access to limited set of users.
 
 1. Click **[!UICONTROL Save]** to save the collection.
 
@@ -62,7 +80,7 @@ To view and edit collection metadata:
 
 1. Click **[!UICONTROL Collections]** in the left rail, select a collection, and click **[!UICONTROL Details]**.
 1. View the collection metadata using the **[!UICONTROL Basic]** and **[!UICONTROL Tags]** tabs.
-1. Modify the metadata, as necessary. You can modify the 
+1. Modify the metadata fields, as necessary. You can modify the 
 
 ## Share links for collections {#share-collection-links}
 
