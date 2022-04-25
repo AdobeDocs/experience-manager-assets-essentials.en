@@ -82,7 +82,7 @@ You can also create versions from the versions timeline. Select the latest versi
 
 **Permissions required:**  `Can Edit`, `Owner`, or administrator permissions on an asset.
 
-Assets Essentials allows you to set status on assets available in the repository. The asset status determines the availability of assets in other content authoring environments, such as Adobe Journey Optimizer, Adobe Workfront, and Brand Portal.
+Assets Essentials allows you to set status on assets available in the repository. Set an asset status to better govern and manage downstream consumption of digital assets.
 
 You can set the following status on assets:
 
@@ -90,7 +90,7 @@ You can set the following status on assets:
 
 * Rejected
 
-In addition, you can set an expiration date on the assets available in the repository. The asset status updates to `Expired` after the asset expiration date.
+* No Status
 
 ### Set asset status {#set-asset-status}
 
@@ -98,7 +98,7 @@ To set asset status:
 
 1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
 
-1. In the **[!UICONTROL Basic]** tab, select the asset status from the **[!UICONTROL Status]** dropdown list. The possible values include Approved, Rejected, and No Status.
+1. In the **[!UICONTROL Basic]** tab, select the asset status from the **[!UICONTROL Status]** dropdown list. The possible values include Approved, Rejected, and No Status (default).
 
 ### Set asset expiration date {#set-asset-expiration-date}
 
@@ -106,9 +106,9 @@ To set asset expiration date:
 
 1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
 
-1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration Date]** field. The asset status updates to `Expired` after the asset expiration date set in this field.
+1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration Date]** field.
 
-The `Expired` asset status overrides the `Approved` or `Rejected` status set for an asset.
+The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
 
 
 You can also filter assets based on an asset status, for more information, see [Search assets in Assets Essentials](search.md).
