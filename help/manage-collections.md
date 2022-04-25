@@ -38,7 +38,15 @@ To create a collection:
 
 1. Select **[!UICONTROL Public Collection]** if you need to share the collection with all users. You can select **[!UICONTROL Private Collection]** and then [manage permissions](#manage-collection-access) to provide access to limited set of users.
 
+   >[!NOTE]
+   >
+   >After creating a collection, you cannot covert a Public collection to a Private collection or a Private collection to a Public collection. 
+
 1. Click **[!UICONTROL Save]** to save the collection.
+
+   >[!NOTE]
+   >
+   >Assets Essentials does not support nested collections and smart collections.
 
 ## Add assets to a collection {#add-assets-to-collection}
 
@@ -70,7 +78,11 @@ For more information, see [Manage permissions for folders and collections](manag
 
 ## Search a collection {#search-collections}
 
-Overview
+Click **[!UICONTROL Collections]** in the left rail and use the Search box to specify a text as the criteria to search for a collection. [!DNL Assets Essentials] uses the specified text to search collection names, metadata including tags defined for a collection and returns appropriate results.
+
+>[!NOTE]
+>
+>Assets Essentials performs search in collections available at the root level. It does not perform search in assets and folders available in collections. 
 
 ## View and edit collection metadata {#view-edit-collection-metadata}
 
