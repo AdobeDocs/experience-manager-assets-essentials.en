@@ -81,9 +81,13 @@ To add custom filters:
 
 1. In the **[!UICONTROL Custom Filters]** section, click **[!UICONTROL Edit]** or **[!UICONTROL Add Filters]**.
 
+   ![Add custom filters](assets/add-custom-filters.png)
+
 1. On the **[!UICONTROL Custom filters management]** dialog box, select the filters that you need to add to the existing list of filters. Select **[!UICONTROL Custom Filters]** to select all filters.
 
 1. Click **[!UICONTROL Confirm]** to add the filters to the user interface.
+
+>[!VIDEO](https://video.tv.adobe.com/v/342494)
 
 ### Remove custom filters {#remove-custom-filters}
 
