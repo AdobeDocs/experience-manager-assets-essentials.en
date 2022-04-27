@@ -14,7 +14,7 @@ role: User,Leader
 
 + [Solution overview](introduction.md)
 + [Release Notes](release-notes.md)
-+ Get started with Assets Essentials for admininistrators {#get-started-admins}
++ Get started with Assets Essentials for administrators {#get-started-admins}
   + [Deploy and add users](deploy-administer.md)
   + Manage folder access{#folder-access}
     + [Manage folder permissions](manage-permissions.md)
