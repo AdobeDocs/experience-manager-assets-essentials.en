@@ -2,7 +2,7 @@
 title: Release Notes
 description: Release Notes and known issues of [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
-contentOwner: AG
+contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}

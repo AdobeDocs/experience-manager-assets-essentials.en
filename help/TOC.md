@@ -27,4 +27,5 @@ role: User,Leader
 + [Edit images](edit-images.md)
 + [Manage asset metadata](metadata.md)
 + [Share assets](share-links-for-assets.md)
++ [Manage collections](manage-collections.md)
 + [Integration with other solutions](integration.md)
