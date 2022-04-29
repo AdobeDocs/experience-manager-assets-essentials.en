@@ -72,7 +72,7 @@ To remove assets from a collection:
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
-For more information, see [Manage permissions for folders and collections](manage-permissions).
+For more information, see [Manage permissions for folders and collections](manage-permissions.md).
 
 <!-- ## Search a collection {#search-collections}
 
