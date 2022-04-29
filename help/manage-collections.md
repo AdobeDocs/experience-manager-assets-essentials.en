@@ -43,11 +43,7 @@ To create a collection:
    >After creating a collection, you cannot covert a Public collection to a Private collection or a Private collection to a Public collection. 
 
 1. Click **[!UICONTROL Save]** to save the collection.
-
-   >[!NOTE]
-   >
-   >Assets Essentials does not support nested collections and smart collections.
-
+   
 ## Add assets to a collection {#add-assets-to-collection}
 
 To add assets to a collection:
@@ -59,6 +55,8 @@ To add assets to a collection:
 1. On the [!UICONTROL Collections] dialog box, select the collections to add the selected assets.
 
 1. Click **[!UICONTROL Add]** to add the asset to the selected collections.
+
+To add assets to collection, you can also click **[!UICONTROL Collections]** in the left rail, click the collection to add assets to, click **[!UICONTROL Add to Collection]**, select the asset(s) and click **[!UICONTROL Select]**.
 
 ## Remove assets from a collection {#remove-assets-from-collection}
 
@@ -76,23 +74,25 @@ The permission management for collections function in the same manner as folders
 
 For more information, see [Manage permissions for folders and collections](manage-permissions).
 
-## Search a collection {#search-collections}
+<!-- ## Search a collection {#search-collections}
 
 Click **[!UICONTROL Collections]** in the left rail and use the Search box to specify a text as the criteria to search for a collection. [!DNL Assets Essentials] uses the specified text to search collection names, metadata including tags defined for a collection and returns appropriate results.
 
 >[!NOTE]
 >
->Assets Essentials performs search in collections available at the root level. It does not perform search in assets and folders available in collections. 
+>Assets Essentials performs search in collections available at the root level. It does not perform search in assets and folders available in collections.
+
+-->
 
 ## View and edit collection metadata {#view-edit-collection-metadata}
 
-Collection metadata comprises data about the collection, including any tags that are added.
+Collection metadata comprises data about the collection, such as title and description.
 
 To view and edit collection metadata:
 
 1. Click **[!UICONTROL Collections]** in the left rail, select a collection, and click **[!UICONTROL Details]**.
-1. View the collection metadata using the **[!UICONTROL Basic]** and **[!UICONTROL Tags]** tabs.
-1. Modify the metadata fields, as necessary. You can modify the 
+1. View the collection metadata using the **[!UICONTROL Basic]** tab.
+1. Modify the metadata fields, as necessary. You can modify the Title, Description, and Author fields. 
 
 ## Share links for collections {#share-collection-links}
 
@@ -100,19 +100,19 @@ To view and edit collection metadata:
 
 For more information on how to share collection links with external stakeholders, see [Share links for assets](share-links-for-assets.md).
 
-## Download a collection {#download-collection}
+## Download collection elements {#download-collection-elements}
 
-To download a collection:
+To download collection elements:
 
 1. Click **[!UICONTROL Collections]** in the left rail.
 
-1. Select the collection that you need to download.
+1. Click the collection and select the element(s) you need to download.
 
 1. Click **[!UICONTROL Download]**.
 
 1. On the [!UICONTROL Download Asset] dialog box, click **[!UICONTROL OK]**.
 
-The collection downloads as a .ZIP file on your local machine.
+The selected collection elements download as a .ZIP file on your local machine.
 
 ## Delete a collection {#delete-collection}
 

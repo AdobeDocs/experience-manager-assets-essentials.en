@@ -60,7 +60,7 @@ Assets Essentials provides the following custom filters:
      </tr>
      <tr>
       <td>Asset Size</td>
-      <td>Filter assets by defining a size range in the search criteria for an asset to display in the results.</td>
+      <td>Filter assets by defining a size range, in bytes, in the search criteria for an asset to display in the results.</td>
      </tr>
      <tr>
       <td>Predicted Tags</td>
