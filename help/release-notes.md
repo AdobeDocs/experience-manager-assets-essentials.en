@@ -19,7 +19,13 @@ The current release of [!DNL Assets Essentials] is released on May 05, 2022. Thi
 
 * Enhancements and bug fixes based on customer feedback.
 
+## Incognito mode in Chrome {#incognito-mode}
 
+With this release we are optimizing performance of the UI delivery and specific features in Assets Essentials - commenting on assets and image editing - will depend on browser local storage and 3rd-party cookies being enabled. The incognito mode in the Chrome web browser blocks 3rd-party cookies by default - users have a number of options to continue having access to all capabilities:
+
+* Use Chrome Profiles instead of Incognito mode, when user needs to separate browser sessions
+
+* Turn off the “Block third-party cookies” on the Incognito mode screen in Chrome
 
 ## Known issues {#known-issues}
 
