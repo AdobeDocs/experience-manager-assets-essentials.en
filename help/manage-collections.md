@@ -92,7 +92,7 @@ To view and edit collection metadata:
 
 1. Click **[!UICONTROL Collections]** in the left rail, select a collection, and click **[!UICONTROL Details]**.
 1. View the collection metadata using the **[!UICONTROL Basic]** tab.
-1. Modify the metadata fields, as necessary. You can modify the Title, Description, and Author fields. 
+1. Modify the metadata fields, as necessary. You can modify the [!UICONTROL Title], [!UICONTROL Description], and [!UICONTROL Author] fields. 
 
 ## Share links for collections {#share-collection-links}
 
