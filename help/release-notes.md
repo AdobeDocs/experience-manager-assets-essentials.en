@@ -25,7 +25,11 @@ The current release of [!DNL Assets Essentials] is released on May 05, 2022. Thi
 
 The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
 
-* None
+* You cannot filter assets using the `No Status` asset status.
+
+* You cannot browse to or search for an asset with an `Expired` status. You can only access the asset using a deep link or a URL.
+
+* After creating a collection, you cannot covert a Public collection to a Private collection or a Private collection to a Public collection.
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
