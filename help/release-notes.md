@@ -35,7 +35,7 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 
 * You cannot browse to or search for an asset with an `Expired` status. You can only access the asset using a deep link or a URL.
 
-* After creating a collection, you cannot covert a Public collection to a Private collection or a Private collection to a Public collection.
+* Assets Essentials does not support creating Private collections.
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 

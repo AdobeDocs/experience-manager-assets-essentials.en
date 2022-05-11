@@ -36,13 +36,7 @@ To create a collection:
 
 1. Specify a title and an optional description for the collection.
 
-1. Select **[!UICONTROL Public Collection]** if you need to share the collection with all users. You can select **[!UICONTROL Private Collection]** and then [manage permissions](#manage-collection-access) to provide access to limited set of users.
-
-   >[!NOTE]
-   >
-   >After creating a collection, you cannot covert a Public collection to a Private collection or a Private collection to a Public collection. 
-
-1. Click **[!UICONTROL Save]** to save the collection.
+1. Click **[!UICONTROL Save]** to create the collection.
    
 ## Add assets to a collection {#add-assets-to-collection}
 
@@ -68,13 +62,15 @@ To remove assets from a collection:
 
 1. Click **[!UICONTROL Remove]**.
 
+<!--
+
 ## Manage access to a collection {#manage-collection-access}
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
 For more information, see [Manage permissions for folders and collections](manage-permissions.md).
 
-<!-- ## Search a collection {#search-collections}
+## Search a collection {#search-collections}
 
 Click **[!UICONTROL Collections]** in the left rail and use the Search box to specify a text as the criteria to search for a collection. [!DNL Assets Essentials] uses the specified text to search collection names, metadata including tags defined for a collection and returns appropriate results.
 

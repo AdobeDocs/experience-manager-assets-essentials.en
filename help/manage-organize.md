@@ -108,7 +108,7 @@ To set asset expiration date:
 
 1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
 
-1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration Date]** field.
+1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
 
 The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
 
