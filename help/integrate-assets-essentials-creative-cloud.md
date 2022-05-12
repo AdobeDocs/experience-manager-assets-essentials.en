@@ -60,14 +60,16 @@ The choice depends on organization IT policies.
 
 **Installation using [!DNL Creative Cloud Desktop] application** is described [here](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html). There are two plugins available and hosted on [Adobe Exchange](https://exchange.adobe.com/) marketplace, depending on the Creative Cloud application: 
 
- * For [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], and [!DNL Adobe InDesign]: [Adobe Asset Link CEP](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)
- * For [!DNL Adobe XD]: [Adobe Asset Link](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9)
+* For [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], and [!DNL Adobe InDesign]: [Adobe Asset Link CEP](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html)
+* For [!DNL Adobe XD]: [Adobe Asset Link](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9)
 
 **Installation with a Creative Cloud package** is done by Creative Cloud administrator in Admin Console, by including the Asset Link plugin when building a deployment package, that can later be deployed to user machines. In the managed Choose Plugins screen, search for **Adobe Asset Link** in the **Featured business plugins** section. For more information, see [packaging apps via the Admin Console](https://helpx.adobe.com/enterprise/using/package-apps-admin-console.html).
 
 ## Use Adobe Asset Link {#use-asset-link}
 
-Creative users can now use Adobe Asset Link with Photoshop, Illustrator, or InDesign. To open the panel in InDesign or Illustrator, go to Windows > Extensions > Adobe Asset Link. In Photoshop, go to Window > Extensions (legacy) > Adobe Asset Link.
+Creative users can now use Adobe Asset Link with Photoshop, Illustrator, InDesign, or XD. To open the panel in InDesign or Illustrator, go to Windows > Extensions > Adobe Asset Link. In Photoshop, go to Window > Extensions (legacy) > Adobe Asset Link.
+
+For information on how to setup Adobe Asset Link for Adobe XD, click [here](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html).
 
 >[!NOTE]
 >
