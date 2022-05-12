@@ -15,7 +15,7 @@ The current release of [!DNL Assets Essentials] is released on May 05, 2022. Thi
 
 * Assets Essentials now also enables you to [add custom filters](search.md#custom-filters) to the user interface. You can then apply those custom filters in addition to the standard filters to refine your search results.
 
-* Assets Essentials now allows you to [set status and expiration date](manage-organize.md#set-asset-status) on assets available in the repository. Set an asset status to better govern and manage downstream consumption of digital assets.
+* Assets Essentials now allows you to [set status](manage-organize.md#set-asset-status) on assets available in the repository. Set an asset status to better govern and manage downstream consumption of digital assets.
 
 * Enhancements and bug fixes based on customer feedback.
 
