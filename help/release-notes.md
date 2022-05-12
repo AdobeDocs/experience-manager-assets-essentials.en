@@ -37,6 +37,8 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 
 * Assets Essentials does not support creating Private collections.
 
+* When you edit the description of a collection using the **[!UICONTROL Details]** option, the changes are not saved.
+
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
 ## Past releases {#past-release}

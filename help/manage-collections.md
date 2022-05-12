@@ -6,7 +6,11 @@ description: Manage collections in [!DNL Assets Essentials]
 
 A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users.
 
-Unlike folders, a collection can include assets from different locations. You can share collections with various users that are assigned different levels of privileges, including viewing, editing, and so on.
+Unlike folders, a collection can include assets from different locations. 
+
+<!--
+You can share collections with various users that are assigned different levels of privileges, including viewing, editing, and so on.
+-->
 
 You can share multiple collections with a user. Each collection contains references to assets. The referential integrity of assets is maintained across collections.
 
