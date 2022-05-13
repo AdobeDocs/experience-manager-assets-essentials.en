@@ -1,8 +1,8 @@
 ---
 title: Administer Experience Manager Assets Essentials
 description: Configure the access to the Assets Essentials application using the Admin Console and then manage the tasks that can be performed after logging to the Assets Essentials application.
+exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
 ---
-
 # Administer Experience Manager Assets Essentials {#administer-assets-essentials}
 
 ![Preference to switch dark and light theme](assets/cce-assets.png)
@@ -162,4 +162,3 @@ For more information on Metadata Forms, see [Metadata Forms in Assets Essentials
 ## What's Next
 
 Now that you have configured and managed the Assets Essentials application, [integrate Creative Cloud applications with Experience Manager Assets Essentials application](integrate-assets-essentials-creative-cloud.md).
-
