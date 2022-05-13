@@ -65,11 +65,7 @@ Assets Essentials provides the following custom filters:
      <tr>
       <td>Predicted Tags</td>
       <td>Filter assets using the asset smart tag. The smart tag name that you specify in the case-sensitive search criteria must match the exact smart tag name of the asset to display in the results. You cannot specify multiple smart tags in search criteria.</td>
-     </tr>
-     <tr>
-      <td>Predicted Tags Confidence</td>
-      <td>Filter assets by defining a <a href="/help/metadata.md##tags" target="_blank"> smart tags confidence score </a> range in the search criteria for an asset to display in the results.</td>
-     </tr>     
+     </tr>    
     </tbody>
    </table>
 
@@ -86,8 +82,6 @@ To add custom filters:
 1. On the **[!UICONTROL Custom filters management]** dialog box, select the filters that you need to add to the existing list of filters. Select **[!UICONTROL Custom Filters]** to select all filters.
 
 1. Click **[!UICONTROL Confirm]** to add the filters to the user interface.
-
->[!VIDEO](https://video.tv.adobe.com/v/342494)
 
 ### Remove custom filters {#remove-custom-filters}
 

@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of [!DNL Assets Essentials] is released on May 05, 2022. This release provides:
+The current release of [!DNL Assets Essentials] is released on May 12, 2022. This release provides:
 
 * [!DNL Assets Essentials] now supports [creating collections](manage-collections.md). A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users.
 
@@ -36,8 +36,6 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 * You cannot browse to or search for an asset with an `Expired` status. You can only access the asset using a deep link or a URL.
 
 * Assets Essentials does not support creating Private collections.
-
-* When you edit the description of a collection using the **[!UICONTROL Details]** option, the changes are not saved.
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
