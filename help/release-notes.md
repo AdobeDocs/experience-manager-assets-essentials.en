@@ -9,9 +9,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 
 The current release of [!DNL Assets Essentials] is released on May 12, 2022. This release provides:
 
-* [!DNL Assets Essentials] now supports [creating collections](manage-collections.md). A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users.
-
-  Unlike folders, a collection can include assets from different locations. You can share collections with various users that are assigned different levels of privileges, including viewing, editing, and so on.
+* [!DNL Assets Essentials] now supports [creating collections](manage-collections.md). A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users. Unlike folders, a collection can include assets from different locations.
 
 * Assets Essentials now also enables you to [add custom filters](search.md#custom-filters) to the user interface. You can then apply those custom filters in addition to the standard filters to refine your search results.
 
