@@ -8,6 +8,8 @@ exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 
 [!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. Administrators will use [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution, and assign application administrators to set up permissions and metadata forms in [!DNL Assets Essentials].
 
+For journey-based experience to manage Assets Essentials, click this [link](adminster-aem-assets-essentials.md).
+
 ## Automatic deployment of Assets Essentials {#automatic-deployment-assets-essentials}
 
 After the Assets Essentials solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. In addition, Adobe starts the process to deploy Assets Essentials automatically. The deployment process takes an hour to complete.  
