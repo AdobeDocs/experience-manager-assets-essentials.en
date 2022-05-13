@@ -1,6 +1,6 @@
 ---
 title: Manage collections
-description: Manage collections in [!DNL Assets Essentials]
+description: A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users.
 ---
 # Manage collections {#manage-collections}
 
