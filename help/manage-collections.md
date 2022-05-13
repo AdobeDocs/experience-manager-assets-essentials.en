@@ -22,13 +22,9 @@ You can perform the following tasks to manage and use collections:
 
 * [Remove assets to a collection](#remove-assets-from-collection)
 
-* [Manage access to a collection](#manage-collection-access)
-
-* [Search a collection](#search-collections)
-
 * [View and edit collection metadata](#view-edit-collection-metadata)
 
-* [Download a collection](#download-collection)
+* [Download collection elements](#download-collection-elements)
 
 * [Delete a collection](#delete-collection)
 
