@@ -2,12 +2,46 @@
 title: Release Notes
 description: Release Notes and known issues of [!DNL Assets Essentials]
 role: User,Leader,Admin,Architect,Developer
-contentOwner: AG
+contentOwner: AK
 exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of [!DNL Assets Essentials] is released on March 09, 2022. This release provides:
+The current release of [!DNL Assets Essentials] is released on May 12, 2022. This release provides:
+
+* [!DNL Assets Essentials] now supports [creating collections](manage-collections.md). A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users. Unlike folders, a collection can include assets from different locations.
+
+* Assets Essentials now also enables you to [add custom filters](search.md#custom-filters) to the user interface. You can then apply those custom filters in addition to the standard filters to refine your search results.
+
+* Assets Essentials now allows you to [set status](manage-organize.md#set-asset-status) on assets available in the repository. Set an asset status to better govern and manage downstream consumption of digital assets.
+
+* Enhancements and bug fixes based on customer feedback.
+
+## Incognito mode in Chrome {#incognito-mode}
+
+With this release, we are optimizing performance of the UI delivery and specific features in Assets Essentials - commenting on assets and image editing - depends on browser local storage and third-party cookies being enabled. The incognito mode in the Chrome web browser blocks third-party cookies by default - users have a number of options to continue to access to all capabilities:
+
+* Use Chrome Profiles instead of Incognito mode, when user needs to separate browser sessions
+
+* Turn off the `Block third-party cookies` on the Incognito mode screen in Chrome
+
+## Known issues {#known-issues}
+
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+
+* You cannot filter assets using the `No Status` asset status.
+
+* You cannot browse to or search for an asset with an `Expired` status. You can only access the asset using a deep link or a URL.
+
+* Assets Essentials does not support creating Private collections.
+
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
+
+## Past releases {#past-release}
+
+### 2022.2.0 {#march-2022}
+
+[!DNL Assets Essentials] is released on March 09, 2022, with the following updates:
 
 * [!DNL Assets Essentials] now enables you to [generate a link and share assets with external stakeholders](share-links-for-assets.md), who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link can preview assets and download them.
 
@@ -19,16 +53,6 @@ The current release of [!DNL Assets Essentials] is released on March 09, 2022. T
 
 In addition, [!DNL Adobe Asset Link] extension for Creative Cloud (Photoshop, Illustrator, and InDesign) released a [new version 3.2](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html), with performance improvements in the panel startup time and in download speed.
 
-
-## Known issues {#known-issues}
-
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
-
-* None
-
-If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
-
-## Past releases {#past-release}
 
 ### 2022.1.0 release {#january-2022}
 

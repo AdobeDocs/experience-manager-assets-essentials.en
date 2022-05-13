@@ -26,6 +26,8 @@ You can filter the search results based on the following parameters.
 
 *Figure: Filter searched assets based on various parameters.*
 
+* Asset Status: Filter the search results using an `Approved` or `Rejected` asset status.
+
 * File type: Filter the search results by the supported types of files that is, `Images`, `Documents`, and `Videos`.
 * MIME type: Filter for one or more of the supported file formats. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Image size: Provide one of more of the minimum and maximum dimensions to filter images. Size is provided in dimensions in pixel and is not the file size of the images.
@@ -33,6 +35,66 @@ You can filter the search results based on the following parameters.
 * Modified date: The last modified date of the assets. The standard date format used is `yyyy-mm-dd`.
 
 You can sort the searched assets in increasing or decreasing order of `Name`, `Relevancy`, `Size`, `Modified`, and `Created`.
+
+## Manage custom filters {#custom-filters}
+
+**Permissions required:**  `Can Edit`, `Owner`, or Administrator.
+
+Assets Essentials also enables you to add custom filters to the user interface. You can then apply those custom filters in addition to the [standard filters](#refine-search-results) to refine your search results.
+
+Assets Essentials provides the following custom filters:
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Custom filter name</strong></th>
+      <th><strong>Description</strong></th>
+     </tr>
+     <tr>
+      <td>Title</td>
+      <td>Filter assets using the asset title. The title that you specify in the case-sensitive search criteria must match the exact title of the asset to display in the results.</td>
+     </tr>
+     <tr>
+      <td>Name</td>
+      <td>Filter assets using the asset file name. The name that you specify in the case-sensitive search criteria must match the exact file name of the asset to display in the results.</td>
+     </tr>
+     <tr>
+      <td>Asset Size</td>
+      <td>Filter assets by defining a size range, in bytes, in the search criteria for an asset to display in the results.</td>
+     </tr>
+     <tr>
+      <td>Predicted Tags</td>
+      <td>Filter assets using the asset smart tag. The smart tag name that you specify in the case-sensitive search criteria must match the exact smart tag name of the asset to display in the results. You cannot specify multiple smart tags in search criteria.</td>
+     </tr>    
+    </tbody>
+   </table>
+
+### Add custom filters {#add-custom-filters}
+
+To add custom filters:
+
+1. Click **[!UICONTROL Filters]**. 
+
+1. In the **[!UICONTROL Custom Filters]** section, click **[!UICONTROL Edit]** or **[!UICONTROL Add Filters]**.
+
+   ![Add custom filters](assets/add-custom-filters.png)
+
+1. On the **[!UICONTROL Custom filters management]** dialog box, select the filters that you need to add to the existing list of filters. Select **[!UICONTROL Custom Filters]** to select all filters.
+
+1. Click **[!UICONTROL Confirm]** to add the filters to the user interface.
+
+### Remove custom filters {#remove-custom-filters}
+
+To remove custom filters:
+
+1. Click **[!UICONTROL Filters]**. 
+
+1. In the **[!UICONTROL Custom Filters]** section, click **[!UICONTROL Edit]**.
+
+1. On the **[!UICONTROL Custom filters management]** dialog box, deselect the filters that you need to remove from the existing list of filters.
+
+1. Click **[!UICONTROL Confirm]** to remove the filters from the user interface. 
+
 
 ## Saved searches {#saved-search}
 

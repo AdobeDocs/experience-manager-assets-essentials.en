@@ -77,3 +77,65 @@ You can also create versions from the versions timeline. Select the latest versi
 ![View versions of an asset](assets/view-asset-versions1.png)
 
 *Figure: View versions of an asset, revert to a previous version, or upload another new version.*
+
+## Manage asset status {#manage-asset-status}
+
+**Permissions required:**  `Can Edit`, `Owner`, or administrator permissions on an asset.
+
+Assets Essentials allows you to set status on assets available in the repository. Set an asset status to better govern and manage downstream consumption of digital assets.
+
+You can set the following status on assets:
+
+* Approved
+
+* Rejected
+
+* No Status
+
+### Set asset status {#set-asset-status}
+
+To set asset status:
+
+1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+
+1. In the **[!UICONTROL Basic]** tab, select the asset status from the **[!UICONTROL Status]** dropdown list. The possible values include Approved, Rejected, and No Status (default).
+
+   >[!VIDEO](https://video.tv.adobe.com/v/342495)
+
+<!--
+
+### Set asset expiration date {#set-asset-expiration-date}
+
+To set asset expiration date:
+
+1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
+
+1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
+
+The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
+
+-->
+
+You can also filter assets based on an asset status, for more information, see [Search assets in Assets Essentials](search.md).
+
+## Customize metadata forms to include asset status field {#customize-asset-status-metadata-form}
+
+**Permissions required:** Administrator
+
+Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets.
+
+For more information on how to add additional metadata fields to the metadata form, see [Metadata Forms](metadata.md##metadata-forms).
+
+**Add Asset Status metadata field to the form**
+
+To add Asset Status metadata field to the form, drag **[!UICONTROL Asset Status]** component from the left rail to the form. The mapping property gets pre-populated automatically. Save the form to confirm the changes.
+
+<!--
+
+**Add Expiration Date metadata field to the form**
+
+To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
+
+-->
+
+
