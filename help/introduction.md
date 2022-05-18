@@ -1,6 +1,6 @@
 ---
 title: Introduction to [!DNL Assets Essentials]
-description: Assets Essentials overview and solution brief
+description: Manage your assets with AEM Assets Essentials, a lightweight tool that works within Experience Cloud applications.
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 ---
