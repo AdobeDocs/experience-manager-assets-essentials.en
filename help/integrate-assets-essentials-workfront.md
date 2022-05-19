@@ -56,6 +56,8 @@ Assign the Workfront users to one of the following Assets Essentials product pro
 * **[!DNL Assets Essentials] Users** have access to the complete Assets Essentials user interface. These users can upload, organize, tag, and find digital assets in Assets Essentials application. In addition, the users have access to the embedded asset selection experience in [!DNL Adobe Workfront] application.
 * **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Workfront] application.
 
+In addition, there is also **[!DNL Assets Essentials] Administrators** product profile that provides administrative access to the application.
+
 For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
 
 ## Configure Experience Manager Assets Essentials Integration {#configure-assets-essentials-integration}
