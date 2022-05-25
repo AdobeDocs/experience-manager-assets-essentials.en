@@ -1,13 +1,14 @@
 ---
 cloud: Experience Cloud
-product: adobe experience manager
+product: experience manager
 audience: end-user
 user-guide-title: Experience Manager Assets Essentials Guide
 breadcrumb-title: Assets Essentials Guide
 user-guide-description: Assets Essentials is a lightweight asset management solution that works from within other Experience Cloud applications.
 feature-set: Experience Manager Assets,Experience Manager
-feature: Asset Management
+feature: Assets Essentials
 role: User,Leader
+solution: Experience Manager
 ---
 
 # [!DNL Assets Essentials] Guide {#help}
