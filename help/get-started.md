@@ -49,6 +49,17 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 | Metadata operations | <ul> <li>[View detailed metadata](/help/metadata.md) </li> <li> [Update metadata](/help/metadata.md#update-metadata)</li> <li> [Create new metadata form](/help/metadata.md#metadata-forms) </li> </ul> |
 | Integration with other solutions | <ul> <li>[Use Asset Selector in [!DNL Adobe Journey Optimizer]](/help/integration.md)</li> <li>[[!DNL Adobe Asset Link] for [!DNL Creative Cloud]](/help/integration.md)</li> <li>[Integration with [!DNL Adobe Workfront]](/help/integration.md)</li> </ul> |
 
+## Next Steps {#next-steps}
+
+* [Watch a video to get started with Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)
+
+* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
+
+*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+
+* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
+
+
 <!--TBD: Merge the below rows in the table when the use cases are documented/available.
 
 | How do I delete assets? | <ul> <li>[Delete assets](/help/manage-organize.md)</li> <li>Recover deleted assets</li> <li>Permanently delete assets</li> </ul> |
@@ -56,6 +67,8 @@ The various digital asset management (DAM) tasks that you can accomplish using [
 | How do I collaborate with others and get my assets reviewed | <ul> <li>Share for review</li> <li>Provide comments. Resolve and filter comments</li> <li>Annotations on images</li> <li>Assign tasks to specific users and prioritize</li> </ul> |
 
 -->
+
+<!-- 
 
 ## ![feedback icon](assets/do-not-localize/feedback-icon.png) Provide product feedback {#provide-feedback}
 
@@ -67,6 +80,8 @@ To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit 
 
 * Make the content updates and submit a GitHub pull request.
 * Create an issue or ticket in GitHub. Retain the automatically populated article name when creating an issue.
+
+-->
 
 >[!MORELIKETHIS]
 >

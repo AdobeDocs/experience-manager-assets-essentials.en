@@ -89,3 +89,13 @@ Users can delete individual assets or folders that are no longer required. To de
   *Figure: Actions for files and folders are available on the asset or folder tile.*
 
 * Select an asset or a folder and click **[!UICONTROL Delete]** ![delete icon](assets/do-not-localize/delete-icon.png) in the toolbar.
+
+## Next Steps {#next-steps}
+
+* [Watch a video to upload assets in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html)
+
+* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
+
+*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+
+* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)

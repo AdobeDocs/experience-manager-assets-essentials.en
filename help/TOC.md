@@ -36,3 +36,4 @@ solution: Experience Manager
 + [Share assets](share-links-for-assets.md)
 + [Manage collections](manage-collections.md)
 + [Integration with other solutions](integration.md)
++ [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)

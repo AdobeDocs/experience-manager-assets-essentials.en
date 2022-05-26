@@ -86,6 +86,16 @@ Once a form is created, it is automatically applied when users upload an asset o
 
 To reuse an existing form to create a new form, select a metadata form, click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**. You can edit a metadata form to change it. When you change a form, it is used for assets uploaded after the change. It does not change the existing assets.
 
+## Next Steps {#next-steps}
+
+* [Watch a video to manage metadata forms in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
+
+* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
+
+*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+
+* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
+
 <!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
 
