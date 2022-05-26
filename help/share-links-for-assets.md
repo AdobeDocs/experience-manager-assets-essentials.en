@@ -36,3 +36,13 @@ You can also select multiple assets and click **[!UICONTROL Download]**. [!DNL A
 To download all assets at once, switch to the **[!UICONTROL List view]**, click **[!UICONTROL Select all]** and then click **[!UICONTROL Download]**.
 
 ![Preview shared assets](assets/preview-shared-assets.png)
+
+## Next Steps {#next-steps}
+
+* [Watch a video to share links for assets in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html)
+
+* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
+
+*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+
+* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)

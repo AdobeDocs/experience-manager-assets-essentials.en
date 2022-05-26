@@ -120,3 +120,11 @@ To delete a collection:
 1. Select the collection that you need to delete.
 
 1. Click **[!UICONTROL Delete]**.
+
+## Next Steps {#next-steps}
+
+* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
+
+*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+
+* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)

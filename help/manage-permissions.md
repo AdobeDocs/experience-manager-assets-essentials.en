@@ -196,3 +196,13 @@ The following are the access levels for all user groups in the folder hierarchy:
 * /projects/project-x: All users can view the folders and its subfolders. Project Managers Team user group has edit permissions and can manage permissions on a folder and its subfolders (Owner permissions). Project X Team user group has edit permissions.
 
 * /legal: None of the users can access the folder based on the `Deny Access` permissions for `All Authenticated Users` group. The Legal Team user group has edit permissions.
+
+## Next Steps {#next-steps}
+
+* [Watch a video to manage permissions in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
+
+* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
+
+*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+
+* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
