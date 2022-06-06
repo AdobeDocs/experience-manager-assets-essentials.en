@@ -37,7 +37,7 @@ You can use Assets Essentials simplified user interface to quickly:
 
 ## What are Assets Essentials availability options? {#availability-options}
 
-The Assets Essentials end-user experience can be via a standalone web user interface or an embedded experience in other Adobe solutions. The embedded [!DNL Assets Essentials] experience can integrate with Creative Cloud for Enterprise, Adobe Journey Optimiaer, and Adobe Workfront applications.
+The Assets Essentials end-user experience can be via a standalone web user interface or an embedded experience in other Adobe solutions. The embedded [!DNL Assets Essentials] experience can integrate with Creative Cloud for Enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
 
 ![Integrations with other solutions](assets/assets-essentials-integration.svg)
 
@@ -69,7 +69,7 @@ For more information, see [Get started with your asset management needs using As
 
 [!DNL Adobe Experience Manager Assets Essentials] integrates well with the supported Adobe solutions and provides an embedded experience from within the interfaces of these applications. It lets users use the basic assets functionality from within the native application or interface, without having to leave their familiar applications.
 
-The embedded [!DNL Assets Essentials] experience can integrate with Creative Cloud for Enterprise, Adobe Journey Optimiaer, and Adobe Workfront applications.
+The embedded [!DNL Assets Essentials] experience can integrate with Creative Cloud for Enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
 
 For more information, see [Integration with other Adobe solutions](integration.md).
 
