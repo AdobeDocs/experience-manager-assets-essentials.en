@@ -43,13 +43,13 @@ The Assets Essentials end-user experience can be via a standalone web user inter
 
 ## Why Assets Essentials? {#assets-essentials-features}
 
-Assets Essentials provides various key benefits that you must consider before moving your assets from any other repository to Assets Essentials. 
+Assets Essentials provides various key benefits that facilitate your movement of assets from any other asset management repository to Assets Essentials. 
 
 ![Assets Essentials features](assets/assets-essentials-positioning.png)
 
 **Automatic deployment**
 
-Administrators get immediate access to the solution and can work with familiar functionality and user entitlements in [!DNL Adobe Admin Console].
+After the Assets Essentials solution is provisioned, Adobe starts the process to deploy Assets Essentials automatically. Administrators get immediate access to the solution and can work with familiar functionality and user entitlements in [!DNL Adobe Admin Console].
 
 Learn more on the Assets Essentials [automatic deploy process](deploy-administer.md).
 
