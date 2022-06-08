@@ -26,7 +26,7 @@ You can filter the search results based on the following parameters.
 
 *Figure: Filter searched assets based on various parameters.*
 
-* Asset Status: Filter the search results using an `Approved` or `Rejected` asset status.
+* Asset Status: Filter the search results using an `Approved`, `Rejected`, or `No Status` asset status.
 
 * File type: Filter the search results by the supported types of files that is, `Images`, `Documents`, and `Videos`.
 * MIME type: Filter for one or more of the supported file formats. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
