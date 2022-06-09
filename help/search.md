@@ -52,7 +52,7 @@ Assets Essentials provides the following custom filters:
      </tr>
      <tr>
       <td>Title</td>
-      <td>Filter assets using the asset title. You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. For example, if you define <b>ma*</b> as the search criteria, Assets Essentials returns assets with title, such as, market, marketing, man, manchester, and so on.</td>
+      <td>Filter assets using the asset title. You can use a wildcard operator (*) to enable Assets Essentials to display assets in the results that partially match the search criteria. For example, if you define <b>ma*</b> as the search criteria, Assets Essentials displays assets with title, such as, market, marketing, man, manchester, and so on in the results.</td>
      </tr>
      <tr>
       <td>Name</td>
