@@ -102,7 +102,6 @@ To set asset status:
 
    >[!VIDEO](https://video.tv.adobe.com/v/342495)
 
-<!--
 
 ### Set asset expiration date {#set-asset-expiration-date}
 
@@ -113,8 +112,6 @@ To set asset expiration date:
 1. In the **[!UICONTROL Basic]** tab, set the expiration date for the asset using the  **[!UICONTROL Expiration date]** field.
 
 The `Expired` asset card indicator overrides the `Approved` or `Rejected` indicator set for an asset.
-
--->
 
 You can also filter assets based on an asset status, for more information, see [Search assets in Assets Essentials](search.md).
 
@@ -130,13 +127,9 @@ For more information on how to add additional metadata fields to the metadata fo
 
 To add Asset Status metadata field to the form, drag **[!UICONTROL Asset Status]** component from the left rail to the form. The mapping property gets pre-populated automatically. Save the form to confirm the changes.
 
-<!--
-
 **Add Expiration Date metadata field to the form**
 
 To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** component from the left rail to the form. Specify **Expiration Date** as the label and `pur:expirationDate` as the mapping property. Save the form to confirm the changes.
-
--->
 
 ## Next Steps {#next-steps}
 
