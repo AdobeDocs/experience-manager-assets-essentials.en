@@ -29,7 +29,7 @@ Assets Essentials enables you to:
 
 ## How to access Assets Essentials? {#access-options}
 
-Assets Essentials offers a standalone web user interface for end users and administrators, giving them access to all the solution's capabilities. Users of other Adobe solutions can also access and work with assets from Asssets Essentials via an embedded experience, which is available in Creative Cloud for enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
+Assets Essentials offers a standalone web user interface for end users and administrators, giving them access to all the solution's capabilities. Users of other Adobe solutions can also access and work with assets from Assets Essentials via an embedded experience, which is available in Creative Cloud for enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
 
 ![Integrations with other solutions](assets/assets-essentials-integration.svg)
 
@@ -61,7 +61,7 @@ For more information, see [Get started with your asset management needs using As
 
 **Integration with other Adobe applications**
 
-Assets Essentials integrates with the supported Adobe solutions and provides an embedded experience from within the interfaces of these applications. It lets users easily access assets they need directly in their application. That way everyone works with the same, centrally managed assets in their familiar tools and applications. 
+Assets Essentials integrates with the supported Adobe solutions and provides an embedded experience from within the interfaces of these applications. It lets users easily access assets they need directly in their application. All users can work with the same, centrally managed assets in their familiar tools and applications. 
 
 The embedded Assets Essentials experience is available for Creative Cloud for enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
 
@@ -69,13 +69,13 @@ For more information, see [Integration with other Adobe solutions](integration.m
 
 **Cloud-based platform**
 
-Based on Adobe cloud infrastructure, Assets Essentials allows organizations to focus on their business needs around creating, managing, and distributing digital assets while Adobe ensures the solution is available, secure, scalable and always up-to-date, with product innovations provided to users seamlessly via frequent updates.
+Based on Adobe cloud infrastructure, Assets Essentials allows organizations to focus on their business needs around creating, managing, and distributing digital assets. In addition, Adobe ensures that the solution is available, secure, scalable and always up-to-date, with product innovations provided to users seamlessly via frequent updates.
 
 **Grow-with-you capabilities**
 
-Get up and running with Assetss Essentials quickly to benefit from key Digital Asset Management capabilities across various teams.
+Get up and running with Assets Essentials quickly to benefit from key Digital Asset Management capabilities across various teams.
 
-When your business needs grow and you need support for advanced Digital Asset Management requirements, such as customizations, extensibility and integrations, automation, Dynamic Media, and Brand Portal, Adobe offers [Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en) that provides them.
+When your business needs grow and you need support for advanced Digital Asset Management requirements, such as customizations, extensibility and integrations, automation, Dynamic Media, and Brand Portal, Adobe also offers [Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en).
 
 
 ## Next Steps {#next-steps}
