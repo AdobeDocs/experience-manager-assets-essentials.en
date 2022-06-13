@@ -37,6 +37,10 @@ To create a collection:
 
 1. Specify a title and an optional description for the collection.
 
+1. Select if you need to a create a Private collection or a Public collection.
+
+   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+
 1. Click **[!UICONTROL Save]** to create the collection.
    
 ## Add assets to a collection {#add-assets-to-collection}
@@ -63,13 +67,13 @@ To remove assets from a collection:
 
 1. Click **[!UICONTROL Remove]**.
 
-<!--
-
-## Manage access to a collection {#manage-collection-access}
+## Manage access to a Private collection {#manage-collection-access}
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
 For more information, see [Manage permissions for folders and collections](manage-permissions.md).
+
+<!--
 
 ## Search a collection {#search-collections}
 
@@ -97,19 +101,17 @@ To view and edit collection metadata:
 
 For more information on how to share collection links with external stakeholders, see [Share links for assets](share-links-for-assets.md).
 
-## Download collection elements {#download-collection-elements}
+## Download a collection {#download-collection}
 
-To download collection elements:
+To download a collection:
 
 1. Click **[!UICONTROL Collections]** in the left rail.
 
-1. Click the collection and select the element(s) you need to download.
+1. Select the collection that you need to download and click **[!UICONTROL Download]**.
 
-1. Click **[!UICONTROL Download]**.
+1. On the [!UICONTROL Download Asset] dialog box, specify a name for the collection and click **[!UICONTROL OK]**.
 
-1. On the [!UICONTROL Download Asset] dialog box, click **[!UICONTROL OK]**.
-
-The selected collection elements download as a .ZIP file on your local machine.
+The collection downloads as a .ZIP file on your local machine.
 
 ## Delete a collection {#delete-collection}
 
