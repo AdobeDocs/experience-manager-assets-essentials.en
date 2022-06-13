@@ -1,6 +1,6 @@
 ---
 title: Introduction to [!DNL Assets Essentials]
-description: Manage your assets with AEM Assets Essentials, a lightweight tool that works within Experience Cloud applications.
+description: Manage your assets with Experience Manager Assets Essentials, a lightweight Digital Asset Management tool that works within Experience Cloud applications.
 role: User,Leader
 exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 ---
@@ -11,67 +11,71 @@ exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 
 -->
 
-Adobe offers robust Digital Asset Management (DAM) solutions for you to get the most out of your digital assets. Adobe Experience Manager Assets Essentials is Adobe’s lightweight asset managed solution to store, manage, and discover digital assets.
+Adobe offers robust Digital Asset Management (DAM) solutions for you to get the most out of your digital assets. Adobe Experience Manager Assets Essentials is Adobe’s lightweight asset management solution to store, manage, discover, and use digital assets.
 
 ## What is Assets Essentials? {#assets-essemtials-overview}
 
 Experience Manager Assets Essentials is a lightweight edition of Adobe Experience Manager Assets Cloud Service. Assets Essentials provides unified asset management and collaboration with a simplified, modern user interface. The easy-to-use solution enables more creative and marketing teams to store, discover, and distribute digital assets.
 
-Assets Essentials enables you to quickly:
+Assets Essentials enables you to:
 
-* Manage, organize and govern assets at a central location.
+* Manage, organize, and govern assets at a central location.
 
 * Collaborate on content development across teams.
 
-* Access, search and find final approved assets.
+* Access, search, and find final approved assets.
 
 * Share and download assets for downstream delivery.
 
-## What are Assets Essentials access options? {#access-options}
+## How to access Assets Essentials? {#access-options}
 
-Assets Essentials has a standalone web user interface with complete administrator privileges.  Users can also access assets as an embedded experience via other Adobe solutions. You can access the embedded Assets Essentials experience via Creative Cloud for Enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
+Assets Essentials offers a standalone web user interface for end users and administrators, giving them access to all the solution's capabilities. Users of other Adobe solutions can also access and work with assets from Asssets Essentials via an embedded experience, which is available in Creative Cloud for enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
 
 ![Integrations with other solutions](assets/assets-essentials-integration.svg)
 
 ## Why Assets Essentials? {#assets-essentials-features}
 
-Assets Essentials provides key benefits including:
+Assets Essentials provides key benefits, allowing you to:
 
-* Get started quickly with out-of-the-box asset management tools.
+* **Get started quickly** with out-of-the-box asset management tools.
 
-* Extend access to assets to more teams to deliver consistent customer experiences.
+* Extend access to assets to more teams to deliver consistent customer experiences with **simplified asset management**.
 
-* Unify content lifecycle with native integrations into other Adobe solutions.
+* Unify content lifecycle with native **integrations into other Adobe solutions**.
 
-* Cloud-based, ready to scale platform anytime, anywhere.
+* Leverage a **cloud-based platform**, secure and ready to scale anytime, anywhere.
 
-* Start with essential DAM capabilities and grow to Enterprise DAM.
+* Start with essential DAM capabilities and **grow** to enterprise DAM.
 
-**Automatic deployment**
+**Get started quickly**
 
-After the Assets Essentials solution is provisioned, Adobe starts the process to deploy Assets Essentials automatically. Administrators get immediate access to the solution and can work with familiar functionality and user entitlements in Adobe Admin Console.
+Assets Essentials solution is provided to customers by Adobe and available after the provisioning process completes. Administrators get access to the product in Adobe Admin Console and can immediately start system configuration and user onboarding. 
 
-Learn more on the Assets Essentials [automatic deploy process](deploy-administer.md).
+Learn more on the Assets Essentials [administration and user onboarding](deploy-administer.md).
 
-**Simple interface and efficient search and discovery of digital assets**
+**Simplified asset management**
 
-Assets Essentials simplified user interface makes it easy to manage your digital assets in as simple as the following three steps:
-
-* **Step 1**: Upload and view assets.
-* **Step 2**: Search and download assets.
-* **Step 3**: Manage and organize the assets.
+Assets Essentials simplified user interface makes it easy to manage, discover, and distribute your digital assets. A broad set of users from across different functions, including creative, marketing and line-of-business teams can collaborate on assets and access the right, approved assets when and where they need them.
 
 For more information, see [Get started with your asset management needs using Assets Essentials](get-started.md).
 
 **Integration with other Adobe applications**
 
-Adobe Experience Manager Assets Essentials integrates with the supported Adobe solutions and provides an embedded experience from within the interfaces of these applications. It lets users easily access assets they need natively through the supported application.
+Assets Essentials integrates with the supported Adobe solutions and provides an embedded experience from within the interfaces of these applications. It lets users easily access assets they need directly in their application. That way everyone works with the same, centrally managed assets in their familiar tools and applications. 
 
-The embedded Assets Essentials experience can integrate with Creative Cloud for Enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
+The embedded Assets Essentials experience is available for Creative Cloud for enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
 
 For more information, see [Integration with other Adobe solutions](integration.md).
 
-When your business needs grow and you need support for complex Digital Asset Management requirements, such as, customizations, extensibility and integrations, automation, Dynamic Media, and Brand Portal, Assets Essentials allows you to migrate your assets to [AEM Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en).
+**Cloud-based platform**
+
+Based on Adobe cloud infrastructure, Assets Essentials allows organizations to focus on their business needs around creating, managing, and distributing digital assets while Adobe ensures the solution is available, secure, scalable and always up-to-date, with product innovations provided to users seamlessly via frequent updates.
+
+**Grow-with-you capabilities**
+
+Get up and running with Assetss Essentials quickly to benefit from key Digital Asset Management capabilities across various teams.
+
+When your business needs grow and you need support for advanced Digital Asset Management requirements, such as customizations, extensibility and integrations, automation, Dynamic Media, and Brand Portal, Adobe offers [Adobe Experience Manager Assets as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/home.html?lang=en) that provides them.
 
 
 ## Next Steps {#next-steps}
