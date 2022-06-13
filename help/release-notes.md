@@ -11,13 +11,13 @@ The current release of [!DNL Assets Essentials] is released on June 16, 2022. Th
 
 * Assets Essentials now enables you to [filter assets](search.md#refine-search-results) using the `No Status` asset status.
 
-* You can now [use a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+* Assets Essentials now supports [using a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
 
 * Assets Essentials now enables you to [set an expiration date for an asset](manage-organize.md#set-asset-status) in Assets Essentials. In addition, you can [filter assets](search.md#refine-search-results) based on the `Expired` asset status and an expiration date range.
 
 * Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
 
-* You can now [download a collection](manage-collections.md).
+* Assets Essentials now supports [downloading a collection](manage-collections.md).
 
 * Enhancements and bug fixes based on customer feedback.
 
