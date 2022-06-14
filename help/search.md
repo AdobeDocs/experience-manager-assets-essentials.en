@@ -31,8 +31,12 @@ You can filter the search results based on the following parameters.
 * File type: Filter the search results by the supported types of files that is, `Images`, `Documents`, and `Videos`.
 * MIME type: Filter for one or more of the supported file formats. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
 * Image size: Provide one of more of the minimum and maximum dimensions to filter images. Size is provided in dimensions in pixel and is not the file size of the images.
-* Create date: The creation date of the asset as provided in the metadata. The standard date format used is `yyyy-mm-dd`.
+* Created date: The creation date of the asset as provided in the metadata. The standard date format used is `yyyy-mm-dd`.
 * Modified date: The last modified date of the assets. The standard date format used is `yyyy-mm-dd`.
+
+* Expiration Date: Filter the search results based on an `Expired` asset status. In addition, you can specify an expiration date range for assets to further filter your search results.
+
+* Custom Filters: [Add custom filters](#custom-filters) to Assets Essentials user interface. Apply the custom filters in addition to the standard filters to refine your search results.
 
 You can sort the searched assets in increasing or decreasing order of `Name`, `Relevancy`, `Size`, `Modified`, and `Created`.
 
