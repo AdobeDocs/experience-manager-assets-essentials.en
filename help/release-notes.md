@@ -21,6 +21,8 @@ The current release of [!DNL Assets Essentials] is released on June 16, 2022. Th
 
 * Assets Essentials now supports [downloading a collection](manage-collections.md).
 
+* You can now edit the Description metadata field for a collection.
+
 * Enhancements and bug fixes based on customer feedback.
 
 ## Known issues {#known-issues}
