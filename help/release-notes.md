@@ -27,9 +27,7 @@ The current release of [!DNL Assets Essentials] is released on June 16, 2022. Th
 
 The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
 
-* You cannot filter assets using the `No Status` asset status.
-
-* Assets Essentials does not support creating Private collections.
+* None
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
