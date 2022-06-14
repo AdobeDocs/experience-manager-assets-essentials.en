@@ -109,7 +109,7 @@ To download a collection:
 
 1. Select the collection that you need to download and click **[!UICONTROL Download]**.
 
-1. On the [!UICONTROL Download Asset] dialog box, specify a name for the collection and click **[!UICONTROL OK]**.
+1. On the [!UICONTROL Downloading Asset] dialog box, click **[!UICONTROL OK]**.
 
 The collection downloads as a .ZIP file on your local machine.
 
