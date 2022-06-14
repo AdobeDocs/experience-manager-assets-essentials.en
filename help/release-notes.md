@@ -15,6 +15,8 @@ The current release of [!DNL Assets Essentials] is released on June 16, 2022. Th
 
 * Assets Essentials now enables you to [set an expiration date for an asset](manage-organize.md#set-asset-status) in Assets Essentials. In addition, you can [filter assets](search.md#refine-search-results) based on the `Expired` asset status and an expiration date range.
 
+* You can now view the asset status indicator for all assets available in Trash. As a result, you can take a decision to restore an asset based on its status. 
+
 * Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
 
 * Assets Essentials now supports [downloading a collection](manage-collections.md).
