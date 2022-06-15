@@ -33,7 +33,11 @@ This release provides:
 
 **Documentation enhancements**
 
-* A new version of the [Assets Essentials overview documentation](introduction.md) is now available.  
+* A new version of the [Assets Essentials overview documentation](introduction.md) is now available.
+
+**Improvements based on customer feedback**
+
+* Enhancements and bug fixes based on customer feedback.
 
 
 ## Known issues {#known-issues}
