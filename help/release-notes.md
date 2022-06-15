@@ -9,10 +9,6 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 
 The current release of [!DNL Assets Essentials] is released on June 16, 2022. 
 
-**Product Announcements**
-
-* Assets Essentials is now [available as a standalone solution](introduction.md).
-
 This release provides:
 
 **Asset Status enhancements**
@@ -35,7 +31,10 @@ This release provides:
 
 * You can now edit the Description metadata field for a collection.
 
-* Enhancements and bug fixes based on customer feedback.
+**Documentation enhancements**
+
+* A new version of the [Assets Essentials overview documentation](introduction.md) is now available.  
+
 
 ## Known issues {#known-issues}
 
