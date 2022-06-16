@@ -15,6 +15,8 @@ You can share collections with various users that are assigned different levels 
 
 You can share multiple collections with a user. Each collection contains references to assets. The referential integrity of assets is maintained across collections.
 
+![Collections](assets/collections.png)
+
 You can perform the following tasks to manage and use collections:
 
 * [Create a collection](#create-collection)
@@ -38,6 +40,8 @@ To create a collection:
 1. Specify a title and an optional description for the collection.
 
 1. Click **[!UICONTROL Save]** to create the collection.
+
+![Create collection](assets/create-collection.png)
 
 <!--
 
@@ -101,11 +105,15 @@ To view and edit collection metadata:
 
 1. Click **[!UICONTROL Collections]** in the left rail, select a collection, and click **[!UICONTROL Details]**.
 1. View the collection metadata using the **[!UICONTROL Basic]** tab.
-1. Modify the metadata fields, as necessary. You can modify the [!UICONTROL Title], [!UICONTROL Description], and [!UICONTROL Author] fields. 
+1. Modify the metadata fields, as necessary. You can modify the [!UICONTROL Title], [!UICONTROL Description], and [!UICONTROL Author] fields.
+
+![Collection metadata](assets/collection-metadata.png)
 
 ## Share links for collections {#share-collection-links}
 
 [!DNL Assets Essentials] enables you to generate a link and share collections and assets within collections with external stakeholders, who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link can preview assets and download them.
+
+![Share link for assets](assets/share-link-collections.png)
 
 For more information on how to share collection links with external stakeholders, see [Share links for assets](share-links-for-assets.md).
 
