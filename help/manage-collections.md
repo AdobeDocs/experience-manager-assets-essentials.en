@@ -23,7 +23,7 @@ You can perform the following tasks to manage and use collections:
 
 * [Add assets to a collection](#add-assets-to-collection)
 
-* [Remove assets to a collection](#remove-assets-from-collection)
+* [Remove assets from a collection](#remove-assets-from-collection)
 
 * [View and edit collection metadata](#view-edit-collection-metadata)
 
