@@ -27,7 +27,7 @@ You can perform the following tasks to manage and use collections:
 
 * [View and edit collection metadata](#view-edit-collection-metadata)
 
-* [Download collection elements](#download-collection-elements)
+* [Download a collection](#download-collection)
 
 * [Delete a collection](#delete-collection)
 
