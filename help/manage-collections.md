@@ -37,11 +37,15 @@ To create a collection:
 
 1. Specify a title and an optional description for the collection.
 
+1. Click **[!UICONTROL Save]** to create the collection.
+
+<!--
+
 1. Select if you need to a create a Private collection or a Public collection.
 
    A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
 
-1. Click **[!UICONTROL Save]** to create the collection.
+-->
    
 ## Add assets to a collection {#add-assets-to-collection}
 
@@ -67,11 +71,15 @@ To remove assets from a collection:
 
 1. Click **[!UICONTROL Remove]**.
 
+<!--
+
 ## Manage access to a Private collection {#manage-collection-access}
 
 The permission management for collections function in the same manner as folders in [!DNL Assets Essentials]. Administrators can manage the access levels for collections available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the collection-level.
 
 For more information, see [Manage permissions for folders and collections](manage-permissions.md).
+
+-->
 
 <!--
 
