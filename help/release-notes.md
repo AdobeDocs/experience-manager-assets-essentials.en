@@ -7,6 +7,59 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
+The current release of [!DNL Assets Essentials] is released on June 16, 2022. 
+
+This release provides:
+
+**Asset Status enhancements**
+
+* Assets Essentials now enables you to [set an expiration date for an asset](manage-organize.md#set-asset-status). In addition, you can [filter assets](search.md#refine-search-results) based on the `Expired` asset status and an expiration date range.
+
+* You can now view the asset status indicator for all assets available in Trash. As a result, you can take a decision to restore an asset based on its status.
+
+**Search filters enhancements**
+
+* Assets Essentials now enables you to [filter assets](search.md#refine-search-results) using the `No Status` asset status.
+
+<!--
+
+* Assets Essentials now supports [using a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+-->
+
+**Collections enhancements**
+
+<!--
+
+* Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
+
+-->
+
+* Assets Essentials now supports [downloading a collection](manage-collections.md).
+
+* You can now edit the Description metadata field for a collection.
+
+**Documentation enhancements**
+
+* A new version of the [Assets Essentials overview documentation](introduction.md) is now available.
+
+**Improvements based on customer feedback**
+
+* Enhancements and bug fixes based on customer feedback.
+
+
+## Known issues {#known-issues}
+
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+
+* Assets Essentials does not support creating Private collections.
+
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
+
+## Past releases {#past-release}
+
+### 2022.4.0 {#april-2022}
+
 The current release of [!DNL Assets Essentials] is released on May 12, 2022. This release provides:
 
 * [!DNL Assets Essentials] now supports [creating collections](manage-collections.md). A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users. Unlike folders, a collection can include assets from different locations.
@@ -17,25 +70,13 @@ The current release of [!DNL Assets Essentials] is released on May 12, 2022. Thi
 
 * Enhancements and bug fixes based on customer feedback.
 
-## Incognito mode in Chrome {#incognito-mode}
+#### Incognito mode in Chrome {#incognito-mode}
 
 With this release, we are optimizing performance of the UI delivery and specific features in Assets Essentials - commenting on assets and image editing - depends on browser local storage and third-party cookies being enabled. The incognito mode in the Chrome web browser blocks third-party cookies by default - users have a number of options to continue to access to all capabilities:
 
 * Use Chrome Profiles instead of Incognito mode, when user needs to separate browser sessions
 
 * Turn off the `Block third-party cookies` on the Incognito mode screen in Chrome
-
-## Known issues {#known-issues}
-
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
-
-* You cannot filter assets using the `No Status` asset status.
-
-* Assets Essentials does not support creating Private collections.
-
-If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
-
-## Past releases {#past-release}
 
 ### 2022.2.0 {#march-2022}
 
