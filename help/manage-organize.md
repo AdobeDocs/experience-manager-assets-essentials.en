@@ -105,6 +105,8 @@ To set asset status:
 
 ### Set asset expiration date {#set-asset-expiration-date}
 
+Assets Essentials also allows you to set expiration date on assets available in the repository. You can then [filter the search results](search.md#refine-search-results) based on an `Expired` asset status. In addition, you can specify an expiration date range for assets to further filter your search results.
+
 To set asset expiration date:
 
 1. Select the asset, and click **[!UICONTROL Details]** in the toolbar.
