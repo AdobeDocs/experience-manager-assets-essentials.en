@@ -21,11 +21,19 @@ This release provides:
 
 * Assets Essentials now enables you to [filter assets](search.md#refine-search-results) using the `No Status` asset status.
 
+<!--
+
 * Assets Essentials now supports [using a wildcard operator (*) while using custom filters](search.md#custom-filters) to enable Assets Essentials to display assets in the results that partially match the search criteria.
+
+-->
 
 **Collections enhancements**
 
+<!--
+
 * Assets Essentials now enables you to [create Private collections](manage-collections.md#create-collection).
+
+-->
 
 * Assets Essentials now supports [downloading a collection](manage-collections.md).
 
@@ -44,7 +52,7 @@ This release provides:
 
 The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
 
-* None
+* Assets Essentials does not support creating Private collections.
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
