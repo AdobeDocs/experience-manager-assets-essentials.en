@@ -1,6 +1,7 @@
 ---
 title: Manage reports in Assets Essentials
 description: Use the information in the reports in Assets Essentials to derive key success metrics to measure the adoption of Assets within your enterprise and by customers.
+exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 ---
 # Manage reports {#manage-reports}
 
