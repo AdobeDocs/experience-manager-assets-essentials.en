@@ -35,5 +35,7 @@ solution: Experience Manager
 + [Manage asset metadata](metadata.md)
 + [Share assets](share-links-for-assets.md)
 + [Manage collections](manage-collections.md)
++ [Manage notifications](manage-notifications.md)
++ [Manage reports](manage-reports.md)
 + [Integration with other solutions](integration.md)
 + [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
