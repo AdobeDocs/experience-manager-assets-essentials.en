@@ -7,6 +7,50 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
+The current release of [!DNL Assets Essentials] is released on July 14, 2022. 
+
+This release provides:
+
+**Smart Collections**
+
+Save your search results as a Smart Collection to dynamically update the collection contents. If there are assets added to the Assets Essentials repository that fit the search criteria defined while [creating the Smart Collection](manage-collections.md#create-smart-collection), the contents of the Smart Collection get updated automatically.
+
+**Notifications**
+
+Assets Essentials notifications enable you to [monitor the operations performed on the assets or folders available in the repository](manage-notifications.md). You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the categories for which the notifications are sent to you.
+
+**Reporting**
+
+Asset reporting lets administrators assess the user activity within Adobe Experience Manager Assets Essentials. The reports and live statistics dashboard provide useful information about how users interact with assets available in your deployment. [Use the information in the reports](manage-reports.md) to derive key success metrics to measure the adoption of Assets within your enterprise and by customers.
+
+View asset download reports and live statistics dashboard module to see which assets are being downloaded and the frequency of downloads. 
+
+**Improvements based on customer feedback**
+
+Enhancements and bug fixes based on customer feedback.
+
+
+## Known issues {#known-issues}
+
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Assets Essentials does not support editing a Smart Collection.
+
+* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
+
+## Past releases {#past-release}
+
+### 2022.5.0 {#may-2022}
+
 The current release of [!DNL Assets Essentials] is released on June 16, 2022. 
 
 This release provides:
@@ -46,17 +90,6 @@ This release provides:
 **Improvements based on customer feedback**
 
 * Enhancements and bug fixes based on customer feedback.
-
-
-## Known issues {#known-issues}
-
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
-
-* Assets Essentials does not support creating Private collections.
-
-If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
-
-## Past releases {#past-release}
 
 ### 2022.4.0 {#april-2022}
 
