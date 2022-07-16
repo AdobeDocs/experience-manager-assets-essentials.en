@@ -1,21 +1,19 @@
 ---
 title: Manage reports in Assets Essentials
-description: Use the information in the reports in Assets Essentials to derive key success metrics to measure the adoption of Assets within your enterprise and by customers.
+description: Access the data in the reports section of Assets Essentials to assess product and feature usage and derive insights on key success metrics.
 exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 ---
 # Manage reports {#manage-reports}
 
-Asset reporting lets administrators assess the utility of Adobe Experience Manager Assets Essentials deployment. The reports provide useful information about how users interact with assets available in your deployment.
-
-Use the information in the reports to derive key success metrics to measure the adoption of Assets within your enterprise and by customers.
+Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. 
 
 ## Access reports {#access-reports}
 
-All users who are assigned to the [Assets Essentials Administrators product profile](deploy-administer.md) can access live statistics and reports in Assets Essentials.
+All users who are assigned to the [Assets Essentials Administrators product profile](deploy-administer.md) can access the Live Statistics dashboard and create user-defined reports in Assets Essentials.
 
 ## View live statistics {#view-live-statistics}
 
-Assets Essentials enables you to view automatically generated download data for your Assets Essentials deployment. You can select to view the number of asset downloads performed during the last 30 days or for the last 12 months.
+Assets Essentials enables you to view real-time data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics during the last 30 days or for the last 12 months. 
 
 ![Toolbar options when you select an asset](assets/asset-reports-live-statistics.png)
 
@@ -94,9 +92,9 @@ The following table explains the use of all columns that you can add to the repo
     </tbody>
    </table>
 
-## View the list of reports {#view-report-list}
+## View existing reports {#view-report-list}
 
-After [creating the report](#create-report), you can view the list of reports and select to download them in a CSV format or delete them.
+After [creating the report](#create-report), you can view the list of existing reports and select to download them in a CSV format or delete them.
 
 To view the list of reports, navigate to **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 

@@ -39,15 +39,15 @@ To create a collection:
 
 1. Specify a title and an optional description for the collection.
 
+1. Select if you need to a create a Private collection or a Public collection. A Public collection is available for viewing and editing to all users. However, a Private collection is available to the creator and users with administrator privileges.
+   
 1. Click **[!UICONTROL Save]** to create the collection.
 
 ![Create collection](assets/create-collection.png)
 
-<!--
-
-1. Select if you need to a create a Private collection or a Public collection.
-
-   A Public collection is available for viewing and editing to all users. However, if you are a non-administrator user, a Private collection is available for viewing and editing only to users with the appropriate [permissions](#manage-collection-access). 
+ <!--
+   
+   for viewing and editing only to users with the appropriate [permissions](#manage-collection-access).
 
 -->
    
@@ -64,6 +64,25 @@ To add assets to a collection:
 1. Click **[!UICONTROL Add]** to add the asset to the selected collections.
 
 To add assets to collection, you can also click **[!UICONTROL Collections]** in the left rail, click the collection to add assets to, click **[!UICONTROL Add to Collection]**, select the asset(s) and click **[!UICONTROL Select]**.
+
+## Create a Smart Collection {#create-smart-collection}
+
+Save your search results as a Smart Collection to dynamically update the collection contents. If there are assets added to the Assets Essentials repository that fit the search criteria defined while creating the Smart Collection, the contents of the Smart Collection get updated automatically.
+
+To create a Smart Collection:
+
+1. Click **[!UICONTROL Filter]** and [define the search criteria](search.md##refine-search-results).
+
+1. Click **[!UICONTROL Save as]** and then select **[!UICONTROL Smart Collection]**.
+
+1. On the [!UICONTROL Create Smart Collection] dialog box, specify a title and a description for the Smart Collection.
+
+1. Select **[!UICONTROL Public Collection]** if you need all users to access the collection. Select **[!UICONTROL Private Collection]** if you need a limited group of users to access the collection.
+
+1. Click **[!UICONTROL Create]** to create the Smart Collection.
+
+![Create smart collection](assets/create-smart-collection.png)
+
 
 ## Remove assets from a collection {#remove-assets-from-collection}
 
