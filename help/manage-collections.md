@@ -41,7 +41,7 @@ To create a collection:
 
 1. Select if you need to a create a Private collection or a Public collection. A Public collection is available for viewing and editing to all users. However, a Private collection is available to the creator and users with administrator privileges.
    
-1. Click **[!UICONTROL Save]** to create the collection.
+1. Click **[!UICONTROL Create]** to create the collection.
 
 ![Create collection](assets/create-collection.png)
 
