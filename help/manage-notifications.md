@@ -1,6 +1,7 @@
 ---
 title: Manage notifications
-description: Monitor the operations performed on the assets or folders available in the repository using the Assets Essentials notifications. 
+description: Monitor the operations performed on the assets or folders available in the repository using the Assets Essentials notifications.
+exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 ---
 # Manage notifications {#manage-notifications}
 
@@ -93,8 +94,3 @@ The notifications appear at the right end of the menu bar on the Assets Essentia
 ![Notifications in Assets Essentials](assets/notifications-assets-essentials.png)
 
 When you click a notification, Assets Essentials navigates you to the appropriate asset or folder that is referred to in the notification.
-
-
-
-
-
