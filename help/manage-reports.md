@@ -94,7 +94,7 @@ The following table explains the use of all columns that you can add to the repo
     </tbody>
    </table>
 
-## Create an Upload report {#create-download-report}
+## Create an Upload report {#create-upload-report}
 
 To create an Upload report:
 
