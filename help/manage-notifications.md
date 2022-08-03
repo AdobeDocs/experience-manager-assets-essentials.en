@@ -5,7 +5,7 @@ exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 ---
 # Manage notifications {#manage-notifications}
 
-Assets Essentials notifications enable you to monitor the operations performed on the assets or folders available in the repository. You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the categories for which the notifications are sent to you.
+Assets Essentials notifications enable you to monitor the operations performed on the assets, folders, or collections available in the repository. You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the categories for which the notifications are sent to you.
 
 ## Subscribe to notification categories {#subscribe-to-notification-categories}
 
@@ -31,11 +31,11 @@ You can choose and subscribe from a list of categories to receive notifications.
      </tr>
      <tr>
       <td>Deletion of subscribed content</td>
-      <td>You receive a notification when a user deletes your subscribed asset or folder.</td>
+      <td>You receive a notification when a user deletes your subscribed asset, folder, or collection.</td>
      </tr>
      <tr>
       <td>External Share of subscribed content</td>
-      <td>You receive a notification when a user generates a public link for your subscribed asset or folder.</td>
+      <td>You receive a notification when a user generates a public link for your subscribed asset, folder, or collection.</td>
      </tr>
      <tr>
       <td>Modification of subscribed content</td>
@@ -43,11 +43,11 @@ You can choose and subscribe from a list of categories to receive notifications.
      </tr>
      <tr>
       <td>Move/Rename of subscribed content</td>
-      <td>You receive a notification when a user moves or renames your subscribed asset or folder.</td>
+      <td>You receive a notification when a user moves or renames your subscribed asset, folder, or collection.</td>
      </tr>
      <tr>
       <td>Updates on subscribed folders and collections</td>
-      <td>You receive a notification when a user adds or removes an asset from a subscribed folder.</td>
+      <td>You receive a notification when a user adds or removes an asset from a subscribed folder or collection.</td>
      </tr>    
     </tbody>
    </table>
@@ -69,7 +69,7 @@ To subscribe to the notification categories:
 
 1. Select the notification categories for which you need to be notified.
 
-## Watch and unwatch folders or assets {#watch-unwatch-assets}
+## Watch and unwatch folders, assets, or collections {#watch-unwatch-assets}
 
 After [subscribing to the notification categories](#subscribe-to-notification-categories), you must subscribe to the content to start receiving notifications.
 
@@ -77,15 +77,15 @@ After [subscribing to the notification categories](#subscribe-to-notification-ca
 >
 >For **[!UICONTROL Requests]** and **[!UICONTROL Assigned to me]** notification categories, you do not need to subscribe to the content after subscribing to the notification categories. Notifications are automatically sent to you for requests created by you and when a task is assigned to you. 
 
-To subscribe to the content, select the folder or asset that you need to subscribe to and click **[!UICONTROL Watch]**.
+To subscribe to the content, select the folder, asset, or collection that you need to subscribe to and click **[!UICONTROL Watch]**.
 
 Assets Essentials displays a success message. You can click **[!UICONTROL Go to notification preferences]** available on the success message to edit your [subscription to notification categories](#subscribe-to-notification-categories).
 
 ![Notifications in Assets Essentials](assets/watch-assets.png)
 
-Assets Essentials now sends notifications for the subscribed categories. You can also select multiple assets or folders and click **[!UICONTROL Watch]** to save time. However, if you select multiple entities out of which some of them have already been subscribed, then the **[!UICONTROL Watch]** option does not display.
+Assets Essentials now sends notifications for the subscribed categories. You can also select multiple assets, folders, or collections and click **[!UICONTROL Watch]** to save time. However, if you select multiple entities out of which some of them have already been subscribed, then the **[!UICONTROL Watch]** option does not display.
 
-Similarly, to unsubscribe, select the asset or folder that you have subscribed for and click **[!UICONTROL Unwatch]**.
+Similarly, to unsubscribe, select the asset, folder, or collection that you have subscribed for and click **[!UICONTROL Unwatch]**.
 
 ## View notifications {#view-notifications}
 
