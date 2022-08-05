@@ -28,7 +28,7 @@ Once all files are queued, click **[!UICONTROL Upload]**.
 
 >[!TIP]
 >
->If you want to upload a folder structure to Assets Essentials, you do not have to create a zip file with the folder structure, you can upload folder structures directly. A zip file uploaded to Assets Essentials is stored as one ZIP asset and not extracted automatically after the upload. 
+>In case you upload a folder structure to Assets Essentials, you do not need to create a .ZIP file with the folder structure, you can upload folder structures directly. A .ZIP file uploaded to Assets Essentials is stored as one ZIP asset and is not extracted automatically after the upload. 
 
 ## View upload progress and status {#upload-progress}
 
