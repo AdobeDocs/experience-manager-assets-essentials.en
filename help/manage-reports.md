@@ -15,9 +15,15 @@ All users who are assigned to the [Assets Essentials Administrators product prof
 
 Assets Essentials enables you to view real-time data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics during the last 30 days or for the last 12 months. 
 
-![Toolbar options when you select an asset](assets/asset-reports-live-statistics.png)
+![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)
 
-Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** to view the automatically generated download data.
+Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** to view the following automatically generated charts:
+
+* Downloads: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+
+* Uploads: The number assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+
+* Storage usage: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
 
 ## Create a Download report {#create-download-report}
 
