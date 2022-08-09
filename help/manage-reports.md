@@ -19,11 +19,11 @@ Assets Essentials enables you to view real-time data for your Assets Essentials 
 
 Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** to view the following automatically generated charts:
 
-* Downloads: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+* **Downloads**: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
-* Uploads: The number assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+* **Uploads**: The number assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
-* Storage usage: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
+* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
 
 ## Create a Download report {#create-download-report}
 
