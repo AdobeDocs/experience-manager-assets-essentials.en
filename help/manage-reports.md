@@ -23,7 +23,11 @@ Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** to view
 
 * **Uploads**: The number assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
+<!--
+
 * **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
+
+-->
 
 ## Create a Download report {#create-download-report}
 

@@ -35,7 +35,7 @@ You can choose and subscribe from a list of categories to receive notifications.
      </tr>
      <tr>
       <td>External Share of subscribed content</td>
-      <td>You receive a notification when a user generates a public link for your subscribed asset, folder, or collection.</td>
+      <td>You receive a notification when a user generates a public link for your subscribed asset or folder.</td>
      </tr>
      <tr>
       <td>Modification of subscribed content</td>

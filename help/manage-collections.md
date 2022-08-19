@@ -23,9 +23,15 @@ You can perform the following tasks to manage and use collections:
 
 * [Add assets to a collection](#add-assets-to-collection)
 
+* [Create a Smart Collection](#create-smart-collection)
+
+* [Edit a Smart Collection](#edit-smart-collection)
+
 * [Remove assets from a collection](#remove-assets-from-collection)
 
 * [View and edit collection metadata](#view-edit-collection-metadata)
+
+* [Share links for collections](#share-collection-links)
 
 * [Download a collection](#download-collection)
 
