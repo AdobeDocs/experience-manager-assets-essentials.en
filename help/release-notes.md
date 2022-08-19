@@ -19,9 +19,13 @@ Assets Essentials notifications now enable you to monitor the operations perform
 
 Assets Essentials now also provides the ability to edit the search criteria used while creating a smart collection.  Save the new search criteria to update the collection contents dynamically.
 
+<!--
+
 **View live statistics for storage account**
 
 Assets Essentials now also enables you to view real-time storage account data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics for the last 30 days or for the last 12 months.
+
+-->
 
 **View upload reports**
 
