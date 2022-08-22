@@ -7,7 +7,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on August 16, 2022.
+The current release of Assets Essentials is released on August 22, 2022.
 
 This release provides:
 
