@@ -51,7 +51,7 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
-## Past releases {#past-release}
+## Past releases {#past-releases}
 
 ### 2022.6.0 {#june-2022}
 
@@ -179,7 +179,7 @@ In addition, [!DNL Adobe Asset Link] extension for Creative Cloud (Photoshop, Il
 
 ### 2021.6.0 release {#june2021}
 
-The first release of [!DNL Assets Essentials], made available on June 21, 2021, offers lightweight asset management capabilities. It supports the following major features and CRUD (create, read, update, and delete) operations:
+The first release of [!DNL Assets Essentials], made available on June 21, 2021, offers lightweight asset management capabilities. It supports the following major features and CRUD (Create, Read, Update, and Delete) operations:
 
 * Upload and add assets, including nested folders. Preview the assets and versions.
 * Full-text search, nuanced search filters, and saved searches for rapid asset discovery.
