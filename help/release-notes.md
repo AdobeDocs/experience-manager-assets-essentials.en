@@ -7,23 +7,29 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of [!DNL Assets Essentials] is released on July 14, 2022. 
+The current release of Assets Essentials is released on August 16, 2022.
 
 This release provides:
 
-**Smart Collections**
+**Notifications for collections**
 
-Save your search results as a Smart Collection to dynamically update the collection contents. If there are assets added to the Assets Essentials repository that fit the search criteria defined while [creating the Smart Collection](manage-collections.md#create-smart-collection), the contents of the Smart Collection get updated automatically.
+Assets Essentials notifications now enable you to monitor the operations performed on the collections available in the repository. You need to select and subscribe to the collections for which the notifications are sent to you. You can also configure the operations for which the notifications are sent such as delete, share link, move, rename, and update operations performed on collections.
 
-**Notifications**
+**Edit Smart Collections**
 
-Assets Essentials notifications enable you to [monitor the operations performed on the assets or folders available in the repository](manage-notifications.md). You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the categories for which the notifications are sent to you.
+Assets Essentials now also provides the ability to edit the search criteria used while creating a smart collection.  Save the new search criteria to update the collection contents dynamically.
 
-**Reporting**
+<!--
 
-Asset reporting lets administrators assess the user activity within Adobe Experience Manager Assets Essentials. The reports and live statistics dashboard provide useful information about how users interact with assets available in your deployment. [Use the information in the reports](manage-reports.md) to derive key success metrics to measure the adoption of Assets within your enterprise and by customers.
+**View live statistics for storage account**
 
-View asset download reports and live statistics dashboard module to see which assets are being downloaded and the frequency of downloads. 
+Assets Essentials now also enables you to view real-time storage account data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics for the last 30 days or for the last 12 months.
+
+-->
+
+**View upload reports**
+
+Asset reporting now provides administrators with visibility into assets uploaded to the Adobe Experience Manager Assets Essentials deployment. Administrators already have the ability to generate reports for the assets downloaded from the Assets Essentials deployment. This data provides useful information about how users interact with content and the product. 
 
 **Improvements based on customer feedback**
 
@@ -41,17 +47,35 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 -->
 
 
-* Assets Essentials does not support editing a Smart Collection.
-
 * Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
 ## Past releases {#past-release}
 
+### 2022.6.0 {#june-2022}
+
+The June release of [!DNL Assets Essentials] is released on July 14, 2022. 
+
+This release provides:
+
+**Smart Collections**
+
+Save your search results as a Smart Collection to dynamically update the collection contents. If there are assets added to the Assets Essentials repository that fit the search criteria defined while [creating the Smart Collection](manage-collections.md#create-smart-collection), the contents of the Smart Collection get updated automatically.
+
+**Notifications**
+
+Assets Essentials notifications enable you to [monitor the operations performed on the assets or folders available in the repository](manage-notifications.md). You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the categories for which the notifications are sent to you.
+
+**Reporting**
+
+Asset reporting lets administrators assess the user activity within Adobe Experience Manager Assets Essentials. The reports and live statistics dashboard provide useful information about how users interact with assets available in your deployment. [Use the information in the reports](manage-reports.md) to derive key success metrics to measure the adoption of Assets within your enterprise and by customers.
+
+View asset download reports and live statistics dashboard module to see which assets are being downloaded and the frequency of downloads.
+
 ### 2022.5.0 {#may-2022}
 
-The current release of [!DNL Assets Essentials] is released on June 16, 2022. 
+The May release of [!DNL Assets Essentials] is released on June 16, 2022. 
 
 This release provides:
 

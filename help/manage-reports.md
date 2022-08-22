@@ -15,17 +15,29 @@ All users who are assigned to the [Assets Essentials Administrators product prof
 
 Assets Essentials enables you to view real-time data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics during the last 30 days or for the last 12 months. 
 
-![Toolbar options when you select an asset](assets/asset-reports-live-statistics.png)
+![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)
 
-Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** to view the automatically generated download data.
+Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** to view the following automatically generated charts:
 
-## Create a report {#create-report}
+* **Downloads**: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
-To create a report:
+* **Uploads**: The number assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+
+<!--
+
+* **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
+
+-->
+
+## Create a Download report {#create-download-report}
+
+To create a Download report:
 
 1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Reports]** and click **[!UICONTROL Create Report]**.
 
-1. In the [!UICONTROL Configuration] tab, specify a title and an optional description for the report.
+1. In the [!UICONTROL Configuration] tab, specify the report type as **[!UICONTROL Download]**.
+
+1. Specify a title and an optional description for the report.
 
 1. Select the folder path, which comprises the assets to execute the report on, using the **[!UICONTROL Select Folder Path]** field.
 
@@ -54,7 +66,7 @@ The following table explains the use of all columns that you can add to the repo
       <td>The folder path where the asset is available in Assets Essentials.</td>
      </tr>
      <tr>
-      <td>Type</td>
+      <td>MIME Type</td>
       <td>The MIME type for the asset.</td>
      </tr>
      <tr>
@@ -89,6 +101,69 @@ The following table explains the use of all columns that you can add to the repo
       <td>Downloaded By User Name</td>
       <td>The name of the user who downloaded the asset.</td>
      </tr>           
+    </tbody>
+   </table>
+
+## Create an Upload report {#create-upload-report}
+
+To create an Upload report:
+
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Reports]** and click **[!UICONTROL Create Report]**.
+
+1. In the [!UICONTROL Configuration] tab, specify the report type as **[!UICONTROL Upload]**.
+
+1. Specify a title and an optional description for the report.
+
+1. Select the folder path, which comprises the assets to execute the report on, using the **[!UICONTROL Select Folder Path]** field.
+
+1. Select the date interval for the report.
+
+1. In the [!UICONTROL Columns] tab, select the column names that you need to display in the report.
+
+1. Click **[!UICONTROL Create]**.
+
+   ![Upload Report](assets/upload-reports-config.png)
+
+The following table explains the use of all columns that you can add to the report:
+
+<table>
+    <tbody>
+     <tr>
+      <th><strong>Column name</strong></th>
+      <th><strong>Description</strong></th>
+     </tr>
+     <tr>
+      <td>Title</td>
+      <td>The title of the asset.</td>
+     </tr>
+     <tr>
+      <td>Path</td>
+      <td>The folder path where the asset is available in Assets Essentials.</td>
+     </tr>
+     <tr>
+      <td>MIME Type</td>
+      <td>The MIME type for the asset.</td>
+     </tr>
+     <tr>
+      <td>Size</td>
+      <td>The size of the asset.</td>
+     </tr>
+     <tr>
+      <td>Author</td>
+      <td>The author for the asset.</td>
+     </tr>
+     <tr>
+      <td>Creation Date</td>
+      <td>The date when the asset is uploaded to Assets Essentials.</td>
+     </tr>
+     <tr>
+      <td>Modified Date</td>
+      <td>The date when the asset is last modified.</td>
+     </tr>
+     <tr>
+      <td>Expired</td>
+      <td>The expiration status of the asset.</td>
+     </tr>              
     </tbody>
    </table>
 

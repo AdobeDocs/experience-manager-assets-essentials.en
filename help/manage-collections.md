@@ -23,9 +23,15 @@ You can perform the following tasks to manage and use collections:
 
 * [Add assets to a collection](#add-assets-to-collection)
 
+* [Create a Smart Collection](#create-smart-collection)
+
+* [Edit a Smart Collection](#edit-smart-collection)
+
 * [Remove assets from a collection](#remove-assets-from-collection)
 
 * [View and edit collection metadata](#view-edit-collection-metadata)
+
+* [Share links for collections](#share-collection-links)
 
 * [Download a collection](#download-collection)
 
@@ -65,9 +71,11 @@ To add assets to a collection:
 
 To add assets to collection, you can also click **[!UICONTROL Collections]** in the left rail, click the collection to add assets to, click **[!UICONTROL Add to Collection]**, select the asset(s) and click **[!UICONTROL Select]**.
 
-## Create a Smart Collection {#create-smart-collection}
+## Manage a Smart Collection {#manage-smart-collection}
 
 Save your search results as a Smart Collection to dynamically update the collection contents. If there are assets added to the Assets Essentials repository that fit the search criteria defined while creating the Smart Collection, the contents of the Smart Collection get updated automatically.
+
+### Create a Smart Collection {#create-smart-collection}
 
 To create a Smart Collection:
 
@@ -75,14 +83,25 @@ To create a Smart Collection:
 
 1. Click **[!UICONTROL Save as]** and then select **[!UICONTROL Smart Collection]**.
 
+   ![Create smart collection](assets/create-smart-collection.png)
+
 1. On the [!UICONTROL Create Smart Collection] dialog box, specify a title and a description for the Smart Collection.
 
 1. Select **[!UICONTROL Public Collection]** if you need all users to access the collection. Select **[!UICONTROL Private Collection]** if you need a limited group of users to access the collection.
 
 1. Click **[!UICONTROL Create]** to create the Smart Collection.
 
-![Create smart collection](assets/create-smart-collection.png)
+### Edit a Smart Collection {#edit-smart-collection}
 
+To edit a Smart Collection:
+
+1. Click **[!UICONTROL Collections]** in the left rail and then double-click the name of the collection that you need to edit.
+
+1. Click **[!UICONTROL Edit Smart Collection]**.
+
+1. On the [!UICONTROL Edit Smart Collection Filters] dialog box, [update the search criteria](search.md##refine-search-results) for the Smart Collection.
+
+1. Click **[!UICONTROL Save]**.
 
 ## Remove assets from a collection {#remove-assets-from-collection}
 
