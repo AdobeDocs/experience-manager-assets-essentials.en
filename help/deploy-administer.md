@@ -54,7 +54,7 @@ To add user groups to product profiles:
 1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click the instance for [!DNL Assets Essentials]. The name of the instance might be different than in the screenshot below. 
    >[!NOTE]
    >
-   >[!DNL Cloud Manager] instance is for special admin use only like checking service status and getting access to service logs and cannot be used to add users to the product. For more information, see [Operations and maintenance on Assets Essentials](monitor-assets-essentials-post-deploy.md).
+   >[!DNL Cloud Manager] instance is for special admin use only like checking service status and getting access to service logs and cannot be used to add users to the product.
 
    ![Admin Console admin profile](assets/assets-essentials-instance.png)
 
