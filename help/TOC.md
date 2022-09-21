@@ -37,5 +37,8 @@ solution: Experience Manager
 + [Manage collections](manage-collections.md)
 + [Manage notifications](manage-notifications.md)
 + [Manage reports](manage-reports.md)
-+ [Integration with other solutions](integration.md)
++ Integration with other solutions {integration-with-other-solutions}
+  + [Overview](integration.md)
+  + [Integrate with Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
+  + [Integrate with Adobe Workfront](integrate-with-workfront.md)
 + [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
