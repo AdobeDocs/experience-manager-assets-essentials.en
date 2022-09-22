@@ -58,7 +58,7 @@ For information on how to setup Adobe Asset Link for Adobe XD, click [here](http
 
 >[!NOTE]
 >
->When working on Apple Silicon / M1 hardware, Adobe Photoshop needs to be started using Rosetta compatibility mode to ensure creative users have access to Adobe Asset Link panel, as it is built using the CEP extension technology. For more information, see [Photoshop for Apple Silicon](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html).
+>When working on Apple Silicon/M1 hardware, Adobe Photoshop needs to be started using Rosetta compatibility mode to ensure creative users have access to Adobe Asset Link panel, as it is built using the CEP extension technology. For more information, see [Photoshop for Apple Silicon](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html).
 
 
 Use Adobe Asset Link to work with and modify assets stored in Assets Essentials repository. You can perform various tasks, such as:
