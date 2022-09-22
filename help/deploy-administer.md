@@ -6,119 +6,145 @@ exl-id: ef91126f-3aee-442b-b242-a6bf4034f3dc
 ---
 # Administer [!DNL Assets Essentials] and add users {#administer}
 
-[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. Administrators will use [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution, and assign application administrators to set up permissions and metadata forms in [!DNL Assets Essentials].
+[!DNL Adobe Experience Manager Assets Essentials] is provisioned by Adobe for its customers. As part of the provisioning, [!DNL Assets Essentials] is added to a customer's organization in [!DNL Adobe Admin Console]. Administrators use [!DNL Admin Console] to manage user entitlements to [!DNL Assets Essentials] solution, and assign application administrators to set up permissions and metadata forms in [!DNL Assets Essentials].
 
-For journey-based experience to manage Assets Essentials, click this [link](adminster-aem-assets-essentials.md).
 
-## Automatic deployment of Assets Essentials {#automatic-deployment-assets-essentials}
+The following data flow diagram illustrates the sequence of tasks that an administrator must perform to configure and manage Assets Essentials:
+
+![Deploy Assets Essentials](assets/deploy-assets-essentials.svg)
+
+## Access the Admin Console {#access-admin-console}
 
 After the Assets Essentials solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. In addition, Adobe starts the process to deploy Assets Essentials automatically. The deployment process takes an hour to complete.  
 
- From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the switcher in the top bar. Once the automatic deployment process is complete, the product card for [!DNL AEM Assets Essentials] is visible in the [!DNL Admin Console].
+ From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the [organization selector](https://helpx.adobe.com/enterprise/using/admin-console.html). Once the automatic deployment process is complete, the product card for [!DNL AEM Assets Essentials] is visible in the [!DNL Admin Console].
 
-![Assets Essentials Deployment](assets/assets-essentials-deployment.png)
+ Perform the following user entitlement tasks using Admin Console:
 
-Administrators need to perform the following tasks after successful deployment of the Assets Essentials solution:
+ * [Create Assets Essentials application administrator](#create-assets-essentials-administrator)
 
-* [Set up user groups, folder structure and assign permissions](manage-permissions.md) for the solution. Follow [best practices](permission-management-best-practices.md) to ensure a simple and effective permissions setup.
-* [Manage the user access](#add-users-to-essentials) of organization members to [!DNL Assets Essentials].
-* Optionally, [view service status and logs](#view-logs).
+ * [Add user groups](#add-user-groups) 
 
->[!NOTE]
->
->If Assets Essentials is provisioned before January 06, 2022, execute the [deployment steps in Cloud Manager](#deploy-essentials) before managing the user access of organization members.
+ * [Add user groups to product profiles](#add-users-to-product-profiles)
 
+![Assets Essentials Deployment](assets/admin-console-cards.png)
 
-## User management {#add-users-to-essentials}
+### Create Assets Essentials application administrator {#create-assets-essentials-administrator}
 
-An administrator manages which users have access to [!DNL Assets Essentials]. Administrators use [!DNL Adobe Admin Console] to add or remove user access. [!DNL Assets Essentials] has the following two types of user access available.
+An Admin Console administrator must add an Assets Essentials application administrator to manage tasks such as creating a folder structure, uploading assets, setting up permissions, setting up metadata forms, and creating public collections. For information on how to assign a user or a user group to an Assets Essentials application administrator profile, see [add users to product profiles](#add-users-to-product-profiles).
 
-* **[!DNL Assets Essentials] Administrators** have administrative access to the application. In addition to all end-user capabilities, application administrators in this group can manage permissions for any folder and group/user in the whole application repository.
-* **[!DNL Assets Essentials] Users** have access to the complete user interface. These users can upload, organize, tag, and find digital assets.
-* **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Journey Optimizer] email template editor. For more information, see [Use [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+### Add user groups {#add-user-groups}
 
-In [!DNL Admin Console], these three access types are represented by three [!UICONTROL Product Profiles]. To add and remove members of your organization to any of the two profiles, follow these steps:
+Create user groups and then assign your users to the user groups. These user groups will be available in the Assets Essentials application for setting permissions on folders.
 
-1. Access [!DNL Admin Console] for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click [!DNL Assets Essentials] environment. [!DNL Assets Essentials] has three product profiles that represent access for administrator, regular, and consumer users.
-
-   ![Three profiles for three types of users](assets/admin-console-admin-profile.png)
-   <!-- Need to update screenshot to include 3 profiles -->
-
-   *Figure: Three profiles are available to add the three types of users.*
-
-1. To add a user to a group, click the group, select **[!UICONTROL Add User]**, provide the user details, and click **[!UICONTROL Save]**. When you add a user, the user receives an email invitation to get started. You can turn off the email invitations in the product profile settings in [!DNL Admin Console].
-
-   ![Add a user to [!DNL Assets Essentials]](assets/adminconsole-add-user.png)
-
-   *Figure: Add a user to [!DNL Assets Essentials] from [!DNL Admin Console].*
-
-1. To remove a user from a group, click the group, select an existing user, and select **[!UICONTROL Remove User]**.
-
->[!TIP]
->
->In [!DNL Admin Console], you can manage the users in bulk using CSV files. To know more, see [[!DNL Admin Console] documentation](https://helpx.adobe.com/enterprise/using/accounts.html).
-
-## View service status and access logs {#view-logs}
-
-After provisioning, administrators deploy [!DNL Assets Essentials] only once. After the initial deployment, Adobe does the service maintenance and updates. Administrators can use the [!DNL Cloud Manager] user interface to check the service status and to download the recent access logs.
-
-1. When users report issues, check the service status of [!DNL Assets Essentials] in the **[!UICONTROL Program Overview]** interface. During the normal working of the solution, the status is `Running`. If [!DNL Cloud Manager] displays any other status, create a support ticket in the [!DNL Admin Console] support section.
-
-   ![The status of [!DNL Assets Essentials] in [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
-
-   *Figure: The normal status of [!DNL Assets Essentials] in [!DNL Cloud Manager] is `Running`.*
-
-1. To download the recent access logs, click ![options icon](assets/do-not-localize/options-ellipses-icon.png), select **[!UICONTROL Download Logs]**, and follow the on-screen instructions. You can audit the HTTPS access requests using the logs.
-
-   ![ Option to download the access logs](assets/cloudmanager-download-logs.png)
-
-   *Figure: Option to download the access logs.*
-
-## Deploy [!DNL Assets Essentials] {#deploy-essentials}
+For information on how to manage user groups, see `Create user groups` and `Edit user groups` available at [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html).
 
 >[!NOTE]
 >
->Execute these steps only if Assets Essentials is provisioned before January 06, 2022.
+>If your Admin Console is set up to leverage an external system to manage users/groups assignments, such as Azure or Google connectors, user sync tool or User Management Rest API, your groups and user assignments are configured automatically. For more information, see [Adobe Admin Console users](https://helpx.adobe.com/enterprise/using/users.html).
 
-After provisioning, [!DNL Assets Essentials] entitlement is added to your organization in [!DNL Admin Console]. Before the solution is available to the user, an organization administrator must deploy it. The administrator does a one-time deployment using [!DNL Cloud Manager] user interface. After the initial deployment, Adobe does the service maintenance and updates. After the solution is provisioned, the administrator receives an email from Adobe. The email contains a welcome message and a link to get started. To deploy, follow these steps:
+For information on how to manage adding users to user groups, see `Add users to groups` available at [Manage user groups](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
 
-1. From the link in the email, access and login to [Admin Console](https://adminconsole.adobe.com). If you have administrator access to more than one organization account, then select the appropriate organization or switch to it using the switcher in the top bar. The product card for [!DNL Assets Essentials] is visible in the [!DNL Admin Console].
+### Add user groups to product profiles {#add-users-to-product-profiles}
 
-   ![[!DNL Assets Essentials] card in [!DNL Admin Console]](assets/essentials-in-admin-console.png)
+Add user groups to product profiles so that they have access to the Assets Essentials application.
 
-   *Figure: [!DNL Assets Essentials] card in [!DNL Admin Console].*
+To add user groups to product profiles:
+
+1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click the instance for [!DNL Assets Essentials]. The name of the instance might be different than in the screenshot below. 
+   >[!NOTE]
+   >
+   >[!DNL Cloud Manager] instance is for special admin use only like checking service status and getting access to service logs and cannot be used to add users to the product.
+
+   ![Admin Console admin profile](assets/assets-essentials-instance.png)
+
+   [!DNL Assets Essentials] has three product profiles that represent access for administrators, regular, and consumer users.
+
+   * **[!DNL Assets Essentials] Administrators** have administrative access to the application. In addition to all end-user capabilities, application administrators in this group can manage permissions for any folder and group/user in the whole application repository.
+
+   * **[!DNL Assets Essentials] Users** have access to the complete user interface. These users can upload, organize, tag, and find digital assets.
+
+   * **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Journey Optimizer] email template editor. For more information, see [Use [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+
+   ![Admin Console admin profile](assets/admin-console-admin-profile.png)
+  
+1. To add a user group to the product, click one of the three Assets Essentials product profiles, select **[!UICONTROL Add User]**, provide the user group details, and click **[!UICONTROL Save]**. 
+
+   ![Add users admin profile](assets/add-users-admin-profile.png)
+
+   When you add a user, the user receives an email invitation to get started. You can turn off the email invitations in the product profile settings in [!DNL Admin Console].
 
    >[!NOTE]
    >
-   >If you can view the **[!UICONTROL AEM Assets Essentials]** card in the products section instead of **[!UICONTROL AEM Assets Essentials - Cloud Manager]** card, the deployment of Assets Essentials is already complete. You can skip the remaining steps.
+   >You must add a user to the Administrator Assets Essentials product profile in the Admin Console, in order for them to carry out administrative tasks in the Assets Essentials application. These tasks include [Create folder structure](#create-folder-structure), [Manage permissions for folders](#manage-permissions-for-folders), and [Setup Metadata Forms](#metadata-forms).
 
-1. Add yourself as an administrator to the `AEM Assets Essentials - Cloud Manager` product profile in the [!DNL Admin Console]. Instead of yourself, you can add another member of your organization or you can add more than one administrator.
+## Access Assets Essentials application {#access-assets-essentials-application}
 
-1. Click ![add icon](assets/do-not-localize/add-icon.svg) to [!UICONTROL Select product profiles], and then select [!UICONTROL Deployment Manager - Assets Essentials] as the **[!UICONTROL product profile]**. The user added in this step receives an email from Adobe with access to [!DNL Cloud Manager] and can do the deployment.
+After performing user entitlements in Admin Console, you can access the Assets Essentials application to perform the following tasks:
 
-   ![Add an administrator and select a product profile in [!DNL Admin Console]](assets/adminconsole-user1.png)
-   
-   *Figure: Add an administrator and select a product profile in [!DNL Admin Console].*
+* [Create folder structure](#create-folder-structure)
 
-1. To access [!DNL Cloud Manager], click the link in the email with access to [!DNL Cloud Manager]. Alternatively, access [https://experience.adobe.com/#/cloud-manager/](https://experience.adobe.com/#/cloud-manager/) in your browser.
+* [Upload assets](#upload-assets)
 
-1. In the Cloud Manager user interface, click **[!UICONTROL Add Program]** from the upper-right corner.
+* [Manage permissions for folders](#manage-permissions-for-folders)
 
-1. Provide a name of your choice and optionally upload an image (it represents the program in [!DNL Cloud Manager]), and then click **[!UICONTROL Create]**. [!DNL Cloud Manager] takes a few minutes to set up the program.
+* [Setup Metadata Forms](#metadata-forms)
 
-1. When the program is ready, hover pointer over the tile and click ![add environment icon](assets/do-not-localize/add-environment-icon.png).
+* [Create public collections](#create-public-collections)
 
-1. To add [!DNL Assets Essentials] service to your organization, click **[!UICONTROL Add Environment]**, select a name and deployment region, and click **[!UICONTROL Save]**. You cannot change the deployment region later. Try to match the deployment region of [!DNL Assets Essentials] with the deployment region of the other solution with which you intend to use [!DNL Assets Essentials]. The matching is to ensure fastest possible network access to digital assets and lowest possible latency.
+### Create folder structure {#create-folder-structure}
 
-   ![Add an environment in [!DNL Cloud Manager]](assets/cloudmanager-add-environment-for-essentials.png)
+You can use the following methods to create a folder structure in the Assets Essentials repository:
 
-   *Figure: Add an environment in [!DNL Cloud Manager] to start using [!DNL Assets Essentials].*
+* Click the **[!UICONTROL Create Folder]** option available in the toolbar to create an empty folder. 
 
-1. After several minutes, when the environment is successfully created, you can access the [!DNL Admin Console] and add your organization's users to [!DNL Assets Essentials] solution. Click ![options icon](assets/do-not-localize/options-ellipses-icon.png) and select the **[!UICONTROL Manage Access]** option.
+* Click **[!UICONTROL Add Assets]** option available in the toolbar to [upload a folder structure available on your local machine](add-delete.md).
 
-   ![Ready environment in [!DNL Cloud Manager]](assets/cloudmanager-manage-access-essentials.png)
+Create a folder structure that works well with the business objectives for the organization. If you are uploading an existing folder structure to the Assets Essentials repository, you should review the structure. For more information, see [Best folder structure practices for effective permissions management](permission-management-best-practices.md##folder-structure-assets-essentials).
 
-   *Figure: An environment in [!DNL Cloud Manager] that is ready to use.*
+There are various possible folder structure types that you can use for your organization. The following are a few examples of typical folder structures: 
+
+![Typical folder structures](assets/folder-structure.svg)
+
+>[!NOTE]
+>
+>To be able to manage these tasks, especially managing permissions, your user must have application administration rights - it needs to be added to the [Administrator Assets Essentials product profile](#add-users-to-product-profiles).
+
+### Upload assets {#upload-assets}
+
+To add new assets to work with, upload a few assets from your local file system. You can either drag assets or folders on the user interface and follow the on-screen instructions or click **[!UICONTROL Add Assets]** option from the toolbar and add some files to the upload dialog. While [!DNL Assets Essentials] offers a powerful, full-text search functionality, you can also use folders to organize your assets better. For more information, see [Upload assets](add-delete.md).
+
+![Upload files and folders](assets/upload-assets.png)
+
+### Manage permissions for folders {#manage-permissions-for-folders}
+
+Assets Essentials allows the administrators to manage the access levels for folders available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder level.
+
+ >[!VIDEO](https://video.tv.adobe.com/v/341104)
+
+For more information, see [Manage permissions for folders](manage-permissions.md).
+
+### Setup Metadata Forms (Optional) {#metadata-forms}
+
+Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets. You can create forms from scratch or re-purpose an existing form.
+
+You can configure metadata forms for different types of assets (different MIME types). Use the same form name as the file's MIME type. Essentials automatically matches uploaded assets MIME type to the name of the form and updates the metadata for the uploaded assets based on the form fields.
+
+For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contain metadata fields as defined in the form.
+
+For more information, see [Metadata forms](metadata.md#metadata-forms).
+
+>[!VIDEO](https://video.tv.adobe.com/v/341275)
+
+For more information on Metadata Forms, see [Metadata Forms in Assets Essentials](metadata.md#metadata-forms).
+
+### Create public collections (Optional) {#create-public-collections}
+
+A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users.
+
+Unlike folders, a collection can include assets from different locations. You can share multiple collections with a user. Each collection contains references to assets. The referential integrity of assets is maintained across collections. For more information, see [Manage collections](manage-collections.md).
+
+![Collections](assets/collections.png)
 
 ## Next Steps {#next-steps}
 
