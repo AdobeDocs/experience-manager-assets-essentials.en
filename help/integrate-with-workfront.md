@@ -43,7 +43,7 @@ Assign the Workfront users to one of the following Assets Essentials product pro
 
 In addition, there is also **[!DNL Assets Essentials] Administrators** product profile that provides administrative access to the application.
 
-For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
+For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](deploy-administer.md#add-users-to-product-profiles).
 
 ## Configure Experience Manager Assets Essentials Integration {#configure-assets-essentials-integration}
 
