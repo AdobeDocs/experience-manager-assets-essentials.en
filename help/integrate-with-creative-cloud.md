@@ -32,7 +32,7 @@ After establishing directory trusting between the Admin Console for Creative Clo
 
 Other Assets Essentials product profiles - **[!DNL Assets Essentials] Administrators** and **[!DNL Assets Essentials] Consumer Users** - are used for different user entitlements (application administrators and users accessing Assets Essentials via Experience Cloud integrations).
 
-For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
+For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](deploy-administer.md#add-users-to-product-profiles).
 
 ## Install Adobe Asset Link {#install-asset-link}
 
