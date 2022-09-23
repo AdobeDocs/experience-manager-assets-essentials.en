@@ -5,7 +5,7 @@ exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 ---
 # Manage collections {#manage-collections}
 
-A collection is a set of assets within Experience Manager Assets Essentials. Use collections to share assets between users.
+A collection is a set of assets, folders, or other collections within Adobe Experience Manager Assets Essentials. Use collections to share assets between users.
 
 Unlike folders, a collection can include assets from different locations. 
 
@@ -23,11 +23,11 @@ You can perform the following tasks to manage and use collections:
 
 * [Add assets to a collection](#add-assets-to-collection)
 
+* [Remove assets from a collection](#remove-assets-from-collection)
+
 * [Create a Smart Collection](#create-smart-collection)
 
 * [Edit a Smart Collection](#edit-smart-collection)
-
-* [Remove assets from a collection](#remove-assets-from-collection)
 
 * [View and edit collection metadata](#view-edit-collection-metadata)
 
@@ -61,7 +61,7 @@ To create a collection:
 
 To add assets to a collection:
 
-1. Click **[!UICONTROL Assets]** in the left rail and select asset(s).
+1. Click **[!UICONTROL Assets]** in the left rail and select the assets that you need to add to a collection.
 
 1. Click **[!UICONTROL Add to Collection]**.
 
@@ -71,9 +71,19 @@ To add assets to a collection:
 
 To add assets to collection, you can also click **[!UICONTROL Collections]** in the left rail, click the collection to add assets to, click **[!UICONTROL Add to Collection]**, select the asset(s) and click **[!UICONTROL Select]**.
 
+## Remove assets from a collection {#remove-assets-from-collection}
+
+To remove assets from a collection:
+
+1. Click **[!UICONTROL Collections]** in the left rail to view the list of collections.
+
+1. Click the collection and select items that you need to remove from the collection.
+
+1. Click **[!UICONTROL Remove]**.
+
 ## Manage a Smart Collection {#manage-smart-collection}
 
-Save your search results as a Smart Collection to dynamically update the collection contents. If there are assets added to the Assets Essentials repository that fit the search criteria defined while creating the Smart Collection, the contents of the Smart Collection get updated automatically.
+Save your search results as a Smart Collection to dynamically update the collection contents. If there are assets added to the Assets Essentials repository that fit the search criteria defined while creating the Smart Collection, the contents of the Smart Collection get updated automatically when you open a Smart Collection.
 
 ### Create a Smart Collection {#create-smart-collection}
 
@@ -102,16 +112,6 @@ To edit a Smart Collection:
 1. On the [!UICONTROL Edit Smart Collection Filters] dialog box, [update the search criteria](search.md##refine-search-results) for the Smart Collection.
 
 1. Click **[!UICONTROL Save]**.
-
-## Remove assets from a collection {#remove-assets-from-collection}
-
-To remove assets from a collection:
-
-1. Click **[!UICONTROL Collections]** in the left rail to view the list of collections.
-
-1. Click the collection and select asset(s) that you need to remove from the collection.
-
-1. Click **[!UICONTROL Remove]**.
 
 <!--
 
@@ -143,7 +143,7 @@ To view and edit collection metadata:
 
 1. Click **[!UICONTROL Collections]** in the left rail, select a collection, and click **[!UICONTROL Details]**.
 1. View the collection metadata using the **[!UICONTROL Basic]** tab.
-1. Modify the metadata fields, as necessary. You can modify the [!UICONTROL Title], [!UICONTROL Description], and [!UICONTROL Author] fields.
+1. Modify the metadata fields, as necessary. You can modify the [!UICONTROL Title] and [!UICONTROL Description] fields.
 
 ![Collection metadata](assets/collection-metadata.png)
 

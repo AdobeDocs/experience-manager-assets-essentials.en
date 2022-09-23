@@ -75,7 +75,8 @@ After [subscribing to the notification categories](#subscribe-to-notification-ca
 
 >[!NOTE]
 >
->For **[!UICONTROL Requests]** and **[!UICONTROL Assigned to me]** notification categories, you do not need to subscribe to the content after subscribing to the notification categories. Notifications are automatically sent to you for requests created by you and when a task is assigned to you. 
+>* For **[!UICONTROL Requests]** and **[!UICONTROL Assigned to me]** notification categories, you do not need to subscribe to the content after subscribing to the notification categories. Notifications are automatically sent to you for requests created by you and when a task is assigned to you.
+>* Assets Essentials sends notifications only when other users perform actions on the subscribed content. You do not receive notifications for the actions that you perform on the subscribed content.
 
 To subscribe to the content, select the folder, asset, or collection that you need to subscribe to and click **[!UICONTROL Watch]**.
 

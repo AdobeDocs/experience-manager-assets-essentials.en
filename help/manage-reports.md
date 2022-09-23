@@ -9,7 +9,7 @@ Asset reporting provides administrators with visibility into activity of the Ado
 
 ## Access reports {#access-reports}
 
-All users who are assigned to the [Assets Essentials Administrators product profile](deploy-administer.md) can access the Live Statistics dashboard and create user-defined reports in Assets Essentials.
+All users who are assigned to the [Assets Essentials Administrators product profile](deploy-administer.md) can access the Live Statistics dashboard or create user-defined reports in Assets Essentials.
 
 ## View live statistics {#view-live-statistics}
 
@@ -38,6 +38,9 @@ To create a Download report:
 1. Select the folder path, which comprises the assets to execute the report on, using the **[!UICONTROL Select Folder Path]** field.
 
 1. Select the date interval for the report.
+   >[!NOTE]
+   >
+   > Assets Essentials converts all local time zones to Coordinated Universal Time (UTC).
 
 1. In the [!UICONTROL Columns] tab, select the column names that you need to display in the report.
 
@@ -67,7 +70,7 @@ The following table explains the use of all columns that you can add to the repo
      </tr>
      <tr>
       <td>Size</td>
-      <td>The size of the asset.</td>
+      <td>The size of the asset in bytes.</td>
      </tr>
      <tr>
       <td>Downloaded By</td>
@@ -165,7 +168,7 @@ The following table explains the use of all columns that you can add to the repo
 
 ## View existing reports {#view-report-list}
 
-After [creating the report](#create-report), you can view the list of existing reports and select to download them in a CSV format or delete them.
+After [creating the report](#create-download-report), you can view the list of existing reports and select to download them in a CSV format or delete them.
 
 To view the list of reports, navigate to **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 
@@ -184,7 +187,7 @@ To download a report in CSV format:
 
 1. Select a report and click **[!UICONTROL Download CSV]**.
 
-The selected report downloads in CSV format. The columns that display in the CSV report depends on the columns that you select while [creating the report](#create-report).
+The selected report downloads in CSV format. The columns that display in the CSV report depends on the columns that you select while [creating the report](#create-download-report).
 
 ## Delete a report {#delete-report}
 
@@ -193,3 +196,5 @@ To delete a report:
 1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 
 1. Select a report and click **[!UICONTROL Delete]**.
+
+1. Click **[!UICONTROL Delete]** again to confirm.
