@@ -15,6 +15,10 @@ This release provides:
 
 Assets Essentials now allows you to upload documents in other supported format types and preview them using the included Document Cloud viewer. The supported format types include TXT, RTF, DOC, DOCX, PPT, PPTX, XLS, and XLSX.
 
+**View Smart Tags moderation reports**
+
+Asset reporting now provides administrators with visibility into the Smart Tags promoted or deleted for an asset. You can provide a folder path and the report lists the Smart Tags promoted or deleted for all assets available at the folder path.  
+
 **Improvements based on customer feedback**
 
 Enhancements and bug fixes based on customer feedback.
