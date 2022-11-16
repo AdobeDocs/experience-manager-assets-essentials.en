@@ -17,7 +17,11 @@ Assets Essentials now allows you to upload documents in other supported format t
 
 **View Smart Tags moderation reports**
 
-Asset reporting now provides administrators with visibility into the Smart Tags promoted or deleted for an asset. You can provide a folder path and the report lists the Smart Tags promoted or deleted for all assets available at the folder path.  
+Asset reporting now provides administrators with visibility into the Smart Tags promoted or deleted for an asset. You can specify a folder path and the report lists the Smart Tags promoted or deleted for all assets available at the folder path.
+
+**New Save metadata option**
+
+To ensure better metadata governance, Assets Essentials now enables you to manually save asset metadata updates using the **[!UICONTROL Save]** button available on the user interface.
 
 **Improvements based on customer feedback**
 
