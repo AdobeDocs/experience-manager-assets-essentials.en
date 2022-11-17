@@ -19,10 +19,14 @@ Assets Essentials now allows you to upload documents in other supported format t
 
 Asset reporting now provides administrators with visibility into the Smart Tags promoted or deleted for an asset. You can specify a folder path and the report lists the Smart Tags promoted or deleted for all assets available at the folder path.
 
+<!--
 **Read-only access to large number of users**
 
 Assets Essentials allows administrators to provide read-only access to a large number of users for selected assets or folders in the repository. 
 You can easily synchronize the user groups available on the external identity management of an organization with Adobe Admin Console and then manage permissions in Admin Console and Assets Essentials to provide the users with read-only access for selected assets or folders.
+
+-->
+
 
 **New Save metadata option**
 
