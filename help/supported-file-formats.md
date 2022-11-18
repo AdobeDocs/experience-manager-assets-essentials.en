@@ -64,14 +64,22 @@ The various file types have different degrees of support for the use cases and f
 
 | Asset type    | Annotate | Comment  | Create tasks and review |
 |---------------|----------|----------|-------------------------|
-| Raster images | &#10003; | &#10003; | &#10003;                |
-| RAW files     | &#10003; | &#10003; | &#10003;                |
-| Folders       | &minus;  | &minus;  | &minus;                 |
-| Videos        | &minus;  | &#10003; | &#10003;                |
-| CC Libraries  | &minus;  | &minus;  | &minus;                 |
-| PDF           | &minus;  | &#10003; | &#10003;                |
-| PSD, AI, and INDD           | &minus;  | &#10003; | &#10003;                |
-| Other binary files          | &minus;  | &#10003; | &#10003;                |
+| Raster images | &#10003; | &#10003; | &#10003;      |
+| RAW files     | &#10003; | &#10003; | &#10003;      |
+| Folders       | &minus;  | &minus;  | &minus;       |
+| Videos        | &minus;  | &#10003; | &#10003;      |
+| CC Libraries  | &minus;  | &minus;  | &minus;       |
+| PDF           | &minus;  | &#10003; | &#10003;      |
+| PSD, AI, and INDD | &minus;  | &#10003; | &#10003;  |
+| Other binary files| &minus;  | &#10003; | &#10003;  |
+| DOC           | &minus; | &#10003;  | &#10003;      |
+| DOCX          | &minus; | &#10003;  | &#10003;      |
+| PPT           | &minus; | &#10003;  | &#10003;      |
+| PPTX          | &minus; | &#10003;  | &#10003;      |
+| XLS           | &minus; | &#10003;  | &#10003;      |
+| XLSX          | &minus; | &#10003;  | &#10003;      |
+| TXT           | &minus; | &#10003;  | &#10003;      |
+| RTF           | &minus; | &#10003;  | &#10003;      |
 
 ## Other asset management tasks {#support-to-manage-assets}
 
