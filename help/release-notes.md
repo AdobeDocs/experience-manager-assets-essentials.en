@@ -7,7 +7,59 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on August 22, 2022.
+The current release of Assets Essentials is released on November 17, 2022.
+
+This release provides:
+
+**Preview documents using Document Cloud Viewer**
+
+Assets Essentials now allows you to upload documents in other supported format types and preview them using the included Document Cloud viewer. The supported format types include TXT, RTF, DOC, DOCX, PPT, PPTX, XLS, and XLSX.
+
+<!--
+
+**View Smart Tags moderation reports**
+
+Asset reporting now provides administrators with visibility into the Smart Tags promoted or deleted for an asset. You can specify a folder path and the report lists the Smart Tags promoted or deleted for all assets available at the folder path.
+
+-->
+
+<!--
+**Read-only access to large number of users**
+
+Assets Essentials allows administrators to provide read-only access to a large number of users for selected assets or folders in the repository. 
+You can easily synchronize the user groups available on the external identity management of an organization with Adobe Admin Console and then manage permissions in Admin Console and Assets Essentials to provide the users with read-only access for selected assets or folders.
+
+-->
+
+
+**New Save metadata option**
+
+A new Save metadata option is now available on the Assets Essentials user interface for better metadata governance.
+
+**Improvements based on customer feedback**
+
+Enhancements and bug fixes based on customer feedback.
+
+## Known issues {#known-issues}
+
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
+
+## Past releases {#past-releases}
+
+### 2022.8.0 {#august-2022}
+
+The August release of [!DNL Assets Essentials] is released on August 22, 2022. 
 
 This release provides:
 
@@ -30,24 +82,6 @@ Asset reporting now provides administrators with visibility into assets uploaded
 **Improvements based on customer feedback**
 
 Enhancements and bug fixes based on customer feedback.
-
-
-## Known issues {#known-issues}
-
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
-
-If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
-
-## Past releases {#past-releases}
 
 ### 2022.6.0 {#june-2022}
 
