@@ -40,6 +40,16 @@ A new Save metadata option is now available on the Assets Essentials user interf
 
 Enhancements and bug fixes based on customer feedback.
 
+**Adobe Asset Link version 3.3**
+
+Adobe Asset Link version 3.3 is released on December 5, 2022, with the following features:
+
+* Support for Creative Cloud for Teams.
+
+* Support for the latest Adobe InDesign, Photoshop, and Illustrator 2023 applications.
+
+* Support for using the Adobe Asset Link CEP Plugin in environments with proxy servers.
+
 ## Known issues {#known-issues}
 
 The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
