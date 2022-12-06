@@ -33,13 +33,13 @@ To integrate Creative Cloud and Assets Essentials applications, the users that a
 
 ![Creative Cloud Users](assets/creative-cloud-users.svg)
 
-As depicted in the diagram, the Creative Cloud users are automatically made available in the Experience Cloud Admin Console based on a trust relationship between the two consoles. You can then add the users to Assets Essentials product profiles. As a result, the Creative Cloud users can access the Adobe Asset Link application that can interact with the Assets Essentials repository. For more information, see [Integrate Assets Essentials with Creative Cloud applications](integrate-assets-essentials-creative-cloud.md).
+As depicted in the diagram, the Creative Cloud users are automatically made available in the Experience Cloud Admin Console based on a trust relationship between the two consoles. You can then add the users to Assets Essentials product profiles. As a result, the Creative Cloud users can access the Adobe Asset Link application that can interact with the Assets Essentials repository. For more information, see [Integrate Assets Essentials with Creative Cloud applications](integrate-with-creative-cloud.md).
 
 ## Experience Manager Documentation Journeys {#documentation-journeys}
 
 A Documentation Journey ties together many different and perhaps complex topics and features by providing a narrative that helps the reader, who can be new to  Assets Essentials, understand and solve a business problem from beginning to end, while assuming minimal prior topic or Assets Essentials knowledge.
 
-Documentation Journeys are designed around best practices principles, informed by Adobe’s latest research, proven implementation experience from Adobe consultants, and feedback from customer projects.
+Documentation Journeys are designed around best practices principles, informed by Adobe's latest research, proven implementation experience from Adobe consultants, and feedback from customer projects.
 
 ## Prerequisites
 
@@ -53,7 +53,7 @@ Documentation Journeys are designed around best practices principles, informed b
 
 Adobe Experience Manager Assets Essentials is a new, lightweight edition of Adobe Experience Manager Assets. Assets Essentials provides unified asset management and collaboration with a simplified and a consistent user interface. The ease-of-use enables more creative and marketing teams to store, discover, and distribute digital assets.
 
-Adobe Experience Manager Assets Essentials is provisioned by Adobe for its customers. As part of the provisioning, Assets Essentials is added to a customer’s organization in the Adobe Admin Console. 
+Adobe Experience Manager Assets Essentials is provisioned by Adobe for its customers. As part of the provisioning, Assets Essentials is added to a customer's organization in the Adobe Admin Console. 
 
 Administrators use the Admin Console to manage user entitlements to Assets Essentials product:
 
@@ -71,7 +71,9 @@ After managing the user entitlements in Admin Console, administrators can use th
 
 * Setup metadata forms
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](adminster-aem-assets-essentials.md)
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](deploy-administer.md)
+
+Now that you have configured and managed the Assets Essentials application, [integrate Creative Cloud applications with Experience Manager Assets Essentials application](integrate-with-creative-cloud.md).
 
 ## Integrate Creative Cloud applications with Experience Manager Assets Essentials {#administer-creative-cloud-applications}
 
@@ -91,7 +93,9 @@ Goals:
 
 * Use Adobe Asset Link
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-creative-cloud.md)
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
+
+Now that you have integrated the Creative Cloud applications with Assets Essentials, [integrate Adobe Workfront with Experience Manager Assets Essentials](integrate-with-workfront.md).
 
 ## Integrate Adobe Workfront with Experience Manager Assets Essentials {#administer-adobe-workfront}
 
@@ -109,4 +113,4 @@ Goals:
 
 * Configure Experience Manager Assets Essentials integration
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-assets-essentials-workfront.md)
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-workfront.md)

@@ -1,23 +1,8 @@
 ---
 title: Integrate Assets Essentials with Creative Cloud applications
 description: Integrate Assets Essentials with Creative Cloud applications so that you can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop applications.
-exl-id: 611fd958-3fd3-4c46-bee9-8b866b7dc208
 ---
 # Integrate Assets Essentials with Creative Cloud applications {#integrate-assets-essentials-creative-cloud-applications}
-
-![Preference to switch dark and light theme](assets/cce-creative-cloud.png)
-
-## The story so far
-
-After [configuring Experience Manager Assets Essentials](adminster-aem-assets-essentials.md) in this tutorial, you can build on the experience to integrate the Creative Cloud applications with Assets Essentials.
-
-## Objective
-
-* **Audience**: Creative Cloud administrators
-
-* **Objective**: Integrate Assets Essentials with Creative Cloud applications so that your creative users can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop applications.
-
-## Overview
 
 [Adobe Asset Link in-app panel](https://www.adobe.com/creativecloud/business/enterprise/adobe-asset-link.html) lets creative professionals connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop apps. The panel is available for [!DNL Adobe Photoshop], [!DNL Adobe Illustrator], [!DNL Adobe InDesign], and [!DNL Adobe XD]. It streamlines access to assets, which in turn helps increase content velocity.
 
@@ -47,7 +32,7 @@ After establishing directory trusting between the Admin Console for Creative Clo
 
 Other Assets Essentials product profiles - **[!DNL Assets Essentials] Administrators** and **[!DNL Assets Essentials] Consumer Users** - are used for different user entitlements (application administrators and users accessing Assets Essentials via Experience Cloud integrations).
 
-For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](adminster-aem-assets-essentials.md#add-users-to-product-profiles).
+For more information on how to assign users to Assets Essentials product profiles, see [Assign users to Assets Essentials product profiles](deploy-administer.md#add-users-to-product-profiles).
 
 ## Install Adobe Asset Link {#install-asset-link}
 
@@ -73,7 +58,7 @@ For information on how to setup Adobe Asset Link for Adobe XD, click [here](http
 
 >[!NOTE]
 >
->When working on Apple Silicon / M1 hardware, Adobe Photoshop needs to be started using Rosetta compatibility mode to ensure creative users have access to Adobe Asset Link panel, as it is built using the CEP extension technology. For more information, see [Photoshop for Apple Silicon](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html).
+>When working on Apple Silicon/M1 hardware, Adobe Photoshop needs to be started using Rosetta compatibility mode to ensure creative users have access to Adobe Asset Link panel, as it is built using the CEP extension technology. For more information, see [Photoshop for Apple Silicon](https://helpx.adobe.com/photoshop/kb/photoshop-for-apple-silicon.html).
 
 
 Use Adobe Asset Link to work with and modify assets stored in Assets Essentials repository. You can perform various tasks, such as:
@@ -91,7 +76,3 @@ Use Adobe Asset Link to work with and modify assets stored in Assets Essentials 
 * View version history and file details
 
 For instructions on how to perform these tasks, see [Manage assets using Adobe Asset Link](https://helpx.adobe.com/in/enterprise/using/manage-assets-using-adobe-asset-link.html).
-
-## What's Next
-
-Now that you have  integrated the Creative Cloud applications with Assets Essentials, [integrate Adobe Workfront with Experience Manager Assets Essentials](integrate-assets-essentials-workfront.md).
