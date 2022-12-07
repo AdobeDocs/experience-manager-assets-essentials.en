@@ -1,6 +1,7 @@
 ---
 title: Integrate Assets Essentials with Creative Cloud applications
 description: Integrate Assets Essentials with Creative Cloud applications so that you can use Adobe Asset link in-app panel to connect to [!DNL Assets Essentials] repository from within the supported [!DNL Adobe Creative Cloud] desktop applications.
+exl-id: 817bc955-0074-435e-83a8-3fd5f7f2505a
 ---
 # Integrate Assets Essentials with Creative Cloud applications {#integrate-assets-essentials-creative-cloud-applications}
 
