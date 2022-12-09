@@ -17,7 +17,7 @@ Assets Essentials enables you to view real-time data for your Assets Essentials 
 
 ![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)
 
-Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Live Statistics]** to view the following automatically generated charts:
+Click **[!UICONTROL Live Statistics]** available in the left navigation pane to view the following automatically generated charts:
 
 * **Downloads**: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 

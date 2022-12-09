@@ -69,8 +69,6 @@ To add assets to a collection:
 
 1. Click **[!UICONTROL Add]** to add the asset to the selected collections.
 
-To add assets to collection, you can also click **[!UICONTROL Collections]** in the left rail, click the collection to add assets to, click **[!UICONTROL Add to Collection]**, select the asset(s) and click **[!UICONTROL Select]**.
-
 ## Remove assets from a collection {#remove-assets-from-collection}
 
 To remove assets from a collection:
