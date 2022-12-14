@@ -42,7 +42,7 @@ Enhancements and bug fixes based on customer feedback.
 
 **Adobe Asset Link version 3.3**
 
-Adobe Asset Link version 3.3 is released on December 5, 2022, with the following features:
+Adobe Asset Link version 3.3 is released on December 13, 2022, with the following features:
 
 * Support for Creative Cloud for Teams.
 
