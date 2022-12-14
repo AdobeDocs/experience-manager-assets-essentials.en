@@ -44,7 +44,7 @@ Enhancements and bug fixes based on customer feedback.
 
 [Adobe Asset Link](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) version 3.3 is released on December 13, 2022, with the following features:
 
-* Support for [Creative Cloud for teams(https://www.adobe.com/creativecloud/business/teams.html) in addition to supporting [Creative Cloud for enteprprise](https://www.adobe.com/creativecloud/business/enterprise.html) before.
+* Support for [Creative Cloud for teams](https://www.adobe.com/creativecloud/business/teams.html) in addition to supporting [Creative Cloud for enteprprise](https://www.adobe.com/creativecloud/business/enterprise.html) before.
 
 * Support for the latest Adobe InDesign, Photoshop, and Illustrator 2023 applications.
 
