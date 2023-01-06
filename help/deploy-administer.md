@@ -31,7 +31,7 @@ After the Assets Essentials solution is provisioned, the administrator receives 
 
 ### Create Assets Essentials application administrator {#create-assets-essentials-administrator}
 
-An Admin Console administrator must add an Assets Essentials application administrator to manage tasks such as creating a folder structure, uploading assets, setting up permissions, setting up metadata forms, and creating public collections. For information on how to assign a user or a user group to an Assets Essentials application administrator profile, see [add users to product profiles](#add-users-to-product-profiles).
+An Admin Console administrator must add a user, and not a user group, to the Assets Essentials administrator product profile. The Assets Essentials application administrator can then manage tasks such as creating a folder structure, uploading assets, setting up permissions, setting up metadata forms, and creating public collections. For information on how to assign a user to an Assets Essentials application administrator profile, see [add users to product profiles](#add-users-to-product-profiles).
 
 ### Add user groups {#add-user-groups}
 
