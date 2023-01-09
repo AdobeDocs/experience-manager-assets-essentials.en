@@ -31,7 +31,7 @@ After the Assets Essentials solution is provisioned, the administrator receives 
 
 ### Create Assets Essentials application administrator {#create-assets-essentials-administrator}
 
-An Admin Console administrator must add a user, and not a user group, to the Assets Essentials administrator product profile. The Assets Essentials application administrator can then manage tasks such as creating a folder structure, uploading assets, setting up permissions, setting up metadata forms, and creating public collections. For information on how to assign a user to an Assets Essentials application administrator profile, see [add users to product profiles](#add-users-to-product-profiles).
+An Admin Console administrator must add the Assets Essentials administrator product profile to a user and not to a user group. The Assets Essentials application administrator can then manage tasks such as creating a folder structure, uploading assets, setting up permissions, setting up metadata forms, and creating public collections. For information on how to assign a user to an Assets Essentials application administrator profile, see [add users to product profiles](#add-users-to-product-profiles).
 
 ### Add user groups {#add-user-groups}
 
@@ -45,11 +45,11 @@ For information on how to manage user groups, see `Create user groups` and `Edit
 
 For information on how to manage adding users to user groups, see `Add users to groups` available at [Manage user groups](https://helpx.adobe.com/in/enterprise/using/user-groups.html#add-users-to-groups).
 
-### Add user groups to product profiles {#add-users-to-product-profiles}
+### Add product profiles to user groups {#add-product-profiles-to-user-groups}
 
-Add user groups to product profiles so that they have access to the Assets Essentials application.
+Add product profiles to user groups so that they have access to the Assets Essentials application.
 
-To add user groups to product profiles:
+To add product profiles to user groups:
 
 1. Access [Admin Console](https://adminconsole.adobe.com) for your organization, click **[!UICONTROL Products]** in the top bar, click **[!UICONTROL AEM Assets Essentials]**, and then click the instance for [!DNL Assets Essentials]. The name of the instance might be different than in the screenshot below. 
    >[!NOTE]
