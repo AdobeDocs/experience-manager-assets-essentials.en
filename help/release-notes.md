@@ -7,7 +7,51 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on November 17, 2022.
+The current release of Assets Essentials is released on January 27, 2023.
+
+This release provides:
+
+**My Workspace with configurable widgets**
+
+Assets Essentials now provides a customized workspace for you, which serves as a one-stop solution to provide quick access to the various options spread across the user interface. Faster access to these options increases content velocity and efficiency of your projects.
+
+**Task management**
+
+Assets Essentials now enables you to manage the list of tasks currently assigned to you, created by you, and the tasks already completed by you. You can also select a task to approve or reject it or open the task details to approve, reject, edit, or delete it.
+
+![Tasks in Workspace](assets/tasks-workspace.png)
+
+**Auto-generated links to share assets**
+
+Generate a link automatically as soon as you choose to share an asset using the Assets Essentials user interface. The generated link remians valid after after you change the expiration date multiple times.
+
+![Tasks in Workspace](assets/share-asset.png)
+
+
+**Improvements based on customer feedback**
+
+Enhancements and bug fixes based on customer feedback.
+
+## Known issues {#known-issues}
+
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
+
+## Past releases {#past-releases}
+
+### 2022.11.0 {#november-2022}
+
+The November release of [!DNL Assets Essentials] is released on November 17, 2022.
 
 This release provides:
 
@@ -49,23 +93,6 @@ Enhancements and bug fixes based on customer feedback.
 * Support for the latest Adobe InDesign, Photoshop, and Illustrator 2023 applications.
 
 * Support for using the Adobe Asset Link CEP Plugin in environments with proxy servers.
-
-## Known issues {#known-issues}
-
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
-
-If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
-
-## Past releases {#past-releases}
 
 ### 2022.8.0 {#august-2022}
 
