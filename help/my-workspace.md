@@ -4,9 +4,9 @@ description: My Workspace provides a one-stop solution to provide quick access t
 ---
 # My Workspace for Assets Essentials {#my-workspace}
 
-Assets Essentials provides a customized workspace for you, which serves as a one-stop solution to provide a quick overview of your work with assets and gives access to key actions. Faster access to these options increases the content velocity and efficiency of your projects.
+Assets Essentials provides a customized workspace for you, which serves as a one-stop solution to provide a quick overview of your work with assets and to give access to key actions. Faster access to these options increases the content velocity and efficiency of your projects.
 
-You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets, and certain widgets like Insights are only visible if you are an administrator. You can configure how these widgets are displayed in your Workspace based on your preference.
+You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets. Insights widget is visible only if you are an administrator. You can configure how these widgets are displayed in your Workspace based on your preference.
 
 **New features coming soon**
 
@@ -28,7 +28,7 @@ Displays the list of tasks currently assigned to you in the **[!UICONTROL My Tas
 
 >[!NOTE]
 >
-> To assign a task on an asset to someone, click on **[!UICONTROL Assign Tasks]** when the asset is selected or open in detail view.
+> To assign a task on an asset to someone, click **[!UICONTROL Assign Tasks]** when the asset is selected or open in detail view.
 
 **Content**
 
