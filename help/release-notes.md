@@ -15,15 +15,17 @@ This release provides:
 
 Assets Essentials now provides a customized workspace for you, which serves as a one-stop solution to provide quick access to the various options spread across the user interface. Faster access to these options increases content velocity and efficiency of your projects.
 
-**Task management**
+My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets. You can configure the widgets that display in your Workspace.
 
-Assets Essentials now enables you to manage the list of tasks currently assigned to you, created by you, and the tasks already completed by you. You can also select a task to approve or reject it or open the task details to approve, reject, edit, or delete it.
+**Enhanced task management**
+
+Assets Essentials now enables you to manage the list of tasks currently assigned to you, created by you, and already completed by you using the new **[!UICONTROL Tasks]** option available in the left navigation pane. You can also select a task to approve or reject it or open the task details to approve, reject, edit, or delete it.
 
 ![Tasks in Workspace](assets/tasks-workspace.png)
 
 **Auto-generated links to share assets**
 
-Generate a link automatically as soon as you choose to share an asset using the Assets Essentials user interface. The generated link remians valid after after you change the expiration date multiple times.
+Assets Essentials now generates a link automatically as soon as you choose to share an asset using the Assets Essentials user interface. The generated link remains valid even if you change the expiration date.
 
 ![Tasks in Workspace](assets/share-asset.png)
 
