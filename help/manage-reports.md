@@ -9,15 +9,15 @@ Asset reporting provides administrators with visibility into activity of the Ado
 
 ## Access reports {#access-reports}
 
-All users who are assigned to the [Assets Essentials Administrators product profile](deploy-administer.md) can access the Live Statistics dashboard or create user-defined reports in Assets Essentials.
+All users who are assigned to the [Assets Essentials Administrators product profile](deploy-administer.md) can access the Insights dashboard or create user-defined reports in Assets Essentials.
 
-## View live statistics {#view-live-statistics}
+## View Insights {#view-live-statistics}
 
-Assets Essentials enables you to view real-time data for your Assets Essentials environment with the Live Statistics dashboard. You can view real-time event metrics during the last 30 days or for the last 12 months. 
+Assets Essentials enables you to view real-time data for your Assets Essentials environment with the Insights dashboard. You can view real-time event metrics during the last 30 days or for the last 12 months. 
 
 ![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)
 
-Click **[!UICONTROL Live Statistics]** available in the left navigation pane to view the following automatically generated charts:
+Click **[!UICONTROL Insights]** available in the left navigation pane to view the following automatically generated charts:
 
 * **Downloads**: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
