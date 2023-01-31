@@ -13,11 +13,11 @@ This release provides:
 
 **My Workspace with configurable widgets**
 
-Assets Essentials now provides a customized workspace for you, which serves as a one-stop solution to provide quick access to the various options spread across the user interface. Faster access to these options increases the content velocity and efficiency of your projects.
+Assets Essentials now provides a customized workspace for you, which serves as a one-stop solution to provide a quick overview of your work with assets and to give access to key actions. Faster access to these options increases the content velocity and efficiency of your projects.
 
 My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets. You can select the widgets that display on your Workspace.
 
-**Enhanced task management**
+**Dedicated task management UI**
 
 Assets Essentials now enables you to manage the list of tasks currently assigned to you, created by you, and already completed by you at a centralized location, using the new **[!UICONTROL Tasks]** option available in the left navigation pane. You can also take appropriate actions by selecting a task to approve or reject it or opening the task details to approve, reject, edit, or delete it.
 
