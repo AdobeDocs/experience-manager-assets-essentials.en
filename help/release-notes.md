@@ -19,7 +19,7 @@ My Workspace comprises the New features coming soon, Insights, Tasks, and Conten
 
 **Enhanced task management**
 
-Assets Essentials now enables you to manage the list of tasks currently assigned to you, created by you, and already completed by you using the new **[!UICONTROL Tasks]** option available in the left navigation pane. You can also select a task to approve or reject it or open the task details to approve, reject, edit, or delete it.
+Assets Essentials now enables you to manage the list of tasks currently assigned to you, created by you, and already completed by you at a centralized location, using the new **[!UICONTROL Tasks]** option available in the left navigation pane. You can also take appropriate actions by selecting a task to approve or reject it or opening the task details to approve, reject, edit, or delete it.
 
 ![Tasks in Workspace](assets/tasks-workspace.png)
 
