@@ -15,7 +15,7 @@ This release provides:
 
 Assets Essentials now provides a customized workspace for you, which serves as a one-stop solution to provide a quick overview of your work with assets and to give access to key actions. Faster access to these options increases the content velocity and efficiency of your projects.
 
-My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets. You can select the widgets that display on your Workspace.
+My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preference.
 
 **Dedicated task management UI**
 
