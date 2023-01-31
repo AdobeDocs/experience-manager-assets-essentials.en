@@ -4,13 +4,13 @@ description: My Workspace provides a one-stop solution to provide quick access t
 ---
 # My Workspace for Assets Essentials {#my-workspace}
 
-Assets Essentials provides a customized workspace for you, which serves as a one-stop solution to provide quick access to the various options spread across the user interface. Faster access to these options increases the content velocity and efficiency of your projects.
+Assets Essentials provides a customized workspace for you, which serves as a one-stop solution to provide a quick overview of your work with assets and gives access to key actions. Faster access to these options increases the content velocity and efficiency of your projects.
 
-You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the options available in the left navigation pane. My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets. You can configure the widgets that display in your Workspace.
+You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets, and certain widgets like Insights are only visible if you are an administrator. You can configure how these widgets are displayed in your Workspace based on your preference.
 
-**New Features coming soon**
+**New features coming soon**
 
-Describes the upcoming features for Assets Essentials.
+Highlights upcoming features for Assets Essentials.
 
 ![New features coming soon in Workspace](assets/new-features.png)
 
@@ -26,15 +26,19 @@ Displays the list of tasks currently assigned to you in the **[!UICONTROL My Tas
 
 ![Tasks in Workspace](assets/tasks-workspace.png)
 
+>[!NOTE]
+>
+> To assign a task on an asset to someone, click on **[!UICONTROL Assign Tasks]** when the asset is selected or open in detail view.
+
 **Content**
 
-Displays the list of assets that you have recently worked on. You can select to display assets in the widget in a List View, Grid View, Gallery View, or Waterfall View and sort the assets by name, size, and modified date. You can also select an asset to view the asset details or remove it from the list of recently viewed assets.
+Displays the list of assets that you have recently viewed. You can select to display assets in the widget in a List View, Grid View, Gallery View, or Waterfall View and sort the assets by name, size, and modified date. You can also select an asset to view the asset details or remove it from the list of recently viewed assets.
 
 ![Content widget in Workspace](assets/workspace-content.png)
 
 ## Configure My Workspace widgets {#configure-widgets}
 
-You can select the widgets that display in your Workspace and the order in which they display in the Workspace. All four widgets are displayed by default.
+You can select the widgets that display in your Workspace and the order in which they display in the Workspace. All the widgets are displayed by default.
 
 1. Click **[!UICONTROL My Workspace]** available in the left navigation pane and click **[!UICONTROL Customize]**.
 
