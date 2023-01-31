@@ -28,7 +28,7 @@ Displays the list of tasks currently assigned to you in the **[!UICONTROL My Tas
 
 >[!NOTE]
 >
-> To assign a task on an asset to someone, click **[!UICONTROL Assign Tasks]** when the asset is selected or open in detail view.
+> The **[!UICONTROL Assign Tasks]** option to assign a task on an asset to another user is available when you select an asset or when you open the asset information view.
 
 **Content**
 
