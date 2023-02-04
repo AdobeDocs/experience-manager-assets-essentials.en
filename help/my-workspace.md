@@ -1,22 +1,22 @@
 ---
-title: My Workspace for Assets Essentials
-description: My Workspace provides a one-stop solution to provide quick access to the various options spread across the Assets Essentials user interface.
+title: My Workspace for Assets
+description: My Workspace is a page that provides customizable visual modules for convenient access to key areas of the Assets user interface and information that is most relevant to the user.
 ---
-# My Workspace for Assets Essentials {#my-workspace}
+# My Workspace for Assets {#my-workspace}
 
-Assets Essentials provides a customized workspace for you, which serves as a one-stop solution to provide a quick overview of your work with assets and to give access to key actions. Faster access to these options increases the content velocity and efficiency of your projects.
+Assets now provides a customizable workspace for you, which serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows. With more convenient access to these options users can their efficiency and content velocity.
 
-You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace comprises the New features coming soon, Insights, Tasks, and Content widgets. Insights widget is visible only if you are an administrator. You can configure how these widgets are displayed in your Workspace based on your preference.
+You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show New features coming soon, Insights, Tasks, and Content widgets (NOTE: Insights is only visible to administrators). You can configure how these widgets are displayed in your Workspace based on your preferences.
 
 **New features coming soon**
 
-Highlights upcoming features for Assets Essentials.
+Highlights upcoming features for Assets.
 
 ![New features coming soon in Workspace](assets/new-features.png)
 
 **Insights**
 
-Administrators can view a summary of the number of downloads and uploads performed on the Assets Essentials deployment during the last 30 days. You can click **[!UICONTROL View all]** to quickly navigate to the detailed download and upload graphs.
+Administrators can view a summary of the number of downloads and uploads performed on the Assets environment during the last 30 days. You can click **[!UICONTROL View all]** to quickly navigate to the Insights page for more detailed dashboards.
 
 ![Insights in Workspace](assets/insights.png)
 
@@ -32,13 +32,13 @@ Displays the list of tasks currently assigned to you in the **[!UICONTROL My Tas
 
 **Content**
 
-Displays the list of assets that you have recently viewed. You can select to display assets in the widget in a List View, Grid View, Gallery View, or Waterfall View and sort the assets by name, size, and modified date. You can also select an asset to view the asset details or remove it from the list of recently viewed assets.
+Displays assorted views of assets including the list of assets that you have recently viewed. You can select to display assets in the widget in a List View, Grid View, Gallery View, or Waterfall View and sort the assets by name, size, and modified date. You can also select an asset to view the asset details or remove it from the list of recently viewed assets.
 
 ![Content widget in Workspace](assets/workspace-content.png)
 
-## Configure My Workspace widgets {#configure-widgets}
+## Customize My Workspace {#configure-widgets}
 
-You can select the widgets that display in your Workspace and the order in which they display in the Workspace. All the widgets are displayed by default.
+All the widgets are displayed by default, but you can enable or disable the widgets that are displayed in My Workspace. The preferences are specific for each user
 
 1. Click **[!UICONTROL My Workspace]** available in the left navigation pane and click **[!UICONTROL Customize]**.
 
