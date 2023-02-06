@@ -53,9 +53,17 @@ You can also remove tags from the [!UICONTROL Smart Tags] section that are autom
 
 ## Metadata forms {#metadata-forms}
 
-Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets.
+Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets. You can create forms from scratch or re-purpose an existing form.
 
-You can configure metadata forms for different types of assets (different MIME types). Use the same form name as the file's MIME type. Essentials automatically matches uploaded assets to the name of the form. For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contains metadata fields as defined in the form. You can create forms from scratch or re-purpose an existing form.
+You can configure metadata forms for different types of assets (different MIME types). Use the same form name as the file's MIME type. Essentials automatically matches uploaded assets MIME type to the name of the form and updates the metadata for the uploaded assets based on the form fields.
+
+For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contain metadata fields as defined in the form.
+
+Assets Essentials uses the following sequence to search for existing metadata form names to apply the metadata fields to the uploaded assets of a particular type:
+
+MIME subtype > MIME type > `default` form > Out-of-the-box form
+
+For example, if a metadata form by the name `PDF` or `pdf` exists, then the uploaded PDF documents contains metadata fields as defined in the form. If a metadata form by the name `PDF` or `pdf` does not exist, Assets Essentials matches if there is a metadata form by the name `application`. If there is a metadata form by the name `application`, the uploaded PDF documents contains metadata fields as defined in the form. If Assets Essentials still does not find a matching metadata form, it searches for the `default` metadata form to apply metadata fields defined in the form to the uploaded PDF documents. If none of these steps work, Assets Essentials applies metadata fields defined in the out-of-the-box form to all the uploaded PDF documents.
 
 >[!IMPORTANT] 
 >
@@ -81,6 +89,10 @@ To create a metadata form, follow these steps:
 1. Optionally, click **[!UICONTROL Preview]** to preview the form that you are creating.
 1. Optionally, add more tabs and the required components in each tab.
 1. Click **[!UICONTROL Save]** when the form is complete.
+
+Watch this video to view the sequence of steps:
+
+>[!VIDEO](https://video.tv.adobe.com/v/341275)
 
 Once a form is created, it is automatically applied when users upload an asset of the matching MIME type.
 
