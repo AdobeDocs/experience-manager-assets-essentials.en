@@ -51,7 +51,13 @@ You may add more tags to your assets, in addition to the Smart Tags that are add
 
 You can also remove tags from the [!UICONTROL Smart Tags] section that are automatically added by [!DNL Assets Essentials] to all the uploaded assets.
 
-## Metadata forms {#metadata-forms}
+## Metadata Forms {#metadata-forms}
+
+>[!CONTEXTUALHELP]
+>id="assets_metadata_forms"
+>title="Metadata Forms"
+>abstract="Experience Manager Assets provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's Details page. The business-specific metadata improves the governance and discovery of its assets."
+>additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html#metadata-forms" text="Learn More"
 
 Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets. You can create forms from scratch or re-purpose an existing form.
 
