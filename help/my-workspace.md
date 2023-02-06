@@ -4,9 +4,13 @@ description: My Workspace is a page that provides customizable visual modules fo
 ---
 # My Workspace for Assets {#my-workspace}
 
-Assets now includes a customizable workspace that provides customizable widgets for convenient access to key areas of the Assets user interface and information that is most relevant to the user. This page serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows. With more convenient access to these options users can their efficiency and content velocity.
+Assets now includes a customizable workspace that provides widgets for convenient access to key areas of the Assets user interface and information that is most relevant to you. This page serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows. More convenient access to these options increases your efficiency and content velocity.
 
-You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show New features coming soon, Insights, Tasks, and Content widgets (NOTE: Insights is only visible to administrators). You can configure how these widgets are displayed in your Workspace based on your preferences.
+You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show New features coming soon, Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preferences.
+
+>[!NOTE]
+>
+>Insights widget is only visible to administrators.
 
 **New features coming soon**
 
@@ -38,7 +42,7 @@ Displays assorted views of assets including the list of assets that you have rec
 
 ## Customize My Workspace {#configure-widgets}
 
-All the widgets are displayed by default, but you can enable or disable the widgets that are displayed in My Workspace. The preferences are specific for each user
+All the widgets are displayed by default, but you can enable or disable the widgets that are displayed in My Workspace. The preferences are specific for each user.
 
 1. Click **[!UICONTROL My Workspace]** available in the left navigation pane and click **[!UICONTROL Customize]**.
 

@@ -13,7 +13,7 @@ This release provides:
 
 **My Workspace with configurable widgets**
 
-Assets now provides a customized workspace for you, which serves as a one-stop solution to provide a quick overview of your work with assets and to give access to key actions. Faster access to these options increases the content velocity and efficiency of your projects.
+Assets now provides a customized workspace for you, which serves as a one-stop solution to provide convenient access to key areas of the Assets user interface and information that is most relevant to you. Faster access to these options increases the content velocity and efficiency of your projects.
 
 My Workspace includes widgets for upcoming New Features, Insights, Tasks, and Content. You can configure how these widgets are displayed in your Workspace based on your preferences.
 
