@@ -15,9 +15,7 @@ To generate a link for an asset or a folder containing assets:
 
 1. If you want to adjust it, click the Calendar icon to define an expiration date for the link using the **[!UICONTROL Expiration Date]** field. You can also specify a date directly in the `yyyy-mm-dd` format. By default, expiration date for a link is set to 2 weeks from the date of sharing.
 
-1. Click **[!UICONTROL Generate Link]**.
-
-1. Click **[!UICONTROL Copy Link]** to copy the link. You can also copy the link from the **[!UICONTROL Share Link]** field. 
+1. Copy the link from the **[!UICONTROL Share Link]** field. 
 
    ![Option to crop and straighten](assets/share-asset-link.png)
 

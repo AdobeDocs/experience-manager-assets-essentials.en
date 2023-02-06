@@ -15,6 +15,7 @@ solution: Experience Manager
 
 + [Solution overview](introduction.md)
 + [Release Notes](release-notes.md)
++ [My Workspace](my-workspace.md)
 + Get started with Assets Essentials for administrators {#get-started-admins}
   + [Administer and add users](deploy-administer.md)
   + Manage folder access{#folder-access}
