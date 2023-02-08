@@ -51,7 +51,7 @@ You may add more tags to your assets, in addition to the Smart Tags that are add
 
 You can also remove tags from the [!UICONTROL Smart Tags] section that are automatically added by [!DNL Assets Essentials] to all the uploaded assets.
 
-## Metadata Forms {#metadata-forms}
+## Setup Metadata Forms {#metadata-forms}
 
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
