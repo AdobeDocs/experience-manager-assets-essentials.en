@@ -56,7 +56,7 @@ You can also remove tags from the [!UICONTROL Smart Tags] section that are autom
 >[!CONTEXTUALHELP]
 >id="assets_metadata_forms"
 >title="Metadata Forms"
->abstract="[!DNL Experience Manager Assets] provides many standard metadata fields by default. Organizations have additional metadata requirements and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's Details page. The business-specific metadata improves the governance and discovery of its assets."
+>abstract="[!DNL Experience Manager Assets] provides many standard metadata fields by default. Organizations have additional metadata needs and require more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's Details page. The business-specific metadata improves the governance and discovery of its assets."
 
 Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets. You can create forms from scratch or re-purpose an existing form.
 
