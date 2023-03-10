@@ -148,7 +148,7 @@ Unlike folders, a collection can include assets from different locations. You ca
 
 ## Next Steps {#next-steps}
 
-* [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en)
+<!-- THIS URL IS A 404 ERROR; NO REDIRECT WAS PUT IN PLACE * [Watch a video to deploy Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html?lang=en) -->
 
 * Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
 
