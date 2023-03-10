@@ -5,6 +5,11 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 ---
 # Manage reports {#manage-reports}
 
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="Reports"
+>abstract="Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. All users who are assigned to the Administrators product profile can access the Insights dashboard or create user-defined reports."
+
 Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. 
 
 ## Access reports {#access-reports}
