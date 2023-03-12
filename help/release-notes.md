@@ -7,13 +7,9 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on March 09, 2023.
+The current release of Assets Essentials is released on Jnauary 27, 2023.
 
-The new features in the last two product releases include:
-
-**Bulk asset metadata editing**
-
-Bulk metadata updates allow users to perform common metadata updates across multiple assets simultaneously. Users do no longer need to update records individually and can quickly apply properties to assets accessed through search, folders, and collections.
+The list of features in the release includes:
 
 **My Workspace with configurable widgets**
 
