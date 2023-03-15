@@ -64,7 +64,8 @@ To add product profiles to user groups:
 
    * **[!DNL Assets Essentials] Users** have access to the complete user interface. These users can upload, organize, tag, and find digital assets.
 
-   * **[!DNL Assets Essentials] Consumer Users**: have access to the embedded asset selection experience in [!DNL Adobe Journey Optimizer] email template editor. For more information, see [Use [!DNL Assets Essentials] in [!DNL Journey Optimizer]](https://experienceleague.adobe.com/docs/journey-optimizer/using/create-messages/assets-essentials.html).
+   * **[!DNL Assets Essentials] Consumer Users** can perform find, preview, and download operations in Assets Essentials. They can also find and select assets in Adobe Journey Optimizer, and find and select assets for use within Workfront.
+   For more information, see [Integration with other solutions](integration.md).
 
    ![Admin Console admin profile](assets/admin-console-admin-profile.png)
   
