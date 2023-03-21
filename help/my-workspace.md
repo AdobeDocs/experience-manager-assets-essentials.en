@@ -12,7 +12,7 @@ You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the i
 >
 >Insights widget is only visible to administrators.
 
-<!-->
+<!--
 
 **New features coming soon**
 
