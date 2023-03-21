@@ -38,7 +38,7 @@ You can browse the folders from the main user interface or from the left sidebar
 
 * **Assets**: List of all folders in a tree view, that you have access to.
 * **Recently Viewed**: List of assets that you previewed recently. [!DNL Assets Essentials] displays only the assets that you preview. It does not display the assets that you scroll past when browsing the repository files or folders.
-* **Trash**: 
+* **Trash**: List the assets deleted from the root **[!UICONTROL Assets]** folder. You can select an asset in the Trash folder to either restore it to the original location or permanently delete it.
 
 <!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.

@@ -6,17 +6,21 @@ description: My Workspace is a page that provides customizable visual modules fo
 
 Assets now includes a customizable workspace that provides widgets for convenient access to key areas of the Assets user interface and information that is most relevant to you. This page serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows. More convenient access to these options increases your efficiency and content velocity.
 
-You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show New features coming soon, Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preferences.
+You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preferences.
 
 >[!NOTE]
 >
 >Insights widget is only visible to administrators.
+
+<!-->
 
 **New features coming soon**
 
 Highlights upcoming features for Assets.
 
 ![New features coming soon in Workspace](assets/new-features.png)
+
+-->
 
 **Insights**
 
