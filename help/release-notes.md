@@ -13,7 +13,7 @@ The list of recently added features include:
 
 **Bulk asset metadata editing**
 
-Bulk metadata updates allow users to perform common metadata updates across multiple assets simultaneously. Users do no longer need to update records individually and can quickly apply properties to assets accessed through search, folders, and collections.
+Bulk metadata updates allow you to perform common metadata updates across multiple assets simultaneously. You do not need to update records individually and can quickly apply properties to assets accessed through search, folders, and collections.
 
 **My Workspace with configurable widgets**
 
