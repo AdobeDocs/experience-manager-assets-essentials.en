@@ -11,7 +11,7 @@ The current release of Assets Essentials is released on March 30, 2023.
 
 The list of recently added features include:
 
-**Bulk asset metadata editing**
+**Bulk updates to asset metadata**
 
 Bulk metadata updates allow you to perform common metadata updates across multiple assets simultaneously. You do not need to update records individually and can quickly apply properties to assets accessed through search, folders, and collections.
 
