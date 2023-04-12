@@ -1,7 +1,8 @@
 ---
-title: "Security Overview for Assets Essentials"
+title: Security Overview for Assets Essentials
 description: Security Overview for Assets Essentials
 mini-toc-levels: 1
+exl-id: 7efa50d5-2e9d-47bf-a810-ebc19e003af1
 ---
 # Security Overview for Assets Essentials {#security-overview}
 

@@ -1,6 +1,7 @@
 ---
 title: My Workspace for Assets
 description: My Workspace is a page that provides customizable visual modules for convenient access to key areas of the Assets user interface and information that is most relevant to the user.
+exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 ---
 # My Workspace for Assets {#my-workspace}
 
