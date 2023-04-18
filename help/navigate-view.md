@@ -16,7 +16,7 @@ exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 
 When you log into [!DNL Assets Essentials], you see the following interface.
 
-![[!DNL Assets Essentials] user interface](assets/essENtials-interface.png)
+![[!DNL Assets Essentials] user interface](assets/essentials-interface.png)
 
 &nbsp;&nbsp;&nbsp; *A: Left sidebar to browse repository and provides access to a few other options*
 &nbsp;&nbsp;&nbsp; *B: Display or collapse the left sidebar to increase asset-viewing area*
