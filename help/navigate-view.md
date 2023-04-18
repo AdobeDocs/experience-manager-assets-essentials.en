@@ -16,16 +16,17 @@ exl-id: 534a8084-88f7-410e-b872-719e47e62b10
 
 When you log into [!DNL Assets Essentials], you see the following interface.
 
-![[!DNL Assets Essentials] user interface](assets/essentials-interface.png)
+![[!DNL Assets Essentials] user interface](assets/essENtials-interface.png)
 
 &nbsp;&nbsp;&nbsp; *A: Left sidebar to browse repository and provides access to a few other options*
 &nbsp;&nbsp;&nbsp; *B: Display or collapse the left sidebar to increase asset-viewing area*
 &nbsp;&nbsp;&nbsp; *C: Filter search results*
-&nbsp;&nbsp;&nbsp; *D: Options to sort assets*
-&nbsp;&nbsp;&nbsp; *E: Search box*
-&nbsp;&nbsp;&nbsp; *F: Upload or drag and drop files using `Add Assets` button*
-&nbsp;&nbsp;&nbsp; *G: Create a new foldert*
-&nbsp;&nbsp;&nbsp; *H: Switch between different views*
+&nbsp;&nbsp;&nbsp; *D: Select all contents of the selected folder*
+&nbsp;&nbsp;&nbsp; *E: Options to sort assets*
+&nbsp;&nbsp;&nbsp; *F: Search box*
+&nbsp;&nbsp;&nbsp; *G: Upload or drag and drop files using `Add Assets` button*
+&nbsp;&nbsp;&nbsp; *H: Create a new foldert*
+&nbsp;&nbsp;&nbsp; *I: Switch between different views*
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
 
