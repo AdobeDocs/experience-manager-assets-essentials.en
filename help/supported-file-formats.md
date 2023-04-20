@@ -56,7 +56,8 @@ The various file types have different degrees of support for the use cases and f
 | Videos        | &#10003; | &#10003;      | &minus;      | &#10003; | &#10003;   | &#10003; | &#10003;  |
 | CC Libraries  | &minus;  | &minus;       | &minus;      | &minus;  | &minus;    | &#10003; | &#10003;  |
 | PDF           | &#10003; | &#10003;      | &minus;      | &#10003; | &#10003;   | &#10003; | &#10003;  |
-| PSD, AI, and INDD           | &#10003; | &#10003;      | &minus;      | &#10003; | &#10003;   | &#10003; | &#10003;  |
+| PSD           | &#10003; | &#10003;      | &minus;      | &#10003; | &#10003;   | &#10003; | &#10003;  |
+| AI and INDD           | &#10003; | &#10003;      | &minus;      | &#10003; | &minus;   | &#10003; | &#10003;  |
 | Other binary files          |  &#10003;  | &#10003;      | &minus;      |  &#10003;  |&minus;   |  &#10003;  | &#10003;  |
 
 
