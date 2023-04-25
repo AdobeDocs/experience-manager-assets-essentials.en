@@ -3,7 +3,7 @@ title: Manage notifications
 description: Monitor the operations performed on the assets or folders available in the repository using the Assets Essentials notifications.
 exl-id: 5c0039a2-caa2-4b55-b963-0e7e9e542c47
 ---
-# Manage notifications {#manage-notifications}
+# Watch assets, folders, and collections {#watch-assets-folders}
 
 Assets Essentials notifications enable you to monitor the operations performed on the assets, folders, or collections available in the repository. You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the categories for which the notifications are sent to you.
 
