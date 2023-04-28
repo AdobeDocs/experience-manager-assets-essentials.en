@@ -25,7 +25,7 @@ When you log into [!DNL Assets Essentials], you see the following interface.
 &nbsp;&nbsp;&nbsp; *E: Options to sort assets*
 &nbsp;&nbsp;&nbsp; *F: Search box*
 &nbsp;&nbsp;&nbsp; *G: Upload or drag and drop files using `Add Assets` button*
-&nbsp;&nbsp;&nbsp; *H: Create a new foldert*
+&nbsp;&nbsp;&nbsp; *H: Create a new folder*
 &nbsp;&nbsp;&nbsp; *I: Switch between different views*
 
 <!-- TBD: Need an embedded video here with narration. It has to be hosted on MPC to be embeddable. -->
