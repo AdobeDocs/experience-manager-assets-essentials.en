@@ -6,7 +6,7 @@ exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
 # Manage permissions for folders {#manage-permissions}
 
 >[!CONTEXTUALHELP]
->id="assets_permissions_folders"
+>id="assets_workspace"
 >title="Manage Permissions"
 >abstract="[!DNL Assets Essentials] allows the administrators to manage the access levels for folders available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder-level."
 

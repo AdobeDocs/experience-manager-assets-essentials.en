@@ -5,6 +5,11 @@ exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 ---
 # My Workspace for Assets {#my-workspace}
 
+>[!CONTEXTUALHELP]
+>id="assets_my_workspace"
+>title="My Workspace"
+>abstract="Assets now includes a customizable workspace that provides widgets for convenient access to key areas of the Assets user interface and information that is most relevant to you. This page serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows."
+
 Assets now includes a customizable workspace that provides widgets for convenient access to key areas of the Assets user interface and information that is most relevant to you. This page serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows. More convenient access to these options increases your efficiency and content velocity.
 
 You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preferences.
