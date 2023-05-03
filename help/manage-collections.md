@@ -5,6 +5,11 @@ exl-id: 33c889f5-c989-4772-9591-db62f50e5c80
 ---
 # Manage collections {#manage-collections}
 
+>[!CONTEXTUALHELP]
+>id="assets_collections"
+>title="Manage Collections"
+>abstract="A collection is a set of assets, folders, or other collections within Assets Essentials. Use collections to share assets between users. Unlike folders, a collection can include assets from different locations. You can share multiple collections with a user. Each collection contains references to assets. The referential integrity of assets is maintained across collections."
+
 A collection is a set of assets, folders, or other collections within Adobe Experience Manager Assets Essentials. Use collections to share assets between users.
 
 Unlike folders, a collection can include assets from different locations. 
