@@ -7,9 +7,13 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on March 30, 2023.
+The current release of Assets Essentials is released on May 24, 2023.
 
 The list of recently added features include:
+
+**Top downloaded assets**
+
+My Workspace now displays the top ten most downloaded assets for your Assets Essentials environment in the [!UICONTROL Content] section. You can also view the format type and the number of downloads for each listed asset.
 
 **Bulk updates to asset metadata**
 

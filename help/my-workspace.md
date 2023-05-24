@@ -48,7 +48,7 @@ Displays the list of tasks currently assigned to you in the **[!UICONTROL My Tas
 
 Displays assorted views of assets including the list of assets that you have recently viewed. You can select to display assets in the widget in a List View, Grid View, Gallery View, or Waterfall View and sort the assets by name, size, and modified date. You can also select an asset to view the asset details or remove it from the list of recently viewed assets.
 
-The **[!UICONTROL Top Downloads]** tab displays the top ten most downloaded assets available in the Assets Essentials repository. You can select to display assets in the List View or Grid View. Both views display the format type and the number of downloads for each asset. You can also select an asset and click **[!UICONTROL Details]** to view its properties. 
+The **[!UICONTROL Top Downloads]** tab displays the top ten most downloaded assets available in your Assets Essentials environment. You can select to display assets in the List View or Grid View. Both views display the format type and the number of downloads for each asset. You can also select an asset and click **[!UICONTROL Details]** to view its properties. 
 
 ![Content widget in Workspace](assets/workspace-content.png)
 
