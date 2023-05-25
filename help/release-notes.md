@@ -17,13 +17,13 @@ My Workspace now displays the top ten most downloaded assets for your Assets Ess
 
 **Bulk updates to asset metadata**
 
-Bulk metadata updates allow you to perform common metadata updates across multiple assets simultaneously. You do not need to update records individually and can quickly apply properties to assets accessed through search, folders, and collections.
+Bulk metadata updates allow you to perform common metadata updates across multiple assets simultaneously. You do not need to update records individually and can quickly apply properties to assets or folders accessed through search.
 
 **My Workspace with configurable widgets**
 
 Assets now provides a customized workspace for you, which serves as a one-stop solution to provide convenient access to key areas of the Assets user interface and information that is most relevant to you. Faster access to these options increases the content velocity and efficiency of your projects.
 
-My Workspace includes widgets for upcoming New Features, Insights, Tasks, and Content. You can configure how these widgets are displayed in your Workspace based on your preferences.
+My Workspace includes widgets for Insights, Tasks, and Content. You can configure how these widgets are displayed in your Workspace based on your preferences.
 
 **Dedicated task management UI**
 
@@ -54,6 +54,8 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 
 
 * Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+* As an administrator, you cannot delegate the permissions to access the collection to other users.
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
