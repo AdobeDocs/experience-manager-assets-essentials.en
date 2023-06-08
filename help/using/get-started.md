@@ -4,7 +4,7 @@ description: How to access, login experience of, supported use cases of, and kno
 role: User, Leader
 exl-id: 7917b2a0-8340-4d94-aa6f-30ce986fa752
 ---
-# Get started using [!DNL Experience Manager Assets Essentials] {#assets-essentials-get-started}
+# Get started using [!DNL Adobe Experience Manager Assets Essentials] {#assets-essentials-get-started}
 
 <!-- TBD: Make links for these steps. -->
 
