@@ -35,7 +35,7 @@ You can filter the search results based on the following parameters.
 * Asset Status: Filter the search results using an `Approved`, `Rejected`, or `No Status` asset status.
 
 * File type: Filter the search results by the supported types of files that is, `Images`, `Documents`, and `Videos`.
-* MIME type: Filter for one or more of the supported file formats. <!-- TBD:  [supported file formats](/help/supported-file-formats.md). -->
+* MIME type: Filter for one or more of the supported file formats. <!-- TBD:  [supported file formats](/help/using/supported-file-formats.md). -->
 * Image size: Provide one of more of the minimum and maximum dimensions to filter images. Size is provided in dimensions in pixel and is not the file size of the images.
 * Created date: The creation date of the asset as provided in the metadata. The standard date format used is `yyyy-mm-dd`.
 * Modified date: The last modified date of the assets. The standard date format used is `yyyy-mm-dd`.

@@ -6,7 +6,7 @@ exl-id: a85a4455-4456-48af-aee9-f05300677605
 ---
 # Upload assets {#add-assets}
 
-To add new assets to work with, upload a few assets from your local file system. <!-- TBD: Many of the [common file formats are supported](/help/supported-file-formats.md). -->
+To add new assets to work with, upload a few assets from your local file system. <!-- TBD: Many of the [common file formats are supported](/help/using/supported-file-formats.md). -->
 
 You can use the following methods to upload one or more assets or a folder containing assets:
 
@@ -50,7 +50,7 @@ Immediately after the assets are uploaded, [!DNL Assets Essentials] processes th
 
 ## Asset renditions {#renditions}
 
-[!DNL Assets Essentials] processes the uploaded assets in near real time and for many supported file types, it generates renditions. Created for images, the renditions are resized versions of the uploaded image. You can download not just the asset but also the renditions to use an appropriate version. You can view all the renditions of an asset when you [preview an asset](/help/navigate-view.md#preview-assets).
+[!DNL Assets Essentials] processes the uploaded assets in near real time and for many supported file types, it generates renditions. Created for images, the renditions are resized versions of the uploaded image. You can download not just the asset but also the renditions to use an appropriate version. You can view all the renditions of an asset when you [preview an asset](/help/using/navigate-view.md#preview-assets).
 
 ![Renditions](assets/renditions-view-download.png)
 
@@ -76,7 +76,7 @@ If you attempt to upload duplicate assets, the assets are not uploaded until you
 
 >[!TIP]
 >
->You can upload assets to the DAM repository directly from within your [!DNL Creative Cloud] desktop applications. See how [[!DNL Assets Essentials] integrates with [!DNL Adobe Asset Link]](/help/integration.md).
+>You can upload assets to the DAM repository directly from within your [!DNL Creative Cloud] desktop applications. See how [[!DNL Assets Essentials] integrates with [!DNL Adobe Asset Link]](/help/using/integration.md).
 
 ## Delete assets or folders {#delete-assets}
 

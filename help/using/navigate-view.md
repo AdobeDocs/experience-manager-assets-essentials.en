@@ -96,7 +96,7 @@ To preview an asset, select it and click [!UICONTROL Details] ![details icon](as
 
 You can also preview videos.
 
-![Video preview](/help/assets/preview-video.png)
+![Video preview](/help/using/assets/preview-video.png)
 
 If you explicitly preview an asset, then [!DNL Assets Essentials] displays it as a recently viewed asset.
 
@@ -116,4 +116,4 @@ Other use cases after previewing.
 
 >[!MORELIKETHIS]
 >
->* [View versions of an asset](/help/manage-organize.md#view-versions).
+>* [View versions of an asset](/help/using/manage-organize.md#view-versions).

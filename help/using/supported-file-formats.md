@@ -32,7 +32,7 @@ The various file types have different degrees of support for the use cases and f
 <!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
-| Asset type        | [Browse](/help/navigate-view.md)   | Copy     | [Upload](/help/add-delete.md)   | Create   | [Delete](/help/add-delete.md#delete-assets)   | Details           | Image zoom | [Recently Viewed](/help/navigate-view.md) |
+| Asset type        | [Browse](/help/using/navigate-view.md)   | Copy     | [Upload](/help/using/add-delete.md)   | Create   | [Delete](/help/using/add-delete.md#delete-assets)   | Details           | Image zoom | [Recently Viewed](/help/using/navigate-view.md) |
 |-------------------|----------|----------|----------|----------|----------|-------------------|------------|-----------------|
 | Raster images     | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003;          | &#10003;   | &#10003;        |
 | RAW files         | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003;          | &#10003;   | &#10003;        |
@@ -48,7 +48,7 @@ The various file types have different degrees of support for the use cases and f
 
 ## Search, use, and edit assets {#support-to-search-use-edit}
 
-| Asset type    | [Download](/help/manage-organize.md#download) | Drag and drop | [Image editor](/help/edit-images.md) | [Search](/help/search.md)   | [Smart Tags](/help/metadata.md#tags) | [Rename](/help/manage-organize.md)   | [Versions](/help/manage-organize.md#versions-of-assets) |
+| Asset type    | [Download](/help/using/manage-organize.md#download) | Drag and drop | [Image editor](/help/using/edit-images.md) | [Search](/help/using/search.md)   | [Smart Tags](/help/using/metadata.md#tags) | [Rename](/help/using/manage-organize.md)   | [Versions](/help/using/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Raster images | &#10003; | &#10003;      | &#10003;     | &#10003; | &#10003;   | &#10003; | &#10003; |
 | RAW files     | &#10003; | &#10003; | &minus; |  &#10003;   | &#10003; | &#10003;          | &#10003;   | &#10003;        |
@@ -84,7 +84,7 @@ The various file types have different degrees of support for the use cases and f
 
 ## Other asset management tasks {#support-to-manage-assets}
 
-| Asset type    | [Metadata](/help/metadata.md)          | [Renditions](/help/add-delete.md#renditions) | [Trash](/help/add-delete.md#delete-assets)    | Copy     | Move     |
+| Asset type    | [Metadata](/help/using/metadata.md)          | [Renditions](/help/using/add-delete.md#renditions) | [Trash](/help/using/add-delete.md#delete-assets)    | Copy     | Move     |
 |---------------|-------------------|------------|----------|----------|----------|
 | Raster images | &#10003; | &#10003;   | &#10003; | &#10003; | &#10003; |
 | RAW files     | &#10003; | &#10003;   | &#10003; | &#10003; | &#10003; |
