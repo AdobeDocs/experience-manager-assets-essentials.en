@@ -53,7 +53,7 @@ You can also remove tags from the [!UICONTROL Smart Tags] section that are autom
 
 ## Taxonomy management {#taxonomy-management}
 
-Tags can also be nested into a hierarchy to support relationships like category and sub-category. If you want to insert hierarchical tags, they are easily managed by Administrator in the [!UICONTROL Taxonomy Management] section of [!UICONTROL Settings]. Here, you can create a governed set of namespaces and tags that all users can access to use while describing content. Only the Admin can set up tag hierarchies in [!UICONTROL Taxonomy Manager] ensuring that the values are controlled and used consistently. 
+Tags can also be nested into a hierarchy to support relationships like category and sub-category. If you need to insert hierarchical tags, they are easily managed by Administrator in the [!UICONTROL Taxonomy Management] section of [!UICONTROL Settings]. You can create a governed set of namespaces and tags that all users can access to use while describing content. Only the Administrators can set up tag hierarchies in [!UICONTROL Taxonomy Manager] ensuring that the values are controlled and used consistently. 
 
 ## Setup Metadata Forms {#metadata-forms}
 
