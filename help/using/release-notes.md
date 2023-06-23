@@ -9,7 +9,7 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 
 The current release of Assets Essentials is released on June 22, 2023.
 
-The list of features include:
+The list of features included in the release are:
 
 
 **Hierarchical tagging of assets for faster search experience**
