@@ -26,7 +26,9 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 
 * **Downloads**: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
-* **Uploads**: The number assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+* **Uploads**: The number of assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+
+* **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
 
 <!--
 

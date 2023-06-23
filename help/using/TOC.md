@@ -35,6 +35,7 @@ solution: Experience Manager
 + [Manage collections](manage-collections.md)
 + [Watch assets, folders, and collections](manage-notifications.md)
 + [Manage reports](manage-reports.md)
++ [Manage tags](tagging-management.md)
 + Integration with other solutions {#integration-with-other-solutions}
   + [Overview](integration.md)
   + [Integrate with Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
