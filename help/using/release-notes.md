@@ -289,7 +289,7 @@ In addition, [!DNL Adobe Asset Link] extension for Creative Cloud (Photoshop, Il
 
 [!DNL Assets Essentials] 2021.8.0 is released on August 30, 2021, with the following updates:
 
-* Integrations with [!DNL Adobe Workfront] that lets [!DNL Workfront] users manage their digital assets in the context of managing their work. For more information, see [integrations with other Adobe solutions](/help/integration.md).
+* Integrations with [!DNL Adobe Workfront] that lets [!DNL Workfront] users manage their digital assets in the context of managing their work.
 
 ### 2021.7.0 release {#july2021}
 
@@ -305,4 +305,4 @@ The first release of [!DNL Assets Essentials], made available on June 21, 2021, 
 * Upload and add assets, including nested folders. Preview the assets and versions.
 * Full-text search, nuanced search filters, and saved searches for rapid asset discovery.
 * Basic asset management operations like update, delete, download, and manage metadata.
-* [!DNL Assets Essentials] is available to [!DNL Adobe Journey Optimizer] users to manage the assets when creating messages. For more information, see [integrations with other Adobe solutions](/help/integration.md).
+* [!DNL Assets Essentials] is available to [!DNL Adobe Journey Optimizer] users to manage the assets when creating messages.
