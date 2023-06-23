@@ -12,7 +12,7 @@ exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 
 Assets now includes a customizable workspace that provides widgets for convenient access to key areas of the Assets user interface and information that is most relevant to you. This page serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows. More convenient access to these options increases your efficiency and content velocity.
 
-You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preferences.
+You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show Quck access, Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preferences.
 
 >[!NOTE]
 >
@@ -28,9 +28,21 @@ Highlights upcoming features for Assets.
 
 -->
 
+
+
+**Quick access**
+
+Pin files, folders, and collections for faster access to these items when you need them later. All pinned items display in the **Quick access** section of My Workspace. You can access them using My Workspace instead of navigating to the location where they are saved within the repository.
+
+To pin an asset, a folder, or a collection, select the item and click **[!UICONTROL Pin to Quick Access]**.
+
+![Tasks in Workspace](assets/quick-access.png)
+
 **Insights**
 
 Administrators can view a summary of the number of downloads and uploads performed on the Assets environment during the last 30 days. You can click **[!UICONTROL View all]** to quickly navigate to the Insights page for more detailed dashboards.
+
+You can also view top searched terms along with the number of times those terms are searched within your Assets Essentials deployment using the **Insights** section of My Workspace. You can also navigate to detailed Insights to view top searches during the last 30 days or 12 months.
 
 ![Insights in Workspace](assets/insights.png)
 
