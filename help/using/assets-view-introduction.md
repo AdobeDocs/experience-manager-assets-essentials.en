@@ -40,5 +40,10 @@ Say hello to a Digital Asset Management solution that understands the diverse ne
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
+## Search-first approach to enhance efficiency
+
+Unlock the potential of your organization's digital asset library with the power of search with cutting-edge functionality. You can bid farewell to the hassle of manually sifting through countless files and folders. Any user can instantly locate the perfect image, video, or document you need to create stunning marketing campaigns, captivating presentations, and engaging content. Our search first engine allows you to effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. Embrace the future of the DAM with our Search-First and unleash the full potential of your digital asset library.
+
+![Deploy Assets Essentials](assets/search-first.gif)
 
     
