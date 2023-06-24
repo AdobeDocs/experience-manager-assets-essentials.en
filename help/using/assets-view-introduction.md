@@ -1,6 +1,8 @@
 ---
 title: Introduction to Assets view
 description: What's new in Assets view
+hidefromtoc: yes
+hide: yes
 ---
 
 # Introducing Assets view {#assets-view}
