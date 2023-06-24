@@ -33,7 +33,7 @@ You can access the Assets view in the following ways:
 
 Say hello to a Digital Asset Management solution that understands the diverse needs of different organizational roles. The sleek new Assets View prioritizes ease of use and speed, catering to marketers' preference for visual appeal and clutter-free workspaces. With a customizable user-specific My Workspace dashboard, marketers can quickly find, preview, edit, manage, and deliver assets with remarkable efficiency. Bid farewell to endless hours spent searching for specific assets and welcome a streamlined experience that puts everything you need at your fingertips.
 
-![Deploy Assets Essentials](assets/my-workspace1.gif)
+![Deploy Assets Essentials](assets/animation.gif)
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
 
