@@ -41,3 +41,4 @@ solution: Experience Manager
   + [Integrate with Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
   + [Integrate with Adobe Workfront](integrate-with-workfront.md)
 + [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [Assets View](assets-view-introduction.md)
