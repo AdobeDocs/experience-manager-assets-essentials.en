@@ -58,7 +58,9 @@ To keep pace with content velocity, actionable insights are essential. The new A
 
 ## Accelerate collaboration {#accelerate-collaboration}
 
-The new experience provides a robust set of collaboration features, including real-time editing with built-in Adobe Photoshop capabilities, version controls, and annotation tools. This enables seamless collaboration across design, creative, branding, and marketing teams, allowing them to overcome bottlenecks and expedite the marketing operations process. Marketers now have powerful tools at their disposal to accelerate project delivery and increase their overall productivity. 
+The new experience provides a robust set of collaboration features, including real-time editing with built-in Adobe Photoshop capabilities, version controls, and annotation tools. This enables seamless collaboration across design, creative, branding, and marketing teams, allowing them to overcome bottlenecks and expedite the marketing operations process. Marketers now have powerful tools at their disposal to accelerate project delivery and increase their overall productivity.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
 
 
