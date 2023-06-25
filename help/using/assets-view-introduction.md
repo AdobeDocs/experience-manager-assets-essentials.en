@@ -48,4 +48,10 @@ Unlock the potential of your organization's digital asset library with the power
 
 ![Deploy Assets Essentials](assets/search-first.gif)
 
+## Insights to take data-driven decisions {#insights-data}
+
+To keep pace with content velocity, actionable insights are essential. The new Assets View experience offers advanced insights within the My Workspace, providing valuable data on asset performance, audience usage, and engagements. Marketers can make data-driven decisions, optimize content strategies, and refine their downstream delivery to achieve optimal results. With access to meaningful insights, businesses can stay ahead of the competition and drive exceptional outcomes.
+
+![Deploy Assets Essentials](assets/insights-overview.gif)
+
     
