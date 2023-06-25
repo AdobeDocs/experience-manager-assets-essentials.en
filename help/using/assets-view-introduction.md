@@ -7,8 +7,6 @@ hide: yes
 
 # Introducing Assets view {#assets-view}
 
-![Deploy Assets Essentials](assets/banner-image.jpg)
-
 ![Deploy Assets Essentials](assets/banner-image1.png)
 
 In today's fast-paced digital-first landscape, where real-time content creation and delivery are essential, a Digital Asset Management (DAM) experience designed for downstream marketing velocity is paramount. Adobe, leveraging its expertise in empowering marketing and creative professionals, introduces a game-changing new Assets View user experience. This workflow-first approach revolutionizes how businesses handle their dynamic digital assets, empowering marketers to maximize efficiency in finding, collaborating, personalizing, and delivering assets. These streamlined workflows accelerate content velocity and propel your marketing efforts to new heights. 
