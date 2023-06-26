@@ -60,6 +60,8 @@ To keep pace with content velocity, actionable insights are essential. The new A
 
 The new experience provides a robust set of collaboration features, including real-time editing with built-in Adobe Photoshop capabilities, version controls, and annotation tools. This enables seamless collaboration across design, creative, branding, and marketing teams, allowing them to overcome bottlenecks and expedite the marketing operations process. Marketers now have powerful tools at their disposal to accelerate project delivery and increase their overall productivity.
 
+Watch this video to understand the power of Assets view integration with Adobe Photoshop Express: 
+
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
