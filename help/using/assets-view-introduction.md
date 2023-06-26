@@ -88,6 +88,16 @@ The Trash folder available in the Assets view lists the assets deleted from the 
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
 
+In addition to these features, Assets view also enables you to perform following features that are not available in Admin view:
+
+* Upload a new version of an asset, with a different name, from your local file system to the Asset repository. The uploaded asset is available as a new version with the same name as that of the original asset.
+
+* Rename assets and folder available within the repository.
+
+## Conclusion {#conclusion}
+
+The era of digital-first has arrived, and it's time to transform our marketing tools to support the evolving business landscape. The new Adobe Experience Manager Assets Assets View is tailored to streamline workflows, foster collaboration, and accelerate asset delivery. By embracing content velocity, marketers can unlock the full potential of their digital assets and unleash creativity like never before. Get ready to harness the power of Adobe's new Assets View experience and drive exceptional results in your marketing campaigns. It's time to embrace the future of DAM and propel your business forward.
+
 
 
     
