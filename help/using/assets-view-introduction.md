@@ -78,7 +78,7 @@ Assets view provides the ability to monitor the operations performed on the asse
 
 ![Receive notifications](assets/notifications.gif)
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](notifications.md)
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
 
 
 
