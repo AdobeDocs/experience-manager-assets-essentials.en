@@ -68,6 +68,10 @@ The new experience provides a robust set of collaboration features, including re
 
 Quickly setup a folder structure for your organization using the Assets view by uploading folders that exists on your local file system. You do not need to create folders under the root folder and then upload assets to those folders manually to maintain the logical hierarchial structure. All folders and assets under the root folder are automatically uploaded to Experience Manager Assets.
 
+![Deploy Assets Essentials](assets/folder-uploads.gif)
+
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
+
 
 
     
