@@ -72,13 +72,21 @@ Quickly setup a folder structure for your organization using the Assets view by 
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## Subscribe to content to receive notifications
+## Subscribe to repository content for efficient asset management
 
 Assets view provides the ability to monitor the operations performed on the assets, folders, or collections available in the repository. You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the event types, such as deletion of your subscribed content, modifications on subscribed content, and so on. The notifications are then sent to you only for those event types.
 
 ![Receive notifications](assets/notifications.gif)
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-notifications.md)
+
+## Soft delete assets to provide better control to administrators {#soft-delete-assets}
+
+The Trash folder available in the Assets view lists the assets deleted from the root Assets folder. You can select an asset from the Trash folder to either restore it to the original location or permanently delete it. You can also specify a keyword or apply standard or custom filters to search appropriate assets within the Trash folder.
+
+![Soft Delete](assets/soft-delete.gif)
+
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](navigate-view.md)
 
 
 
