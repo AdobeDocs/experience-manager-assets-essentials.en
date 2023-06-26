@@ -56,7 +56,7 @@ To keep pace with content velocity, actionable insights are essential. The new A
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](manage-reports.md#view-live-statistics)
 
-## Accelerate collaboration with Adobe Photoshop Express integration {#accelerate-collaboration}
+## Adobe Photoshop Express integration to accelerate collaboration {#accelerate-collaboration}
 
 The new experience provides a robust set of collaboration features, including real-time editing with built-in Adobe Photoshop capabilities, version controls, and annotation tools. This enables seamless collaboration across design, creative, branding, and marketing teams, allowing them to overcome bottlenecks and expedite the marketing operations process. Marketers now have powerful tools at their disposal to accelerate project delivery and increase their overall productivity.
 
@@ -64,13 +64,21 @@ The new experience provides a robust set of collaboration features, including re
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
-## Quick hierarchical structure setup using folder uploads {#folder-uploads}
+## Folder uploads to setup hierarchical structure for your organization {#folder-uploads}
 
 Quickly setup a folder structure for your organization using the Assets view by uploading folders that exists on your local file system. You do not need to create folders under the root folder and then upload assets to those folders manually to maintain the logical hierarchial structure. All folders and assets under the root folder are automatically uploaded to Experience Manager Assets.
 
-![Deploy Assets Essentials](assets/folder-uploads.gif)
+![Upload folders](assets/folder-uploads.gif)
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
+
+## Subscribe to content to receive notifications
+
+Assets view provides the ability to monitor the operations performed on the assets, folders, or collections available in the repository. You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the event types, such as deletion of your subscribed content, modifications on subscribed content, and so on. The notifications are then sent to you only for those event types.
+
+![Receive notifications](assets/notifications.gif)
+
+[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](notifications.md)
 
 
 
