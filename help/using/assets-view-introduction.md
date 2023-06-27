@@ -15,7 +15,6 @@ In today's fast-paced digital-first landscape, where real-time content creation 
 ## How to access Assets view? {#access-assets-view}
 
 You can access the Assets view in the following ways:
-
 ![My Workspace overview](assets/assets-view.png)
 
 <!--
@@ -75,6 +74,8 @@ The new experience provides a robust set of collaboration features, including re
 Watch this video to understand the power of Assets view integration with Adobe Photoshop Express: 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420922)
+
+Upcoming releases would also include [Adobe Firefly integration via Adobe Express](https://firefly.adobe.com/?gclid=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE&sdid=JM4FW6VL&mv=search&mv2=paidsearch&ef_id=EAIaIQobChMIlZeKuNfj_wIVeyCtBh3e5g2cEAAYASAAEgL56_D_BwE:G:s&s_kwcid=AL!3085!3!652077237594!e!!g!!adobe%20firefly!19870733758!148140507838).
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](edit-images.md)
 
