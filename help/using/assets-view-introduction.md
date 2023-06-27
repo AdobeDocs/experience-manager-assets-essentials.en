@@ -25,7 +25,7 @@ You can access the Assets view in the following ways:
     Repeat these steps to switch back to the Admin view.
 
 * **Product Switcher**
-    * Log into [!DNL Experience Manager] and click
+    * Log into [!DNL Experience Manager] and click ![Product selector](assets/waffle-icon.svg).
     * Select **[!UICONTROL Experience Manager Assets]** to access the Assets view.
     * Select **[!UICONTROL Experience Manager]** to access the Admin view.
 
