@@ -16,6 +16,10 @@ In today's fast-paced digital-first landscape, where real-time content creation 
 
 You can access the Assets view in the following ways:
 
+![My Workspace overview](assets/assets-view.png)
+
+<!--
+
 * **Toggle in Admin view**
 
     * Log into [!DNL Experience Manager] using Cloud Manager.
@@ -25,7 +29,7 @@ You can access the Assets view in the following ways:
     Repeat these steps to switch back to the Admin view.
 
 * **Product Switcher**
-    * Log into [!DNL Experience Manager] and click
+    * Log into [!DNL Experience Manager] and click ![Product selector](assets/waffle-icon.svg).
     * Select **[!UICONTROL Experience Manager Assets]** to access the Assets view.
     * Select **[!UICONTROL Experience Manager]** to access the Admin view.
 
@@ -33,6 +37,8 @@ You can access the Assets view in the following ways:
     * Log into experience.adobe.com.
     * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
     * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
+
+    -->
 
 ## Why Assets view?
 
