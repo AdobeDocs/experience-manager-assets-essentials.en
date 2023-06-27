@@ -1,6 +1,7 @@
 ---
 title: Introduction to Assets view
 description: What's new in Assets view
+mini-toc-levels: 3
 hidefromtoc: yes
 hide: yes
 ---
@@ -33,20 +34,25 @@ You can access the Assets view in the following ways:
     * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
     * Click **[!UICONTROL Experience Manager Assets]** to access the Assets view.
 
+## Why Assets view?
 
-## My Workspace dashboard to provide streamlined experiences
+Assets view provides the following key benefits that are not available in the Admin view:
+
+* [My Workspace dashboard to provide streamlined experiences](#my-workspace-for-streamlined-experience)
+* [Search-first approach to enhance efficiency](#search-first)
+* [Insights to take data-driven decisions](#insights-data)
+* [Adobe Photoshop Express integration to accelerate collaboration](#accelerate-collaboration)
+* [Folder uploads to setup hierarchical structure for your organization](#folder-uploads)
+* [Subscribe to repository content for efficient asset management](#subscribe-content)
+* [Soft delete assets to provide better control to administrators](#soft-delete-assets)
+
+## My Workspace dashboard to provide streamlined experiences {#my-workspace-for-streamlined-experience}
 
 Say hello to a Digital Asset Management solution that understands the diverse needs of different organizational roles. The sleek new Assets View prioritizes ease of use and speed, catering to marketers' preference for visual appeal and clutter-free workspaces. With a customizable user-specific My Workspace dashboard, marketers can quickly find, preview, edit, manage, and deliver assets with remarkable efficiency. Bid farewell to endless hours spent searching for specific assets and welcome a streamlined experience that puts everything you need at your fingertips.
 
 ![Deploy Assets Essentials](assets/my-workspace-demo.gif)
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](my-workspace.md)
-
-## Search-first approach to enhance efficiency
-
-Unlock the potential of your organization's digital asset library with the power of search with cutting-edge functionality. You can bid farewell to the hassle of manually sifting through countless files and folders. Any user can instantly locate the perfect image, video, or document you need to create stunning marketing campaigns, captivating presentations, and engaging content. Our search first engine allows you to effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. Embrace the future of the DAM with our Search-First and unleash the full potential of your digital asset library.
-
-![Deploy Assets Essentials](assets/search-first.gif)
 
 ## Insights to take data-driven decisions {#insights-data}
 
@@ -74,7 +80,13 @@ Quickly setup a folder structure for your organization using the Assets view by 
 
 [![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](add-delete.md)
 
-## Subscribe to repository content for efficient asset management
+## Search-first approach to enhance efficiency {#search-first}
+
+Unlock the potential of your organization's digital asset library with the power of search with cutting-edge functionality. You can bid farewell to the hassle of manually sifting through countless files and folders. Any user can instantly locate the perfect image, video, or document you need to create stunning marketing campaigns, captivating presentations, and engaging content. Our search first engine allows you to effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. Embrace the future of the DAM with our Search-First and unleash the full potential of your digital asset library.
+
+![Deploy Assets Essentials](assets/search-first.gif)
+
+## Subscribe to repository content for efficient asset management {#subscribe-content}
 
 Assets view provides the ability to monitor the operations performed on the assets, folders, or collections available in the repository. You need to select and subscribe to the content for which the notifications are sent to you. You can also configure the event types, such as deletion of your subscribed content, modifications on subscribed content, and so on. The notifications are then sent to you only for those event types.
 
