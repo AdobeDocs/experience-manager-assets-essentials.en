@@ -10,7 +10,7 @@ hide: yes
 
 ![Deploy Assets Essentials](assets/banner-image.jpg)
 
-In today's fast-paced digital-first landscape, where real-time content creation and delivery are essential, a Digital Asset Management (DAM) experience designed for downstream marketing velocity is paramount. Adobe, leveraging its expertise in empowering marketing and creative professionals, introduces a game-changing new Assets View user experience. This workflow-first approach revolutionizes how businesses handle their dynamic digital assets, empowering marketers to maximize efficiency in finding, collaborating, personalizing, and delivering assets. These streamlined workflows accelerate content velocity and propel your marketing efforts to new heights. 
+In today's fast-paced digital-first landscape, where real-time content creation and delivery are essential, a Digital Asset Management (DAM) experience designed for downstream marketing velocity is paramount. Adobe, leveraging its expertise in empowering marketing and creative professionals, introduces a game-changing new user experience. This workflow-first approach revolutionizes how businesses handle their dynamic digital assets, empowering marketers to maximize efficiency in finding, collaborating, personalizing, and delivering assets. These streamlined workflows accelerate content velocity and propel your marketing efforts to new heights. 
 
 ## How to access Assets view? {#access-assets-view}
 
@@ -53,7 +53,7 @@ Assets view provides the following key benefits that are not available in the Ad
 
 ### My Workspace dashboard to provide streamlined experiences {#my-workspace-for-streamlined-experience}
 
-Say hello to a Digital Asset Management solution that understands the diverse needs of different organizational roles. The sleek new Assets View prioritizes ease of use and speed, catering to marketers' preference for visual appeal and clutter-free workspaces. With a customizable user-specific My Workspace dashboard, marketers can quickly find, preview, edit, manage, and deliver assets with remarkable efficiency. Bid farewell to endless hours spent searching for specific assets and welcome a streamlined experience that puts everything you need at your fingertips.
+Say hello to a Digital Asset Management solution that understands the diverse needs of different organizational roles. The sleek new Assets view prioritizes ease of use and speed, catering to marketers' preference for visual appeal and clutter-free workspaces. With a customizable user-specific My Workspace dashboard, marketers can quickly find, preview, edit, manage, and deliver assets with remarkable efficiency. Bid farewell to endless hours spent searching for specific assets and welcome a streamlined experience that puts everything you need at your fingertips.
 
 ![My Workspace overview](assets/my-workspace-demo.gif)
 
@@ -61,7 +61,7 @@ Say hello to a Digital Asset Management solution that understands the diverse ne
 
 ### Insights to take data-driven decisions {#insights-data}
 
-To keep pace with content velocity, actionable insights are essential. The new Assets View experience offers advanced insights within the My Workspace, providing valuable data on asset performance, audience usage, and engagements. Marketers can make data-driven decisions, optimize content strategies, and refine their downstream delivery to achieve optimal results. With access to meaningful insights, businesses can stay ahead of the competition and drive exceptional outcomes.
+To keep pace with content velocity, actionable insights are essential. The new Assets view experience offers advanced insights within the My Workspace, providing valuable data on asset performance, audience usage, and engagements. Marketers can make data-driven decisions, optimize content strategies, and refine their downstream delivery to achieve optimal results. With access to meaningful insights, businesses can stay ahead of the competition and drive exceptional outcomes.
 
 ![Insights overview](assets/insights-overview.gif)
 
@@ -117,7 +117,7 @@ In addition to these features, Assets view also enables you to perform following
 
 ## Conclusion {#conclusion}
 
-The era of digital-first has arrived, and it's time to transform our marketing tools to support the evolving business landscape. The new Adobe Experience Manager Assets Assets View is tailored to streamline workflows, foster collaboration, and accelerate asset delivery. By embracing content velocity, marketers can unlock the full potential of their digital assets and unleash creativity like never before. Get ready to harness the power of Adobe's new Assets View experience and drive exceptional results in your marketing campaigns. It's time to embrace the future of DAM and propel your business forward.
+The era of digital-first has arrived, and it's time to transform our marketing tools to support the evolving business landscape. The new Adobe Experience Manager Assets view is tailored to streamline workflows, foster collaboration, and accelerate asset delivery. By embracing content velocity, marketers can unlock the full potential of their digital assets and unleash creativity like never before. Get ready to harness the power of Adobe's new Assets view experience and drive exceptional results in your marketing campaigns. It's time to embrace the future of DAM and propel your business forward.
 
 
 
