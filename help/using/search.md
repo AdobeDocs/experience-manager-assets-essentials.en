@@ -12,6 +12,7 @@ exl-id: be9597a3-056c-436c-a09e-15a03567c85a
 >abstract="Search for assets by specifying a keyword in the Search bar or by filtering assets based on their status, file type, MIME type, size, creation, modification, and expiration dates. You can also apply custom filters in addition to the standard filters. You can save the filtered results as a Saved Search or a Smart Collection."
 >additional-url="https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/manage-collections.html?lang=en#manage-smart-collection" text="Create Smart Collections"
 >additional-url="https://video.tv.adobe.com/v/3420922" text="Watch the feature in action"
+>additional-url="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/insights-overview.gif?lang=en" text="Watch the Gif in action"
 
 [!DNL Assets Essentials] provides effective search, that just works by default. The search is comprehensive as it is full-text search. The powerful search functionality lets you quickly discover the appropriate asset and help you improve your content velocity. [!DNL Assets Essentials] provides full-text search and even searches through the metadata such as smart tags, title, date created, and copyright.
 
