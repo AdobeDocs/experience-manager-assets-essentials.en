@@ -136,6 +136,34 @@ What about temporarily hiding an asset (suspending search on it) from the search
 When userA is searching and userB add an asset that matches search results, will the asset display in search as soon as userA refreshes the page? Assuming indexing is near real-time. May not be so for bulk uploads.
 -->
 
+## Work with Search results {#work-with-search-results}
+
+You can select the assets that display in the search results and do the following actions:
+
+* **Details**: View and edit asset properties.
+
+* **Add to Collection**: Add the selected asset to a collection.
+
+* **Download**: Download an asset.
+
+* **Delete**: Delete an asset.
+
+* **Copy**: Copy an asset to a different folder location.
+
+* **Move**: Move an asset to a different folder location.
+
+* **Rename**: Rename an asset.
+
+* **Assign Tasks**: Assign tasks to users for an asset.
+
+* **Share Link**: [Share links](share-links-for-assets.md) for an asset with other users so that they can access and download it.
+
+* **Watch**: [Monitor the operations](manage-notifications.md) performed on an asset.
+
+* **Show File Location**: Navigate to asset folder location.
+
+* **Pin to Quick Access**: [Pin an asset](my-workspace.md) for faster access when you need it later. All pinned items display in the **Quick access** section of My Workspace.
+
 ## Next Steps {#next-steps}
 
 * [Watch a video to search assets in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
