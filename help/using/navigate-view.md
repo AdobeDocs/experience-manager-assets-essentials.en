@@ -106,6 +106,16 @@ Explicitly previewed assets are displayed as recently viewed assets. Give screen
 Other use cases after previewing.
 -->
 
+## Configure display of columns for Assets List view {#configure-columns-list-view}
+
+You can select the columns that display in the Assets List view, such as Status, Format, Dimensions, Size, and so on:
+
+1. Select **[!UICONTROL Assets]** from the left navigation pane, switch to the Assets List view, and click ![settings icon](assets/settings-icon.svg).
+
+1. Select the columns that you need to display in the List view and click **[!UICONTROL Confirm]**.
+
+   ![Configure columns](/help/using/assets/configure-columns.png)
+
 ## Next Steps {#next-steps}
 
 * Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
