@@ -61,7 +61,7 @@ Tags can also be nested into a hierarchy to support relationships like category 
 >id="assets_metadata_forms"
 >title="Metadata Forms"
 >abstract="[!DNL Experience Manager Assets] provides many standard metadata fields by default. Organizations have additional metadata needs and require more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's Details page. The business-specific metadata improves the governance and discovery of its assets."
->additional-url="https://images-tv.adobe.com/mpcv3/8a977e03-d76c-44d3-853c-95d0b799c870_1560205338.1920x1080at3000_h264.mp4" text="Watch the feature in action"
+>additional-url="images-tv.adobe.com/mpcv3/4477/ac1b52fa-823e-447f-8e96-e880b33fe12e_1687708758.854x480at800_h264.mp4" text="Watch the feature in action"
 
 Assets Essentials provides many standard metadata fields by default. Organizations have additional metadata needs and need more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's [!UICONTROL Details] page. The business-specific metadata improves the governance and discovery of its assets. You can create forms from scratch or repurpose an existing form.
 
