@@ -17,6 +17,10 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
 
+**Improved artificial intelligence framework for image Smart Tags**
+
+Experience Manager Assets now uses an improved artificial intelligence framework for image Smart Tags. This content intelligence results in better relevancy and precision of Smart Tags available to all image assets on ingestion.
+
 **Configure display of columns for Assets List view**
 
 Assets Essentials now provides the ability to select the columns that display in the Assets List view, such as Status, Format, Dimensions, Size, and so on.
