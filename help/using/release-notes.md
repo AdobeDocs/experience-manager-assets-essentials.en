@@ -11,6 +11,42 @@ The current release of Assets Essentials is released on June 22, 2023.
 
 The list of features included in the release are:
 
+**Assign metadata form to a folder**
+
+You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
+
+![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+**Configure display of columns for Assets List view**
+
+Assets Essentials now provides the ability to select the columns that display in the Assets List view, such as Status, Format, Dimensions, Size, and so on.
+
+![Configure columns](/help/using/assets/configure-columns.png)
+
+**Improvements based on customer feedback**
+
+Enhancements and bug fixes based on customer feedback.
+
+## Known issues {#known-issues}
+
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+* As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
+
+## Past releases {#past-releases}
+
+### June release {#june2023-release}
 
 **Hierarchical tagging of assets for faster search experience**
 
@@ -43,30 +79,6 @@ Assets Essentials now supports viewing top searched terms within your Assets Ess
 **Metadata form enhancements**
 
 Assets Essentials now enables you to add multi-value text and drop-down list property components to the metadata forms.
-
-
-**Improvements based on customer feedback**
-
-Enhancements and bug fixes based on customer feedback.
-
-## Known issues {#known-issues}
-
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
-
-* As an administrator, you cannot delegate the permissions to access the collection to other users.
-
-If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
-
-## Past releases {#past-releases}
 
 ### Multiple releases in 2023 {#multiple-releases-2023}
 
