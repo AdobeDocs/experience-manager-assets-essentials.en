@@ -23,9 +23,14 @@ Assets Essentials now provides the ability to select the columns that display in
 
 ![Configure columns](/help/using/assets/configure-columns.png)
 
+**Sort search results based on relevance**
+
+Assets Essentials now sorts the search results based on Relevance, by default. You can sort the searched assets in increasing or decreasing order of `Name`, `Relevance`, `Size`, `Modified`, and `Created`.
+
 **Improvements based on customer feedback**
 
 Enhancements and bug fixes based on customer feedback.
+
 
 ## Known issues {#known-issues}
 
