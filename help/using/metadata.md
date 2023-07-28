@@ -128,6 +128,8 @@ Below is an overview of each property type and how they are stored.
 | Keywords | Add free-form keywords (mapped to dc:subject). |
 | Smart Tags | Add to augment search capabilities by automatically adding metadata tags. |
 
+<!-->
+
 ### Assign metadata form to a folder {#assign-metadata-form-folder}
 
 You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
@@ -141,6 +143,8 @@ To assign a metadata form to a folder:
 3. Select the folder and click **[!UICONTROL Assign]**.
 
    ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
 
 ## Next Steps {#next-steps}
 
