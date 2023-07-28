@@ -44,7 +44,7 @@ You can filter the search results based on the following parameters.
 
 * Custom Filters: [Add custom filters](#custom-filters) to Assets Essentials user interface. Apply the custom filters in addition to the standard filters to refine your search results.
 
-You can sort the searched assets in increasing or decreasing order of `Name`, `Relevancy`, `Size`, `Modified`, and `Created`.
+You can sort the searched assets in increasing or decreasing order of `Name`, `Relevance`, `Size`, `Modified`, and `Created`. The searched assets are sorted based on `Relevance`, by default.
 
 ## Manage custom filters {#custom-filters}
 
