@@ -10,6 +10,10 @@ exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 
 After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later, if needed. To edit an image, [open its preview](/help/using/navigate-view.md#preview-assets) and click **[!UICONTROL Edit Image]**.
 
+>[!NOTE]
+>
+>You can edit images of PNG and JPEG file types using [!DNL Adobe Express].
+
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
 ## Edit images using [!DNL Adobe Express] {#edit-using-express}
@@ -57,7 +61,13 @@ You can quickly convert a JPEG image into a PNG format using Adobe Express. Exec
 1. Select an image and click **Edit**.
 2. Click **[!DNL JPEG to PNG]** from the quick actions available in the left pane.
    ![Convert to PNG with Adobe Express](/help/using/assets/adobe-express-convert-image.png)
-3. Click **[!UICONTROL Download]**. 
+3. Click **[!UICONTROL Download]**.
+
+### Limitations {#limitations-adobe-express}
+
+* Supported image resolution: Minimum - 50 pixels, Maximum - 6000 pixels per dimension
+
+* Maximum file size supported: 17MB
 
 ## Edit images using [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
 
