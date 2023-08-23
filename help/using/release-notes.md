@@ -7,11 +7,9 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on July 27, 2023.
+The current release of Assets Essentials is released on August 24, 2023.
 
 The list of features included in the release are:
-
-<!--
 
 **Assign metadata form to a folder**
 
@@ -19,21 +17,23 @@ You can now assign metadata form to a specific folder within your Assets Essenti
 
 ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
 
--->
+**Bulk import assets from data sources**
 
-**Improved artificial intelligence framework for image Smart Tags**
+Administrators now have the ability to import large number of assets from a data source to AEM Assets. The administrators do not need to upload individual assets or folders to AEM Assets anymore. The supported data sources for bulk import include Azure, AWS, Google Cloud, and Dropbox.
 
-Experience Manager Assets now uses an improved artificial intelligence framework for image Smart Tags. This content intelligence results in better relevancy and precision of Smart Tags available to all image assets on ingestion.
+![Bulk import assets from a data source](/help/using/assets/bulk-import.png)
 
-**Configure display of columns for Assets List view**
+**Image editing tools powered by Adobe Express**
 
-Assets Essentials now provides the ability to select the columns that display in the Assets List view, such as Status, Format, Dimensions, Size, and so on.
+Easy and intuitive image editing tools powered by Adobe Express available directly within AEM Assets to increase content re-use and accelerate content velocity.
 
-![Configure columns](/help/using/assets/configure-columns.png)
+![Image editing with Adobe Express](/help/using/assets/edit-adobe-express.png)
 
-**Sort search results based on relevance**
+**Flexibility while pinning items for My Workspace Quick Access**
 
-Assets Essentials now sorts the search results based on Relevance, by default. You can sort the searched assets in increasing or decreasing order of `Name`, `Relevance`, `Size`, `Modified`, and `Created`.
+Ability to select and pin items for you, for your entire organization, or for a list of groups so that they display in the Quick Access section of My Workspace based on your selection.
+
+![Pin items for groups](assets/pin-items-for-groups.png)
 
 **Improvements based on customer feedback**
 
@@ -59,7 +59,23 @@ If you come across any issues or even enhancement requests, [provide feedback](#
 
 ## Past releases {#past-releases}
 
-### June release {#june2023-release}
+### July 2023 release {#july2023-release}
+
+**Improved artificial intelligence framework for image Smart Tags**
+
+Experience Manager Assets now uses an improved artificial intelligence framework for image Smart Tags. This content intelligence results in better relevancy and precision of Smart Tags available to all image assets on ingestion.
+
+**Configure display of columns for Assets List view**
+
+Assets Essentials now provides the ability to select the columns that display in the Assets List view, such as Status, Format, Dimensions, Size, and so on.
+
+![Configure columns](/help/using/assets/configure-columns.png)
+
+**Sort search results based on relevance**
+
+Assets Essentials now sorts the search results based on Relevance, by default. You can sort the searched assets in increasing or decreasing order of `Name`, `Relevance`, `Size`, `Modified`, and `Created`.
+
+### June 2023 release {#june2023-release}
 
 **Hierarchical tagging of assets for faster search experience**
 
