@@ -8,9 +8,9 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 >[!CONTEXTUALHELP]
 >id="assets_reports"
 >title="Reports"
->abstract="Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. All users who are assigned to the Administrators product profile can access the Insights dashboard or create user-defined reports."
+>abstract="Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. All users can access the Insights dashboard and the ones who are assigned to the Administrators product profile can create user-defined reports."
 
-Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. 
+Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. All users can access the Insights dashboard and the ones who are assigned to the Administrators product profile can create user-defined reports. 
 
 ## Access reports {#access-reports}
 
@@ -49,6 +49,7 @@ To create a Download report:
 1. Select the folder path, which comprises the assets to execute the report on, using the **[!UICONTROL Select Folder Path]** field.
 
 1. Select the date interval for the report.
+   
    >[!NOTE]
    >
    > Assets Essentials converts all local time zones to Coordinated Universal Time (UTC).
