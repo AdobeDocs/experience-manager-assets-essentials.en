@@ -1,6 +1,6 @@
 ---
 title: Bulk import assets using Assets view
-description: 
+description: Learn how to bulk import assets using the new Assets UI (Assets view). It provides administrators with the ability to import large number of assets from a data source to AEM Assets.
 ---
 # Bulk import assets using Assets view  {#bulk-import-assets-view}
 
