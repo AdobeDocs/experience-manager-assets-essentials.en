@@ -11,7 +11,7 @@ The current release of Assets Essentials is released on August 24, 2023.
 
 The list of features included in the release are:
 
-<!-->
+<!--
 
 **Assign metadata form to a folder**
 
