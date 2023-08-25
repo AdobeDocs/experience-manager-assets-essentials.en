@@ -27,6 +27,7 @@ solution: Experience Manager
 + [Supported file types and use cases](supported-file-formats.md)
 + [View assets](navigate-view.md)
 + [Upload and add assets](add-delete.md)
++ [Bulk import assets](bulk-import-assets-view.md)
 + [Search and discover assets](search.md)
 + [Asset management tasks](manage-organize.md)
 + [Edit images](edit-images.md)
