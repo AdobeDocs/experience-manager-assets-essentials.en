@@ -145,6 +145,8 @@ To assign a metadata form to a folder:
 
    ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
 
+   You can also navigate to the folder details page and select a metadata form from the folder properties available in the right pane to assign the metadata form to the folder.
+
 -->
 
 ## Next Steps {#next-steps}

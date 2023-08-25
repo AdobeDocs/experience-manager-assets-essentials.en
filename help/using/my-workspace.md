@@ -12,7 +12,7 @@ exl-id: 402dd3a6-44e5-4d13-97d8-1d7fa26a99e4
 
 Assets now includes a customizable workspace that provides widgets for convenient access to key areas of the Assets user interface and information that is most relevant to you. This page serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows. More convenient access to these options increases your efficiency and content velocity.
 
-You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show Quck access, Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preferences.
+You can access My Workspace by clicking **[!UICONTROL My Workspace]** from the items available in the left navigation pane. My Workspace includes a variety of widgets that show Quick access, Insights, Tasks, and Content widgets. You can configure how these widgets are displayed in your Workspace based on your preferences.
 
 >[!NOTE]
 >
@@ -34,9 +34,17 @@ Highlights upcoming features for Assets.
 
 Pin files, folders, and collections for faster access to these items when you need them later. All pinned items display in the **Quick access** section of My Workspace. You can access them using My Workspace instead of navigating to the location where they are saved within the repository.
 
-To pin an asset, a folder, or a collection, select the item and click **[!UICONTROL Pin to Quick Access]**.
+To pin an asset, a folder, or a collection:
 
-![Tasks in Workspace](assets/quick-access.png)
+1. Select the item and click **[!UICONTROL Pin to Quick Access]**.
+
+1. Select if you need to pin the item just for you, for the entire organization, or for selected groups. If you select **[!UICONTROL For groups]**, define the group names in the **[!UICONTROL Pin for groups]** field.
+
+   ![Pin items for groups](assets/pin-items-for-groups.png)
+1. Click **[!UICONTROL Pin]**.
+
+   The selected item displays in the **[!UICONTROL Quick Access]** section of My Workspace. 
+   ![Tasks in Workspace](assets/quick-access.png)
 
 **Insights**
 
