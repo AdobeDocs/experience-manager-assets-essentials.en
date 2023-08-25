@@ -90,11 +90,6 @@ Similarly, to unsubscribe, select the asset, folder, or collection that you have
 
 ## View notifications {#view-notifications}
 
->[!CONTEXTUALHELP]
->id="assets_express_integration"
->title="Adobe Express Integration"
->abstract="[!DNL Experience Manager Assets] provides many standard metadata fields by default. Organizations have additional metadata needs and require more metadata fields to add business-specific metadata. Metadata forms let businesses add custom metadata fields to an asset's Details page. The business-specific metadata improves the governance and discovery of its assets."
-
 The notifications appear at the right end of the menu bar on the Assets Essentials user interface.
 
 ![Notifications in Assets Essentials](assets/notifications-assets-essentials.png)

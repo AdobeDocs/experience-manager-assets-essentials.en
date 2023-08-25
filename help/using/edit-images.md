@@ -16,7 +16,12 @@ After editing an image, you can save the new image as a new version. Versioning 
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Edit images using [!DNL Adobe Express] {#edit-using-express}
+## Edit images using Adobe Express {#edit-using-express}
+
+>[!CONTEXTUALHELP]
+>id="assets_express_integration"
+>title="Adobe Express Integration"
+>abstract="Easy and intuitive image editing tools powered by Adobe Express available directly within AEM Assets to increase content re-use and accelerate content velocity."
 
 ### Resize image {#resize-image-using-express}
 
