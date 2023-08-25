@@ -11,11 +11,15 @@ The current release of Assets Essentials is released on August 24, 2023.
 
 The list of features included in the release are:
 
+<!-->
+
 **Assign metadata form to a folder**
 
 You can now assign metadata form to a specific folder within your Assets Essentials deployment. All assets in the folder, including assets in the sub-folders, then display properties defined in the assigned metadata form.
 
 ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
+
+-->
 
 **Bulk import assets from data sources**
 
