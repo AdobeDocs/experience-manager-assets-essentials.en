@@ -28,10 +28,10 @@ After editing an image, you can save the new image as a new version. Versioning 
 Resizing an image to a specific size is a popular use case. [!DNL Assets Essentials] lets you quickly resize image to fit the common photo sizes by providing pre-calculated new resolutions for specific photo sizes. To resize the image using [!DNL Assets Essentials], follow the steps below: 
 
 1. Select an image and click **Edit**.
-2. Click **[!DNL Resize Image]** from the quick actions available in the left pane.
+2. Click **[!UICONTROL Resize Image]** from the quick actions available in the left pane.
 3. Select the appropriate social media platform from the **[!UICONTROL Resize for]** drop-down list and select the image size from the options that display. 
 4. Scale the image, if required, using the **[!UICONTROL Image Scale]** field.
-5. Click **[!DNL Apply]** to apply your changes.
+5. Click **[!UICONTROL Apply]** to apply your changes.
    ![Image editing with Adobe Express](/help/using/assets/adobe-express-resize-image.png)
 
    Your edited image is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
@@ -42,8 +42,8 @@ Resizing an image to a specific size is a popular use case. [!DNL Assets Essenti
 You can remove background from an image in a few simple steps as mentioned below: 
 
 1. Select an image and click **Edit**.
-2. Click **[!DNL Remove Background]** from the quick actions available in the left pane. Experience Manager Assets displays the image with no background.
-3. Click **[!DNL Apply]** to apply your changes.
+2. Click **[!UICONTROL Remove Background]** from the quick actions available in the left pane. Experience Manager Assets displays the image with no background.
+3. Click **[!UICONTROL Apply]** to apply your changes.
 ![Save image with Adobe Express](/help/using/assets/adobe-express-remove-background.png)
 
    Your edited image is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
@@ -53,9 +53,9 @@ You can remove background from an image in a few simple steps as mentioned below
 Transforming an image into a perfect size is easy using embedded [!DNL Adobe Express] quick actions.
 
 1. Select an image and click **Edit**.
-2. Click **[!DNL Crop Image]** from the quick actions available in the left pane.
+2. Click **[!UICONTROL Crop Image]** from the quick actions available in the left pane.
 3. Drag the handles on the corners of the image to create your desired crop.
-4. Click **[!DNL Apply]**.
+4. Click **[!UICONTROL Apply]**.
    ![Save image with Adobe Express](/help/using/assets/adobe-express-crop-image.png)
    The cropped image is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
 
@@ -64,7 +64,7 @@ Transforming an image into a perfect size is easy using embedded [!DNL Adobe Exp
 You can quickly convert a JPEG image into a PNG format using Adobe Express. Execute the following steps:
 
 1. Select an image and click **Edit**.
-2. Click **[!DNL JPEG to PNG]** from the quick actions available in the left pane.
+2. Click **[!UICONTROL JPEG to PNG]** from the quick actions available in the left pane.
    ![Convert to PNG with Adobe Express](/help/using/assets/adobe-express-convert-image.png)
 3. Click **[!UICONTROL Download]**.
 
