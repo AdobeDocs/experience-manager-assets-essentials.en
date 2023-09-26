@@ -20,6 +20,12 @@ The embedded [!DNL Assets Essentials] experience can integrate with the followin
 
   [Watch a video to configure the Adobe Workfront and Assets Essentials integration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
 
+## Integration with document-based authoring for Edge Delivery Services {#integrate-doc-authoring-edge-and-assets}
+
+Edge Delivery enables you to create fast, engaging websites where authors can update and publish content quickly, and new sites can be launched rapidly. 
+
+Integrate AEM Assets with document-based authoring for Edge Delivery Services to enable website authors to use images available in AEM Assets repositories while authoring documents in Microsoft Word or Google Docs. For more information, see [Integrate AEM Assets with document-based authoring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html#integrate-assets-edge).
+
 ## Next Steps {#next-steps}
 
 * Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
