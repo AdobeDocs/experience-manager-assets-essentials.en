@@ -1,19 +1,19 @@
 ---
-title: Bulk import assets using Assets view
-description: Learn how to bulk import assets using the new Assets UI (Assets view). It provides administrators with the ability to import large number of assets from a data source to AEM Assets.
+title: Bulk import assets using Assets Essentials
+description: Learn how to bulk import assets using the new Assets UI (Assets Essentials). It provides administrators with the ability to import large number of assets from a data source to AEM Assets.
 ---
-# Bulk import assets using Assets view  {#bulk-import-assets-view}
+# Bulk import assets using Assets Essentials  {#bulk-import-essentials}
 
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Bulk import assets"
->abstract="Administrators now have the ability to import large number of assets from a data source to Experience Manager Assets using Assets view. The administrators do not need to upload individual assets or folders to Experience Manager Assets anymore. The supported cloud storage providers for bulk import include Azure, AWS, Google Cloud, and Dropbox."
+>abstract="Administrators now have the ability to import large number of assets from a data source to Experience Manager Assets using Assets Essentials. The administrators do not need to upload individual assets or folders to Experience Manager Assets anymore. The supported cloud storage providers for bulk import include Azure, AWS, Google Cloud, and Dropbox."
 
-Bulk Import in AEM Assets view provides administrators with the ability to import large number of assets from a data source to AEM Assets. The administrators do not need to upload individual assets or folders to AEM Assets anymore.
+Bulk Import in AEM Assets Essentials provides administrators with the ability to import large number of assets from a data source to AEM Assets. The administrators do not need to upload individual assets or folders to AEM Assets anymore.
 
 >[!NOTE]
 >
->The Assets view bulk importer uses the same backend as that of the Admin view bulk importer. However, it offers more data sources to import from and a more streamlined user experience.
+>The Assets Essentials bulk importer uses the same backend as that of the Assets as a Cloud Service bulk importer. However, Assets Essentials offers more data sources to import from and a more streamlined user experience.
 
 You can import assets from the following data sources:
 
@@ -68,7 +68,7 @@ When you import assets or folders in bulk, [!DNL Experience Manager Assets] impo
 
 During bulk import, [!DNL Experience Manager] look for the existing folders  to avoid reimporting the assets and folders, and also verifies the sanitization rules applied in the parent folder where the import takes place. If the sanitization rules are applied in the parent folder, the same rules are applied to the import source. For new import, the following sanitization rules are applied to manage the filenames of assets and folders.
 
-For more information on disallowed names, handling asset names, and handling folder names during bulk import, see [Handling filenames during bulk import in Admin view](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
+For more information on disallowed names, handling asset names, and handling folder names during bulk import, see [Handling filenames during bulk import](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#filename-handling-bulkimport).
 
 ## View existing bulk import configurations {#view-import-configuration}
 

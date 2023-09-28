@@ -1,8 +1,8 @@
 ---
-title: How to manage tags in Assets view?
-description: Learn how to manage tags in Assets view. Tags help you categorize assets that can be browsed and searched more efficiently.
+title: How to manage tags in Assets Essentials?
+description: Learn how to manage tags in Assets Essentials. Tags help you categorize assets that can be browsed and searched more efficiently.
 ---
-# Manage tags in Assets view {#view-assets-and-details}
+# Manage tags in Assets Essentials {#view-assets-and-details}
 
 
 >[!CONTEXTUALHELP]
@@ -26,7 +26,7 @@ Tagging provides many benefits, such as:
 
 * Tags may evolve over time as an organizational vocabulary changes.
 
-* Tags managed in Admin view remain in sync with the tags managed in Assets view, which ensures metadata governance and integrity.
+* Tags managed in Assets as a Cloud Service remain in sync with the tags managed in Assets Essentials, which ensures metadata governance and integrity.
 
 To be able to apply tags to assets, you must first create a namespace and then create and add tags to it. You can also create tags and add them to an existing namespace. Any tags that you create at the root-level are automatically added to the Standard Tags namespace. You can then add the Tags field to the metadata form so that it displays on the Asset details page. After configuring these settings, you can start applying tags to assets.
 
@@ -36,7 +36,7 @@ To be able to apply tags to assets, you must first create a namespace and then c
 
 ![Tagging Management](assets/tagging-taxonomy-management.png)
 
-Additional capabilities beyond what is mentioned in this article including merging, renaming, localizing, and publishing tags are available in the Admin view. 
+Additional capabilities beyond what is mentioned in this article including merging, renaming, localizing, and publishing tags are available in Assets as a Cloud Service. 
 
 ## Creating a Namespace {#creating-a-namespace}
 
@@ -86,7 +86,7 @@ To create a standard tag, click `Create Tag` at the root-level. Specify title, n
 
 >[!NOTE]
 >
->If you delete `Standard Tags` namespace using Admin view, the tags created at the root-level do not display in the list of available tags. 
+>If you delete `Standard Tags` namespace using Assets as a Cloud Service, the tags created at the root-level do not display in the list of available tags. 
 
 ## Moving Tags {#moving-tags}
 
@@ -109,7 +109,7 @@ To edit the title of the tag, select the tag and click `Edit`. Specify the new t
 >[!NOTE]
 >
 >* The `Name` of a tag cannot be updated. The root path for a tag is also based on the name of the tag. The path remains the same even if you update the `Title` field. 
->* Additional operations such as merge, localize, and publish are available in the Admin view.
+>* Additional operations such as merge, localize, and publish are available in Assets as a Cloud Service.
 
 ## Deleting Tags {#deleting-tags}
 
@@ -128,7 +128,7 @@ Perform the following steps to delete tags:
 
 ## Adding Tags component to the Metadata form {#adding-tags-to-metadata-form}
 
-The tags component gets added to the `default` metadata form automatically. You can design a [Metadata form](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=en#metadata-forms) either by using a template or from scratch. If you are not using an existing Metadata form template, then you can modify your Metadata form  and add the tags component. The metadata property mapping is filled in automatically and cannot be modified at this time. Users in the Admin view can update the mapping to store tag values using custom namespaces and expose only subsets of hierarchies using root paths.
+The tags component gets added to the `default` metadata form automatically. You can design a [Metadata form](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/metadata.html?lang=en#metadata-forms) either by using a template or from scratch. If you are not using an existing Metadata form template, then you can modify your Metadata form  and add the tags component. The metadata property mapping is filled in automatically and cannot be modified at this time. Assets as a Cloud Service users can update the mapping to store tag values using custom namespaces and expose only subsets of hierarchies using root paths.
 
 Watch this quick video to see how to add the Tags component to your metadata form:
 
@@ -143,17 +143,7 @@ Watch this quick video to see how to add the Tags component to your metadata for
     ![Tagging-assets](assets/adding-tags-to-assets.png)
 
 1.  Select one or more tags. The subtag is selected automatically along with the parent tag or namespace.
-Tags modified in the Assets view are applied in the Admin view as well.
-
-## Limitations {#limitations}
-
-The following advanced taxonomy capabilities are unavailable in Assets view at this time and are only accessible through Admin view: 
-
-* **Localization:** Any localization must occur in the Admin view.
-* **Root Path:** Root paths are not configurable. All namespaces stored in Taxonomy Management are exposed on the Tags property in the Assets view. 
-* **Standard Tags:** The Standard tags applied in the Admin view are visible in the Assets view. You cannot add new standard tags in the Assets view on the Asset Details page. The existing values that are stored in Standard Tags are applied on the Assets Details page.
-* **Custom Namespaces:** Tags cannot be mapped to custom namespaces.
-* **Viewing references:** Admins may see the tag usage in the Assets view. This refers to all assets that are actively using a tag. However, admins cannot see individual assets using the tag in references.
+Tags modified in the Assets Essentials are applied in Assets as a Cloud Service as well.
 
 <!--
 *   Overview
