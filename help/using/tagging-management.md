@@ -1,6 +1,7 @@
 ---
 title: How to manage tags in Assets Essentials?
 description: Learn how to manage tags in Assets Essentials. Tags help you categorize assets that can be browsed and searched more efficiently.
+exl-id: da9e8d56-c190-4006-9579-c3c8401c5e5f
 ---
 # Manage tags in Assets Essentials {#view-assets-and-details}
 
