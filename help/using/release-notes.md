@@ -19,7 +19,7 @@ Administrators now have the ability to [import a large number of assets from One
 
 **Cross-Org Entitlement Support for Libraries**
 
-Experience Manager Assets now enables you to access your Creative Cloud libraries in an Org that is not provisioned for those libraries. It allows easier access to the latest cross-product workflows between Creative Cloud and Experience Manager and reduces time and effort for creatives.
+Experience Manager Assets now enables you to configure access to Creative Cloud Libraries in a different IMS Organization. It allows easier access to the latest cross-product workflows between Creative Cloud and Experience Manager and reduces time and effort for creatives.
 
 **Improvements based on customer feedback**
 
