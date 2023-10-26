@@ -7,9 +7,45 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on September 21, 2023.
+The current release of Assets Essentials is released on October 26, 2023.
 
-The list of recently added features include:
+The new features include:
+
+**Bulk import assets from OneDrive data source**
+
+Administrators now have the ability to [import large number of assets from OneDrive to AEM Assets](/help/using/bulk-import-assets-view.md). The updated list for the supported data sources for bulk import include Azure, AWS, Google Cloud, Dropbox, and OneDrive. 
+
+  ![assign metadata form to a folder](/help/using/assets/bulk-import-source-details.png)
+
+**Cross-Org Entitlement Support for Libraries**
+
+Experience Manager Assets now enables you to access your Creative Cloud libraries in an Org that is not provisioned for those libraries. It allows easier access to the latest cross-product workflows between Creative Cloud and Experience Manager and reduced time and effort for creatives.
+
+**Improvements based on customer feedback**
+
+Enhancements and bug fixes based on customer feedback.
+
+
+## Known issues {#known-issues}
+
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+* As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
+
+## Past releases {#past-releases}
+
+### September 2023 release {#september2023-release}
 
 **Assign metadata form to a folder**
 
@@ -35,29 +71,6 @@ Ability to select and pin items for you, for your entire organization, or for a 
 
 ![Pin items for groups](assets/pin-items-for-groups.png)
 
-**Improvements based on customer feedback**
-
-Enhancements and bug fixes based on customer feedback.
-
-
-## Known issues {#known-issues}
-
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
-
-* As an administrator, you cannot delegate the permissions to access the collection to other users.
-
-If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
-
-## Past releases {#past-releases}
 
 ### July 2023 release {#july2023-release}
 
