@@ -13,13 +13,13 @@ The new features include:
 
 **Bulk import assets from OneDrive data source**
 
-Administrators now have the ability to [import large number of assets from OneDrive to AEM Assets](/help/using/bulk-import-assets-view.md). The updated list for the supported data sources for bulk import include Azure, AWS, Google Cloud, Dropbox, and OneDrive. 
+Administrators now have the ability to [import a large number of assets from OneDrive to AEM Assets](/help/using/bulk-import-assets-view.md). The updated list for the supported data sources for bulk import includes Azure, AWS, Google Cloud, Dropbox, and OneDrive. 
 
   ![assign metadata form to a folder](/help/using/assets/bulk-import-source-details.png)
 
 **Cross-Org Entitlement Support for Libraries**
 
-Experience Manager Assets now enables you to access your Creative Cloud libraries in an Org that is not provisioned for those libraries. It allows easier access to the latest cross-product workflows between Creative Cloud and Experience Manager and reduced time and effort for creatives.
+Experience Manager Assets now enables you to access your Creative Cloud libraries in an Org that is not provisioned for those libraries. It allows easier access to the latest cross-product workflows between Creative Cloud and Experience Manager and reduces time and effort for creatives.
 
 **Improvements based on customer feedback**
 
