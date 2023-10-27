@@ -41,4 +41,5 @@ solution: Experience Manager
   + [Overview](integration.md)
   + [Integrate with Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
   + [Integrate with Adobe Workfront](integrate-with-workfront.md)
++ [Cross Org entitlements for Creative Cloud integrations](cross-org-entitlements-creative-cloud.md)
 + [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
