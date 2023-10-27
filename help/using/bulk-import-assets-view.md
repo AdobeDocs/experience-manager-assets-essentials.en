@@ -22,6 +22,7 @@ You can import assets from the following data sources:
 * AWS
 * Google Cloud
 * Dropbox
+* OneDrive
 
 ## Prerequisites {#prerequisites}
 
@@ -31,8 +32,80 @@ You can import assets from the following data sources:
 | AWS | <ul> <li>AWS Region </li> <li> AWS Bucket <li> AWS Access Key </li><li> AWS Access Secret </li></ul> |
 | Google Cloud | <ul> <li>GCP Bucket </li> <li> GCP Service Account Email <li> GCP Service Account Private Key</li></ul> |
 | Dropbox | <ul> <li>Dropbox Client ID </li> <li> Dropbox Client Secret</li></ul> |
+| OneDrive | <ul> <li>OneDrive Tenant ID  </li> <li> OneDrive Client ID</li><li> OneDrive Client Secret</li></ul> |
 
 In addition to these prerequisites based on the data source, you must be aware of the source folder name available in your data source that contains all assets that need to be imported to AEM Assets.
+
+## Configure the Dropbox developer application {#dropbox-developer-application}
+
+Before importing assets from your Dropbox account to AEM Assets, create and configure the Dropbox developer application.
+
+Execute the following steps:
+
+1. Login to your [Dropbox account](https://www.dropbox.com/developers) and click **[!UICONTROL Create apps]**.
+
+1. In the **[!UICONTROL Choose an API]** section, select the only available radio button.
+
+1. In the **[!UICONTROL Choose the type of access you need]** section, select one of the following options:
+
+   * Select **[!UICONTROL App folder]**, if you need access to single folder created within your application in your Dropbox account.
+
+   * Select **[!UICONTROL Full Dropbox]**, if you need access to all files and folders within your Dropbox account.
+
+1. Specify a name for your application and click **[!UICONTROL Create app]**.
+
+1. In the **[!UICONTROL Settings]** tab of your application, add the following to the **[!UICONTROL Redirect URIs]** section:
+
+   * https://exc-unifiedcontent.experience.adobe.net
+
+   * https://exc-unifiedcontent.experience-stage.adobe.net (valid only for Stage environments)
+
+1. Copy the values for the **[!UICONTROL App key]** and **[!UICONTROL App secret]** fields. The values are required while configuring the bulk import tool in AEM Assets.
+
+1. On the **[!UICONTROL Permissions]** tab, add the following permissions within the **[!UICONTROL Individual scopes]** section.
+
+   * account_info.read
+
+   * files.metadata.read
+
+   * files.content.read
+
+   * files.content.write
+
+1. Click **[!UICONTROL Submit]** to save the changes.
+
+## Configure the OneDrive developer application {#onedrive-developer-application}
+
+Before importing assets from your OneDrive account to AEM Assets, create and configure the OneDrive developer application.
+
+Execute the following steps:
+
+1. Login to your [OneDrive account](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade) and click **[!UICONTROL New registration]**.
+
+1. Specify a name for the application, select **[!UICONTROL Accounts in this organizational directory only (Adobe only - Single tenant)]** from **[!UICONTROL Supported account types]**, and click **[!UICONTROL Register]**. The application is created successfully.
+
+1. Copy the values for the application client ID and tenant ID fields. The values are required while configuring the bulk import tool in AEM Assets.
+
+1. Execute the following steps to add a certificate:
+   1. On the application overview page, click **[!UICONTROL Add a certificate or secret]** and then click **[!UICONTROL New client secret]**.
+   1. Specify the client secret description and expiration and click **[!UICONTROL Add]**.
+   1. After creating the Client Secret, copy the **[!UICONTROL Value]** field (Do not copy the Secret ID field). It is required while configuring bulk import in AEM Assets.
+
+1. Execute the following steps to add redirect URIs:
+   1. On the application overview page, click **[!UICONTROL Add a Redirect URI]** > **[!UICONTROL Add a platform]** > **[!UICONTROL Web]**.
+   1. Add the following to the **[!UICONTROL Redirect URIs]** section:
+
+      * https://exc-unifiedcontent.experience.adobe.net
+
+      * https://exc-unifiedcontent.experience-stage.adobe.net (valid only for Stage environments)
+
+      Add the first URI and click **[!UICONTROL Configure]** to add it. You can add more by clicking **[!UICONTROL Add URI]** option available in the **[!UICONTROL Web]** section on the **[!UICONTROL Authentication]** page.
+
+1. Execute the following steps to add API permissions for the application:
+   1. Click **[!UICONTROL API permissions]** in left pane and click **[!UICONTROL Add a permission]**.
+   1. Click **[!UICONTROL Microsoft Graph]** > **[!UICONTROL Delegated permissions]**. The **[!UICONTROL Select Permission]** section displays the available permissions.
+   1. Select `offline_access` permission from `OpenId permissions` and `Files.ReadWrite.All` permission from `Files`.
+   1. Click **[!UICONTROL Add permissions]** to save the updates.
 
 ## Create bulk import configuration {#create-bulk-import-configuration}
 
@@ -43,6 +116,13 @@ Execute the following steps to create a bulk import configuration:
 1. Specify a name for the bulk import configuration in the **[!UICONTROL Name]** field.
 1. Specify the data source specific credentials, as mentioned in [Prerequisites](#prerequisites).
 1. Provide the name of the root folder that contains assets in the data source in the **[!UICONTROL Source Folder]** field.
+
+   >[!NOTE]
+   >
+   >If you are using Dropbox as the data source, specify the source folder path based on the following rules:
+   >* If you select **Full Dropbox** while creating the Dropbox application and the folder which contains the assets exists at `https://www.dropbox.com/home/bulkimport-assets`, then specify `bulkimport-assets` in the **[!UICONTROL Source Folder]** field.
+   >* If you select **App folder** while creating the Dropbox application and the folder which contains the assets exists at `https://www.dropbox.com/home/Apps/BulkImportAppFolderScope/bulkimport-assets`, then specify `bulkimport-assets` in the **[!UICONTROL Source Folder]** field, where `BulkImportAppFolderScope` refers to the name of the application. `Apps` is automatically added after `home` in this case. 
+
 1. (Optional) Select the **[!UICONTROL Delete source file after import]** option to delete the original files from the source data store after the files are imported into Experience Manager Assets.
 1. Select the **[!UICONTROL Import Mode]**. Select **[!UICONTROL Skip]**, **[!UICONTROL Replace]**, or **[!UICONTROL Create Version]**. Skip mode is the default and in this mode, the ingestor skips to import an asset if it exists already.
 ![Import source details](assets/bulk-import-source-details.png)
