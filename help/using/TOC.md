@@ -39,7 +39,8 @@ solution: Experience Manager
 + [Manage tags](tagging-management.md)
 + Integration with other solutions {#integration-with-other-solutions}
   + [Overview](integration.md)
-  + [Integrate with Creative Cloud for Enterprise](integrate-with-creative-cloud.md)
+  + [Integrate with Adobe Asset Link](integrate-with-creative-cloud.md)
   + [Integrate with Adobe Workfront](integrate-with-workfront.md)
-+ [Cross Org entitlements for Creative Cloud integrations](cross-org-entitlements-creative-cloud.md)
++ Integration with Creative Cloud {#integration-with-creative-cloud}
+  + [Connect AEM Assets to Creative Cloud](cross-org-entitlements-creative-cloud.md)
 + [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
