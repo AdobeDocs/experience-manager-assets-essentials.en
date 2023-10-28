@@ -42,5 +42,5 @@ solution: Experience Manager
   + [Integrate with Adobe Asset Link](integrate-with-creative-cloud.md)
   + [Integrate with Adobe Workfront](integrate-with-workfront.md)
 + Integration with Creative Cloud {#integration-with-creative-cloud}
-  + [Connect AEM Assets to Creative Cloud](cross-org-entitlements-creative-cloud.md)
+  + [Connect AEM Assets to Creative Cloud](connect-assets-with-creative-cloud.md)
 + [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
