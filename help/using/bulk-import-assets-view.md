@@ -8,7 +8,7 @@ exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
 >title="Bulk import assets"
->abstract="Administrators now have the ability to import large number of assets from a data source to Experience Manager Assets using Assets Essentials. The administrators do not need to upload individual assets or folders to Experience Manager Assets anymore. The supported cloud storage providers for bulk import include Azure, AWS, Google Cloud, and Dropbox."
+>abstract="Administrators have the ability to import large number of assets from a data source to Experience Manager Assets using Assets Essentials. The administrators do not need to upload individual assets or folders to Experience Manager Assets anymore. The supported cloud storage providers for bulk import include Azure, AWS, Google Cloud, and Dropbox."
 >additional-url="https://images-tv.adobe.com/mpcv3/4477/98bce651-721c-442e-98b8-c43e7708e44c_1698834577.854x480at800_h264.mp4" text="Watch Video"
 
 Bulk Import in AEM Assets Essentials provides administrators with the ability to import large number of assets from a data source to AEM Assets. The administrators do not need to upload individual assets or folders to AEM Assets anymore.
