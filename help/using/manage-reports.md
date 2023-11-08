@@ -16,6 +16,20 @@ Asset reporting provides administrators with visibility into activity of the Ado
 
 All users who are assigned to the [Assets Essentials Administrators product profile](deploy-administer.md) can access the Insights dashboard or create user-defined reports in Assets Essentials.
 
+To access reports, navigate to **[!UICONTROL Reports]** under **[!UICONTROL Settings]**.
+
+![Reports](assets/reports.png)
+<!--
+In the **[!UICONTROL Reports]** screen, various components are shown in the tabular format which includes the following:
+
+* **Title**: Title of the report
+* **Type**: Determines whether the report is uploaded or downloaded to the repository
+* **Description**: Provide details of the report that was given during uploading/downloading the report
+* **Status**: Determines whether the report is completed, under progress, or deleted.
+* **Author**: Provides email of the author who has uploaded/downloaded the report.
+* **Created**: Gives information of the date when the report was generated.
+-->
+
 ## View Insights {#view-live-statistics}
 
 Assets Essentials enables you to view real-time data for your Assets Essentials environment with the Insights dashboard. You can view real-time event metrics during the last 30 days or for the last 12 months. 
@@ -28,13 +42,15 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 
 * **Uploads**: The number of assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
-* **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
-
-<!--
+* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.
 
 * **Storage usage**: The storage usage, in gigabytes (GB), for the Assets Essentials environment, for the last 30 days or 12 months represented using a bar chart.
 
--->
+* **Delivery**: The graph depicts the count of assets as the delivery dates.
+
+* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.
+
+* **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
 
 ## Create a Download report {#create-download-report}
 
