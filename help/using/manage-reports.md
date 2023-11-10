@@ -5,11 +5,6 @@ exl-id: c7155459-05d9-4a95-a91f-a1fa6ae9d9a4
 ---
 # Manage reports {#manage-reports}
 
->[!CONTEXTUALHELP]
->id="assets_reports"
->title="Reports"
->abstract="Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. All users can access the Insights dashboard and the ones who are assigned to the Administrators product profile can create user-defined reports."
-
 Asset reporting provides administrators with visibility into activity of the Adobe Experience Manager Assets Essentials environment. This data provides useful information about how users interact with content and the product. All users can access the Insights dashboard and the ones who are assigned to the Administrators product profile can create user-defined reports. 
 
 ## Access reports {#access-reports}
@@ -17,6 +12,11 @@ Asset reporting provides administrators with visibility into activity of the Ado
 All users who are assigned to the [Assets Essentials Administrators product profile](deploy-administer.md) can access the Insights dashboard or create user-defined reports in Assets Essentials.
 
 ## View Insights {#view-live-statistics}
+
+>[!CONTEXTUALHELP]
+>id="assets_reports"
+>title="Reports"
+>abstract="The Insights dashboard allows you to view real-time event metrics for your Experience Manager Assets environment during the last 30 days or for the last 12 months. The list of events includes the number of downloads, uploads, top searches, and so on."
 
 Assets Essentials enables you to view real-time data for your Assets Essentials environment with the Insights dashboard. You can view real-time event metrics during the last 30 days or for the last 12 months. 
 
