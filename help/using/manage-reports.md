@@ -34,7 +34,7 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 
 Assets Essentials enables you to view real-time data for your Assets Essentials environment with the Insights dashboard. You can view real-time event metrics during the last 30 days or for the last 12 months. 
 
-   ![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)
+   <!--![Toolbar options when you select an asset](assets/assets-essentials-live-statistics.png)-->
 
 Click **[!UICONTROL Insights]** available in the left navigation pane to view the following automatically generated charts:
 
@@ -46,7 +46,7 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 
 * **Storage usage**: The storage usage, in bytes, for the Assets Essentials environment represented using a bar chart, depending upon the usability.
 
-   ![Storage](assets/storage.png)
+   <!--![Storage](assets/storage.png)-->
 
 
 * **Delivery**: The graph depicts the count of assets as the delivery dates.
@@ -54,6 +54,9 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 * **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.
 
 * **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
+
+   ![Insights](assets/insights1.png)
+   ![Insights](assets/insights2.png)
 
 ## Create a Download report {#create-download-report}
 
