@@ -142,11 +142,7 @@ Tags modified in the Assets Essentials are applied in Assets as a Cloud Service 
 
 ## Add tags to blocklist {#blocklist-essentials}
 
-Experience Manager Assets enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets. This capability performs tags governance and saves a lot of time as you just add a tag to the block list and it does not display in the list of tags for any of the assets that are added to the repository.   
-
->[!NOTE]
->
->You need to have admin rights to block smart tags.
+Experience Manager Assets enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets. This capability performs tags governance and saves a lot of time as you just add a tag to the block list and it does not display in the list of tags for any of the assets that are added to the repository.
 
 ### Block smart tags for single asset {#block-smart-tags-for-single-asset}
 
@@ -170,6 +166,7 @@ Global block tags flow is used to block tags for multiple assets at once. Which 
    >[!NOTE]
    >
    >You can add a maximum of 25 tags to the list at once. Repeat the steps to add more tags to the blocklist.
+   >You need to have admin rights to block smart tags.
 
 ### Actions performed on blocklist {#blocklist-actions}
 
