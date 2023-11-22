@@ -42,22 +42,24 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 
 * **Uploads**: The number of assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
-* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.
+<!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Storage usage**: The storage usage, in bytes, for the Assets Essentials environment represented using a bar chart, depending upon the usability.
 
    <!--![Storage](assets/storage.png)-->
 
 
-* **Delivery**: The graph depicts the count of assets as the delivery dates.
+<!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
-* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.
+<!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
 
+  <!--
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
-
+   -->
+   
 ## Create a Download report {#create-download-report}
 
 To create a Download report:
