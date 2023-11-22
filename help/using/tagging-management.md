@@ -163,11 +163,7 @@ Experience Manager Assets enables you to define a list of blocked tags. These ta
    >
    >You can add a maximum of 25 tags to the list at once. Repeat the steps to add more tags to the blocklist.
 
-If you want to block smart tags for a single asset, follow the steps below:
-
-1. Navigate to the details of an asset.
-1. Go to **[!UICONTROL Tags]** tab.
-1. Remove the unwanted smart tags and click **[!UICONTROL Save]** to save the changes. Otherwise, click [!UICONTROL Revert] to undo the changes.
+You can also block smart tags for a single asset. Navigate to the details of an asset. Under **[!UICONTROL Tags]** tab, remove the unwanted smart tags and click **[!UICONTROL Save]**. The tags are listed in the blocklist for the selected asset.
 
 ### Actions performed on blocklist {#blocklist-actions}
 
@@ -195,7 +191,7 @@ Assets Essentials provides the ability to import blocked tags from a data source
 
 1. Click **[!UICONTROL Import as CSV]**.
 1. Choose the CSV file from your device. Click **[!UICONTROL select a file]** to navigate to the file from your device. Alternatively, you can drag and drop the CSV file from your device.
-1. Click **[!UICONTROL Upload]**. The tags from the CSV file gets listed in the blocked tags list.
+1. Click **[!UICONTROL Upload]**. The tags from the CSV file are listed in the blocked tags list.
 
 ![Import blocked tags list](assets/import-blocked-tags.png)
 
@@ -203,4 +199,4 @@ In case you want to download a blocked tags template, follow the steps below:
 
 1. Click **[!UICONTROL Download Template]**. 
 1. Choose the appropriate location to save the CSV file. You can also rename the file as per the requirement. 
-1. Click **[!UICONTROL Save]**. Block tags template in CSV format gets downloaded at the selected location.
+1. Click **[!UICONTROL Save]**. Block tags template in CSV format are downloaded at the selected location.
