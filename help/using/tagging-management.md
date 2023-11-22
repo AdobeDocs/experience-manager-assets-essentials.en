@@ -143,20 +143,14 @@ Tags modified in the Assets Essentials are applied in Assets as a Cloud Service 
 ## Add tags to blocklist {#blocklist-essentials}
 
 Experience Manager Assets enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets. This capability performs tags governance and saves a lot of time as you just add a tag to the block list and it does not display in the list of tags for any of the assets that are added to the repository.
-
+<!--
 ### Block smart tags for single asset {#block-smart-tags-for-single-asset}
-
-[!DNL Assets Essentials] allows an admin to block smart tags on the existing assets. The tags are blocked on the existing assets. You can block smart tags for a particular asset by executing the following steps:
-
-1. Navigate to the details of an asset.
-1. Go to **[!UICONTROL Tags]** tab.
-1. Remove the unwanted smart tags and click **[!UICONTROL Save]** to save the changes. Otherwise, click [!UICONTROL Revert] to undo the changes.
-
 ![block smart tags](assets/block-smart-tags.png)
-
+-->
 ### Block smart tags for all assets {#block-smart-tags-for-all-assets}
 
-Global block tags flow is used to block tags for multiple assets at once. Which means, you can block tags for the newly added assets and existing assets on the Touch UI after reprocessing the assets. To block tags, execute the following steps:
+<!--Global block tags flow is used to block tags for multiple assets at once. Which means, you can block tags for the newly added assets and existing assets on the Touch UI after reprocessing the assets. -->
+[!DNL Assets Essentials] allows an admin to block smart tags for the existing assets. To block tags, execute the following steps:
 
 1. Navigate to **[!UICONTROL Blocked Tags]** under **[!UICONTROL Settings]**.
 1. Click **[!UICONTROL Add blocked tag]**.
@@ -166,7 +160,12 @@ Global block tags flow is used to block tags for multiple assets at once. Which 
    >[!NOTE]
    >
    >You can add a maximum of 25 tags to the list at once. Repeat the steps to add more tags to the blocklist.
-   >You need to have admin rights to block smart tags.
+
+If you want to block smart tags for a single asset, follow the steps below:
+
+1. Navigate to the details of an asset.
+1. Go to **[!UICONTROL Tags]** tab.
+1. Remove the unwanted smart tags and click **[!UICONTROL Save]** to save the changes. Otherwise, click [!UICONTROL Revert] to undo the changes.
 
 ### Actions performed on blocklist {#blocklist-actions}
 
