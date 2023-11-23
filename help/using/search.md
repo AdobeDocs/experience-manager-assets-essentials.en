@@ -164,6 +164,23 @@ You can select the assets that display in the search results and do the followin
 
 * **Pin to Quick Access**: [Pin an asset](my-workspace.md) for faster access when you need it later. All pinned items display in the **Quick access** section of My Workspace.
 
+## Configuring search first homepage {#configuring-search-first-homepage}
+
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
+1. Select **[!UICONTROL Search first]**. It further opens search first related configuration.
+
+
+### Preview configured homepage {#preview-configured-homepage}
+
+
+
+### Setting alignment of search bar {#setting-alignment-search-bar}
+
+[!DNL Assets Essentials] allows you to change alignment of the search bar.
+
+### Setting background and logo image of homepage {#setting-background-image-and-logo}
+
+
 ## Next Steps {#next-steps}
 
 * [Watch a video to search assets in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html)
