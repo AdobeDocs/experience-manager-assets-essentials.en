@@ -151,8 +151,7 @@ Experience Manager Assets enables you to define a list of blocked tags. These ta
 
 ### Block smart tags for all assets {#block-smart-tags-for-all-assets}
 
-<!--Global block tags flow is used to block tags for multiple assets at once. Which means, you can block tags for the newly added assets and existing assets on the Touch UI after reprocessing the assets. -->
-[!DNL Assets Essentials] allows an admin to block smart tags for the existing assets. To block tags, execute the following steps:
+[!DNL Assets Essentials] allows an admin to block smart tags for the existing and the newly added assets. To block tags, execute the following steps:
 
 1. Navigate to **[!UICONTROL Blocked Tags]** under **[!UICONTROL Settings]**.
 1. Click **[!UICONTROL Add blocked tag]**.
