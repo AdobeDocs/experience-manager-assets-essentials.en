@@ -166,7 +166,7 @@ You can select the assets that display in the search results and do the followin
 
 ## Configuring search first homepage {#configuring-search-first-homepage}
 
-Search first homepage allows you to instantly navigate through various files and folders instantly. It lets you effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. [!DNL Assets Essentials] allows you to configure your homepage by controlling what should appear when you click home.
+Search first homepage allows you to navigate through various files and folders instantly. It lets you effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. [!DNL Assets Essentials] allows you to configure your homepage by controlling what should appear when you click home.
 
 To configure the search first homepage, execute the steps below:
 
