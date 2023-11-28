@@ -166,7 +166,7 @@ You can select the assets that display in the search results and do the followin
 
 ## Configuring search first homepage {#configuring-search-first-homepage}
 
-Search first engine allows you to navigate through various files and folders instantly. Any user can instantly locate the perfect image, video, or document you must create stunning marketing campaigns, captivating presentations, and engaging content. It lets you effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. [!DNL Assets Essentials] allows you to configure your homepage by controlling what should appear when you click home.
+Search first homepage allows you to instantly navigate through various files and folders instantly. It lets you effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. [!DNL Assets Essentials] allows you to configure your homepage by controlling what should appear when you click home.
 
 To configure the search first homepage, execute the steps below:
 
@@ -181,7 +181,7 @@ To configure the search first homepage, execute the steps below:
 
 ### Setting background and logo image of homepage {#setting-background-image-and-logo}
 
-You can add brand logo and background image to your search first homepage to make the identification of your brand. Execute the following steps:
+You can add brand logo and background image to your search first homepage. Execute the following steps:
 
 1. Navigate to **[!UICONTROL Background and Logo image]** section under **[!UICONTROL Homepage]**.
 1. Click **[!UICONTROL Select]** to browse images from existing assets repository.
@@ -194,7 +194,6 @@ You can preview to check the layout and formatting of the search first page. Usi
 1. Click **[!UICONTROL General Settings]** and select **[!UICONTROL Search first]**.
 1. Navigate to **[!UICONTROL Customize search first homepage]** and click **[!UICONTROL Preview]**. Toggle through **[!UICONTROL Dark theme]** button to preview homepage in dark or light theme.
 1. Click **[!UICONTROL Close]** to close the preview screen.
-1. Click **[!UICONTROL Save]**.
 
    ![Search first homepage preview](assets/search-first-preview.gif)
 
