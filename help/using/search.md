@@ -166,7 +166,7 @@ You can select the assets that display in the search results and do the followin
 
 ## Configuring search first homepage {#configuring-search-first-homepage}
 
-Search first homepage allows you to navigate through various files and folders instantly. It lets you effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. [!DNL Assets Essentials] allows you to configure your homepage by controlling what should appear when you click home.
+Search first homepage allows you to navigate through various files and folders instantly. It lets you effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. [!DNL Assets Essentials] allows you to configure your homepage by controlling what should appear when you log on to [!DNL Assets Essentials].
 
 To configure the search first homepage, execute the steps below:
 
@@ -175,7 +175,7 @@ To configure the search first homepage, execute the steps below:
 
 ### Setting alignment of search bar {#setting-alignment-search-bar}
 
-[!DNL Assets Essentials] allows you to change alignment of the search bar. You can make search bar appear either at the center or at the top. Select alignment option as per your requirement and click **[!UICONTROL Save]**.
+[!DNL Assets Essentials] allows you to change alignment of the search bar. You can make search bar appear either at the center or at the top. Select the appropriate alignment and click **[!UICONTROL Save]**.
 
    ![Search first homepage alignment](assets/search-first-alignment.png)
 
@@ -184,12 +184,12 @@ To configure the search first homepage, execute the steps below:
 You can add brand logo and background image to your search first homepage. Execute the following steps:
 
 1. Navigate to **[!UICONTROL Background and Logo image]** section under **[!UICONTROL Homepage]**.
-1. Click **[!UICONTROL Select]** to browse images from existing assets repository.
+1. Click **[!UICONTROL Replace]** to browse images from existing assets repository.
 1. Click **[!UICONTROL Save]**. [Preview](#preview-configured-homepage) the changes to go over the modifications.
 
 ### Preview configured homepage {#preview-configured-homepage}
 
-You can preview to check the layout and formatting of the search first page. Using **[!UICONTROL Preview]**, you can fix the layout or make modifications as per the requirement. To preview the configured homepage, execute the steps below:
+You can preview to check the layout and formatting of the search first homepage. Using **[!UICONTROL Preview]**, you can fix the layout or make modifications as per the requirement. To preview the configured homepage, execute the steps below:
 
 1. Click **[!UICONTROL General Settings]** and select **[!UICONTROL Search first]**.
 1. Navigate to **[!UICONTROL Customize search first homepage]** and click **[!UICONTROL Preview]**. Toggle through **[!UICONTROL Dark theme]** button to preview homepage in dark or light theme.
@@ -203,6 +203,6 @@ You can preview to check the layout and formatting of the search first page. Usi
 
 * Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
 
-*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
