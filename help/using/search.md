@@ -50,7 +50,7 @@ You can sort the searched assets in increasing or decreasing order of `Name`, `R
 
 **Permissions required:**  `Can Edit`, `Owner`, or Administrator.
 
-Assets Essentials also enables you to add custom filters to the user interface. You can then apply those custom filters in addition to the [standard filters](#refine-search-results) to refine your search results.
+Assets Essentials also enable you to add custom filters to the user interface. You can then apply those custom filters in addition to the [standard filters](#refine-search-results) to refine your search results.
 
 Assets Essentials provides the following custom filters:
 
@@ -117,7 +117,7 @@ To remove custom filters:
 
 ## Saved searches {#saved-search}
 
-Search functionality is quite easy to use in [!DNL Assets Essentials]. From within the search box, you can not only just type a keyword and press return to see the results, you can also quickly search again for your recently searched keywords in a single click.
+Search functionality is quite easy to use in [!DNL Assets Essentials]. From within the search box, you can not only type a keyword and press return to see the results, you can also quickly search again for your recently searched keywords in a single click.
 
 You can also filter the search results based on specific criteria around metadata and type of assets. For frequently used filters, to improve the search experience, [!DNL Assets Essentials] lets you save the search parameters. You can then select the saved search to search and apply the filter with just a single click as well.
 
@@ -166,20 +166,37 @@ You can select the assets that display in the search results and do the followin
 
 ## Configuring search first homepage {#configuring-search-first-homepage}
 
+Search first engine allows you to navigate through various files and folders instantly. Any user can instantly locate the perfect image, video, or document you must create stunning marketing campaigns, captivating presentations, and engaging content. It lets you effortlessly navigate through asset types, metadata, smart tags, and even the content itself without knowing the exact keyword. [!DNL Assets Essentials] allows you to configure your homepage by controlling what should appear when you click home.
+
+To configure the search first homepage, execute the steps below:
+
 1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
-1. Select **[!UICONTROL Search first]**. It further opens search first related configuration.
-
-
-### Preview configured homepage {#preview-configured-homepage}
-
-
+1. Select **[!UICONTROL Search first]**. It further opens search first related configuration. You can set [alignment](#setting-alignment-search-bar) or [set background and logo image](#setting-background-image-and-logo) of your homepage.
 
 ### Setting alignment of search bar {#setting-alignment-search-bar}
 
-[!DNL Assets Essentials] allows you to change alignment of the search bar.
+[!DNL Assets Essentials] allows you to change alignment of the search bar. You can make search bar appear either at the center or at the top. Select alignment option as per your requirement and click **[!UICONTROL Save]**.
+
+   ![Search first homepage alignment](assets/search-first-alignment.png)
 
 ### Setting background and logo image of homepage {#setting-background-image-and-logo}
 
+You can add brand logo and background image to your search first homepage to make the identification of your brand. Execute the following steps:
+
+1. Navigate to **[!UICONTROL Background and Logo image]** section under **[!UICONTROL Homepage]**.
+1. Click **[!UICONTROL Select]** to browse images from existing assets repository.
+1. Click **[!UICONTROL Save]**. [Preview](#preview-configured-homepage) the changes to go over the modifications.
+
+### Preview configured homepage {#preview-configured-homepage}
+
+You can preview to check the layout and formatting of the search first page. Using **[!UICONTROL Preview]**, you can fix the layout or make modifications as per the requirement. To preview the configured homepage, execute the steps below:
+
+1. Click **[!UICONTROL General Settings]** and select **[!UICONTROL Search first]**.
+1. Navigate to **[!UICONTROL Customize search first homepage]** and click **[!UICONTROL Preview]**. Toggle through **[!UICONTROL Dark theme]** button to preview homepage in dark or light theme.
+1. Click **[!UICONTROL Close]** to close the preview screen.
+1. Click **[!UICONTROL Save]**.
+
+   ![Search first homepage preview](assets/search-first-preview.gif)
 
 ## Next Steps {#next-steps}
 
