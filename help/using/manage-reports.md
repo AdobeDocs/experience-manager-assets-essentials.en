@@ -46,14 +46,13 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 
 * **Storage usage**: The storage usage, in bytes, for the Assets Essentials environment represented using a bar chart, depending upon the usability.
 
-   <!--![Storage](assets/storage.png)-->
-
-
 <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
+
+![Insights](assets/insights.png)
 
   <!--
    ![Insights](assets/insights1.png)
