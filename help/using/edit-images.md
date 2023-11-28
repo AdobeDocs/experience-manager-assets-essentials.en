@@ -21,7 +21,7 @@ After editing an image, you can save the new image as a new version. Versioning 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express Integration"
->abstract="Easy and intuitive image editing tools powered by Adobe Express available directly within AEM Assets to increase content re-use and accelerate content velocity."
+>abstract="Easy and intuitive image-editing tools powered by Adobe Express available directly within AEM Assets to increase content reuse and accelerate content velocity."
 
 ### Resize image {#resize-image-using-express}
 
@@ -72,22 +72,37 @@ You can quickly convert a JPEG image into a PNG format using Adobe Express. Exec
 
 * Supported image resolution: Minimum - 50 pixels, Maximum - 6000 pixels per dimension
 
-* Maximum file size supported: 17MB
+* Maximum file size supported: 17 MB
 
 ## Edit images using Adobe Express embedded editor {#edit-using-embedded-editor}
 
-[!DNL Assets Essentials] now provides comprehensive editing of the image type assets directly from your assets repository.
+[!DNL Assets Essentials] provides comprehensive editing of the image-type assets directly from your assets repository. The embedded editor allows easy and intuitive editing of an image type of asset using [!DNL Adobe Express]. It accelerates reusability of the assets by using templates or modifying the existing assets. You can use pre-defined elements to make your asset look stunning or perform quick actions to edit your image with just a few clicks.
 
-To edit images using Adobe Express embedded editor, follow the steps below:
+To edit images using [!DNL Adobe Express] embedded editor, follow the steps below:
 
 1. Select an image from your Assets repository.
 1. Click **[!UICONTROL Open in Adobe Express]**. [!DNL Adobe Express] screen appears.
 
    ![Adobe Express embedded editor](assets/embedded-editor.png)
 
-   You can leverage the functionality of [!DNL Adobe Express] to perform all the image editing related actions, such as [resize image](https://helpx.adobe.com/in/express/using/resize-image.html), [remove or change background color](https://helpx.adobe.com/in/express/using/remove-background.html), [crop image](https://helpx.adobe.com/in/express/using/crop-image.html), and much more.
+   You can leverage the functionality of [!DNL Adobe Express] to perform all the image-editing related actions, such as [resize image](https://helpx.adobe.com/in/express/using/resize-image.html), [remove or change background color](https://helpx.adobe.com/in/express/using/remove-background.html), [crop image](https://helpx.adobe.com/in/express/using/crop-image.html), and much more.
 
-1. Once you complete image editing, you can download an asset as a new asset or save the asset as a new version. The output version of an image type asset is `PNG`.
+1. Once you complete image editing, you can download an asset as a new asset or save the asset as a new version. 
+
+## Create new asset using Adobe Express {#create-new-embedded-editor}
+
+[!DNL Assets Essentials] provides functionality to create a new template from scratch using [!DNL Adobe Express] embedded editor. To create a new asset using Adobe Expresss, execute the below steps:
+
+1. Navigate to **[!UICONTROL My Workspace]** and click **[!UICONTROL Create]**. [!DNL Adobe Express] blank canvas appears.
+1. Create your content using [Templates](https://helpx.adobe.com/in/express/using/work-with-templates.html). Otherwise, navigate to **[!UICONTROL Your Stuff]** to modify existing content.
+1. Once you complete editing, click **[!UICONTROL Save as new asset]**. 
+1. In the next screen, provide destination path for the created asset.
+
+>[!NOTE]
+>
+>* You can only modify `JPEG` and `PNG` asset formats.
+>* The asset size should be less than 14 MB.
+>* The output of an image type asset is `PDF`, `JPEG`, and `PNG`.
 
 ## Edit images using [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
 
