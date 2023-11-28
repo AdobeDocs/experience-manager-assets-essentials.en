@@ -100,7 +100,7 @@ To edit images using [!DNL Adobe Express] embedded editor, follow the steps belo
 
 >[!NOTE]
 >
->* You can only modify `JPEG` and `PNG` asset formats.
+>* You can only modify `JPEG` and `PNG` image type assets.
 >* The asset size should be less than 14 MB.
 >* The output of an image type asset is `PDF`, `JPEG`, and `PNG`.
 
