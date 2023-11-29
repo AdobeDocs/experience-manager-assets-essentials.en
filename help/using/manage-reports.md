@@ -38,6 +38,8 @@ Assets Essentials enables you to view real-time data for your Assets Essentials 
 
 Click **[!UICONTROL Insights]** available in the left navigation pane to view the following automatically generated charts:
 
+   ![Insights](assets/insights.png)
+
 * **Downloads**: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
 
 * **Uploads**: The number of assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
@@ -51,8 +53,6 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
-
-![Insights](assets/insights.png)
 
   <!--
    ![Insights](assets/insights1.png)
