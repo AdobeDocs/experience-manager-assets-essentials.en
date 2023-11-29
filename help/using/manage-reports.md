@@ -46,7 +46,7 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
-* **Storage usage**: The storage usage, in bytes, for the Assets Essentials environment represented using a bar chart, depending upon the usability.
+* **Storage usage**: The storage usage, in bytes, for the Assets Essentials environment represented using a bar chart.
 
 <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
