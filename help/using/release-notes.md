@@ -13,15 +13,19 @@ The new features include:
 
 **Embedded Adobe Express editor in AEM Assets**
 
- Easy and intuitive editing and content creation tools powered by Adobe Express available directly within AEM Assets Essentials to increase content re-use and accelerate content velocity.
+ Users with access to Express now have integrated image editing and creation tools from Adobe Express and Adobe Firefly available directly within AEM Assets to improve content reuse and accelerate content velocity.
 
   ![assign metadata form to a folder](/help/using/assets/adobe-express-aem-assets.png)
+
+<!--
 
 **Smart tags blocklist** 
 
 Assets Essentials now enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets to the repository. This capability performs tags governance and saves a lot of time as you can add a tag to the block list and Assets Essentials automatically excludes it from the list of tags for any of the assets that are added to the repository.
 
   ![storage usage insights](/help/using/assets/block-tags.png)
+
+-->
 
 **Storage usage reports in Insights**: 
 
