@@ -7,19 +7,39 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on October 26, 2023.
+The current release of Assets Essentials is released on November 30, 2023.
 
 The new features include:
 
-**Bulk import assets from OneDrive data source**
+**Embedded Adobe Express editor in AEM Assets**
 
-Administrators now have the ability to [import a large number of assets from OneDrive to AEM Assets](/help/using/bulk-import-assets-view.md). The updated list for the supported data sources for bulk import includes Azure, AWS, Google Cloud, Dropbox, and OneDrive. 
+ Users with access to Express now have integrated image editing and creation tools from Adobe Express and Adobe Firefly available directly within AEM Assets to improve content reuse and accelerate content velocity.
 
-  ![assign metadata form to a folder](/help/using/assets/bulk-import-source-details.png)
+  ![assign metadata form to a folder](/help/using/assets/adobe-express-aem-assets.png)
 
-**Cross-Org Entitlement Support for Libraries**
+<!--
 
-Experience Manager Assets now enables you to configure access to Creative Cloud libraries in a different IMS Organization. It allows easier access to the latest cross-product workflows between Creative Cloud and Experience Manager and reduces time and effort for creatives.
+**Smart tags blocklist** 
+
+Assets Essentials now enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets to the repository. This capability performs tags governance and saves a lot of time as you can add a tag to the block list and Assets Essentials automatically excludes it from the list of tags for any of the assets that are added to the repository.
+
+  ![storage usage insights](/help/using/assets/block-tags.png)
+
+-->
+
+**Storage usage reports in Insights**: 
+
+Administrators now have the ability to view the storage usage reports available as part of Insights.
+
+  ![storage usage insights](/help/using/assets/storage-usage-insights.png)
+
+**Search first homepage configuration**
+
+Assets Essentials now enables you to configure the homepage experience for your organization. If you select search first as the homepage, you can configure the search bar alignment, background image, and logo for your organization.
+
+  ![search first configuration](/help/using/assets/search-first-configuration.png)
+
+
 
 **Improvements based on customer feedback**
 
@@ -44,6 +64,18 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
 ## Past releases {#past-releases}
+
+### October 2023 release {#october2023-release}
+
+**Bulk import assets from OneDrive data source**
+
+Administrators now have the ability to [import a large number of assets from OneDrive to AEM Assets](/help/using/bulk-import-assets-view.md). The updated list for the supported data sources for bulk import includes Azure, AWS, Google Cloud, Dropbox, and OneDrive. 
+
+  ![assign metadata form to a folder](/help/using/assets/bulk-import-source-details.png)
+
+**Cross-Org Entitlement Support for Libraries**
+
+Experience Manager Assets now enables you to configure access to Creative Cloud libraries in a different IMS Organization. It allows easier access to the latest cross-product workflows between Creative Cloud and Experience Manager and reduces time and effort for creatives.
 
 ### September 2023 release {#september2023-release}
 
