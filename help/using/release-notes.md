@@ -7,9 +7,19 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on November 30, 2023.
+The current release of Assets Essentials is released on December 19, 2023.
 
-The new features include:
+Some of the recently added features include:
+
+**Create GenAI images with Adobe Firefly**
+
+Create new images based on search queries with an integration of Adobe Firefly text-to-image feature (requires Adobe Firefly license).
+
+ ![Assets Firefly integration](/help/using/assets/assets-firefly-integration.png)
+
+**Find Similar Images**
+
+You can now can easily find content by selecting an image and viewing similar images in the Experience Manager Assets repository.
 
 **Embedded Adobe Express editor in AEM Assets**
 
