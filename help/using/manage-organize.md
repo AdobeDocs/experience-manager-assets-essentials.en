@@ -145,4 +145,6 @@ To add Expiration Date metadata field to the form,  drag **[!UICONTROL Date]** c
 
 
 
-
+<!-- * ![find similar icon](assets/do-not-localize/find-similar-image-icon.svg) Find similar image asset in the Assets UI based on the metadata and smart tags.
+* ![Add to Collection]() Add the selected asset to a collection.
+* **Pin to Quick Access**: Pin an asset to quickly access the asset when you need it later. -->
