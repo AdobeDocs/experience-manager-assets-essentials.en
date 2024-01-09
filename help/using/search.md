@@ -24,6 +24,14 @@ To search assets,
 
   * Start working with a recently viewed asset, by searching for it directly. Click in the search box and select a recently viewed asset from the suggestions. 
 
+## Search assets using Adobe Firefly
+
+With the integration of [!UICONTROL Adobe Firefly] and [!UICONTROL Adobe Experience Manager Assets], you can efficiently search for assets not available in any of the assets folder. <br> For instance, you can search an asset using the keyword `Bugatti Type 57`. When searching for `Bugatti Type 57`, no results are found. 
+
+<!-- ![Firefly integration](assets/firefly-integration.jpg) -->
+
+In the search bar, enter the asset name, and click **[!UICONTROL Generate]**. The sample assets are displayed on the screen. You can upload these assets to your preferred folder for easy access.
+
 ## Filter the search results {#refine-search-results}
 
 You can filter the search results based on the following parameters.
@@ -140,11 +148,21 @@ When userA is searching and userB add an asset that matches search results, will
 
 You can select the assets that display in the search results and do the following actions:
 
+* **Find Similar Image**: Find similar image asset in the Assets UI based on the metadata and smart tags.
+
 * **Details**: View and edit asset properties.
+
+* **Download**: Download an asset.
 
 * **Add to Collection**: Add the selected asset to a collection.
 
-* **Download**: Download an asset.
+* **Pin to Quick Access**: [Pin an asset](my-workspace.md) for faster access when you need it later. All pinned items display in the **Quick access** section of My Workspace.
+
+* **Open in Adobe Express**: Edit an image in the integrated Adobe Express from the Adobe Experience Manager Assets screen.
+
+* **Edit**: Edit the image using Adobe Express. 
+
+* **Share Link**: [Share links](share-links-for-assets.md) for an asset with other users so that they can access and download it.
 
 * **Delete**: Delete an asset.
 
@@ -154,15 +172,11 @@ You can select the assets that display in the search results and do the followin
 
 * **Rename**: Rename an asset.
 
+* **Copy to Libraries**: Add an asset to Library.
+
 * **Assign Tasks**: Assign tasks to users for an asset.
 
-* **Share Link**: [Share links](share-links-for-assets.md) for an asset with other users so that they can access and download it.
-
 * **Watch**: [Monitor the operations](manage-notifications.md) performed on an asset.
-
-* **Show File Location**: Navigate to asset folder location.
-
-* **Pin to Quick Access**: [Pin an asset](my-workspace.md) for faster access when you need it later. All pinned items display in the **Quick access** section of My Workspace.
 
 ## Configuring search first homepage {#configuring-search-first-homepage}
 

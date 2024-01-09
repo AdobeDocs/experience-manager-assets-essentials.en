@@ -19,6 +19,8 @@ Use [!DNL Assets Essentials] to accomplish the following asset management tasks.
 * ![find similar icon](assets/do-not-localize/find-similar-image-icon.svg) Find similar image asset in the Assets UI based on the metadata and smart tags.
 * ![details icon](assets/do-not-localize/edit-in-icon.png) Click to preview an asset and view the detailed metadata. When previewing, you can view the versions and edit an image.
 * ![download icon](assets/do-not-localize/download-icon.png) Download the selected asset to your local file system.
+* ![Add to Collection]() Add the selected asset to a collection.
+* **Pin to Quick Access**: Pin an asset to quickly access the asset when you need it later.
 * ![delete icon](assets/do-not-localize/delete-icon.png) Delete the selected asset or folder.
 * ![checkout icon](assets/do-not-localize/checkout-icon.png) Checkout the selected asset.
 * ![copy icon](assets/do-not-localize/copy-icon.png) Copy the selected file or folder.
