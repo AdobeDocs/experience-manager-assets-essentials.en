@@ -7,9 +7,15 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on December 19, 2023.
+The current release of Assets Essentials is released on January 11, 2024.
 
 Some of the recently added features include:
+
+**Smart tags blocklist** 
+
+Assets Essentials now enables you to define blocklist that comprises words that should not be added as Smart Tags to assets when they are uploaded to the repository. This capability helps you to maintain brand compliance and reduces effort to moderate Smart Tags.
+
+  ![storage usage insights](/help/using/assets/block-tags.png)
 
 **Create GenAI images with Adobe Firefly**
 
@@ -26,16 +32,6 @@ You can now can easily find content by selecting an image and viewing similar im
  Users with access to Express now have integrated image editing and creation tools from Adobe Express and Adobe Firefly available directly within AEM Assets to improve content reuse and accelerate content velocity.
 
   ![assign metadata form to a folder](/help/using/assets/adobe-express-aem-assets.png)
-
-<!--
-
-**Smart tags blocklist** 
-
-Assets Essentials now enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets to the repository. This capability performs tags governance and saves a lot of time as you can add a tag to the block list and Assets Essentials automatically excludes it from the list of tags for any of the assets that are added to the repository.
-
-  ![storage usage insights](/help/using/assets/block-tags.png)
-
--->
 
 **Storage usage reports in Insights**: 
 
