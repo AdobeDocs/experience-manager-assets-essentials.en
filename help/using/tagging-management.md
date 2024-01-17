@@ -142,7 +142,7 @@ Tags modified in the Assets Essentials are applied in Assets as a Cloud Service 
 
 ## Add tags to blocklist {#blocklist-essentials}
 
-Experience Manager Assets enables you to define a list of blocked tags. These tags are automatically removed from the auto-generated smart tags when you upload assets. This capability performs tags governance and saves a lot of time as you just add a tag to the block list and it does not display in the list of tags for any of the assets that are added to the repository.
+[!DNL Assets Essentials] enables you to define blocklist that comprises words that should not be added as Smart Tags to assets when they are uploaded to the repository. This capability helps you to maintain brand compliance and reduces effort to moderate Smart Tags.
 
 <!--
 ### Block smart tags for single asset {#block-smart-tags-for-single-asset}
@@ -192,7 +192,7 @@ Assets Essentials provides the ability to import blocked tags from a data source
 1. Choose the CSV file from your device. Click **[!UICONTROL select a file]** to navigate to the file from your device. Alternatively, you can drag and drop the CSV file from your device.
 1. Click **[!UICONTROL Upload]**. The tags from the CSV file are listed in the blocked tags list.
 
-![Import blocked tags list](assets/import-blocked-tags.png)
+    ![Import blocked tags list](assets/import-blocked-tags.png)
 
 In case you want to download a blocked tags template, follow the steps below: 
 
