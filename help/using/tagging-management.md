@@ -142,7 +142,7 @@ Tags modified in the Assets Essentials are applied in Assets as a Cloud Service 
 
 ## Add tags to blocklist {#blocklist-essentials}
 
-[!DNL Assets Essentials] enables you to define blocklist that comprises words that should not be added as Smart Tags to assets when they are uploaded to the repository. This capability helps you to maintain brand compliance and reduces effort to moderate Smart Tags.
+[!DNL Assets Essentials] enables you to configure a blocklist that includes words that should not be added as Smart Tags to assets when they are uploaded to the repository. This capability helps you to maintain brand compliance and reduces effort to moderate Smart Tags.
 
 <!--
 ### Block smart tags for single asset {#block-smart-tags-for-single-asset}
