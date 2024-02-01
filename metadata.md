@@ -6,6 +6,7 @@ type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-assets-essentials.en
 mini-toc-levels: 1
 index: yes
+recommendations: noDisplay
 ---
 
 # Metadata for internal use
