@@ -179,7 +179,7 @@ If you schedule an import, it displays in the **[!UICONTROL Scheduled Imports]**
 
 ## Edit bulk import configuration {#edit-import-configuration}
 
-To edit the configuration details, click ... corresponding to the configuration name and click **[!UICONTROL Edit]**. You cannot edit the title of the configuration and the import data source while performing the edit operation. You can edit the configuration using Executed, Scheduled, or Saved Imports tabs.
+To edit the configuration details, click ![More icon](assets/do-not-localize/more-icon.svg) corresponding to the configuration name and click **[!UICONTROL Edit]**. You cannot edit the title of the configuration and the import data source while performing the edit operation. You can edit the configuration using Executed, Scheduled, or Saved Imports tabs.
 
 ![Edit bulk import configuration](assets/edit-bulk-import.png)
 
