@@ -150,7 +150,7 @@ Execute the following steps to create a bulk import configuration in the [!DNL E
 
    * **[!UICONTROL Save import]** to save the configuration for now so that you can run it later.
    * **[!UICONTROL Save & run import]** to save the configuration and run the bulk import.
-   * **[!UICONTROL Save & schedule import]** to save the configuration and schedule the bulk import for a later time. You can choose the frequency of the bulk import, and set the date and time for that. The bulk import will run on the set date and time in the choosen frquency. 
+   * **[!UICONTROL Save & schedule import]** to save the configuration and schedule the bulk import for a later time. You can choose the frequency of the bulk import, and set the date and time for the import. The bulk import will run on the set date and time in the choosen frquency. 
 
    ![Execute bulk import](assets/save-run.png)
 
