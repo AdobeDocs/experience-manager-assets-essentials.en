@@ -166,7 +166,7 @@ For more information on disallowed names, handling asset names, and handling fol
 
 ## View existing bulk import configurations {#view-import-configuration}
 
-To view the existing bulk imports, select the **[!UICONTROL Bulk Imports]** option in the left pane. The bulk imports page appears with the list of **[!UICONTROL Executed Imports]**. 
+To view the existing bulk imports, select the **[!UICONTROL Bulk Imports]** option in the left pane. The bulk imports page appears with the list of **[!UICONTROL Executed Imports]**. <br>
 You can also view the **[!UICONTROL Saved Imports]** and **[!UICONTROL Scheduled Imports]** from the dropdown option.
 
 ![Save bulk import configuration](assets/bulk-import-options.png)
