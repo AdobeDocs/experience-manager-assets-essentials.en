@@ -57,6 +57,8 @@ Execute the following steps:
 
 1. In the **[!UICONTROL Settings]** tab of your application, add the following to the **[!UICONTROL Redirect URIs]** section:
 
+   * https://experience.adobe.com
+   
    * https://exc-unifiedcontent.experience.adobe.net
 
    * https://exc-unifiedcontent.experience-stage.adobe.net (valid only for Stage environments)
@@ -91,6 +93,8 @@ Before importing assets from your OneDrive account to AEM Assets, create and con
     1. In the **[!UICONTROL Select a platform]** dropdown menu, select **[!UICONTROL Web]**.
     1. Add the following to the **[!UICONTROL Redirect URIs]** section:
 
+         * https://experience.adobe.com
+         
          * https://exc-unifiedcontent.experience.adobe.net
 
          * https://exc-unifiedcontent.experience-stage.adobe.net (valid only for Stage environments)
