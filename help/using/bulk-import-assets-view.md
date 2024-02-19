@@ -90,14 +90,16 @@ Before importing assets from your OneDrive account to AEM Assets, create and con
 1. Specify a name for the application, select **[!UICONTROL Accounts in this organizational directory only (Adobe only - Single tenant)]** from **[!UICONTROL Supported account types]**.
 
 1. Execute the following steps to add redirect URIs:
-    1. In the **[!UICONTROL Select a platform]** dropdown menu, select **[!UICONTROL Web]**.
-    1. Add the following to the **[!UICONTROL Redirect URIs]** section:
 
-         * https://experience.adobe.com
+   1. In the **[!UICONTROL Select a platform]** dropdown menu, select **[!UICONTROL Web]**.
+   
+   1. Add the following to the **[!UICONTROL Redirect URIs]** section:
+
+      * https://experience.adobe.com
          
-         * https://exc-unifiedcontent.experience.adobe.net
+      * https://exc-unifiedcontent.experience.adobe.net
 
-         * https://exc-unifiedcontent.experience-stage.adobe.net (valid only for Stage environments)
+      * https://exc-unifiedcontent.experience-stage.adobe.net (valid only for Stage environments)
 
       <!-- Add the first URI and click **[!UICONTROL Configure]** to add it. You can add more by clicking **[!UICONTROL Add URI]** option available in the **[!UICONTROL Web]** section on the **[!UICONTROL Authentication]** page. -->
 
