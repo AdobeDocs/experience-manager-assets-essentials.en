@@ -1,9 +1,9 @@
 ---
 title: Bulk import assets using Assets Essentials
-description: Learn how to bulk import assets using the new Assets UI (Assets Essentials). It provides administrators with the ability to import large number of assets from a data source to AEM Assets.
+description: Learn how to bulk import assets using the new Assets UI (Assets Essentials). It provides administrators with the ability to import a large number of assets from a data source to AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
 ---
-# Bulk import assets using Assets Essentials  {#bulk-import-essentials}
+# Bulk import assets using Assets Essentials   {#bulk-import-essentials}
 
 >[!CONTEXTUALHELP]
 >id="assets_bulk_import"
@@ -33,7 +33,7 @@ You can import assets from the following data sources:
 | AWS | <ul> <li>AWS Region </li> <li> AWS Bucket <li> AWS Access Key </li><li> AWS Access Secret </li></ul> |
 | Google Cloud | <ul> <li>GCP Bucket </li> <li> GCP Service Account Email <li> GCP Service Account Private Key</li></ul> |
 | Dropbox | <ul> <li>Dropbox Client ID </li> <li> Dropbox Client Secret</li></ul> |
-| OneDrive | <ul> <li>OneDrive Tenant ID  </li> <li> OneDrive Client ID</li><li> OneDrive Client Secret</li></ul> |
+| OneDrive | <ul> <li>OneDrive Tenant ID </li> <li> OneDrive Client ID</li><li> OneDrive Client Secret</li></ul> |
 
 In addition to these prerequisites based on the data source, you must be aware of the source folder name available in your data source that contains all assets that need to be imported to AEM Assets.
 
@@ -156,7 +156,7 @@ Execute the following steps to create a bulk import configuration in the [!DNL E
 
    * **[!UICONTROL Save import]** to save the configuration for now so that you can run it later.
    * **[!UICONTROL Save & run import]** to save the configuration and run the bulk import.
-   * **[!UICONTROL Save & schedule import]** to save the configuration and schedule the bulk import for a later time. You can choose the frequency of the bulk import, and set the date and time for the import. The bulk import will run on the set date and time in the choosen frquency. 
+   * **[!UICONTROL Save & schedule import]** to save the configuration and schedule the bulk import for a later time. You can choose the frequency of the bulk import and set the date and time for the import. The bulk import will run on the set date and time in the chosen frequency. 
 
    ![Execute bulk import](assets/save-run.png)
 
