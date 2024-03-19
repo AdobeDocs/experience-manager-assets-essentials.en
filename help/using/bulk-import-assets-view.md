@@ -55,13 +55,7 @@ Execute the following steps:
 
 1. Specify a name for your application and click **[!UICONTROL Create app]**.
 
-1. In the **[!UICONTROL Settings]** tab of your application, add the following to the **[!UICONTROL Redirect URIs]** section:
-
-   * https://experience.adobe.com
-   
-   * https://exc-unifiedcontent.experience.adobe.net
-
-   * https://exc-unifiedcontent.experience-stage.adobe.net (valid only for Stage environments)
+1. In the **[!UICONTROL Settings]** tab of your application, add https://experience.adobe.com to the **[!UICONTROL Redirect URIs]** section.
 
 1. Copy the values for the **[!UICONTROL App key]** and **[!UICONTROL App secret]** fields. The values are required while configuring the bulk import tool in AEM Assets.
 
@@ -93,15 +87,8 @@ Before importing assets from your OneDrive account to AEM Assets, create and con
 
    1. In the **[!UICONTROL Select a platform]** dropdown menu, select **[!UICONTROL Web]**.
    
-   1. Add the following to the **[!UICONTROL Redirect URIs]** section:
-
-      * https://experience.adobe.com
-         
-      * https://exc-unifiedcontent.experience.adobe.net
-
-      * https://exc-unifiedcontent.experience-stage.adobe.net (valid only for Stage environments)
-
-      <!-- Add the first URI and click **[!UICONTROL Configure]** to add it. You can add more by clicking **[!UICONTROL Add URI]** option available in the **[!UICONTROL Web]** section on the **[!UICONTROL Authentication]** page. -->
+   1. Add https://experience.adobe.com to the **[!UICONTROL Redirect URIs]** section.
+   <!-- Add the first URI and click **[!UICONTROL Configure]** to add it. You can add more by clicking **[!UICONTROL Add URI]** option available in the **[!UICONTROL Web]** section on the **[!UICONTROL Authentication]** page. -->
 
 1. Click **[!UICONTROL Register]**. The application is created successfully.
 
