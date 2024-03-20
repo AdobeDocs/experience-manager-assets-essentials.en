@@ -43,7 +43,7 @@ Before importing assets from your Dropbox account to AEM Assets, create and conf
 
 Execute the following steps:
 
-1. Login to your [Dropbox account](https://www.dropbox.com/developers) and click **[!UICONTROL Create apps]**. <br>If you're using an Enterprise Dropbox account, you need to have access to the Content Admin role.
+1. Sign in to your [Dropbox account](https://www.dropbox.com/developers) and click **[!UICONTROL Create apps]**. <br>If you're using an Enterprise Dropbox account, you need to have access to the Content Admin role.
 
 1. In the **[!UICONTROL Choose an API]** section, select the only available radio button.
 
@@ -79,7 +79,7 @@ Before importing assets from your OneDrive account to AEM Assets, create and con
 
 ### Create an application
 
-1. Login to your [OneDrive account](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade) and click **[!UICONTROL New registration]**.
+1. Sign in to your [OneDrive account](https://portal.azure.com/#view/Microsoft_AAD_RegisteredApps/ApplicationsListBlade) and click **[!UICONTROL New registration]**.
 
 1. Specify a name for the application, select **[!UICONTROL Accounts in this organizational directory only (Adobe only - Single tenant)]** from **[!UICONTROL Supported account types]**.
 
@@ -109,7 +109,7 @@ Execute the following steps to add API permissions for the application:
    1. Select `offline_access` permission from `OpenId permissions` and `Files.ReadWrite.All` permission from `Files`.
    1. Click **[!UICONTROL Add permissions]** to save the updates.
 
-## Create bulk import configuration {#create-bulk-import-configuration}
+## Create bulk import configuration{#create-bulk-import-configuration}
 
 Execute the following steps to create a bulk import configuration in the [!DNL Experience Manager Assets]:
 
