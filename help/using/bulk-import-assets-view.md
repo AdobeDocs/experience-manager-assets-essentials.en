@@ -43,7 +43,7 @@ Before importing assets from your Dropbox account to AEM Assets, create and conf
 
 Execute the following steps:
 
-1. Login to your [Dropbox account](https://www.dropbox.com/developers) and click **[!UICONTROL Create apps]**.
+1. Login to your [Dropbox account](https://www.dropbox.com/developers) and click **[!UICONTROL Create apps]**. <br>If you're using an Enterprise Dropbox account, you need to have access to the Content Admin role.
 
 1. In the **[!UICONTROL Choose an API]** section, select the only available radio button.
 
@@ -220,3 +220,7 @@ Click ![More icon](assets/do-not-localize/more-icon.svg) corresponding to the co
 ## Navigate to assets after performing bulk import {#view-assets-after-bulk-import}
 
 To view the Assets target location where the assets are imported after running the Bulk Import job, click ![More icon](assets/do-not-localize/more-icon.svg) corresponding to the configuration name, and then click **[!UICONTROL View Assets]**.
+
+## Video: Bulk import assets using Assets Essentials
+
+[VIDEO]
