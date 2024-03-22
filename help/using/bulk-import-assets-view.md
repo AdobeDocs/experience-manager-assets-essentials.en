@@ -223,4 +223,4 @@ To view the Assets target location where the assets are imported after running t
 
 ## Video: Bulk import assets using Assets Essentials
 
-[VIDEO]
+>[!VIDEO](https://video.tv.adobe.com/v/3428012)
