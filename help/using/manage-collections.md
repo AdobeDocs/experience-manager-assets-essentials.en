@@ -42,6 +42,8 @@ You can perform the following tasks to manage and use collections:
 
 * [Delete a collection](#delete-collection)
 
+* [Manage permissions to a private collection](#manage-permissions-to-a-private-collection)
+
 ## Create a collection {#create-collection}
 
 To create a collection:
@@ -54,7 +56,7 @@ To create a collection:
    
 1. Click **[!UICONTROL Create]** to create the collection.
 
-![Create collection](assets/create-collection.png)
+   ![Create collection](assets/create-collection.png)
 
  <!--
    
@@ -148,13 +150,13 @@ To view and edit collection metadata:
 1. View the collection metadata using the **[!UICONTROL Basic]** tab.
 1. Modify the metadata fields, as necessary. You can modify the [!UICONTROL Title] and [!UICONTROL Description] fields.
 
-![Collection metadata](assets/collection-metadata.png)
+   ![Collection metadata](assets/collection-metadata.png)
 
 ## Share links for collections {#share-collection-links}
 
 [!DNL Assets Essentials] enables you to generate a link and share collections and assets within collections with external stakeholders, who do not have access to the [!DNL Assets Essentials] application. You can define an expiration date for the link and then share it with others using your preferred communication method like email or messaging services. Recipients of the link can preview assets and download them.
 
-![Share link for assets](assets/share-link-collections.png)
+   ![Share link for assets](assets/share-link-collections.png)
 
 For more information on how to share collection links with external stakeholders, see [Share links for assets](share-links-for-assets.md).
 
@@ -180,10 +182,16 @@ To delete a collection:
 
 1. Click **[!UICONTROL Delete]**.
 
+## Manage permissions to a private collection{#manage-permissions-to-a-private-collection}
+
+You can allow administrators to manage the access levels for collections available in the repository. You can also delegate permission management priviliges to user groups. You can assign permissions such as view, edit,etc. to the user groups or users. Adobe does not recommend to assign permissions to users.
+
+For more information visit [manage permissions](#https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started-admins/folder-access/manage-permissions#manage-permissions-on-folders).
+
 ## Next Steps {#next-steps}
 
 * Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
 
-*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
