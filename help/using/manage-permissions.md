@@ -112,7 +112,7 @@ To assign group permissions on folders:
 
 1. On the **[!UICONTROL Manage Permissions]** dialog, specify the name of the group or a user in the **[!UICONTROL Groups & Users]** field.
 
-1. Select the [level of access](#manage-permissions-folders) from the **[!UICONTROL Access]** dropdown list.
+1. Select the [level of access](#manage-permissions-on-folders) from the **[!UICONTROL Access]** dropdown list.
 
 1. Click **[!UICONTROL Add]** to make an immediate change to the permissions for the user or user group.
 
@@ -138,7 +138,7 @@ To edit permissions assigned to user groups on folders:
 
 1. Select the folder and click **[!UICONTROL Manage Permissions]**.
 
-1. On the **[!UICONTROL Manage Permissions]** dialog, edit the [level of access](#manage-permissions-folders) from the **[!UICONTROL Access]** dropdown list.
+1. On the **[!UICONTROL Manage Permissions]** dialog, edit the [level of access](#manage-permissions-on-folders) from the **[!UICONTROL Access]** dropdown list.
 
 1. [Add more user groups or users](#add-permissions) to the existing permission rules, if necessary.
 
