@@ -182,11 +182,17 @@ To delete a collection:
 
 1. Click **[!UICONTROL Delete]**.
 
-## Manage permissions to a private collection{#manage-permissions-to-a-private-collection}
+## Manage permissions for a private collection{#manage-permissions-private-collection}
 
-You can allow administrators to manage the access levels for collections available in the repository. You can also delegate permission management priviliges to user groups. You can assign permissions such as view, edit,etc. to the user groups or users. Adobe does not recommend to assign permissions to users.
+You can allow administrators to manage [access levels](/help/using/manage-permissions.md#manage-permissions-on-folders) for private collections available in the repository. You can assign permissions such as `Can View` and `Can Edit` to the user groups or users. You can also delegate permission management privileges to user groups.
 
-For more information visit [manage permissions](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started-admins/folder-access/manage-permissions#manage-permissions-on-folders).
+>[!NOTE]
+>
+>Adobe does not recommend to assign permissions to users.
+
+For information on how to assign the available permissions to user groups, see [Add permissions to user groups](/help/using/manage-permissions.md#add-permissions).
+
+For more information on the end-to-end workflow, see [manage permissions](/help/using/manage-permissions.md).
 
 ## Next Steps {#next-steps}
 
