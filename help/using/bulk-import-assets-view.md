@@ -19,11 +19,11 @@ Bulk Import in AEM Assets Essentials provides administrators with the ability to
 
 You can import assets from the following data sources:
 
-* Azure
 * AWS
 * Google Cloud
 * Dropbox
 * OneDrive
+* Azure 
 
 ## Prerequisites {#prerequisites}
 

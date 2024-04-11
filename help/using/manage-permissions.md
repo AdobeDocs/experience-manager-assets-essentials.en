@@ -206,8 +206,6 @@ The following are the access levels for all user groups in the folder hierarchy:
 
 * [Watch a video to manage permissions in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/permissions-management.html)
 
-* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
-
 *  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
