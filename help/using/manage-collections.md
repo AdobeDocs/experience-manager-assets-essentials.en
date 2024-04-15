@@ -184,7 +184,7 @@ To delete a collection:
 
 ## Manage permissions for a private collection{#manage-permissions-private-collection}
 
-You can allow administrators to manage [access levels](/help/using/manage-permissions.md#manage-permissions-on-folders) for private collections available in the repository. You can assign permissions such as `Can View` and `Can Edit` to the user groups or users. You can also delegate permission management privileges to user groups.
+You can allow administrators to manage [access levels](/help/using/manage-permissions.md#manage-permissions-on-folders) for private collections available in the repository. You can assign permissions such as `Can View` and `Can Edit` to the user groups or users. You can also delegate permission management privileges to user groups. The users who create private collections are the owners of those collections. They can use the [!UICONTROL Manage Permissions] action to grant access to the other users. Moreover, Administrators can view and manage permissions of the private collections in the [!DNL Experience Manager] repository.
 
 >[!NOTE]
 >
