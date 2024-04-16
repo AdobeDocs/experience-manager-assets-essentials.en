@@ -199,7 +199,7 @@ You can select the assets that display in the search results and do the followin
 
 * **Assign Tasks**: Assign tasks to users for an asset.
 
-* **Watch**: [Monitor the operations](manage-notifications.md) performed on an asset.
+* **Watch**: [Monitor the operations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/search-assets) performed on an asset.
 
 ## Configuring search first homepage {#configuring-search-first-homepage}
 
@@ -233,6 +233,91 @@ You can preview to check the layout and formatting of the search first homepage.
 1. Click **[!UICONTROL Close]** to close the preview screen.
 
    ![Search first homepage preview](assets/search-first-preview.gif)
+
+## Contextual Search {#contextual-search}
+
+You can also search assets available in the repository by defining text prompts. Experience Manager Assets automatically transforms those text prompts to search filters and displays the search results. You can view and modify automatic filters using the Filters Pane to further narrow down the search results.
+
+### Access Contextual Seach {#access-contextual-search}
+
+To access Contextual Search in Experience Manager Assets:
+
+1. Click **[!UICONTROL Search]** in the left pane.
+
+   ![Contextual Search](/help/using/assets/access-contextual-search.png)
+
+1. Define the text prompt in the Search text box and click **[!UICONTROL Contextual Search]**.
+
+   ![Contextual Search text prompt](/help/using/assets/contextual-search-text-prompt.png)
+
+   [!DNL Experience Manager Assets] displays the search results.
+
+### Supported filters {#supported-filters}
+
+Contextual Search supports the following filters out-of-the-box. Base your text prompts on these filters to view appropriate search results.
+
+* Image height
+
+* Image width
+
+* File type: image, document, video, or folder.
+
+* MIME type: JPG, PNG, TIFF, GIF, MP4, PDF, PPTX, DOCX or XLSX
+
+* Created date
+
+* Modified date
+
+* Expiration date
+
+* Asset status: Approved, Rejected, or all
+
+* Expired assets
+
+### Examples for the text prompts {#text-prompts-examples}
+
+**Example 1**
+
+**Text Prompt**: Images created this month.
+
+[!DNL Experience Manager Assets] applies the following filters automatically and displays the search results:
+
+![Contextual Search Example 1](/help/using/assets/contextual-search-example1.png)
+
+**Example 2**
+
+**Text prompt**: Images at least 200px tall and 100px wide with beach and clear sky.
+
+[!DNL Experience Manager Assets] applies the following filters automatically and displays the search results:
+
+![Contextual Search Example 2](/help/using/assets/contextual-search-example2.png)
+
+**Example 3**
+
+**Text prompt**: I need images of blue sky that are 1500 and 2500 pixel height and created in the past month that are not expired and approved.
+
+[!DNL Experience Manager Assets] applies the following filters automatically and displays the search results:
+
+![Contextual Search Example 3](/help/using/assets/contextual-search-example3.png)
+
+The following video illustrates the end-to-end process from accessing the Contextual Search User Interface to defining text prompts, and viewing the search results.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428407)
+
+### Contextual Search feedback {#contextual-search-feedback}
+
+If you need to provide feedback on the Contextual Search feature, click ![Contextual Search icon](assets/do-not-localize/contextual-search-icon.png)  and then click the Feedback icon. Select the feedback type, specify the subject and description, and click **[!UICONTROL Submit]**.
+
+![Contextual Search feedback](/help/using/assets/contextual-search-feedback.png)
+
+
+
+
+
+
+
+
+
 
 ## Next Steps {#next-steps}
 
