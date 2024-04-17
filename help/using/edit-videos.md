@@ -7,9 +7,9 @@ role: User
 
 Transforming a video into a perfect size is easy using embedded [!DNL Adobe Express] quick actions. Quick actions in [!DNL Assets Essentials] powered by [!DNL Adobe Express] provides user-friendly video editing options including crop video, resize video, trim video, and convert video to GIF.
 
-After editing a video, you can save the new video as a new version. Versioning helps you to revert to the original asset later, if needed. To edit a video, go to the details of video and click **[!UICONTROL Edit Video]**. Alternatively, select the asset and click details then click ![scissors](assets/do-not-localize/cut.svg) icon available in the right pane.
+After editing a video, you can save the new video as a new version. Versioning helps you to revert to the original asset later, if needed. To edit a video, go to the details of the video and click **[!UICONTROL Edit Video]**. Alternatively, select the asset and click details then click ![scissors](assets/do-not-localize/cut.svg) icon available in the right pane.
 
-Know more about [preview interface](/help/using/navigate-view.md#preview-assets).
+Know more about the [preview interface](/help/using/navigate-view.md#preview-assets).
 
 ## Prerequisites {#prerequisites}
 
@@ -21,7 +21,7 @@ Transforming a video into a perfect size and orientation is easy using embedded 
 
 ### Crop video {#crop-video-using-express}
 
-You can eliminate unwanted part from the video using embedded [!DNL Adobe Express] quick actions. To do this, execute the steps below:
+You can eliminate unwanted parts from the video using embedded [!DNL Adobe Express] quick actions. To do this, execute the steps below:
 
 1. Select a video and click **[!UICONTROL Edit]**.
 2. Click **[!UICONTROL Crop Video]** from the quick actions available in the left pane.
@@ -38,7 +38,7 @@ Resizing a video to a specific size is a popular use case. [!DNL Assets Essentia
 
 1. Select a video and click **[!UICONTROL Edit]**.
 2. Click **[!UICONTROL Resize Video]** from the quick actions available in the left pane.
-3. Select the appropriate dimensions from the social media platform under **[!UICONTROL Resize for]** drop-down list. Alternatively, drag the handles on the corners of the video to create your desired crop.
+3. Select the appropriate dimensions from the social media platform under **[!UICONTROL Resize for the]** drop-down list. Alternatively, drag the handles on the corners of the video to create your desired crop.
 4. Scale the video, if required, using the **[!UICONTROL Video Scale]** field.
 5. You can choose to mute or unmute the video.
 6. Click **[!UICONTROL Apply]** to apply your changes.
@@ -66,7 +66,7 @@ You can quickly convert an MP4 video into a GIF format using Adobe Express. Exec
 
 1. Select a video and click **[!UICONTROL Edit]**.
 2. Click **[!UICONTROL Convert to GIF]** from the quick actions available in the left pane.
-3. Select the appropriate file size based on desired quality. Additionally, choose the orientation among landscapce, portrait, or square.
+3. Select the appropriate file size based on the desired quality. Additionally, choose the orientation of landscape, portrait, or square.
 4. Drag the handles on the corners of the video to create your desired crop.
 5. Click **[!UICONTROL Apply]**.
 
