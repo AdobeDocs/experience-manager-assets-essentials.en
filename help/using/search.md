@@ -201,7 +201,7 @@ You can select the assets that display in the search results and do the followin
 
 * **Watch**: [Monitor the operations](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/search-assets) performed on an asset.
 
-## Configuring search first homepage {#configuring-search-first-homepage}
+## Configure search first homepage {#configuring-search-first-homepage}
 
 Assets Essentials enables you to select the default landing page for your organization. When using Search First as the home page, you also have options to tailor the branding of the page by configuring the background and logo images to match your brand.
 
@@ -238,7 +238,7 @@ You can preview to check the layout and formatting of the search first homepage.
 
 You can also search assets available in the repository by defining text prompts. Experience Manager Assets automatically transforms those text prompts to search filters and displays the search results. You can view and modify automatic filters using the Filters Pane to further narrow down the search results.
 
-### Access Contextual Seach {#access-contextual-search}
+### Access Contextual Search {#access-contextual-search}
 
 To access Contextual Search in Experience Manager Assets:
 
@@ -251,6 +251,7 @@ To access Contextual Search in Experience Manager Assets:
    ![Contextual Search text prompt](/help/using/assets/contextual-search-text-prompt.png)
 
    [!DNL Experience Manager Assets] displays the search results.
+
 
 ### Supported filters {#supported-filters}
 
@@ -304,19 +305,19 @@ The following video illustrates the end-to-end process from accessing the Contex
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428407)
 
+### Disable Contextual Search {#disable-contextual-search}
+
+Administrators also have the option to disable Contextual Search for users in your organization. To do so, execute the following steps:
+
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL General Settings]**.
+
+1. In the [!UICONTROL Contextual Search] section, turn off the **[!UICONTROL Enable Contextual Search for your organization]** toggle to disable the Contextual Search feature for all users in your organization.  
+
 ### Contextual Search feedback {#contextual-search-feedback}
 
-If you need to provide feedback on the Contextual Search feature, click ![Contextual Search icon](assets/do-not-localize/contextual-search-icon.png)  and then click the Feedback icon. Select the feedback type, specify the subject and description, and click **[!UICONTROL Submit]**.
+If you need to provide feedback on the Contextual Search feature, click ![Contextual Search icon](assets/do-not-localize/contextual-search-icon.png)  and click the Feedback icon. Select the feedback type, specify the subject and description, and click **[!UICONTROL Submit]**.
 
 ![Contextual Search feedback](/help/using/assets/contextual-search-feedback.png)
-
-
-
-
-
-
-
-
 
 
 ## Next Steps {#next-steps}
