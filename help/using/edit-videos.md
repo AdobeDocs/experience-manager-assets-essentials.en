@@ -5,19 +5,66 @@ role: User
 ---
 # Edit videos in [!DNL Assets Essentials] {#edit-videos}
 
-[!DNL Assets Essentials] provides user-friendly editing options that are powered by [!DNL Adobe Express] and [!DNL Adobe Photoshop Express]. The editing actions that are available using [!DNL Adobe Express] are Resize image, Remove background, Crop image, and Convert JPEG into PNG.
+Quick actions in [!DNL Assets Essentials] powered by [!DNL Adobe Express] provides user-friendly video editing options including crop video, resize video, trim video, and convert video to GIF.
 
-After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later, if needed. To edit an image, [open its preview](/help/using/navigate-view.md#preview-assets) and click **[!UICONTROL Edit Image]**.
+After editing a video, you can save the new video as a new version. Versioning helps you to revert to the original asset later, if needed. To edit a video, [open its preview](/help/using/navigate-view.md#preview-assets) and click **[!UICONTROL Edit Image]**. Additionally, go to details of video and navigate to scissors ![scissors](assets/do-not-localize/cut.svg) icon available on the right pane.
 
 ## Edit videos using Adobe Express {#edit-video-using-express}
 
 ### Crop video {#crop-video-using-express}
 
+Transforming a video into a perfect size is easy using embedded [!DNL Adobe Express] quick actions.
+
+1. Select a video and click **Edit**.
+2. Click **[!UICONTROL Crop Video]** from the quick actions available in the left pane.
+3. Drag the handles on the corners of the video to create your desired crop; or choose among the existing screen sizes as desired.
+4. You can choose to mute or unmute the video. 
+5. Click **[!UICONTROL Apply]**.
+   ![crop video with Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+   
+    The cropped video is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset![Save video with Adobe Express](/help/using/assets/adobe-express-save-video.png)
+
 ### Resize video {#resize-video-using-express}
+
+Resizing a video to a specific size is a popular use case. [!DNL Assets Essentials] lets you quickly resize video to fit the common dimensions by providing pre-calculated new resolutions for specific sizes. To resize the video using [!DNL Assets Essentials], follow the steps below: 
+
+1. Select a video and click **Edit**.
+2. Click **[!UICONTROL Resize Video]** from the quick actions available in the left pane.
+3. Select the appropriate social media platform from the **[!UICONTROL Resize for]** drop-down list and select the dimensions from the options that display. 
+4. Scale the video, if required, using the **[!UICONTROL Video Scale]** field.
+5. You can choose to mute or unmute the video.
+6. Click **[!UICONTROL Apply]** to apply your changes.
+   ![Video resizing with Adobe Express](/help/using/assets/adobe-express-resize-video.png)
+
+Your edited video in mentioned size is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
 
 ### Trim video {#trim-video-using-express}
 
-### Convert MP4 to GIF {#convert-mp4-to-gif-using-express}
+A quick video trimmer in [!DNL Assets Essentials] powered by [!DNL Adobe Express] allows you to trim video effortlessly. Execute the steps below:
+
+1. Select a video and click **Edit**.
+2. Click **[!UICONTROL Trim Video]** from the quick actions available in the left pane.
+3. Specify the start and end time of the video to trim the particular part of it. 
+4. Select the appropriate dimensions from the **[!UICONTROL Size]** drop-down list. 
+5. You can choose to mute or unmute the video.
+6. Scale the video, if required, using the **[!UICONTROL Video Scale]** field.
+7. Click **[!UICONTROL Apply]** to apply your changes.
+   ![Video resizing with Adobe Express](/help/using/assets/adobe-express-trim-video.png)
+
+Your trimmed video is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
+
+### Convert video to GIF {#convert-mp4-to-gif-using-express}
+
+You can quickly convert an MP4 video into a GIF format using Adobe Express. Execute the following steps:
+
+1. Select a video and click **Edit**.
+2. Click **[!UICONTROL Convert to GIF]** from the quick actions available in the left pane.
+3. Select the appropriate file size based on quality or the dimensions from the options that display.
+4. Click **[!UICONTROL Apply]**.
+
+    ![Convert video to GIF with Adobe Express](/help/using/assets/adobe-express-convert-video-to-gif.png)
+
+Your edited GIF is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
 
 ## Limitations {#limitations-video-adobe-express}
 
