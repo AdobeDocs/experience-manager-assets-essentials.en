@@ -1,6 +1,6 @@
 ---
 title: Edit videos
-description: Edit videos using [!DNL Adobe Photoshop Express] powered options and save updated videos as versions.
+description: Edit videos using [!DNL Adobe Express] powered options and save updated videos as versions.
 role: User
 ---
 # Edit videos in [!DNL Assets Essentials] {#edit-videos}
