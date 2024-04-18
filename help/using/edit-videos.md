@@ -78,7 +78,13 @@ Your video is available in GIF format for download. You can either save the edit
 
 * Only MP4 video type is supported.
 
-* Maximum file size supported: 17 MB
+* Maximum file size supported: 200 MB
+
+* The minimum and maximum dimensions of the video are 46 pixels and 3840 pixels respectively.
+
+* The supported web browsers are Google Chrome, Firefox, Safari, and Edge.
+
+* The functionality cannot be opened in an incognito mode of a web browser.
 
 ### Next Steps {#next-steps}
 
