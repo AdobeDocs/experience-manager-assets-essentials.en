@@ -31,6 +31,7 @@ solution: Experience Manager
 + [Search and discover assets](search.md)
 + [Asset management tasks](manage-organize.md)
 + [Edit images](edit-images.md)
++ [Edit videos](edit-videos.md)
 + [Manage asset metadata](metadata.md)
 + [Share assets](share-links-for-assets.md)
 + [Manage collections](manage-collections.md)
