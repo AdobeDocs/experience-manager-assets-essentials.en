@@ -17,7 +17,7 @@ You can now also search assets available in the repository by defining text prom
 
 ![storage usage insights](/help/using/assets/contextual-search-text-prompt1.png)
 
-<!-->
+<!--
 
 **Dynamic renditions**
 
