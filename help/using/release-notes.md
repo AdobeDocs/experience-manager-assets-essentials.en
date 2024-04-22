@@ -33,7 +33,7 @@ Experience Manager Assets now offers a simplified user experience by providing a
 
 **Express video quick actions**
 
-Experience Manager Assets now includes easy and intuitive video editing tools powered by Adobe Express to increase content re-use and accelerate content velocity. Light editing of videos within AEM Assets does not require extensive knowledge of video editing tools and concepts. The editing options include trimming, cropping, resizing a video, and also converting an MP4 to a GIF file.
+Experience Manager Assets now includes easy and intuitive video editing tools powered by Adobe Express to increase content re-use and accelerate content velocity. The editing options include trimming, cropping, resizing a video, and also converting an MP4 to a GIF file.
 
 ![crop video with Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
