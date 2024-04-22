@@ -7,9 +7,68 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on January 11, 2024.
+The current release of Assets Essentials is released on April 18, 2024.
 
 Some of the recently added features include:
+
+**Contextual Search**
+
+You can now also search assets available in the repository by defining text prompts. Experience Manager Assets automatically transforms those text prompts to search filters and displays the search results. You can view and modify automatic filters using the Filters Pane to further narrow down the search results.
+
+![storage usage insights](/help/using/assets/contextual-search-text-prompt1.png)
+
+<!-->
+
+**Dynamic renditions**
+
+You can now view and download dynamic renditions (including smart crops) in Experience Manager Assets. Dynamic renditions are customized versions of image assets created in real-time to meet specific needs, such as resizing images based on device resolution or cropping to fit different aspect ratios. These renditions enable organizations to deliver personalized and optimized experiences to diverse audience needs.
+
+![storage usage insights](/help/using/assets/renditions-view-download.png)
+
+-->
+
+**In-place rename for assets and folders**
+
+Experience Manager Assets now offers a simplified user experience by providing ability to rename an asset or a folder via single click.
+
+**Express video quick actions**
+
+Experience Manager Assets now includes easy and intuitive video editing tools powered by Adobe Express to increase content re-use and accelerate content velocity. Light editing of videos within AEM Assets does not require extensive knowledge of video editing tools and concepts. The editing options include trimming, cropping, resizing a video, and also converting an MP4 to a GIF file.
+
+![crop video with Adobe Express](/help/using/assets/adobe-express-crop-video.png)
+
+**Assign or remove metadata form to multiple folders**
+
+You can now assign or remove metadata form to multiple folders.
+
+**Manage permissions for private collections**
+
+You can allow administrators to manage access levels for private collections available in the repository. You can assign permissions such as `Can View` and `Can Edit` to the user groups or users. You can also delegate permission management privileges to user groups.
+
+
+**Improvements based on customer feedback**
+
+Enhancements and bug fixes based on customer feedback.
+
+
+## Known issues {#known-issues}
+
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+
+<!--
+
+* Assets Essentials does not support creating Private collections.
+
+-->
+
+
+* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
+
+If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
+
+## Past releases {#past-releases}
+
+### January 2024 release {#january-2024-release}
 
 **Smart tags blocklist** 
 
@@ -44,32 +103,6 @@ Administrators now have the ability to view the storage usage reports available 
 Assets Essentials now enables you to configure the homepage experience for your organization. If you select search first as the homepage, you can configure the search bar alignment, background image, and logo for your organization.
 
   ![search first configuration](/help/using/assets/search-first-configuration.png)
-
-
-
-**Improvements based on customer feedback**
-
-Enhancements and bug fixes based on customer feedback.
-
-
-## Known issues {#known-issues}
-
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
-
-<!--
-
-* Assets Essentials does not support creating Private collections.
-
--->
-
-
-* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
-
-* As an administrator, you cannot delegate the permissions to access the collection to other users.
-
-If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
-
-## Past releases {#past-releases}
 
 ### October 2023 release {#october2023-release}
 
