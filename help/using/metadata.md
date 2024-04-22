@@ -128,7 +128,7 @@ Below is an overview of each property type and how they are stored.
 | Keywords | Add free-form keywords (mapped to dc:subject). |
 | Smart Tags | Add to augment search capabilities by automatically adding metadata tags. |
 
-### Assign metadata form to a folder {#assign-metadata-form-folder}
+### Assign metadata form to folders {#assign-metadata-form-folder}
 
 You can also assign a metadata form to a folder within your Assets Essentials deployment. The metadata form assigned to a folder as per the MIME type is overwritten when you apply a metadata form to a folder manually. All assets in the folder, including assets in the sub-folders, then display properties defined in the metadata form.
 
@@ -136,13 +136,29 @@ To assign a metadata form to a folder:
 
 1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
 
-2. Click **[!UICONTROL Assign to Folder]**.
+2. Click **[!UICONTROL Assign to Folder(s)]**.
 
-3. Select the folder and click **[!UICONTROL Assign]**.
+3. Select the folder(s) and click **[!UICONTROL Assign]**. You can select the folders by clicking the folder names.
 
    ![assign metadata form to a folder](/help/using/assets/assign-to-folder.png)
 
    You can also navigate to the folder details page and select a metadata form from the folder properties available in the right pane to assign the metadata form to the folder.
+
+   ![metadata form folder properties](/help/using/assets/folder-properties-metadata-forms.png)
+
+### Remove metadata form from folders {#remove-metadata-form-folder}
+
+After assigning a metadata form to one or multiple folders, Experience Manager Assets also enables you to remove metadata form from the selected folders.
+
+To remove a metadata form from a folder:
+
+1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Metadata Forms]** and select a metadata form.
+
+1. Click **[!UICONTROL Remove from Folder(s)]**. The list of assigned folders for the metadata form display.
+
+1. Select the folder and click **[!UICONTROL Remove]**. You can also select multiple folders from the list.
+
+You can also navigate to the folder details page and select **[!UICONTROL System mapped Metadata Form]** from the **[!UICONTROL Metadata Forms]** field to remove the assigned metadata form from a folder.
 
 ## Next Steps {#next-steps}
 
