@@ -315,7 +315,7 @@ Administrators also have the option to disable Contextual Search for users in yo
 -->
 ### Contextual Search feedback {#contextual-search-feedback}
 
-If you need to provide feedback on the Contextual Search feature, click ![Contextual Search icon](assets/do-not-localize/contextual-search-icon.png)  and click the Feedback icon. Select the feedback type, specify the subject and description, and click **[!UICONTROL Submit]**.
+If you need to provide feedback on the Contextual Search feature, click ![Contextual Search icon](assets/do-not-localize/Smock_Help_18_N.svg)  and click the Feedback icon. Select the feedback type, specify the subject and description, and click **[!UICONTROL Submit]**.
 
 ![Contextual Search feedback](/help/using/assets/contextual-search-feedback.png)
 
