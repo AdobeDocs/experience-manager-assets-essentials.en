@@ -15,6 +15,11 @@ To generate a link for an asset or a folder containing assets:
 
 1. If you want to adjust it, click the Calendar icon to define an expiration date for the link using the **[!UICONTROL Expiration Date]** field. You can also specify a date directly in the `yyyy-mm-dd` format. By default, expiration date for a link is set to 2 weeks from the date of sharing.
 
+> ![NOTE]
+> The date format changes based on the chosen locale.
+> For example, the `de-DE` uses `dd-mm-yyyy`, `ja-JA` uses `yyyy-mm-dd`, whereas, `en-EN` uses `mm-dd-yyyy`.
+>
+
 1. Copy the link from the **[!UICONTROL Share Link]** field. 
 
    ![Option to crop and straighten](assets/share-asset-link.png)
@@ -23,7 +28,7 @@ To generate a link for an asset or a folder containing assets:
 
 ## Access the shared assets {#access-shared-assets}
 
-After sharing the public link for assets, the recipients can click the link to preview or download the shared assets in a web browser without the need to log in to [!DNL Assets Essentials].
+After sharing the public link for assets, the recipients can click the link to preview or download the shared assets in a web browser without the need to login to [!DNL Assets Essentials].
 
 Click the link, click the folder to navigate to the asset, and then click the asset to preview it. You can select to view the shared assets in a List View or a Card View.
 
@@ -37,10 +42,10 @@ To download all assets at once, switch to the **[!UICONTROL List view]**, click 
 
 ## Next Steps {#next-steps}
 
-* [Watch a video to share links for assets in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html)
+* [Watch a video to share links for assets in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/link-sharing.html).
 
-* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
+* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface.
 
-*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar.
 
-* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
+* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support).
