@@ -37,13 +37,16 @@ Experience Manager Assets now includes easy and intuitive video editing tools po
 
 ![crop video with Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
+> ![NOTE]
+> Entitlements to access [!DNL Adobe Express] is required and at least one environment within AEM Assets. The environment can be any of the repositories within [!DNL Assets as a Cloud Service] or [!DNL Assets Essentials].
+
 **Assign or remove metadata form to multiple folders**
 
-You can now assign or remove metadata form to multiple folders.
+A metadata form can now be assigned to or removed from multiple folders.
 
 **Manage permissions for private collections**
 
-You can allow administrators to manage access levels for private collections available in the repository. You can assign permissions such as `Can View` and `Can Edit` to the user groups or users. You can also delegate permission management privileges to user groups.
+You can allow administrators or non-administrators (other users) to manage access levels for private collections available in the repository. You can assign permissions such as `Can View` and `Can Edit` to the user groups or users. You can also delegate permission management privileges to user groups.
 
 
 **Improvements based on customer feedback**
@@ -53,7 +56,7 @@ Enhancements and bug fixes based on customer feedback.
 
 ## Known issues {#known-issues}
 
-The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis:
+The list of known issues of [!DNL Assets Essentials] offering is revised and updated on an ongoing basis.
 
 <!--
 
@@ -62,7 +65,7 @@ The list of known issues of [!DNL Assets Essentials] offering is revised and upd
 -->
 
 
-* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.
+<!--* Private collections are available to creator and the users with administrator privileges. As an administrator, you cannot delegate the permissions to access the collection to other users.-->
 
 If you come across any issues or even enhancement requests, [provide feedback](#provide-feedback) to the team.
 
@@ -100,7 +103,7 @@ Administrators now have the ability to view the storage usage reports available 
 
 **Search first homepage configuration**
 
-Assets Essentials now enables you to configure the homepage experience for your organization. If you select search first as the homepage, you can configure the search bar alignment, background image, and logo for your organization.
+Assets Essentials now enables you to configure the homepage experience for your organization. If you select search first as the homepage, you can configure the search bar alignment, background image, and logo for your organization. Choosing [!UICONTROL General Settings] overrides the default landing page. For example, default landing is [!UICONTROL My Workspace] for administrators and [!UICONTROL Search First] for non-administrators, choosing any of the options under General Settings applies that to all users
 
   ![search first configuration](/help/using/assets/search-first-configuration.png)
 
@@ -203,7 +206,7 @@ My Workspace now displays the top ten most downloaded assets for your Assets Ess
 
 **Bulk updates to asset metadata**
 
-Bulk metadata updates allow you to perform common metadata updates across multiple assets simultaneously. You do not need to update records individually and can quickly apply properties to assets or folders accessed through search.
+Bulk metadata updates allow you to perform common metadata updates across multiple assets simultaneously. You do not need to update records individually and can quickly apply properties to assets or folders accessed through search. Additionally, bulk metadata updates overwrites any existing values, which means existing keywords are overwritten by the Bulk Metadata update.
 
 **My Workspace with configurable widgets**
 
