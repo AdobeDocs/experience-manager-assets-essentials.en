@@ -15,7 +15,7 @@ To generate a link for an asset or a folder containing assets:
 
 1. If you want to adjust it, click the Calendar icon to define an expiration date for the link using the **[!UICONTROL Expiration Date]** field. You can also specify a date directly in the `yyyy-mm-dd` format. By default, expiration date for a link is set to 2 weeks from the date of sharing.
 
-> ![NOTE]
+>[!NOTE]
 > The date format changes based on the chosen locale.
 > For example, the `de-DE` uses `dd-mm-yyyy`, `ja-JA` uses `yyyy-mm-dd`, whereas, `en-EN` uses `mm-dd-yyyy`.
 >
