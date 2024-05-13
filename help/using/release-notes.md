@@ -37,7 +37,7 @@ Experience Manager Assets now includes easy and intuitive video editing tools po
 
 ![crop video with Adobe Express](/help/using/assets/adobe-express-crop-video.png)
 
-> ![NOTE]
+>[!NOTE]
 > Entitlements to access [!DNL Adobe Express] is required and at least one environment within AEM Assets. The environment can be any of the repositories within [!DNL Assets as a Cloud Service] or [!DNL Assets Essentials].
 
 **Assign or remove metadata form to multiple folders**
