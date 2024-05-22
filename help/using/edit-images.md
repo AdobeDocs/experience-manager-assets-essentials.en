@@ -104,7 +104,7 @@ To edit images using [!DNL Adobe Express] embedded editor, follow the steps belo
 >* The asset size must be less than 14 MB.
 >* You can save an image in `PDF`, `JPEG`, or `PNG` formats.
 
-<!--
+
 ## Edit images using [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
 
 <!--
@@ -114,7 +114,7 @@ After editing an image, you can save the new image as a new version. Versioning 
 
 *Figure: The options to edit images are powered by [!DNL Adobe Photoshop Express].*
 -->
-<!--
+
 ### Spot heal images {#spot-heal-images-using-photoshop-express}
 
 If there are minor spots or small objects on an image, you can edit and remove the spots using the spot healing feature provided by Adobe Photoshop.
@@ -127,7 +127,7 @@ The brush samples the retouched area and makes the repaired pixels blend seamles
 TBD: See if we should give backlinks to PS docs for these concepts.
 For more information about how Spot Healing works in Photoshop, see [retouching and repairing photos](https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html). 
 -->
-<!--
+
 ### Crop and straighten images {#crop-straighten-images-using-photoshop-express}
 
 Using the crop and straighten option that you can do basic cropping, rotate image, flip it horizontally or vertically, and crop it to dimensions suitable for popular social media websites.
