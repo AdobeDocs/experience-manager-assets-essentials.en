@@ -38,27 +38,33 @@ Assets Essentials enables you to view real-time data for your Assets Essentials 
 
 Click **[!UICONTROL Insights]** available in the left navigation pane to view the following automatically generated charts:
 
-   ![Insights](assets/insights.png)
-
 * **Downloads**: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+![downloads](/help/using/assets/insights-downloads2341.svg)
 
 * **Uploads**: The number of assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
+![uploads](/help/using/assets/insights-uplods2.svg)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Storage usage**: The storage usage, in bytes, for the Assets Essentials environment represented using a bar chart.
-
+![storage usage](/help/using/assets/insights-storage-usage1.svg)
 <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
+![storage usage](/help/using/assets/insights-top-search.svg)
 
   <!--
    ![Insights](assets/insights1.png)
    ![Insights](assets/insights2.png)
    -->
-   
+
+* **Asset Count by size:** Segments the total asset count within your Assets Essentials environment, highlighting the count and percentage of assets based on their file types, represented by a donut chart.
+![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+* **Asset Count by Asset Type:** Segments the total asset count within your Assets Essentials environment into different size ranges, highlighting the count and percentage of assets in each size range, represented using a donut chart.
+![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)  
+
 ## Create a Download report {#create-download-report}
 
 To create a Download report:
