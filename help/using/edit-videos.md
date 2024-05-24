@@ -81,7 +81,7 @@ Your video is available in GIF format for download. You can either save the edit
 
 * The maximum source file size supported is 200 MB.
 
-* The supported videos are larger than 46 pixels and smaller than 3840 pixels on any side
+* The supported videos are larger than 46 pixels and smaller than 3840 pixels on any side.
 
 * The supported Web browsers are Google Chrome, Firefox, Safari, and Edge.
 
