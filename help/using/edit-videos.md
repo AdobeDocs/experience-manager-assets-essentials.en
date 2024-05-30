@@ -8,7 +8,7 @@ exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
 
 Creating variations of video content is easy for Assets users with the embedded [!DNL Adobe Express] quick actions for video. Quick actions in [!DNL Assets Essentials] powered by [!DNL Adobe Express] provides user-friendly video editing options including crop video, resize video, trim video, and convert video to GIF.
 
-To edit a video, go to the details of the video and click [!UICONTROL Edit Video]. Alternatively, select the asset and click details then click ![scissors](assets/do-not-localize/cut.svg) icon available in the right pane. After editing a video, you can save the new video as a new version or as a new asset.
+To edit a video, go to the details of the video and click [!UICONTROL Edit Video]. Alternatively, select the asset and click details then click ![scissors](assets/do-not-localize/cut.svg) icon available in the right pane. After editing a video, you can save the new video as a new version or as a new asset..
 
 Know more about the [preview interface](/help/using/navigate-view.md#preview-assets).
 
@@ -79,7 +79,7 @@ Your video is available in GIF format for download. You can either save the edit
 
 * Only videos in the MP4 format are supported for editing.
 
-* The maximum source file size supported is 200 MB.
+* The maximum source file size supported is 1GB.
 
 * The supported videos are larger than 46 pixels and smaller than 3840 pixels on any side.
 
@@ -91,9 +91,9 @@ Your video is available in GIF format for download. You can either save the edit
 
 * Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface.
 
-* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar.
 
-* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
+* Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support).
 
 >[!MORELIKETHIS]
 >
