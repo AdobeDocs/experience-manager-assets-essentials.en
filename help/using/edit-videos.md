@@ -8,7 +8,7 @@ exl-id: 8468d572-89f1-431d-be7f-01e583d06cd7
 
 Creating variations of video content is easy for Assets users with the embedded [!DNL Adobe Express] quick actions for video. Quick actions in [!DNL Assets Essentials] powered by [!DNL Adobe Express] provides user-friendly video editing options including crop video, resize video, trim video, and convert video to GIF.
 
-To edit a video, go to the details of the video and click [!UICONTROL Edit Video]. Alternatively, select the asset and click details then click ![scissors](assets/do-not-localize/cut.svg) icon available in the right pane. After editing a video, you can save the new video as a new version or as a new asset.
+To edit a video, go to the details of the video and click [!UICONTROL Edit Video]. Alternatively, select the asset and click details then click ![scissors](assets/do-not-localize/cut.svg) icon available in the right pane. After editing a video, you can save the new video as a new version or as a new asset..
 
 Know more about the [preview interface](/help/using/navigate-view.md#preview-assets).
 
