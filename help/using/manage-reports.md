@@ -80,7 +80,7 @@ To create a Download report:
 
 1. In the [!UICONTROL Columns] tab, select the column names that you need to display in the report.
 
-1. Click **[!UICONTROL Create]**.
+1. Click **[!UICONTROL Create]**
 
    ![Download Report](assets/download-reports-config.png)
 
