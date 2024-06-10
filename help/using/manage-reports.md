@@ -60,6 +60,12 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
    ![Insights](assets/insights2.png)
    -->
 
+* **Asset Count by size:** Segments the total asset count in your Assets essentials environment into different size ranges, highlighting the count and percentage of assets in each size range, represented by a donut chart.
+![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+
+* **Asset Count by Asset Type:** Segments the total asset count in your Assets essentials environment, highlighting the count and percentage of assets based on their file types, represented by donut chart.
+![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
+
 ## Create a Download report {#create-download-report}
 
 To create a Download report:
@@ -80,7 +86,7 @@ To create a Download report:
 
 1. In the [!UICONTROL Columns] tab, select the column names that you need to display in the report.
 
-1. Click **[!UICONTROL Create]**
+1. Click **[!UICONTROL Create]**.
 
    ![Download Report](assets/download-reports-config.png)
 
@@ -214,14 +220,13 @@ For each report, you can view report title, the type of the report, description 
 
 ![List of reports](assets/list-of-reports.png)
 
-
 ## Download a CSV report {#download-csv-report}
 
 To download a report in CSV format:
 
 1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 
-1. Select a report and click **[!UICONTROL Download CSV]**.
+2. Select a report and click **[!UICONTROL Download CSV]**.
 
 The selected report downloads in CSV format. The columns that display in the CSV report depends on the columns that you select while [creating the report](#create-download-report).
 
@@ -231,6 +236,7 @@ To delete a report:
 
 1. Navigate to **[!UICONTROL Settings]** > **[!UICONTROL Reports]**.
 
-1. Select a report and click **[!UICONTROL Delete]**.
+2. Select a report and click **[!UICONTROL Delete]**.
 
-1. Click **[!UICONTROL Delete]** again to confirm.
+3. Click **[!UICONTROL Delete]** again to confirm
+
