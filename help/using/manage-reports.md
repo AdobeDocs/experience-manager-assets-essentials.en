@@ -63,7 +63,7 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
 * **Asset Count by size:** Segments the total asset count in your Assets essentials environment into different size ranges, highlighting the count and percentage of assets in each size range, represented by a donut chart.
 ![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
 
-* **Asset Count by Asset Type:** Segments the total asset count in your Assets essentials environment, highlighting the count and percentage of assets based on their file types, represented by donut chart.
+* **Asset Count by Asset Type:** Segments the total asset count in your Assets essentials environment, highlighting the count and percentage of assets based on their file types, represented by a donut chart.
 ![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
 
 ## Create a Download report {#create-download-report}
