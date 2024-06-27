@@ -17,7 +17,7 @@ The Asset Essentials UI enables basic image editing, including resizing, backgro
 ## Edit Image {#edit-images}
 
 Land on Asset Essentials UI, using the link - [Asset Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. To receive access, contact your organization's administrator.
-For any additional reference information refer - [Get started using Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [understanding of the user interface, list of use cases](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), and [known issues](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+For any additional reference information refer - [Get started using Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [understanding of the user interface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Asset essentials use cases](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) and [known issues](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
 <!--
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
@@ -61,7 +61,7 @@ Transforming an image into a perfect size is simple using embedded [!DNL Adobe E
    ![Save image with Adobe Express](/help/using/assets/adobe-express-crop-image.png)
    The cropped image is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
 
-#### Convert JPEG to PNG {#convert-jpeg-to-png-using-express}
+#### Convert between Image file types {#convert-image-types-using-express}
 
 You can quickly convert between JPEG and PNG image formats using Adobe Express. Execute the following steps: 
 
@@ -109,7 +109,8 @@ To edit images using Adobe Express embedded editor, follow the steps below:
 
  * Supported file type: JPEG or PNG. 
  * Maximum file size supported: 40 MB. 
- * Supported width and height range: Between 50 to 8000 pixels. 
+ * Supported width and height range: Between 50 to 8000 pixels.
+ * Relode the page to see the latest saved new asset in the source folder. 
 
 ### Create new assets using Adobe Express {#create-new-assets-using-embedded-editor}
 
