@@ -33,5 +33,5 @@ Adobe Experience Manager Assets now supports Content Credentials, enabling users
     ![](/help/using/assets/content-credentials12.png)
     1. **Process:** Details the application, device, and AI tool (such as Adobe Firefly) used to generate the asset, as well as any changes made postgeneration.
     ![process](/help/using/assets/processcr.png)
-    1. **About this Content Credentials:** Name of the issuer along with the date and time of issuance..
+    1. **About this Content Credentials:** Name of the issuer along with the date and time of issuance.
     ![issuer](/help/using/assets/content-credential123.png)
