@@ -4,9 +4,9 @@ description: Edit images using [!DNL Adobe Express] powered options and save upd
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 ---
-# Edit images in [!DNL Assets Essentials] {#edit-images-in-asset-essentials}
+# Edit images in [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-The Asset Essentials UI enables basic image editing, including resizing, background removal, cropping, and converting between JPEG and PNG formats. Additionally, it allows advanced editing through integration with Adobe Express. After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later if needed. To edit an image, [open its preview](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) and click **Edit Image**. 
+The Assets Essentials UI enables basic image editing, including resizing, background removal, cropping, and converting between JPEG and PNG formats. Additionally, it allows advanced editing through integration with Adobe Express. After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later if needed. To edit an image, [open its preview](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) and click **Edit Image**. 
 
 >[!NOTE]
 >
@@ -16,8 +16,8 @@ The Asset Essentials UI enables basic image editing, including resizing, backgro
 
 ## Edit Image {#edit-images}
 
-Land on Asset Essentials UI, using the link - [Asset Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. To receive access, contact your organization's administrator.
-For any additional reference information refer - [Get started using Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [understanding of the user interface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Asset essentials use cases](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) and [known issues](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+Land on Assets Essentials UI, using the link - [Assets Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. To receive access, contact your organization's administrator.
+For any additional reference information refer - [Get started using Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [understanding of the user interface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Assets essentials use cases](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) and [known issues](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
 <!--
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
@@ -80,11 +80,11 @@ Users with Express entitlement can use the embedded Express editor from within t
 ![express in essentials UI](/help/using/assets/express-in-essentials-ui.jpg)
 To edit images using Adobe Express embedded editor, follow the steps below: 
 
-1. Land on to AEM Asset Essentials UI using the link - [AEM Asset Essentials UI](https://experience.adobe.com/#/assets) and select the right repository. 
+1. Land on to AEM Assets Essentials UI using the link - [AEM Assets Essentials UI](https://experience.adobe.com/#/assets) and select the right repository. 
 1. Click **Assets**, enter a folder, and select an image. 
 1. Click **Open in Adobe Express**. The image opens on an express canvas.
 1. Make the required edits to the image. 
-1. If your project requires you to add more pages, click **Add**, select Assets, enter a folder, select an image to bring onto the canvas page, and then perform the required edits to the image. 
+1. If your project requires you to add more pages, click **Add**, select assets, enter a folder, select an image to bring onto the canvas page, and then perform the required edits to the image. 
 1. To save the image(s), click **Save**. The save dialog box displays. 
 
    >[!NOTE]
