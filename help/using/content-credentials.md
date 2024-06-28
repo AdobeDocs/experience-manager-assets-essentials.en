@@ -1,6 +1,6 @@
 ---
 title: Content Credentials integration
-description: Content Credentials, integrated into AEM Assets and featured within the AEM Asset Essentials UI, prevent misinformation by maintaining content traceability throughout its lifecycle. This enhances content authenticity, reliability, and trust among users.
+description: Content Credentials, integrated into AEM Assets and featured within the AEM Assets Essentials UI, prevent misinformation by maintaining content traceability throughout its lifecycle. This enhances content authenticity, reliability, and trust among users.
 role: User
 ---
 
@@ -25,7 +25,7 @@ Adobe Experience Manager Assets now supports Content Credentials, enabling users
 
 ## Access Content Credentials {#access-content-credentials}  
 
-1. Land on Asset Essentials UI, using the link - [Asset Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. 
+1. Land on Assets Essentials UI, using the link - [Assets Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. 
 1. Click **Assets**, enter a folder, and select the desired asset. 
 1. Click **Details** and select `Cr pin` from the rightmost pane. The Content Credentials tab displays the following information about the asset.  
     1. **Generated Image:** Date and time of asset creation. 
