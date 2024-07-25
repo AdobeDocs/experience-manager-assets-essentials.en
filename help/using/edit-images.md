@@ -14,17 +14,17 @@ The Assets Essentials UI enables basic image editing, including resizing, backgr
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Edit Image {#edit-images}
+## Edit Images {#edit-images}
 
 Land on Assets Essentials UI, using the link - [Assets Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. To receive access, contact your organization's administrator.
 For any additional reference information refer - [Get started using Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [understanding of the user interface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Assets essentials use cases](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) and [known issues](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
-<!--
+
+### Edit Images using Adobe Express {#edit-images-using-adobe-express}
+
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express Integration"
->abstract="Easy and intuitive image-editing tools powered by Adobe Express available directly within AEM Assets to increase content reuse and accelerate content velocity."-->
-
-### Edit Image on Essentials UI using Adobe Express {#edit-image-on-essentials-ui-using-adobe-express}
+>abstract="Easy and intuitive image-editing tools powered by Adobe Express available directly within AEM Assets to increase content reuse and accelerate content velocity."
 
 After landing on Essentials UI, click **Assets**, select an image, and then click **Edit** from the top rail. The new screen displays the available editing options including resizing, background removal, cropping, and converting between JPEG and PNG formats. 
 

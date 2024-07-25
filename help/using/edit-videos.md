@@ -18,6 +18,11 @@ Entitlements to access [!DNL Adobe Express] and at least one environment within 
 
 ## Edit videos using Adobe Express {#edit-video-using-express}
 
+>[!CONTEXTUALHELP]
+>id="assets_express_integration_videos"
+>title="Adobe Express Integration for Video Editing"
+>abstract="Experience Manager Assets now includes easy and intuitive video editing tools powered by Adobe Express to increase content re-use and accelerate content velocity. The editing options include trimming, cropping, resizing a video, and also converting an MP4 to a GIF file."
+
 Transforming a video into a perfect size and orientation is easy using embedded [!DNL Adobe Express] quick actions.
 
 ### Crop video {#crop-video-using-express}
