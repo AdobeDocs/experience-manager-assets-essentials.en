@@ -7,9 +7,19 @@ exl-id: a0e29eb6-336a-4f78-b7bd-ec1338c86775
 ---
 # Release notes of [!DNL Assets Essentials] {#release-notes}
 
-The current release of Assets Essentials is released on April 18, 2024.
+The current release of Assets Essentials is released on July 25, 2024.
 
 Some of the recently added features include:
+
+**Content credentials integration**
+
+Experience Manager Assets now supports content credentials for supported image formats. This provides information on the lineage of the asset and how it was created, including if it was modified using GenAI.
+
+![Content credentials](/help/using/assets/content-credentials.png)
+
+**Visual previews of folder contents**
+
+Experience Manager Assets now displays visual previews of folder contents on the folder thumbnail when browsing or searching for content, which improves the discoverability of assets available within AEM Assets repository.
 
 **Contextual Search**
 
