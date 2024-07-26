@@ -38,6 +38,7 @@ solution: Experience Manager
 + [Watch assets, folders, and collections](manage-notifications.md)
 + [Manage reports](manage-reports.md)
 + [Manage tags](tagging-management.md)
++ [Content Credentials](/help/using/content-credentials.md)
 + Integration with other solutions {#integration-with-other-solutions}
   + [Overview](integration.md)
   + [Integrate with Adobe Asset Link](integrate-with-creative-cloud.md)
@@ -45,4 +46,4 @@ solution: Experience Manager
 + Integration with Creative Cloud {#integration-with-creative-cloud}
   + [Connect AEM Assets to Creative Cloud](connect-assets-with-creative-cloud.md)
 + [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
-+ [Content Credentials](/help/using/content-credentials.md)
+
