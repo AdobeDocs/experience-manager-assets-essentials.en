@@ -24,7 +24,7 @@ When you log into [!DNL Assets Essentials], you see the following interface.
 
 ## Browse and view assets and folders {#browse-repository}
 
-You can browse the folders from the main user interface or from the left sidebar. Experience Manager Assets now displays visual previews of folder contents on the folder thumbnail when browsing or searching for content, which improves the discoverability of assets available within AEM Assets repository. This folder thumbnail saves your time spent on searching specific assets within a folder in AEM Assets repository.
+You can browse the folders from the main user interface or from the left sidebar. Experience Manager Assets now displays visual previews of folder contents on the folder thumbnail when browsing or searching for content, which improves the discoverability of assets available within AEM Assets repository. This folder thumbnail saves your time spent on searching specific assets within a folder in AEM Assets Repository.
 When browsing through assets in a folder, you can use the interface to view asset thumbnails to visually browse the repository or view asset details to quickly find the asset you want. The options available in the left sidebar are:
 
 * [My Workspace](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/my-workspace.html?lang=en): Assets now includes a customizable workspace that provides widgets for convenient access to key areas of the Assets user interface and information that is most relevant to you. This page serves as a one-stop solution to provide an overview of your work items and to give quick access to key workflows. More convenient access to these options increases your efficiency and content velocity.
