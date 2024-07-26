@@ -49,7 +49,7 @@ When browsing through assets in a folder, you can use the interface to view asse
 
 You can open or collapse the left sidebar to increase the available asset-viewing area.
 
-In [!DNL Assets Essentials], you can view assets, folders, and search results in four different types of layouts.
+In [!DNL Assets Essentials], you can view assets, folders, and search results in four different types of layouts:
 
 * ![list view icon](assets/do-not-localize/list-view.png) [!UICONTROL List View]
 * ![grid view icon](assets/do-not-localize/grid-view.png) [!UICONTROL Grid View]
