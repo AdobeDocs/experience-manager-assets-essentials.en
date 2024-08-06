@@ -6,7 +6,9 @@ exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 ---
 # Edit images in [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-The Assets Essentials UI enables basic image editing, including resizing, background removal, cropping, and converting between JPEG and PNG formats. Additionally, it allows advanced editing through integration with Adobe Express. After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later if needed. To edit an image, [open its preview](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) and click **Edit Image**. 
+The Assets Essentials UI enables basic image editing powered by Adobe Express, integrated to the UI. This editing includes resizing, background removal, cropping, and converting between JPEG and PNG formats. Additionally, it allows advanced editing through the Adobe Express interface Embedded within the Essentials UI. 
+
+After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later if needed. To edit an image, [open its preview](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) and click **Edit Image**. 
 
 >[!NOTE]
 >
@@ -16,23 +18,23 @@ The Assets Essentials UI enables basic image editing, including resizing, backgr
 
 ## Edit Images {#edit-images}
 
-Land on Assets Essentials UI, using the link - [Assets Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. To receive access, contact your organization's administrator.
-For any additional reference information refer - [Get started using Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [understanding of the user interface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Assets essentials use cases](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) and [known issues](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+Go to Assets Essentials UI, using the link - [Assets Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. To receive access, contact your organization's administrator.
+For any additional reference information refer - [Get started using Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [understanding of the user interface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Assets Essentials use cases](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) and [known issues](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
 
-### Edit Images using Adobe Express {#edit-images-using-adobe-express}
+### Edit Image on Essentials UI using Adobe Express{#edit-images-using-adobe-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express Integration"
 >abstract="Easy and intuitive image-editing tools powered by Adobe Express available directly within AEM Assets to increase content reuse and accelerate content velocity."
 
-After landing on Essentials UI, click **Assets**, select an image, and then click **Edit** from the top rail. The new screen displays the available editing options including resizing, background removal, cropping, and converting between JPEG and PNG formats. 
+After navigating to Essentials UI, click **Assets**, select an image, and then click **Edit** from the top rail. The new screen displays the available editing options powered by Adobe Express, which includes resizing, background removal, cropping, and converting between JPEG and PNG formats. 
 
 #### Resize image {#resize-image-using-express}
 
-Resizing an image to a specific size is a popular use case. Assets Essentials lets you quickly resize images to fit the common photo sizes by providing pre-calculated new resolutions for specific photo sizes. To resize the image using Assets Essentials, follow the steps below: 
+Resizing an image to a specific size is a popular use case. Assets Essentials lets you quickly resize images to fit the common photo sizes by providing pre-calculated new resolutions for specific photo sizes. To resize the image within the Assets Essentials interface, follow the steps below:  
 
-1. Click **Resize Image** from the left pane. 
+1. Click **Resize Image** from the left pane. A dialog box displays the resize image capabilities powered by Adobe Express. 
 2. Select the appropriate social media platform from the Resize drop-down list and select the image size from the options that display. 
 3. Scale the image, if required, using the **Image Scale** field. 
 4. Click **Apply** to apply your changes. 
@@ -61,7 +63,7 @@ Transforming an image into a perfect size is simple using embedded [!DNL Adobe E
    ![Save image with Adobe Express](/help/using/assets/adobe-express-crop-image.png)
    The cropped image is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
 
-#### Convert between Image file types {#convert-image-types-using-express}
+#### Convert JPEG to PNG {#Convert-JPEG-to-PNG}
 
 You can quickly convert between JPEG and PNG image formats using Adobe Express. Execute the following steps: 
 
@@ -76,34 +78,29 @@ You can quickly convert between JPEG and PNG image formats using Adobe Express. 
 
 ### Edit images in Adobe Express embedded editor {#edit-images-in-adobe-express-embedded-editor}
 
-Users with Express entitlement can use the embedded Express editor from within the Assets Essentials UI to easily edit content and create new content with GenAI from Adobe Firefly. This improves content reuse and accelerates content velocity. You can also use pre-defined elements to make your asset look stunning or perform quick actions to edit your image with just a few clicks. 
+Users with Express entitlement can use the embedded Express editor from within the Assets Essentials UI to edit the content and create new content with GenAI from Adobe Firefly easily. This feature improves content reuse and accelerates content velocity. You can also use pre-defined elements to make your asset look stunning or perform quick actions to edit your image with just a few clicks. 
 ![express in essentials UI](/help/using/assets/express-in-essentials-ui.jpg)
-To edit images using Adobe Express embedded editor, follow the steps below: 
+To edit images within Adobe Express embedded editor, follow the steps below: 
 
-1. Land on to AEM Assets Essentials UI using the link - [AEM Assets Essentials UI](https://experience.adobe.com/#/assets) and select the right repository. 
+1. Go to AEM Assets Essentials UI using the link - [AEM Assets Essentials UI](https://experience.adobe.com/#/assets) and select the right repository. 
 1. Click **Assets**, enter a folder, and select an image. 
 1. Click **Open in Adobe Express**. The image opens on an express canvas.
 1. Make the required edits to the image. 
 1. If your project requires you to add more pages, click **Add**, select assets, enter a folder, select an image to bring onto the canvas page, and then perform the required edits to the image. 
-1. To save the image(s), click **Save**. The save dialog box displays. 
-
-   >[!NOTE]
-   >
-   > **1. For Single Page**  
-   >
-   > **Save as Version:** This feature supports saving a single asset only. Select this option to export the image as a new version(retaining the original format), and save it in the same folder. 
-   > **Save as New Asset:** Select this option to export the asset in a different format than the original and save it to any folder as a new asset.
-   >  
-   > **2. For Multi Page**  
-   >
-   > **Save as Version:** This feature supports saving a single asset only. If you want to save a single page from multiple pages, select this option to save the asset in its original format and location.  
-   > **Save as New Asset:** With this option, you export either multiple assets or a single asset to any folder and save them as new asset(s) with their file format as original or different. 
+1. To save one or more assets, click **Save**. The save dialogue box displays the saving options. To select between the saving options, follow one of the instructions below that aligns with your requirement: 
+   1. To save a single page, click **Save as Version** to export the image as a new version (retaining the original format), and save it in the same folder.
+   
+   1. To save a single page, click **Save as a new Asset** to export the asset into a different format and save it to any folder as a new asset. 
+   
+   1. To save a single page from multiple pages, click **Save as Version** to save the asset in its original format and location.
+   
+   1. To save multiple pages or a single page among multiple pages, click **Save as New Asset**. This action exports the single or multiple assets to any folder and saves them as new asset or assets in the original or a different format.
 
 1. In the Save dialog box:  
    1. Enter a name for the file in the **Save As** field. 
    1. Select a destination folder. 
    1. Optional: Provide details such as Project or Campaign name, Keywords, Channels, Time frame, and Region. 
-1. Click **Save as version** or **Save as new asset** to save the asset(s).  
+1. Click **Save as version** or **Save as new asset** to save one or more assets.  
 
 #### Limitations of editing images in the Express Editor {#limitations-of-editing-images-in-the-express-editor}
 
@@ -114,11 +111,11 @@ To edit images using Adobe Express embedded editor, follow the steps below:
 
 ### Create new assets using Adobe Express {#create-new-assets-using-embedded-editor}
 
-Assets Essentials enables you to create a new template from scratch using Adobe Express embedded editor. To create a new asset using Adobe Express, execute the below steps: 
+Assets Essentials enables you to create a new template from scratch using the Adobe Express embedded editor. To create a new asset using Adobe Express, execute the below steps: 
 
 1. Navigate to **My Workspace** and click **Create** within the Adobe Express banner that displays within the Adobe Express at the top. Adobe Express blank canvas displays within the Assets Essentials user interface. 
 1. Create your content using [Templates](https://helpx.adobe.com/in/express/using/work-with-templates.html). Otherwise, navigate to Your Stuff to modify existing content. 
-1. Once you complete editing, click **Save**. 
+1. Once you complete the editing, click **Save**. 
 1. Specify the destination path for the created asset and click **Save as new asset**.
 
 #### Limitations {#limitations}
