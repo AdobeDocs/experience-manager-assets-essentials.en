@@ -28,7 +28,7 @@ For any additional reference information refer - [Get started using Adobe Experi
 >title="Adobe Express Integration"
 >abstract="Easy and intuitive image-editing tools powered by Adobe Express available directly within AEM Assets to increase content reuse and accelerate content velocity."
 
-After landing on Essentials UI, click **Assets**, select an image, and then click **Edit** from the top rail. The new screen displays the available editing options powered by Adobe Express, which includes resizing, background removal, cropping, and converting between JPEG and PNG formats. 
+After navigating to Essentials UI, click **Assets**, select an image, and then click **Edit** from the top rail. The new screen displays the available editing options powered by Adobe Express, which includes resizing, background removal, cropping, and converting between JPEG and PNG formats. 
 
 #### Resize image {#resize-image-using-express}
 
