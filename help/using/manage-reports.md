@@ -29,7 +29,7 @@ In the **[!UICONTROL Reports]** screen, various components are shown in the tabu
 
 The AEM Assets Essentials environment offers comprehensive reporting capabilities through the Reports dashboard. This capability enables users to generate and download CSV reports detailing asset uploads and downloads within specified time frames-ranging from once-off to daily, weekly, monthly, or yearly intervals. 
 
-To create a report: 
+**To create a report:** 
 
 1. Navigate to **Reports** and click **Create report** (from the top right). The **create report** dialog box displays the below fields: 
 ![create-report](/help/using/assets/executed-reports1.svg)
@@ -114,12 +114,12 @@ To create a report:
     </tbody>
    </table>
 
-## View and download existing report 
+## View and download existing report {#View-and-download-existing-report}
 
 Existing reports display under the **Executed Reports** tab. Click **Reports** and select **Executed Reports** to see all the created reports with the status as **completed**, indicating they are ready to download. To download the report in CSV format or delete the report, select the report row. Then select **Download CSV** or **Delete**.
 ![view and download existing reports](/help/using/assets/view-download-existing-report.png)
 
-## Schedule a Report 
+## Schedule a Report {#schedule-report}
 
 In the AEM Essentials UI, **Schedule Report** sets up an automatic generation of reports at specified future intervals such as daily, weekly, monthly, or yearly. This feature helps streamline recurring reporting needs and ensures timely data updates. While **Create Report** generates reports for past dates. Completed reports are listed under **Executed Reports** and upcoming reports are found under **Scheduled Reports**. 
 
@@ -140,12 +140,12 @@ To schedule a report, follow the steps below:
    >
    > Assets Essentials converts all local time zones to Coordinated Universal Time (UTC).
 
-## View Scheduled Reports 
+## View Scheduled Reports {#view-scheduled-reports}
 
 Scheduled reports display under **Scheduled Reports** tab in a systematically organized manner. All the completed reports for each scheduled report are stored within a single report folder. Click ![expand collapse](/help/using/assets/expand-collapse.png) to view the completed reports. For example, if you have scheduled a daily report, all completed reports are grouped together in one folder. This organization simplifies both the navigation and discoverability of reports. To view scheduled reports, click **Reports** and then click **Scheduled Reports**. All the scheduled reports display, with their status as ongoing or completed. Completed reports are ready to download.
 ![scheduled report](/help/using/assets/scheduled-reports-tab.png)   
 
-## Edit and Cancel Scheduled Reports: 
+## Edit and Cancel Scheduled Reports {#edit-cancel-scheduled-reports} 
 
 1. Navigate to the **Scheduled Reports** tab. 
 1. Select the report row. 
@@ -153,7 +153,7 @@ Scheduled reports display under **Scheduled Reports** tab in a systematically or
 1. Click **Cancel Schedule** and then click **Confirm**, to cancel the scheduled report. For canceled reports, the next run time becomes empty and the status shows canceled. 
 ![edit and cancel scheduled report](/help/using/assets/cancel-edit-scheduled-reports.png)
 
-### Resume Schedule 
+### Resume Schedule {#resume-schedule}
 
 To resume the canceled schedule, select the report row and click **Resume Schedule**. When resumed, the next runtime entries display again and the status shows ongoing. 
 ![resume schedule](/help/using/assets/resume-schedule.png) 
