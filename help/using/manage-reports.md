@@ -39,7 +39,7 @@ The AEM Assets Essentials environment offers comprehensive reporting capabilitie
    1. **Report type:** Select between the upload and download type.
    1. **Title:** Add a title to the report.
    1. **Description:** Add an optional description to the report.
-   1. **Select folder path:** Select a folder path to generate the report of uploaded and downloaded assets within that specific folder. For example, if you need the report of uploaded assets to a folder then specify the path to that folder.
+   1. **Select folder path:** Select a folder path to generate the report of uploaded and downloaded assets within that specific folder. For example, if you need the report of assets uploaded to a folder then specify the path to that folder.
    1. **Select date interval:** Select the date range to view upload or download activity within the folder.
    <br>
 
@@ -116,7 +116,7 @@ The AEM Assets Essentials environment offers comprehensive reporting capabilitie
 
 ## View and download existing report {#View-and-download-existing-report}
 
-Existing reports display under the **Executed Reports** tab. Click **Reports** and select **Executed Reports** to see all the created reports with the status as **completed**, indicating they are ready to download. To download the report in CSV format or delete the report, select the report row. Then select **Download CSV** or **Delete**.
+Existing reports display under the **Executed Reports** tab. Click **Reports** and select **Executed Reports** to view all the created reports with the status as **completed**, indicating they are ready to download. To download the report in CSV format or delete the report, select the report row. Then select **Download CSV** or **Delete**.
 ![view and download existing reports](/help/using/assets/view-download-existing-report.png)
 
 ## Schedule a Report {#schedule-report}
