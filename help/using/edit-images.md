@@ -4,105 +4,126 @@ description: Edit images using [!DNL Adobe Express] powered options and save upd
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
 ---
-# Edit images in [!DNL Assets Essentials] {#edit-images}
+# Edit images in [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 
-[!DNL Assets Essentials] provides user-friendly editing options that are powered by [!DNL Adobe Express]. The editing actions that are available using [!DNL Adobe Express] are Resize image, Remove background, Crop image, and Convert JPEG into PNG.
+The Assets Essentials UI enables basic image editing powered by Adobe Express, integrated to the UI. This editing includes resizing, background removal, cropping, and converting between JPEG and PNG formats. Additionally, it allows advanced editing through the Adobe Express interface Embedded within the Essentials UI. 
 
-After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later, if needed. To edit an image, [open its preview](/help/using/navigate-view.md#preview-assets) and click **[!UICONTROL Edit Image]**.
+After editing an image, you can save the new image as a new version. Versioning helps you to revert to the original asset later if needed. To edit an image, [open its preview](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view#preview-assets) and click **Edit Image**. 
 
 >[!NOTE]
 >
->You can edit images of PNG and JPEG file types using [!DNL Adobe Express].
+>You can edit images of PNG and JPEG file types using Adobe Express.
 
 <!--The editing actions that are available are Spot healing, Crop and straighten, Resize image, and Adjust image.-->
 
-## Edit images using Adobe Express {#edit-using-express}
+## Edit Images {#edit-images}
+
+Go to Assets Essentials UI, using the link - [Assets Essentials UI](https://experience.adobe.com/#/assets) and selecting the right repository. To receive access, contact your organization's administrator.
+For any additional reference information refer - [Get started using Adobe Experience Manager Assets Essentials](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started), [understanding of the user interface](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/navigate-view), [Assets Essentials use cases](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/get-started#use-cases) and [known issues](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes).
+
+### Edit Image on Essentials UI using Adobe Express{#edit-images-using-adobe-express}
 
 >[!CONTEXTUALHELP]
 >id="assets_express_integration"
 >title="Adobe Express Integration"
 >abstract="Easy and intuitive image-editing tools powered by Adobe Express available directly within AEM Assets to increase content reuse and accelerate content velocity."
 
-### Resize image {#resize-image-using-express}
+After navigating to Essentials UI, click **Assets**, select an image, and then click **Edit** from the top rail. The new screen displays the available editing options powered by Adobe Express, which includes resizing, background removal, cropping, and converting between JPEG and PNG formats. 
 
-Resizing an image to a specific size is a popular use case. [!DNL Assets Essentials] lets you quickly resize image to fit the common photo sizes by providing pre-calculated new resolutions for specific photo sizes. To resize the image using [!DNL Assets Essentials], follow the steps below: 
+#### Resize image {#resize-image-using-express}
 
-1. Select an image and click **Edit**.
-2. Click **[!UICONTROL Resize Image]** from the quick actions available in the left pane.
-3. Select the appropriate social media platform from the **[!UICONTROL Resize for]** drop-down list and select the image size from the options that display. 
-4. Scale the image, if required, using the **[!UICONTROL Image Scale]** field.
-5. Click **[!UICONTROL Apply]** to apply your changes.
+Resizing an image to a specific size is a popular use case. Assets Essentials lets you quickly resize images to fit the common photo sizes by providing pre-calculated new resolutions for specific photo sizes. To resize the image within the Assets Essentials interface, follow the steps below:  
+
+1. Click **Resize Image** from the left pane. A dialog box displays the resize image capabilities powered by Adobe Express. 
+2. Select the appropriate social media platform from the Resize drop-down list and select the image size from the options that display. 
+3. Scale the image, if required, using the **Image Scale** field. 
+4. Click **Apply** to apply your changes. 
    ![Image editing with Adobe Express](/help/using/assets/adobe-express-resize-image.png)
 
    Your edited image is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
    ![Save image with Adobe Express](/help/using/assets/adobe-express-resize-save.png)
 
-### Remove background {#remove-background-using-express}
+#### Remove background {#remove-background-using-express}
 
-You can remove background from an image in a few simple steps as mentioned below: 
+You can remove background from an image by following the steps mentioned below: 
 
-1. Select an image and click **Edit**.
-2. Click **[!UICONTROL Remove Background]** from the quick actions available in the left pane. Experience Manager Assets displays the image with no background.
-3. Click **[!UICONTROL Apply]** to apply your changes.
+1. Click **Remove Background** from the left pane. Experience Manager Assets displays the image with no background. 
+2. Click **[!UICONTROL Apply]** to apply your changes.
 ![Save image with Adobe Express](/help/using/assets/adobe-express-remove-background.png)
 
    Your edited image is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
 
-### Crop image {#crop-image-using-express}
+#### Crop image {#crop-image-using-express}
 
-Transforming an image into a perfect size is easy using embedded [!DNL Adobe Express] quick actions.
+Transforming an image into a perfect size is simple using embedded [!DNL Adobe Express] quick actions.
 
-1. Select an image and click **Edit**.
-2. Click **[!UICONTROL Crop Image]** from the quick actions available in the left pane.
-3. Drag the handles on the corners of the image to create your desired crop.
-4. Click **[!UICONTROL Apply]**.
+1. Click **[!UICONTROL Crop Image]** from the left pane.
+2. Drag the handles on the corners of the image to create your desired crop.
+3. Click **[!UICONTROL Apply]**.
    ![Save image with Adobe Express](/help/using/assets/adobe-express-crop-image.png)
    The cropped image is available for download. You can either save the edited asset as a new version of the same asset or save it as a new asset.
 
-### Convert JPEG to PNG {#convert-jpeg-to-png-using-express}
+#### Convert JPEG to PNG {#Convert-JPEG-to-PNG}
 
-You can quickly convert a JPEG image into a PNG format using Adobe Express. Execute the following steps:
+You can quickly convert between JPEG and PNG image formats using Adobe Express. Execute the following steps: 
 
-1. Select an image and click **Edit**.
-2. Click **[!UICONTROL JPEG to PNG]** from the quick actions available in the left pane.
+1. Click **JPEG to PNG** or **PNG to JPEG** from the left pane.
    ![Convert to PNG with Adobe Express](/help/using/assets/adobe-express-convert-image.png)
-3. Click **[!UICONTROL Download]**.
+2. Click **[!UICONTROL Download]**.
 
-### Limitations {#limitations-adobe-express}
+#### Limitations {#limitations-adobe-express}
 
 * Supported image resolution: Minimum - 50 pixels, Maximum - 6000 pixels per dimension.
-
 * Maximum file size supported: 17 MB.
 
-## Edit images using Adobe Express embedded editor {#edit-using-embedded-editor}
+### Edit images in Adobe Express embedded editor {#edit-images-in-adobe-express-embedded-editor}
 
-Users with access to Express now have integrated image editing and creation tools from Adobe Express and Adobe Firefly available directly within Assets Essentials to improve content reuse and accelerate content velocity. You can also use pre-defined elements to make your asset look stunning or perform quick actions to edit your image with just a few clicks.
+Users with Express entitlement can use the embedded Express editor from within the Assets Essentials UI to edit the content and create new content with GenAI from Adobe Firefly easily. This feature improves content reuse and accelerates content velocity. You can also use pre-defined elements to make your asset look stunning or perform quick actions to edit your image with just a few clicks. 
 
-To edit images using [!DNL Adobe Express] embedded editor, follow the steps below:
+![express in essentials UI](/help/using/assets/express-in-essentials-ui.jpg)
+To edit images within Adobe Express embedded editor, follow the steps below: 
 
-1. Select an image from your [!DNL Experience Manager] Assets repository.
-1. Click **[!UICONTROL Open in Adobe Express]**.
+1. Go to AEM Assets Essentials UI using the link - [AEM Assets Essentials UI](https://experience.adobe.com/#/assets) and select the right repository. 
+1. Click **Assets**, enter a folder, and select an image. 
+1. Click **Open in Adobe Express**. The image opens on an express canvas.
+1. Make the required edits to the image. 
+1. If your project requires you to add more pages, click **Add**, select assets, enter a folder, select an image to bring onto the canvas page, and then perform the required edits to the image. 
+1. To save one or more assets, click **Save**. The save dialogue box displays the saving options. To select between the saving options, follow one of the instructions below that aligns with your requirement: 
+   1. To save a single page, click **Save as Version** to export the image as a new version (retaining the original format), and save it in the same folder.
+   
+   1. To save a single page, click **Save as a new Asset** to export the asset into a different format and save it to any folder as a new asset. 
+   
+   1. To save a single page from multiple pages, click **Save as Version** to save the asset in its original format and location.
+   
+   1. To save multiple pages or a single page among multiple pages, click **Save as New Asset**. This action exports the single or multiple assets to any folder and saves them as new asset or assets in the original or a different format.
 
-   ![Adobe Express embedded editor](assets/embedded-editor.png)
+1. In the Save dialog box:  
+   1. Enter a name for the file in the **Save As** field. 
+   1. Select a destination folder. 
+   1. Optional: Provide details such as Project or Campaign name, Keywords, Channels, Time frame, and Region. 
+1. Click **Save as version** or **Save as new asset** to save one or more assets.  
 
-   You can leverage the functionality of [!DNL Adobe Express] to perform all the image-editing related actions, such as [resize image](https://helpx.adobe.com/in/express/using/resize-image.html), [remove or change background color](https://helpx.adobe.com/in/express/using/remove-background.html), [crop image](https://helpx.adobe.com/in/express/using/crop-image.html), and much more.
+#### Limitations of editing images in the Express Editor {#limitations-of-editing-images-in-the-express-editor}
 
-1. Once you complete image editing, you can download an asset as a new asset or save the asset as a new version. 
+ * Supported file type: JPEG or PNG. 
+ * Maximum file size supported: 40 MB. 
+ * Supported width and height range: Between 50 to 8000 pixels.
+ * Reload the page to see the latest saved new asset in the source folder. 
 
-## Create new assets using Adobe Express {#create-new-embedded-editor}
+### Create new assets using Adobe Express {#create-new-assets-using-embedded-editor}
 
-[!DNL Assets Essentials] enables you to create a new template from scratch using [!DNL Adobe Express] embedded editor. To create a new asset using [!DNL Adobe Express], execute the below steps:
+Assets Essentials enables you to create a new template from scratch using the Adobe Express embedded editor. To create a new asset using Adobe Express, execute the below steps: 
 
-1. Navigate to **[!UICONTROL My Workspace]** and click **[!UICONTROL Create]** within the Adobe Express banner that displays above the [!UICONTROL Quick access] section. [!DNL Adobe Express] blank canvas displays within the [!DNL Assets Essentials] user interface.
-1. Create your content using [Templates](https://helpx.adobe.com/in/express/using/work-with-templates.html). Otherwise, navigate to **[!UICONTROL Your Stuff]** to modify existing content.
-1. Once you complete editing, click **[!UICONTROL Save as new asset]**. 
-1. Specify destination path for the created asset and click **[!UICONTROL Save]**.
+1. Navigate to **My Workspace** and click **Create** within the Adobe Express banner that displays within the Adobe Express at the top. Adobe Express blank canvas displays within the Assets Essentials user interface. 
+1. Create your content using [Templates](https://helpx.adobe.com/in/express/using/work-with-templates.html). Otherwise, navigate to Your Stuff to modify existing content. 
+1. Once you complete the editing, click **Save**. 
+1. Specify the destination path for the created asset and click **Save as new asset**.
 
->[!NOTE]
->
->* You can only modify images of `JPEG` and `PNG` format types.
->* The asset size must be less than 14 MB.
->* You can save an image in `PDF`, `JPEG`, or `PNG` formats.
+#### Limitations {#limitations}
+
+* You can only modify images of `JPEG` and `PNG` format types.
+* The asset size must be less than 40 MB.
+* You can save an image in `PDF`, `JPEG`, or `PNG` formats.
 
 <!--
 ## Edit images using [!DNL Adobe Photoshop Express] {#edit-using-photoshop-express}
@@ -164,9 +185,9 @@ TBD: Insert a video of the available social media options.
 
 ### Next Steps {#next-steps}
 
-* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface.
+* Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
 
-* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar.
+* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
 
