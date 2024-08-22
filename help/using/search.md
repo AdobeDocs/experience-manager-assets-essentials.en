@@ -329,3 +329,4 @@ If you need to provide feedback on the Contextual Search feature, click ![Contex
 * Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar.
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
+
