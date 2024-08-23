@@ -256,7 +256,7 @@ To access Contextual Search in Experience Manager Assets:
 
 1. Define the text prompt in the Search text box and click **[!UICONTROL Contextual Search]**.
 
-   ![Contextual Search text prompt](/help/using/assets/contextual-search-text-prompt.png)
+   ![Contextual Search text prompt](/help/using/assets/wknd-contextual-search.png)
 
    [!DNL Experience Manager Assets] displays the search results.
 
@@ -337,3 +337,4 @@ If you need to provide feedback on the Contextual Search feature, click ![Contex
 * Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar.
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
+
