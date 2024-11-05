@@ -142,7 +142,7 @@ To schedule a report, follow the steps below:
 
 ## View Scheduled Reports {#view-scheduled-reports}
 
-Scheduled reports display under **Scheduled Reports** tab in a systematically organized manner. All the completed reports for each scheduled report are stored within a single report folder. Click ![expand collapse](/help/using/assets/expand-collapse.png) to view the completed reports. For example, if you have scheduled a daily report, all completed reports are grouped together in one folder. This organization simplifies both the navigation and discoverability of reports. To view scheduled reports, click **Reports** and then click **Scheduled Reports**. All the scheduled reports display, with their status as ongoing or completed. Completed reports are ready to download.
+Scheduled reports display under **Scheduled Reports** tab in a systematically organized manner. All the completed reports for each scheduled report are stored within a single report folder. Click ![expand collapse](/help/using/assets/expand-icon1.svg) to view the completed reports. For example, if you have scheduled a daily report, all completed reports are grouped together in one folder. This organization simplifies both the navigation and discoverability of reports. To view scheduled reports, click **Reports** and then click **Scheduled Reports**. All the scheduled reports display, with their status as ongoing or completed. Completed reports are ready to download.
 ![scheduled report](/help/using/assets/scheduled-reports-tab.png)   
 
 ## Edit and Cancel Scheduled Reports {#edit-cancel-scheduled-reports} 
