@@ -135,11 +135,11 @@ You should have a Dynamic Media license to see this report in the drop-down list
    ![Dynamic Media Delivery Report drop-down](/help/using/assets/dynamic-media-delivery-report-option.png)
 
 
-1. Under the **[!UICONTROL columns]** tab, you can select **[!UICONTROL Referrer].**
+1. Under the **[!UICONTROL columns]** tab, you can select **[!UICONTROL Referrer]** if you want to see the source of traffic of that report.
 
    ![Referrer](/help/using/assets/referrer.png)
 
-   Choosing a referrer displays the number of visitors received from each referred report that directs traffic to the site. It offers insights into the sources of traffic and the origin of the visitors. Such insights help measure ROI of delivered assets, measure channel performance, and help take informed asset management tasks for assets. The referrer is editable, by default. You can check or uncheck if you want to see the source of traffic of that report.
+   Choosing a referrer displays the number of visitors received from each referred report that directs traffic to the site. It offers insights into the sources of traffic and the origin of the visitors. Such insights help measure ROI of delivered assets, measure channel performance, and help take informed asset management tasks for assets.
 
 ### Actions performed on Dynamic Media Delivery Report{#actions-performed-dynamic-media-delivery-reports}
 
