@@ -128,27 +128,30 @@ You should have a Dynamic Media license to create and use this report.
 
 ### Create a Dynamic Media Delivery Report{#create-dynamic-media-delivery-report}
 
-1. To create a Dynamic Media Delivery Report, using the steps mentioned in [Create a report](#create-report). 
+1. Create a Dynamic Media Delivery Report, using the steps mentioned in [Create a report](#create-report). 
 
-1. Select **[!UICONTROL Dynamic Media Delivery Report]** from the **[!UICONTROL Report type]** drop-down list.
+1. Select **[!UICONTROL Dynamic Media Delivery]** from the **[!UICONTROL Report type]** drop-down list.
 
    ![Dynamic Media Delivery Report drop-down](/help/using/assets/dynamic-media-delivery-report-option.png)
 
 
-1. Under the **[!UICONTROL columns]** tab, you can select **[!UICONTROL Referrer]** column to include it in your report.
+1. In the **[!UICONTROL Columns]** tab, you can select the **[!UICONTROL Referrer]** column to include it in your report.
 
    ![Referrer](/help/using/assets/referrer.png)
 
-   All the columns of the downloaded report are read-only, except the **Referrer** column which you can modify to include or exclude from the report. <!--Choosing a referrer displays the number of visitors received from each referred report that directs traffic to the site. It offers insights into the sources of traffic and the origin of the visitors. Such insights help measure ROI of delivered assets, measure channel performance, and help take informed asset management tasks for assets.-->
+   All the columns of the downloaded report are read-only, except the **Referrer** column, which you can modify to include or exclude from the report. <!--Choosing a referrer displays the number of visitors received from each referred report that directs traffic to the site. It offers insights into the sources of traffic and the origin of the visitors. Such insights help measure ROI of delivered assets, measure channel performance, and help take informed asset management tasks for assets.-->
 
 ### Actions performed on Dynamic Media Delivery Report {#actions-performed-dynamic-media-delivery-reports}
 
-You can perform the following actions on the Dynamic Media Delivery Report:
+After creating the report, you can perform the following actions:
 
 * **[!UICONTROL Delete]**: You can delete the selected report.
-* **[!UICONTROL Download CSV]**: You can download the selected report in a CSV format. The downloaded report consists of the columns such as Name, Path, DynamicMediaID, Referrer, Hits (delivery count). 
+* **[!UICONTROL Download CSV]**: You can download the selected report in a CSV format. The downloaded report consists of the Name, Path, DynamicMediaID, Referrer, Hits columns.
+    * **Referrer** column lists the URL where the asset is delivered or included.
 
-To delete or download the Dynamic Media Delivery Report as CSV, see [view and download existing report](#View-and-download-existing-report)
+    * **Hits** column lists the number of times the asset is delivered (delivery count).
+
+To delete or download the Dynamic Media Delivery Report as CSV, see [view and download existing report](#View-and-download-existing-report).
 
    ![Downloaded CSV on Dynamic Media Delivery Report](/help/using/assets/csv-dynamic-media-delivery-report.png)
 
@@ -161,7 +164,7 @@ To delete or download the Dynamic Media Delivery Report as CSV, see [view and do
 
 ## View and download existing report {#View-and-download-existing-report}
 
-Existing reports display under the **Executed Reports** tab. Click **Reports** and select **Executed Reports** to view all the created reports with the status as **completed**, indicating they are ready to download. To download the report in CSV format or delete the report, select the report row. Then select **Download CSV** or **Delete**.
+Existing reports display under the **Executed Reports** tab. Click **Reports** and select **Executed Reports** to view all the created reports with the status as **completed**, indicating they are ready to download. To download the report in CSV format or delete the report, select the report row and select **Download CSV** or **Delete**.
 ![view and download existing reports](/help/using/assets/view-download-existing-report.png)
 
 ## Schedule a Report {#schedule-report}
