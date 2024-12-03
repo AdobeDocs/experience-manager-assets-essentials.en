@@ -64,7 +64,7 @@ The AEM Assets Essentials environment offers comprehensive reporting capabilitie
      <tr>
       <td>Path</td>
       <td>The folder path where the asset is available in Assets Essentials.</td>
-      <td>Upload and download</td>
+      <td>Upload, download, and Dynamic Media Delivery</td>
      </tr>
      <tr>
       <td>MIME Type</td>
@@ -110,7 +110,17 @@ The AEM Assets Essentials environment offers comprehensive reporting capabilitie
       <td>Downloaded By User Name</td>
       <td>The name of the user who downloaded the asset.</td>
       <td>Download</td>
-     </tr>           
+     </tr>
+     <tr>
+      <td>Referrer</td>
+      <td>The URL where the asset is delivered or included</td>
+      <td>Dynamic Media Delivery</td>
+     </tr>  
+     <tr>
+      <td>Hits</td>
+      <td>The number of times the asset is delivered (delivery count)</td>
+      <td>Dynamic Media Delivery</td>
+     </tr>             
     </tbody>
    </table>
 
@@ -125,6 +135,12 @@ Get delivery insights for assets delivered with Dynamic Media, with asset level 
 ### Prerequisites {#prereqs-dynamic-media-delivery-reports}
 
 You should have a Dynamic Media license to create and use this report.
+
+>[!IMPORTANT]
+> 
+>* Reports are provided for assets delivered via Dynamic Media.
+>* Reports are generated for the first 1 million rows. To capture all files within this limit, consider including the referrer column for smaller folders.
+>* Reports can be generated for the past 3 months only.
 
 ### Create a Dynamic Media Delivery Report{#create-dynamic-media-delivery-report}
 
@@ -154,12 +170,6 @@ After creating the report, you can perform the following actions:
 To delete or download the Dynamic Media Delivery Report as CSV, see [view and download existing report](#View-and-download-existing-report).
 
    ![Downloaded CSV on Dynamic Media Delivery Report](/help/using/assets/csv-dynamic-media-delivery-report.png)
-
->[!IMPORTANT]
-> 
->* Reports are provided for assets delivered via Dynamic Media.
->* Reports are generated for the first 1 million rows. To capture all files within this limit, consider including the referrer column for smaller folders.
->* Reports can be generated for the past 3 months only.
 
 
 ## View and download existing report {#View-and-download-existing-report}
