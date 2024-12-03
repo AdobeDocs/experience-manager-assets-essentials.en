@@ -167,7 +167,7 @@ After creating the report, you can perform the following actions:
 
     * **Hits** column lists the number of times the asset is delivered (delivery count).
 
-To delete or download the Dynamic Media Delivery Report as CSV, see [view and download existing report](#View-and-download-existing-report).
+To delete or download the Dynamic Media Delivery Report as CSV, see [View and download existing report](#View-and-download-existing-report).
 
    ![Downloaded CSV on Dynamic Media Delivery Report](/help/using/assets/csv-dynamic-media-delivery-report.png)
 
