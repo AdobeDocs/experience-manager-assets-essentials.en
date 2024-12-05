@@ -36,7 +36,7 @@ The AEM Assets Essentials environment offers comprehensive reporting capabilitie
 
    **In Configuration tab:** 
 
-   1. **Report type:** Select among [!UICONTROL upload], [!UICONTROL download], or [Dynamic Media Delivery Report](#dynamic-media-delivery-reports) type.
+   1. **Report type:** Select among [!UICONTROL Upload] or [!UICONTROL Download] report type.
    1. **Title:** Add a title to the report.
    1. **Description:** Add an optional description to the report.
    1. **Select folder path:** Select a folder path to generate the report of uploaded and downloaded assets within that specific folder. For example, if you need the report of assets uploaded to a folder then specify the path to that folder.
@@ -64,7 +64,7 @@ The AEM Assets Essentials environment offers comprehensive reporting capabilitie
      <tr>
       <td>Path</td>
       <td>The folder path where the asset is available in Assets Essentials.</td>
-      <td>Upload, download, and Dynamic Media Delivery</td>
+      <td>Upload and download</td>
      </tr>
      <tr>
       <td>MIME Type</td>
@@ -110,66 +110,10 @@ The AEM Assets Essentials environment offers comprehensive reporting capabilitie
       <td>Downloaded By User Name</td>
       <td>The name of the user who downloaded the asset.</td>
       <td>Download</td>
-     </tr>
-     <tr>
-      <td>Referrer</td>
-      <td>The URL where the asset is delivered or included</td>
-      <td>Dynamic Media Delivery</td>
-     </tr>  
-     <tr>
-      <td>Hits</td>
-      <td>The number of times the asset is delivered (delivery count)</td>
-      <td>Dynamic Media Delivery</td>
-     </tr>             
+     </tr>              
     </tbody>
    </table>
 
-## Dynamic Media Delivery Reports {#dynamic-media-delivery-reports}
-
-Get delivery insights for assets delivered with Dynamic Media, with asset level delivery count, referrer information, asset path in AEM Assets and unique asset ID. Reports can be generated for all assets delivered via the Dynamic Media for AEM Assets repository or for a specific folder hierarchy in AEM Assets. Moreover, Dynamic Media Delivery Reports insights help measure ROI of assets delivered, measure channel performance, and help take informed asset management tasks for assets.
-
->[!NOTE]
-> 
->To get early access to the Dynamic Media Delivery Report on your Dynamic Media account, [create and submit an Adobe Customer Support case](https://helpx.adobe.com/enterprise/using/support-for-experience-cloud.html).
-
-### Prerequisites {#prereqs-dynamic-media-delivery-reports}
-
-You should have a Dynamic Media license to create and use this report.
-
->[!IMPORTANT]
-> 
->* Reports are provided for assets delivered via Dynamic Media.
->* Reports are generated for the first 1 million rows. To capture all files within this limit, consider including the referrer column for smaller folders.
->* Reports can be generated for the past 3 months only.
-
-### Create a Dynamic Media Delivery Report{#create-dynamic-media-delivery-report}
-
-1. Create a Dynamic Media Delivery Report, using the steps mentioned in [Create a report](#create-report). 
-
-1. Select **[!UICONTROL Dynamic Media Delivery]** from the **[!UICONTROL Report type]** drop-down list.
-
-   ![Dynamic Media Delivery Report drop-down](/help/using/assets/dynamic-media-delivery-report-option.png)
-
-
-1. In the **[!UICONTROL Columns]** tab, you can select the **[!UICONTROL Referrer]** column to include it in your report.
-
-   ![Referrer](/help/using/assets/referrer.png)
-
-   All the columns of the downloaded report are read-only, except the **Referrer** column, which you can modify to include or exclude from the report. <!--Choosing a referrer displays the number of visitors received from each referred report that directs traffic to the site. It offers insights into the sources of traffic and the origin of the visitors. Such insights help measure ROI of delivered assets, measure channel performance, and help take informed asset management tasks for assets.-->
-
-### Actions performed on Dynamic Media Delivery Report {#actions-performed-dynamic-media-delivery-reports}
-
-After creating the report, you can perform the following actions:
-
-* **[!UICONTROL Delete]**: You can delete the selected report.
-* **[!UICONTROL Download CSV]**: You can download the selected report in a CSV format. The downloaded report consists of the Name, Path, DynamicMediaID, Referrer, Hits columns.
-    * **Referrer** column lists the URL where the asset is delivered or included.
-
-    * **Hits** column lists the number of times the asset is delivered (delivery count).
-
-To delete or download the Dynamic Media Delivery Report as CSV, see [View and download existing report](#View-and-download-existing-report).
-
-   ![Downloaded CSV on Dynamic Media Delivery Report](/help/using/assets/csv-dynamic-media-delivery-report.png)
 
 
 ## View and download existing report {#View-and-download-existing-report}
