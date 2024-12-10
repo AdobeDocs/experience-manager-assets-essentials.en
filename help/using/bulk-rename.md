@@ -11,9 +11,11 @@ Execute the steps below to rename an asset or a folder:
 
 1. Locate the asset or folder that you want to rename.
 
-1. Select the asset or folder and click ![rename icon](assets/do-not-localize/rename-icon.png)  **[!UICONTROL Rename]** from the top menu. 
-Alternatively, click `...` on the asset or folder and select **[!UICONTROL Rename]** among various other options. 
-Additionally, you can click the title of an asset or a folder to rename it. Mention the new text in the **Rename Asset** textbox and click **Save**. This capability is available in Grid, Gallery, Waterfall and List views.
+1. Use one of the folowing ways to rename an asset or a folder :
+
+    * Select the asset or folder and click ![rename icon](assets/do-not-localize/rename-icon.png) **[!UICONTROL Rename]** from the top menu. 
+    * Click `...` on the asset or folder and select **[!UICONTROL Rename]** among various other options. 
+    * Click the title of an asset or a folder to rename it. Mention the new text in the **Rename Asset** textbox and click **Save**. This capability is available in Grid, Gallery, Waterfall and List views.
 
 ## Rename multiple assets {#rename-multiple-assets}
 
@@ -27,9 +29,9 @@ Follow the steps below to rename the bulk of assets at once:
 
 1. Add the prompt describing how you want to rename the selected assets. Refer to [some examples illustrating AI Bulk Rename](#examples-ai-bulk-rename).
 
-1. Click **[!UICONTROL Execute]**.
+1. Click **[!UICONTROL Execute]** to allow AI to rename assets as mentioned in the prompt.
 
-1. [Optional] Click ![undo icon](assets/do-not-localize/undo.png) to reverse or cancel the last action you performed. 
+1. [Optional] Click ![undo icon](assets/do-not-localize/undo.svg) to reverse or cancel the last action you performed. 
 
 1. Check your changes in the [!UICONTROL New name preview] column and click **[!UICONTROL Save]**. 
 
