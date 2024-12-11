@@ -124,9 +124,12 @@ Below is an overview of each property type and how they are stored.
 | Drop-down | Add a drop-down list. |
 | State | Add the repository state property (mapped to repo:state) |
 | Asset Status | Add the default Asset Status property (mapped to dam:assetStatus) |
+| Approved for | |
 | Tags | Add a tag from values stored in Taxonomy Management (mapped to xcm:tags). |
 | Keywords | Add free-form keywords (mapped to dc:subject). |
 | Smart Tags | Add to augment search capabilities by automatically adding metadata tags. |
+| Publish |  |
+| Link |  |
 
 ### Assign metadata form to folders {#assign-metadata-form-folder}
 
