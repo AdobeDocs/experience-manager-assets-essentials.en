@@ -17,7 +17,7 @@ Execute the steps below to rename an asset or a folder:
     * Click `...` on the asset or folder and select **[!UICONTROL Rename]**. 
     * Click the title of an asset or a folder to rename it. Mention the new text in the **Rename Asset** textbox and click **Save**. This capability is available in Grid, Gallery, Waterfall and List views.
 
-## AI-powered bulk rename assets {#rename-bulk-assets-using-ai}
+## AI-powered assets bulk rename {#rename-bulk-assets-using-ai}
 
 [!DNL Assets Essentials] allows you to rename multiple assets at once using AI. AI Bulk Rename functionality can only be applied to files, not folders. You can select multiple files at once and rename them all together.
 
@@ -42,6 +42,7 @@ The following are a few examples to using AI to rename assets in bulk based on a
 * Prefix with 00, 01, and so on and suffix with today's date.
 * Change all files to 'my-file' and append an incrementing number.
 * Remove the prefix and suffix, just keep the middle part of the name.
+* Prefix the files with 001, 002, etc. and translate into english
 
     >[!VIDEO]()
 
