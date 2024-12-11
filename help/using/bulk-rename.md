@@ -3,7 +3,7 @@ title: Rename and bulk assets rename in [!DNL Assets Essentials]
 description: Learn how to bulk rename assets using the new Assets UI (Assets Essentials). It provides the ability to rename multiple assets at once.
 role: User
 ---
-# Rename assets or folder in [!DNL Assets Essentials] {#rename-single-asset-or-folder}
+# Rename asset or folder in [!DNL Assets Essentials] {#rename-single-asset-or-folder}
 
 Renaming can help in better organizing, categorizing, and identifying assets without altering its content or location. [!DNL Assets Essentials] allows you to rename the selected asset or folder.
 
@@ -13,19 +13,17 @@ Execute the steps below to rename an asset or a folder:
 
 1. Use one of the folowing ways to rename an asset or a folder :
 
-    * [option 1] Select the asset or folder and click ![rename icon](assets/do-not-localize/rename-icon.png) **[!UICONTROL Rename]** from the top menu. 
-    * [option 2] Click `...` on the asset or folder and select **[!UICONTROL Rename]** among various other options. 
-    * [option 3] Click the title of an asset or a folder to rename it. Mention the new text in the **Rename Asset** textbox and click **Save**. This capability is available in Grid, Gallery, Waterfall and List views.
+    * Select the asset or folder and click ![rename icon](assets/do-not-localize/rename-icon.png) **[!UICONTROL Rename]** from the top menu. 
+    * Click `...` on the asset or folder and select **[!UICONTROL Rename]**. 
+    * Click the title of an asset or a folder to rename it. Mention the new text in the **Rename Asset** textbox and click **Save**. This capability is available in Grid, Gallery, Waterfall and List views.
 
-## Rename multiple assets {#rename-multiple-assets}
+## AI-powered bulk rename assets {#rename-bulk-assets-using-ai}
 
-[!DNL Assets Essentials] allows you to rename multiple assets at once using AI. AI Bulk Rename functionality can only be applied to files, not folders. You can select multiple files at once and rename them all together. You can also convert Unicode or non-alphanumeric characters into text.
+[!DNL Assets Essentials] allows you to rename multiple assets at once using AI. AI Bulk Rename functionality can only be applied to files, not folders. You can select multiple files at once and rename them all together.
 
-Follow the steps below to rename the bulk of assets at once:
+Follow the steps below to rename the bulk of assets at once using AI generated prompts:
 
-1. Locate the asset that you want to rename.
-
-1. Select multiple assets and click ![rename icon](assets/do-not-localize/rename-icon.png)  **[!UICONTROL Bulk Rename]** from the top menu.
+1. Select multiple assets and click **[!UICONTROL Bulk Rename]** from the top menu.
 
 1. Add the prompt describing how you want to rename the selected assets. Refer to [some examples illustrating AI Bulk Rename](#examples-ai-bulk-rename).
 
@@ -34,6 +32,8 @@ Follow the steps below to rename the bulk of assets at once:
 1. [Optional] Click ![undo icon](assets/do-not-localize/undo.svg) to reverse or cancel the last action you performed. 
 
 1. Check your changes in the [!UICONTROL New name preview] column and click **[!UICONTROL Save]**. 
+
+    ![AI bulk rename](assets/ai-bulk-rename.png)
 
 ## Some examples illustrating AI Bulk Rename {#examples-ai-bulk-rename}
 
@@ -49,6 +49,7 @@ The following are a few examples to using AI to rename assets in bulk based on a
 >
 > * You cannot convert emojis into text.
 > * Use a unique name otherwise renaming fails with a warning. Though you can try again with a new name.
+> * You can also convert Unicode or non-alphanumeric characters into text.
 
 ## Next Steps {#next-steps}
 
