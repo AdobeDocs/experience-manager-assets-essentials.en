@@ -14,7 +14,7 @@ Execute the steps below to rename an asset or a folder:
 1. Use one of the folowing ways to rename an asset or a folder :
 
     * Select the asset or folder and click ![rename icon](assets/do-not-localize/rename-icon.png) **[!UICONTROL Rename]** from the top menu. 
-    * Click `...` on the asset or folder and select **[!UICONTROL Rename]**. 
+    * Click more options `...` on the asset or folder and select **[!UICONTROL Rename]**. 
     * Click the title of an asset or a folder to rename it. Mention the new text in the **Rename Asset** textbox and click **Save**. This capability is available in Grid, Gallery, Waterfall and List views.
 
 ## AI-powered assets bulk rename {#rename-bulk-assets-using-ai}
@@ -37,19 +37,19 @@ Follow the steps below to rename the bulk of assets at once using AI generated p
 
 ## Some examples illustrating AI Bulk Rename {#examples-ai-bulk-rename}
 
-The following are a few examples to using AI to rename assets in bulk based on an AI prompt:
+The following are a few examples to use AI to rename assets in bulk based on an AI prompt:
 
 * Prefix with 00, 01, and so on and suffix with today's date.
 * Change all files to 'my-file' and append an incrementing number.
 * Remove the prefix and suffix, just keep the middle part of the name.
 * Prefix the files with 001, 002, etc. and translate into english
 
-    >[!VIDEO]()
+    >[!VIDEO](https://video.tv.adobe.com/v/3440975)
 
 >[!NOTE]
 >
 > * You cannot convert emojis into text.
-> * Use a unique name otherwise renaming fails with a warning. Though you can try again with a new name.
+> * Use a unique name to avoid warning messages while renaming assets. Though you can try again with a new name.
 > * You can also convert Unicode or non-alphanumeric characters into text.
 
 ## Next Steps {#next-steps}
