@@ -1,6 +1,7 @@
 ---
 title: Bulk metadata edit in Assets Essentials
 description: Learn how you can simultaneously edit the metadata of multiple assets available on the Assets Essentials.
+exl-id: 17185160-6c51-4581-a716-77b365ef3dd9
 ---
 # Bulk metadata edit in Assets Essentials{#how-to-edit-the-metadata-of-multiple-assets-simultaneously}
 
@@ -33,5 +34,3 @@ To see the applied metadata changes to an asset, navigate to the asset details p
 >[!NOTE]
 >
 >Status, Expiration Date, Author and Keywords <!--and Tags-->  are standard metadata properties available for bulk metadata editing, regardless of folder-specific metadata. These metadata properties display on the asset details page only if they are included in the metadata form applied to the asset's folder.  If you cannot see these metadata properties on the asset details page then edit the asset folder's metadata form to include them. See [Metadata in Assets Essentials](/help/using/metadata.md) to learn how to create or edit a metadata form and apply it to a folder.
-
- 
