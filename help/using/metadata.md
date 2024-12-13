@@ -129,8 +129,6 @@ Below is an overview of each property type and how they are stored.
 | Keywords | Add free-form keywords (mapped to dc:subject). |
 | Smart Tags | Add to augment search capabilities by automatically adding metadata tags. |
 | Link | Add to enable external URLs. |
-<!--| Publish | to be added |
-| Link | to be added |-->
 
 ### Assign metadata form to folders {#assign-metadata-form-folder}
 
