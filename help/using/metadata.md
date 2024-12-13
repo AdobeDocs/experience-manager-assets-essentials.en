@@ -175,7 +175,6 @@ Follow the steps below to use link component on metadata form:
 1. Click **[!UICONTROL Add link]**. Perform one of the following actions:
    * Click ![copy icon](assets/do-not-localize/copy.svg) to copy the URL.
    * Click ![edit icon](assets/do-not-localize/edit.svg) to edit the URL.
-   * Click ![unlink icon](assets/do-not-localize/unlink.svg) to unlink the URL.
 1. Click **[!UICONTROL Save]** to save the changes.
 
 ## Next Steps {#next-steps}
