@@ -34,6 +34,7 @@ solution: Experience Manager
 + [Edit videos](edit-videos.md)
 + [Manage asset metadata](metadata.md)
 + [Bulk rename](bulk-rename.md)
++ [Bulk metadata edit](/help/using/bulk-metadata-edit.md)
 + [Share assets](share-links-for-assets.md)
 + [Manage collections](manage-collections.md)
 + [Watch assets, folders, and collections](manage-notifications.md)
