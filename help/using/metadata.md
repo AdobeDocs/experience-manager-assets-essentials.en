@@ -124,11 +124,10 @@ Below is an overview of each property type and how they are stored.
 | Drop-down | Add a drop-down list. |
 | State | Add the repository state property (mapped to repo:state) |
 | Asset Status | Add the default Asset Status property (mapped to dam:assetStatus) |
-| Approved for | |
 | Tags | Add a tag from values stored in Taxonomy Management (mapped to xcm:tags). |
 | Keywords | Add free-form keywords (mapped to dc:subject). |
 | Smart Tags | Add to augment search capabilities by automatically adding metadata tags. |
-| Link | Add to enable external URLs. |
+| Link | Add to enable external URLs. Once configured on the Metadata form, the URL component can be mapped to a particular metadata property in the Metadata Editor page. This [metadata form can be assigned to folders](#assign-metadata-form-folder).|
 
 ### Assign metadata form to folders {#assign-metadata-form-folder}
 
@@ -164,9 +163,9 @@ You can also navigate to the folder details page and select **[!UICONTROL System
 
 ### Working with Link component in metadata form {#link-component-metadata-form}
 
-The link component is used to enable external URLs including storage links, copyright information, contact forms, and so on. To use link component on metadata form, you need to [configure metadata form](#metadata-forms).
+The link component is used to enable external URLs including storage links, copyright information, contact forms, and so on. To use link component on metadata form, you need to [configure metadata form](#metadata-forms). The URL component can be mapped to a particular metadata property in the Metadata Editor page, which works in the same way as other metadata components. This metadata form can be assigned to folders. Thus in the assigned Folder asset's detail page, you may see the asset link metadata value.
 
-Follow the steps below to use link component on metadata form:
+Follow the steps below to use link component on the asset details page:
 
 1. Go to asset details page and navigate to **[!UICONTROL Link URL]**.
 1. Add a URL that you want to use to redirect for the selected asset.
