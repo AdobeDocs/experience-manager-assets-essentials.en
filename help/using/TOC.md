@@ -38,6 +38,7 @@ solution: Experience Manager
 + [Share assets](share-links-for-assets.md)
 + [Manage collections](manage-collections.md)
 + [Watch assets, folders, and collections](manage-notifications.md)
++ [Reprocessing](reprocessing.md)
 + [Manage reports](manage-reports.md)
 + [Manage tags](tagging-management.md)
 + [Content Credentials](/help/using/content-credentials.md)
