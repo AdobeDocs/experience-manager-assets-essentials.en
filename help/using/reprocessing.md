@@ -2,6 +2,7 @@
 title: Reprocessing digital assets
 description: Learn about various methods of reprocessing digital assets
 role: User, Leader, Developer
+exl-id: 8d84ecc2-e716-4e25-a0ec-87138ff2c499
 ---
 # Reprocessing digital assets {#reprocessing-digital-assets}
 
