@@ -39,6 +39,7 @@ solution: Experience Manager
 + [Manage collections](manage-collections.md)
 + [Watch assets, folders, and collections](manage-notifications.md)
 + [Manage reports](manage-reports.md)
++ [Reprocessing](reprocessing.md)
 + [Manage tags](tagging-management.md)
 + [Content Credentials](/help/using/content-credentials.md)
 + Integration with other solutions {#integration-with-other-solutions}
