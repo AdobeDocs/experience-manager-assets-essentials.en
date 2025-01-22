@@ -29,6 +29,7 @@ solution: Experience Manager
 + [Upload and add assets](add-delete.md)
 + [Bulk import assets](bulk-import-assets-view.md)
 + [Search and discover assets](search.md)
++ [Custom search filters](custom-search-filters.md)
 + [Asset management tasks](manage-organize.md)
 + [Edit images](edit-images.md)
 + [Edit videos](edit-videos.md)
