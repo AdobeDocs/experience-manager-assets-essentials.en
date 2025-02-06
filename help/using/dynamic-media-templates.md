@@ -273,7 +273,7 @@ Edit the template by following these steps:
 * Support of multiple Dynamic Media companies is not currently available with Dynamic Media Templates.
 * In case of copy or move, Destination Selector shows all the folders (including non-Dynamic Media synced folders). Also, currently, it does not display the Dynamic Media Template assets (both of these are limitations of destination selector).
 * Any update operation on a folder (for example, Publish or Delete) from Assets section impacts the Dynamic Media Templates available within that folder. 
-* Trash does not work for Dynamic Media Templates. If an asset is moved to trash and then restored, the asset is restored in AEM but not on Dynamic Media. The same is valid for Dynamic Media Templates.
+* Trash does not work for Dynamic Media Templates. If an asset is moved to trash and then restored, the asset is restored in AEM but not on Dynamic Media. The same is valid for Dynamic Media Templates..
 
 ## See also
 
