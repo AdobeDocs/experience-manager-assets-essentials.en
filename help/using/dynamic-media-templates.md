@@ -79,9 +79,11 @@ To [create a folder](/help/assets/add-delete-assets-view.md) under **[!UICONTROL
 
 **Menu options on the left pane:** Use these options for common editor actions as mentioned below.
 
-* ![DM Templates](/help/using/assets/layer-selector.svg): Select a layer.
+* ![DM Templates](/help/using/assets/layer-selector.svg): Select a layer. 
+<!--  
 * ![templates that support customization](/help/using/assets/bring-forward.svg): Click to bring a selected layer forward or press **Ctrl** + **]** (Windows) or **Cmd** + **]** (Mac).
 * ![how to create a template that can be customized easily](/help/using/assets/send-backward.svg): Click to send a selected layer backward or press **Ctrl** + **[** (Windows) or **Cmd** + **[** (Mac).
+-->
 * ![create a template that can be customized instantly](/help/using/assets/undo.svg): Click to undo the last action or press **Ctrl** + **Z** (Windows) or **Cmd** + **Z** (Mac).
 * ![template to create banners rapidly](/help/using/assets/redo.svg): Click to redo the last action or press **Ctrl** + **Y** (Windows) or **Cmd** + **Y** (Mac).
 * ![template to create flyers rapidly](/help/using/assets/zoomin.svg): Click to zoom in the canvas or press **Ctrl** + **+** (Windows) or Cmd + **+** (Mac).
