@@ -7,7 +7,7 @@ exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
 ---
 # Dynamic Media templates{#dynamic-media-templates}
 
-| [Search Best Practices](/help/assets/search-best-practices.md) |[Metadata Best Practices](/help/assets/metadata-best-practices.md)|[Content Hub](/help/assets/product-overview.md)|[AEM Assets developer documentation](https://developer.adobe.com/experience-cloud/experience-manager-apis/)|
+| [Search Best Practices](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) |[Metadata Best Practices](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices)|[Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview)|[AEM Assets developer documentation](https://developer.adobe.com/experience-cloud/experience-manager-apis/)|
 | ------------- | --------------------------- |---------|-----|
 
 Create Dynamic Media templates using a WYSIWYG template editor and include multiple images and text layers to quickly create banners and flyers and use them in downstream applications. You can also add parameters to the images and text layers included in the template and use [Dynamic Media URLs](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) to update the values for those layers in real-time.
@@ -38,10 +38,10 @@ Some of the key benefits of Dynamic Media templates include:
 To create a Dynamic Media template, you must have:
 
 1. Access to Dynamic Media.
-1. [Synced the images available in your AEM Assets instance with Dynamic Media to use them for creating the template](/help/assets/dynamic-media/config-dm.md).
+1. [Synced the images available in your AEM Assets instance with Dynamic Media to use them for creating the template](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
 1. verified the following in the Touch UI:
-   * On the **[!UICONTROL Edit Dynamic Media Configuration page]**, **[!UICONTROL Dynamic Media sync mode]** that is set to **[!UICONTROL Disabled by default]**, is not applied to all AEM folders (**[!UICONTROL Sync all content]** is unchecked). See [configuring Dynamic Media Cloud Service](/help/assets/dynamic-media/config-dm.md) for more information.
-   * **[!UICONTROL Dynamic Media sync mode]** is set to **[!UICONTROL Enable for subfolders]** for the destination folder or subfolder where you will save the template after creation. See [configuring Dynamic Media Cloud Service](/help/assets/dynamic-media/config-dm.md) for more information.
+   * On the **[!UICONTROL Edit Dynamic Media Configuration page]**, **[!UICONTROL Dynamic Media sync mode]** that is set to **[!UICONTROL Disabled by default]**, is not applied to all AEM folders (**[!UICONTROL Sync all content]** is unchecked). See [configuring Dynamic Media Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) for more information.
+   * **[!UICONTROL Dynamic Media sync mode]** is set to **[!UICONTROL Enable for subfolders]** for the destination folder or subfolder where you will save the template after creation. See [configuring Dynamic Media Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) for more information.
 
 ## Create Dynamic Media WYSIWYG template{#how-to-create-dynamic-media-wysiwyg-template}
 
@@ -63,7 +63,7 @@ Execute these steps to create a blank canvas:
 
 1.  Click **[!UICONTROL Create Template]** to save the template under Dynamic Media Assets or navigate to a folder and click **[!UICONTROL Create Template]** to save the template within that folder. The **[!UICONTROL New Template]** dialog box displays.
 ![how to create dynamic templates that can be customised in real time](/help/using/assets/new-template.png)
-To [create a folder](/help/assets/add-delete-assets-view.md) under **[!UICONTROL Dynamic Media Assets]**, create a folder under **[!UICONTROL Assets]**. The folder tree under **[!UICONTROL Assets]** replicates under **[!UICONTROL Dynamic Media Assets]**. 
+To [create a folder](/help/using/add-delete.md) under **[!UICONTROL Dynamic Media Assets]**, create a folder under **[!UICONTROL Assets]**. The folder tree under **[!UICONTROL Assets]** replicates under **[!UICONTROL Dynamic Media Assets]**. 
 1. Specify a template name, define the canvas width and height, and click **[!UICONTROL Create]**. A blank canvas displays with menu options on both sides to use for creating the template. Hover over the menu options to see their tooltip. 
 ![real-time customizable template](/help/using/assets/blank-canvas-page.png)
 
@@ -115,7 +115,7 @@ See the [**[!UICONTROL Properties Panel]**](#reposition-resize-delete-a-layer) t
 
    >[!NOTE]
    >
-   > To use a font other than the default Adobe Sans F2 font family, you need to upload and publish the font file to AEM Assets and Dynamic Media. If you have some old fonts in your instance, ensure to [reprocess](/help/assets/reprocessing-assets-view.md) to view them in the Template editor.
+   > To use a font other than the default Adobe Sans F2 font family, you need to upload and publish the font file to AEM Assets and Dynamic Media. If you have some old fonts in your instance, ensure to [reprocess](/help/using/reprocessing.md) to view them in the Template editor.
 
 ### Edit or delete a layer {#edit-or-delete-a-layer}
 
@@ -275,5 +275,5 @@ Edit the template by following these steps:
 
 ## See also
 
-1. Explore [Dynamic Media and its capabilities](/help/assets/dynamic-media/dynamic-media.md)
-1. Explore [Dynamic Media with OpenAPI capabilities](/help/assets/dynamic-media-open-apis-overview.md)
+1. Explore [Dynamic Media and its capabilities](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media)
+1. Explore [Dynamic Media with OpenAPI capabilities](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview)
