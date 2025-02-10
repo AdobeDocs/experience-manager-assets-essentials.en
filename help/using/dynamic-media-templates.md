@@ -10,6 +10,12 @@ exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
 | [Search Best Practices](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices) |[Metadata Best Practices](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices)|[Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview)|[AEM Assets developer documentation](https://developer.adobe.com/experience-cloud/experience-manager-apis/)|
 | ------------- | --------------------------- |---------|-----|
 
+>[!CONTEXTUALHELP]
+>id="assets_dm_templates"
+>title="Manage Dynamic Media templates"
+>abstract="Create and personalize image and text banners on the fly, with an easy-to-use WYSIWYG interface, and embed the Dynamic Media URL in any first or third- party application, to drive highly engaging experiences. Give it a try!"
+>additional-url="https://images-tv.adobe.com/mpcv3/4477/b74738ca-888c-4a37-9a9e-14fabd68ee45_1738206841.854x480at800_h264.mp4" text="Watch Video"
+
 Create Dynamic Media templates using a WYSIWYG template editor and include multiple images and text layers to quickly create banners and flyers and use them in downstream applications. You can also add parameters to the images and text layers included in the template and use [Dynamic Media URLs](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/catalog-urls-dynamic-media) to update the values for those layers in real-time.
 
 Some of the key features include:
