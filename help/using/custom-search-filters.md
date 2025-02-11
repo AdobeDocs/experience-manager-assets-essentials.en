@@ -40,7 +40,7 @@ You can use a collection of filter elements on your custom search filters canvas
 * **Number:** Use this filter element to represent a numeric value.
 * **Drop down:** To choose among various options displayed in a list of options.
 * **Date:** Used to specify date.
-* **Path browser:** Used to navigate through files/folders in the [!DNL Experience Manager] repository.
+* **Path browser:** Used to navigate through files or folders in the [!DNL Experience Manager] repository.
 * **Tags:** Used to select tags from the available options. Tags provide more specific information about the assets and enhance their discoverability. Tags already applied to the selected assets displays in the **Properties** panel. If you can't find the relevant tags, create them and assign to the selected assets. See [Manage tags in Assets Essentials](/help/using/tagging-management.md) for details on creating and assigning tags to assets.
 * **User:** Used to specify the type of user among administrators, regular, and consumer users.
 
