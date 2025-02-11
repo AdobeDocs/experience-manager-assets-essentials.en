@@ -50,4 +50,5 @@ solution: Experience Manager
 + Integration with Creative Cloud {#integration-with-creative-cloud}
   + [Connect AEM Assets to Creative Cloud](connect-assets-with-creative-cloud.md)
 + [Videos](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/overview.html)
++ [Dynamic Media templates](dynamic-media-templates.md)
 
