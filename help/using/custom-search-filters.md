@@ -3,7 +3,7 @@ title: Custom search filters
 description: Learn about customizing search filters form
 role: User, Leader, Developer
 ---
-## Customize search filters {#customize-search-filters}
+# Customize search filters {#customize-search-filters}
 
 Search filters allow you to refine search results based on various parameters such as date, file type, tags, and relevance, enhancing the precision of search queries. By applying filters, you can quickly sift through the most relevant and targeted results efficiently. This not only saves time but also improves the overall search experience by tailoring results to specific preferences and needs.
 See more about [search](search.md).
