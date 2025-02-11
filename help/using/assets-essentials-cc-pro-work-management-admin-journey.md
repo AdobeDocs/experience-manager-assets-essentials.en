@@ -71,7 +71,7 @@ After managing the user entitlements in Admin Console, administrators can use th
 
 * Setup metadata forms
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](deploy-administer.md)
+[![See the Guide](assets/see-the-guide-sm.png)](deploy-administer.md)
 
 Now that you have configured and managed the Assets Essentials application, [integrate Creative Cloud applications with Experience Manager Assets Essentials application](integrate-with-creative-cloud.md).
 
@@ -93,7 +93,7 @@ Goals:
 
 * Use Adobe Asset Link
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
+[![See the Guide](assets/see-the-guide-sm.png)](integrate-with-creative-cloud.md)
 
 Now that you have integrated the Creative Cloud applications with Assets Essentials, [integrate Adobe Workfront with Experience Manager Assets Essentials](integrate-with-workfront.md).
 
@@ -113,4 +113,4 @@ Goals:
 
 * Configure Experience Manager Assets Essentials integration
 
-[![See the Guide](https://helpx.adobe.com/content/dam/help/en/marketing-cloud/how-to/digital-foundation/_jcr_content/main-pars/image_1250343773/see-the-guide-sm.png)](integrate-with-workfront.md)
+[![See the Guide](assets/see-the-guide-sm.png)](integrate-with-workfront.md)
