@@ -163,11 +163,11 @@ You can also navigate to the folder details page and select **[!UICONTROL System
 
 ### Working with Link component in metadata form {#link-component-metadata-form}
 
-The link component is used to enable external URLs including storage links, copyright information, contact forms, and so on. To use link component on metadata form, you need to [configure metadata form](#metadata-forms). The URL component can be mapped to a particular metadata property in the Metadata Editor page, which works in the same way as other metadata components. This metadata form can be assigned to folders. Thus in the assigned Folder asset's detail page, you may see the asset link metadata value.
+The link component is used to enable external URLs including storage links, copyright information, contact forms, and so on. To use link component on metadata form, you need to [configure metadata form](#metadata-forms). The URL component can be mapped to a particular metadata property in the Metadata Editor page, which works in the same way as other metadata components. This metadata form can be assigned to folders. Thus, in the assigned Folder asset's detail page, you may see the asset link metadata value.
 
-Follow the steps below to use link component on the asset details page:
+Follow the steps below to use the link component on the asset details page:
 
-1. Go to asset details page and navigate to **[!UICONTROL Link URL]**.
+1. Go to the asset details page and navigate to the **[!UICONTROL Link URL]**.
 1. Add a URL that you want to use to redirect for the selected asset.
 1. Click **[!UICONTROL Add link]**. Perform one of the following actions:
    * Click ![copy icon](assets/do-not-localize/copy.svg) to copy the URL.
@@ -178,20 +178,20 @@ Follow the steps below to use link component on the asset details page:
 
 The root element represents the tree structure of the tags associated with an asset, helping to identify the asset based on the tag assigned to it. Additionally, you can restrict the tag to a specific taxonomy while configuring the metadata form.
 
-Follow the steps below to use link component on the asset details page:
+Follow the steps below to use the link component on the asset details page:
 
-1. Go to asset details page and navigate to **[!UICONTROL Tags]**.
+1. Go to the asset details page and navigate to **[!UICONTROL Tags]**.
 1. Rename the component on the canvas.
-1. Under [!UICONTROL Metadata property] in the settings panel, search for the parent tag (or root tag) you want to assign to the component.
+1. Under the [!UICONTROL Metadata property] in the settings panel, search for the parent tag (or root tag) you want to assign to the component.
 1. Click **[!UICONTROL Save]** to save the changes.
 
    ![Root tags configuration](assets/root-tag-config.png)
 
-1. Go back to settings of the Metadata form > select a Metadata form > click [!UICONTROL Assign to folder] to assign parent folder to the tag. Select Folder screen(s) appears. 
+1. Go back to the settings of the Metadata form > select a Metadata form > click [!UICONTROL Assign to folder] to assign a parent folder to the tag. Select Folder screen(s) appears. 
 1. Navigate to the folder that you want to assign to the metadata form.
 1. Click **[!UICONTROL Assign]**.
 
-To view the configured root tags, go to asset details page where the mapping between metadata form and root tags is performed.
+To view the configured root tags, go to the asset details page where the mapping between metadata form and root tags is performed.
 
 ## Next Steps {#next-steps}
 
