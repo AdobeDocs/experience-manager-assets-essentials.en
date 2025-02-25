@@ -174,6 +174,25 @@ Follow the steps below to use link component on the asset details page:
    * Click ![edit icon](assets/do-not-localize/edit.svg) to edit the URL.
 1. Click **[!UICONTROL Save]** to save the changes.
 
+### Working with Tags component in metadata form {#tag-component-metadata-form}
+
+The root element represents the tree structure of the tags associated with an asset, helping to identify the asset based on the tag assigned to it. Additionally, you can restrict the tag to a specific taxonomy while configuring the metadata form.
+
+Follow the steps below to use link component on the asset details page:
+
+1. Go to asset details page and navigate to **[!UICONTROL Tags]**.
+1. Rename the component on the canvas.
+1. Under [!UICONTROL Metadata property] in the settings panel, search for the parent tag (or root tag) you want to assign to the component.
+1. Click **[!UICONTROL Save]** to save the changes.
+
+   ![Root tags configuration](assets/root-tag-config.png)
+
+1. Go back to settings of the Metadata form > select a Metadata form > click [!UICONTROL Assign to folder] to assign parent folder to the tag. Select Folder screen(s) appears. 
+1. Navigate to the folder that you want to assign to the metadata form.
+1. Click **[!UICONTROL Assign]**.
+
+To view the configured root tags, go to asset details page where the mapping between metadata form and root tags is performed.
+
 ## Next Steps {#next-steps}
 
 * [Watch a video to manage metadata forms in Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/configuring/metadata-forms.html)
