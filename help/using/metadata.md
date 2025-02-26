@@ -180,9 +180,9 @@ The root element represents the tree structure of the tags associated with an as
 
 Follow the steps below to use the link component on the asset details page:
 
-1. Go to the asset details page and navigate to **[!UICONTROL Tags]**.
+1. Go to metadata editor and navigate to **[!UICONTROL Tags]**.
 1. Rename the component on the canvas.
-1. Under the [!UICONTROL Metadata property] in the settings panel, search for the parent tag (or root tag) you want to assign to the component.
+1. Under the [!UICONTROL Metadata property] in the settings panel, search for the taxonomy you want to assign to the component.
 1. Click **[!UICONTROL Save]** to save the changes.
 
    ![Root tags configuration](assets/root-tag-config.png)
