@@ -176,22 +176,23 @@ Follow the steps below to use the link component on the asset details page:
 
 ### Working with Tags component in metadata form {#tag-component-metadata-form}
 
-The root element represents the tree structure of the tags that you can associate with the assets, helping to identify the asset based on the tag assigned to it. Additionally, you can restrict the access of a specific taxonomy while configuring the metadata form for an asset or the folder.
+The root element represents the tree structure of the tags that you can associate with the assets, helping to identify the asset based on the tag assigned to it. Additionally, you can restrict the access of a specific taxonomy while configuring the metadata form in metadata editor.
 
-#### Tag component configuration {#tag-component-configuration}
+#### Tags component configuration {#tags-component-configuration}
 
-Configure the tag component by executing the following steps:
+Configure the tags component by executing the following steps:
 
 1. Go to the metadata editor and navigate to **[!UICONTROL Tags]** and place it on the canvas.
 1. Rename the component on the canvas. To do this, go to **[!UICONTROL Label]** under the [!UICONTROL Metadata property] in the settings panel and add the text for its identification.
-1. Under the [!UICONTROL Metadata property] in the settings panel, search for the taxonomy you want to assign to the component.
-1. Click **[!UICONTROL Restrict to specific taxonomy]** to restrict the root path of the particular asset or folder. To do this, browse tags and choose the taxonomy to the particular path.
+1. Under the [!UICONTROL Metadata property] in the settings panel, search for the metadata property that you want to assign to the component.
+1. Click **[!UICONTROL Restrict to specific taxonomy]** to restrict root path of the taxonomy. To do this, browse tags and choose the taxonomy to the particular path.
 1. Click **[!UICONTROL Save]** to save the changes.
 
    ![Root tags configuration](assets/root-tag-config.png)
 
 #### Mapping between assets and taxonomy {#asset-taxonomy-mapping}
 
+[Assign metadata form to folders](#assign-metadata-form-folder)
 Follow the steps below to perform mapping between folder and taxonomy:
 
 1. Go back to the Settings and click **[!UICONTROL Metadata forms]** 
@@ -199,8 +200,6 @@ Follow the steps below to perform mapping between folder and taxonomy:
 1. Click **[!UICONTROL Assign to folder(s)]**. **[!UICONTROL Select Folder(s)]** screen appears. 
 1. Navigate to the folder that you want to assign to the metadata form. You can select multiple folders.
 1. Click **[!UICONTROL Assign]**.
-
-To view the configured root tags, go to the asset's details page where the mapping between metadata form and root tags is performed.
 
 ## Next Steps {#next-steps}
 
