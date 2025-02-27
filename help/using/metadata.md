@@ -192,8 +192,7 @@ Configure the tags component by executing the following steps:
 
 #### Mapping between assets and taxonomy {#asset-taxonomy-mapping}
 
-[Assign metadata form to folders](#assign-metadata-form-folder)
-Follow the steps below to perform mapping between folder and taxonomy:
+See [Assign metadata form to folders](#assign-metadata-form-folder). Follow the steps below to perform mapping between folder and taxonomy:
 
 1. Go back to the Settings and click **[!UICONTROL Metadata forms]** 
 1. Select a Metadata form that needs mapping. 
