@@ -129,7 +129,7 @@ You can use a collection of filter elements on your custom search filters canvas
     </tr>
     <tr>
         <td>Tags</td>
-        <td>Used to select tags from the available options. Tags provide more specific information about the assets and enhance their discoverability. Tags already applied to the selected assets displays in the **Properties** panel. If you store tags on a custom metadata property and use the root path to restrict it to a hierarchy, you can leverage the same configuration in your search filters. If you can't find the relevant tags, create them and assign to the selected assets. See [Manage tags in Assets Essentials](/help/using/tagging-management.md) for details on creating and assigning tags to assets.</td>
+        <td>Used to select tags from the available options. Tags provide more specific information about the assets and enhance their discoverability. Tags already applied to the selected assets displays in the <b>Properties</b> panel. If you store tags on a custom metadata property and use the root path to restrict it to a hierarchy, you can leverage the same configuration in your search filters. If you can't find the relevant tags, create them and assign to the selected assets. See <a href = "/help/using/tagging-management.md"> Manage tags in Assets Essentials </a> for details on creating and assigning tags to assets.</td>
         <td>
             <ul>
                 <li>Label
