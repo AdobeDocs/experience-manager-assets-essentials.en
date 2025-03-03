@@ -42,7 +42,7 @@ You can perform the following tasks to manage and use collections:
 
 * [Delete a collection](#delete-collection)
 
-* [Manage permissions to a private collection](#manage-permissions-to-a-private-collection)
+* [Manage permissions to a private collection](#manage-permissions-private-collection)
 
 ## Create a collection {#create-collection}
 
