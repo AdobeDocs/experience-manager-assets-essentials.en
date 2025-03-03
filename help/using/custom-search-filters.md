@@ -412,7 +412,7 @@ To delete a search filter, follow these steps:
 
 After configuring the search filters, you can use them to search for assets within the repository.
 
-![Using custom search filters](using-custom-search-filters.png)
+![Using custom search filters](assets/using-custom-search-filters.png)
 
 >[!MORELIKETHIS]
 >
