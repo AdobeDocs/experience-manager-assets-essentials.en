@@ -2,6 +2,7 @@
 title: Custom search filters
 description: Learn about customizing search filters form
 role: User, Leader, Developer
+exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
 ---
 # Customize search filters {#customize-search-filters}
 
