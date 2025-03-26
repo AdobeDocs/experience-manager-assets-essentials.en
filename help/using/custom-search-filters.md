@@ -8,23 +8,23 @@ exl-id: 8c579d5b-6bfc-44bb-a381-ca5716bd20cb
 <table>
     <tr>
         <td>
-            <img src="assets/new.gif" width="20px" height="30px" alt="new">
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
             <a href="/help/assets/dynamic-media/dm-prime-ultimate.md"><b>Dynamic Media Prime and Ultimate</b></a>
         </td>
         <td>
-            <img src="assets/new.gif" width="20px" height="30px" alt="new">
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
             <a href="/help/assets/assets-ultimate-overview.md"><b>AEM Assets Ultimate</b></a>
         </td>
         <td>
-            <img src="assets/new.gif" width="20px" height="30px" alt="new">
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
             <a href="/help/assets/integrate-aem-assets-edge-delivery-services.md"><b>AEM Assets integration with Edge Delivery Services</b></a>
         </td>
         <td>
-            <img src="assets/new.gif" width="20px" height="30px" alt="new">
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
             <a href="/help/assets/aem-assets-view-ui-extensibility.md"><b>UI Extensibility</b></a>
         </td>
           <td>
-            <img src="assets/new.gif" width="20px" height="30px" alt="new">
+            <img src="assets/new.gif" width="20px" height="25px" alt="new">
             <a href="/help/assets/dynamic-media/enable-dynamic-media-prime-and-ultimate.md"><b>Enable Dynamic Media Prime and Ultimate</b></a>
         </td>
     </tr>
