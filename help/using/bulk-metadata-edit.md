@@ -3,6 +3,49 @@ title: Bulk metadata edit in Assets Essentials
 description: Learn how you can update a predefined set of standard metadata fields for multiple assets available on Assets Essentials simultaneously.
 exl-id: 17185160-6c51-4581-a716-77b365ef3dd9
 ---
+
+<table>
+    <tr>
+        <td>
+            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-prime-ultimate"><b>Dynamic Media Prime and Ultimate</b></a>
+        </td>
+        <td>
+            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-ultimate-overview"><b>AEM Assets Ultimate</b></a>
+        </td>
+        <td>
+            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
+            <a href="http://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/integrate-aem-assets-edge-delivery-services"><b>AEM Assets integration with Edge Delivery Services</b></a>
+        </td>
+        <td>
+            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/assets-view/aem-assets-view-ui-extensibility"><b>UI Extensibility</b></a>
+        </td>
+          <td>
+            <img src="assets/new2.gif" width="20px" height="25px" alt="new">
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/custom-search-filters"><b>Custom Search Filters</b></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/search-best-practices"><b>Search Best Practices</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/best-practices/metadata-best-practices"><b>Metadata Best Practices</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/content-hub/product-overview"><b>Content Hub</b></a>
+        </td>
+        <td>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview"><b>Dynamic Media with OpenAPI capabilities</b></a>
+        </td>
+        <td>
+            <a href="https://developer.adobe.com/experience-cloud/experience-manager-apis/"><b>AEM Assets developer documentation</b></a>
+        </td>
+    </tr>
+</table>
+
 # Bulk metadata edit in Assets Essentials{#how-to-edit-the-metadata-of-multiple-assets-simultaneously}
 
 The **Bulk Metadata Edit** feature within the Assets Essentials allows users to edit a predefined set of standard metadata fields for multiple asset files simultaneously. Select multiple assets and bulk update their predefined set of standard metadata at once rather than updating those standard metadata for each asset individually. This feature enhances the efficiency, consistency, and accuracy of standard metadata properties across a large set of assets, improving asset searchability and organization.  
