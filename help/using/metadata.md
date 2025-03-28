@@ -163,16 +163,47 @@ You can also navigate to the folder details page and select **[!UICONTROL System
 
 ### Working with Link component in metadata form {#link-component-metadata-form}
 
-The link component is used to enable external URLs including storage links, copyright information, contact forms, and so on. To use link component on metadata form, you need to [configure metadata form](#metadata-forms). The URL component can be mapped to a particular metadata property in the Metadata Editor page, which works in the same way as other metadata components. This metadata form can be assigned to folders. Thus in the assigned Folder asset's detail page, you may see the asset link metadata value.
+The link component is used to enable external URLs including storage links, copyright information, contact forms, and so on. To use link component on metadata form, you need to [configure metadata form](#metadata-forms). The URL component can be mapped to a particular metadata property in the Metadata Editor page, which works in the same way as other metadata components. This metadata form can be assigned to folders. Thus, in the assigned Folder asset's detail page, you may see the asset link metadata value.
 
-Follow the steps below to use link component on the asset details page:
+Follow the steps below to use the link component on the asset details page:
 
-1. Go to asset details page and navigate to **[!UICONTROL Link URL]**.
+1. Go to the asset details page and navigate to the **[!UICONTROL Link URL]**.
 1. Add a URL that you want to use to redirect for the selected asset.
 1. Click **[!UICONTROL Add link]**. Perform one of the following actions:
    * Click ![copy icon](assets/do-not-localize/copy.svg) to copy the URL.
    * Click ![edit icon](assets/do-not-localize/edit.svg) to edit the URL.
 1. Click **[!UICONTROL Save]** to save the changes.
+
+### Working with Tags component in metadata form {#tag-component-metadata-form}
+
+The root element represents the tree structure of the tags that you can associate with the assets, helping to identify the asset based on the tag assigned to it. Additionally, you can restrict the access of a specific taxonomy while configuring the metadata form in metadata editor.
+
+#### Tags component configuration {#tags-component-configuration}
+
+Configure the tags component by executing the following steps:
+
+1. Go to the metadata editor and navigate to **[!UICONTROL Tags]** and place it on the canvas.
+1. Rename the component on the canvas. To do this, go to **[!UICONTROL Label]** under the [!UICONTROL Metadata property] in the settings panel and add the text for its identification.
+1. Under the [!UICONTROL Metadata property] in the settings panel, search for the metadata property that you want to assign to the component.
+1. Click **[!UICONTROL Restrict to specific taxonomy]** to restrict root path of the taxonomy. To do this, browse tags and choose the taxonomy to the particular path.
+1. Click **[!UICONTROL Save]** to save the changes.
+
+   ![Root tags configuration](assets/root-tag-config.png)
+1. [Assign metadata form to folders](#assign-metadata-form-folder).
+
+<!--
+#### Mapping between assets and taxonomy {#asset-taxonomy-mapping}
+
+See [Assign metadata form to folders](#assign-metadata-form-folder). Follow the steps below to perform mapping between folder and taxonomy:
+
+1. Go back to the Settings and click **[!UICONTROL Metadata forms]**.
+1. Select a Metadata form that needs mapping. 
+1. Click **[!UICONTROL Assign to folder(s)]**. **[!UICONTROL Select Folder(s)]** screen appears. 
+1. Navigate to the folder that you want to assign to the metadata form. You can select multiple folders.
+1. Click **[!UICONTROL Assign]**.
+-->
+
+To view the configured root tags, go to the asset's details page where the mapping between the metadata form and root tags is performed.
 
 ## Next Steps {#next-steps}
 
@@ -180,7 +211,7 @@ Follow the steps below to use link component on the asset details page:
 
 * Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
 
-*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
+* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
 
