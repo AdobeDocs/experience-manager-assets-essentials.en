@@ -56,4 +56,4 @@ See [Translate assets in AEM](https://experienceleague.adobe.com/en/docs/experie
 >
 >* [View versions of an asset](manage-organize.md#view-versions)
 >* [Translate assets in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
->* [Supported File Formats in Assets View](supported-file-formats-assets-view.md).
+>* [Supported File Formats in Assets View](supported-file-formats.md).
