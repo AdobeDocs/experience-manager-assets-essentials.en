@@ -28,7 +28,7 @@ Using this feature, you have the flexibility to share a low resolution PDF file 
     * To relate a derived file, select **[!UICONTROL Add Derived]** from the list. You can associate multiple assets in this category.
     * To create a two-way relationship between the assets, select **[!UICONTROL Add Other]** from the list. You can associate multiple assets in this category.
 
-1. From the **[!UICONTROL Select Assets]** screen, navigate to the location of the asset you want to relate, and select it. You can select a single asset at a time or multiple assets by holding the shift key while clicking, which may include any of the [supported file formats in Assets View](/help/assets/supported-file-formats-assets-view.md).
+1. From the **[!UICONTROL Select Assets]** screen, navigate to the location of the asset you want to relate, and select it. You can select a single asset at a time or multiple assets by holding the shift key while clicking, which may include any of the [supported file formats in Assets View](supported-file-formats.md).
 
    ![add related asset](assets/add-related-asset.png)
 
@@ -36,13 +36,13 @@ Using this feature, you have the flexibility to share a low resolution PDF file 
 
    ![Assets relation example](assets/asset-relations-example.png)
 
-1. Click **[!UICONTROL Unrelate]** ![unrelate assets](assets/do-not-localize/link-unrelate-icon.png) to un-relate an asset.
+1. Click **[!UICONTROL Unrelate]** ![unrelate assets](do-not-localize/link-unrelate-icon.png) to un-relate an asset.
 
 ## Translate related assets {#translating-related-assets}
 
 Creating source/ derived relationships between assets using the related assets feature is also helpful in translation workflows. When you run a translation workflow on a derived asset, [!DNL Experience Manager Assets] automatically fetches any asset that the source file references and includes it for translation. This way, the asset referenced by the source asset is translated along with the source and derived assets. If the source file is related to another asset, [!DNL Experience Manager Assets] fetches the referenced asset and includes it for translation.
 
-See [Translate assets in AEM](/help/assets/translate-assets.md).
+See [Translate assets in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets).
 
 ## Next Steps {#next-steps}
 
@@ -54,6 +54,6 @@ See [Translate assets in AEM](/help/assets/translate-assets.md).
 
 >[!MORELIKETHIS]
 >
->* [View versions of an asset](/help/assets/manage-organize-assets-view.md#view-versions)
->* [Translate assets in AEM](/help/assets/translate-assets.md)
->* [Supported File Formats in Assets View](/help/assets/supported-file-formats-assets-view.md).
+>* [View versions of an asset](/help/assets/manage-organize.md#view-versions)
+>* [Translate assets in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/admin/translate-assets)
+>* [Supported File Formats in Assets View](supported-file-formats-assets-view.md).
