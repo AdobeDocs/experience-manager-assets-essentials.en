@@ -38,6 +38,7 @@ solution: Experience Manager
 + [Bulk metadata edit](/help/using/bulk-metadata-edit.md)
 + [Share assets](share-links-for-assets.md)
 + [Manage collections](manage-collections.md)
++ [Asset Relations](asset-relations.md)
 + [Watch assets, folders, and collections](manage-notifications.md)
 + [Manage reports](manage-reports.md)
 + [Reprocessing](reprocessing.md)
