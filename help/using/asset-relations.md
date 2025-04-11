@@ -4,6 +4,7 @@ description: Learn how to relate digital assets that share some common attribute
 role: User
 feature: Collaboration,Asset Management
 solution: Experience Manager, Experience Manager Assets
+exl-id: db3c30e4-a0c2-4686-a291-36a959fc3d05
 ---
 # Asset relations {#related-assets}
 
