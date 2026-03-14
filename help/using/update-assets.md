@@ -1,7 +1,7 @@
 ---
 title: Update or modify assets
 description: Update assets that exist in the repository
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 ---
 
@@ -9,7 +9,8 @@ contentOwner: AG
 
 You can update the existing assets by uploading a new version or editing images in [!DNL Assets Essentials].
 
-<!-- TBD: Discard this article if not too much unique content for it.
+<!-- 
+TBD: Discard this article if not too much unique content for it.
 Merge the update asset part in manage assets or upload assets.
 Edit images article.
 Link to versioning once an asset is updated.

@@ -6,12 +6,12 @@ exl-id: 43ddf11c-36d3-4643-80c9-b7dd5d199450
 ---
 # [!DNL Adobe Experience Manager Assets Essentials] overview {#assets-essentials}
 
-<!-- TBD: Update this banner to remove Beta label. 
+<!-- 
+TBD: Update this banner to remove Beta label. 
 ![Banner image for beta docs](assets/do-not-localize/banner-image-beta-docs.png)
-
 -->
 
-Adobe offers robust Digital Asset Management (DAM) solutions for you to get the most out of your digital assets. Adobe Experience Manager Assets Essentials is Adobe’s lightweight asset management solution to store, manage, discover, and use digital assets.
+Adobe offers robust Digital Asset Management (DAM) solutions for you to get the most out of your digital assets. Adobe Experience Manager Assets Essentials is Adobe's lightweight asset management solution to store, manage, discover, and use digital assets.
 
 ## What is Assets Essentials? {#assets-essemtials-overview}
 

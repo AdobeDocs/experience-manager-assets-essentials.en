@@ -34,7 +34,8 @@ Integrate AEM Assets with document-based authoring for Edge Delivery Services to
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
 
-<!-- TBD: Hiding this link till GA. Do not even include the beta mention as discussed with Greg. Beta is done with customers selected by the Accounts team. It is not an open Beta program. At GA, document this.
+<!-- 
+TBD: Hiding this link till GA. Do not even include the beta mention as discussed with Greg. Beta is done with customers selected by the Accounts team. It is not an open Beta program. At GA, document this.
 
 * **[[!DNL Creative Cloud Libraries]**: This integration will be made available in the future.
 

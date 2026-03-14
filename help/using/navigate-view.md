@@ -40,11 +40,13 @@ When browsing through assets in a folder, you can use the interface to view asse
 
 * **Settings**: You can configure various options of Assets Essentials using **Settings**, such as, Metadata forms, Reports, and Taxonomy Management.
 
-<!-- TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
+<!-- 
+TBD: Not sure if we want to publish these right now. CC Libs are beta as per Greg.
 * **Libraries**: Access to [!DNL Adobe Creative Cloud Team] (CCT) Libraries view. This view is visible only if the user is entitled to CCT Libraries.
 -->
 
-<!-- TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
+<!-- 
+TBD: My Work Space shows task inbox and it is not visible on AEM Cloud Demos as of now. It is the source of truth server hence not documenting My Work Space option for now.
 -->
 
 You can open or collapse the left sidebar to increase the available asset-viewing area.
@@ -80,7 +82,8 @@ You can also preview videos.
 
 If you explicitly preview an asset, then [!DNL Assets Essentials] displays it as a recently viewed asset.
 
-<!-- TBD: Describe the options.
+<!-- 
+TBD: Describe the options.
 
 Explicitly previewed assets are displayed as recently viewed assets. Give screenshot of this.
 Other use cases after previewing.
@@ -99,9 +102,7 @@ You can select the columns that display in the Assets List view, such as Status,
 ## Next Steps {#next-steps}
 
 * Provide product feedback using the [!UICONTROL Feedback] option available on the Assets Essentials user interface
-
-*  Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
-
+* Provide documentation feedback using [!UICONTROL Edit this page] ![edit the page](assets/do-not-localize/edit-page.png) or [!UICONTROL Log an issue] ![create a GitHub issue](assets/do-not-localize/github-issue.png) available on the right sidebar
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
 
 >[!MORELIKETHIS]
