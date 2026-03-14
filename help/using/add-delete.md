@@ -14,7 +14,8 @@ You can use the following methods to upload one or more assets or a folder conta
 * Click **[!UICONTROL Add Assets]** option from the toolbar and add some files to the upload dialog.
 
 <!-- TBD: Update this GIF
-![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) -->
+![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) 
+-->
 
 You can use any of these methods to upload assets after creating a folder. To create an empty folder, click **[!UICONTROL Create Folder]** from the toolbar. While [!DNL Assets Essentials] offers a powerful, full-text search functionality, you can also use folders to organize your assets better.
 

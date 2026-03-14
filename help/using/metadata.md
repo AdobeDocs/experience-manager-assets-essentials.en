@@ -1,7 +1,7 @@
 ---
 title: Manage metadata
 description: Manage metadata of assets in [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: cfc105d1-41fc-4418-9905-b2a28a348682
 ---
@@ -215,7 +215,8 @@ To view the configured root tags, go to the asset's details page where the mappi
 
 * Contact [Customer Care](https://experienceleague.adobe.com/?support-solution=General#support)
 
-<!-- TBD: Cannot create a form using the second option. Documenting only the first option for now.
+<!-- 
+TBD: Cannot create a form using the second option. Documenting only the first option for now.
 To reuse an existing form to create a new form, do one of these:
 
 * Select a metadata form and click **[!UICONTROL Copy]** from the toolbar, provide a name, and click **[!UICONTROL Confirm]**.
@@ -223,7 +224,8 @@ To reuse an existing form to create a new form, do one of these:
 * Click **[!UICONTROL Create]**, select **[!UICONTROL Use existing form structure as template]** option, and select an existing form. 
 -->
 
-<!-- TBD: Queries for PM and engg.
+<!-- 
+TBD: Queries for PM and engg.
 
 Can we edit the existing metadata in any form?
 
@@ -238,7 +240,8 @@ Is there a detailed metadata tab. Where do the other details of an asset go?
 How can one search based strictly on the metadata. Similar to AEM Assets GQL queries.
 -->
 
-<!-- TBD: Link to related articles if any.
+<!-- 
+TBD: Link to related articles if any.
 
 >[!MORELIKETHIS]
 >

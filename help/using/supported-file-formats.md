@@ -1,7 +1,7 @@
 ---
 title: Supported file formats
 description: Supported file formats for the various use cases of [!DNL Assets Essentials]
-role: User,Leader,Admin,Architect,Developer
+role: User,Leader,Admin,Developer
 contentOwner: AG
 exl-id: bc44e98d-446e-41ff-b5b4-9dc324834630
 ---
@@ -29,7 +29,8 @@ The various file types have different degrees of support for the use cases and f
 
 ## Add, upload, and view assets {#support-to-upload-view}
 
-<!-- TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
+<!-- 
+TBD: For AEM, AI files require the PDF option to be selected when saving the AI file.
 -->
 
 | Asset type        | [Browse](/help/using/navigate-view.md)   | Copy     | [Upload](/help/using/add-delete.md)   | Create   | [Delete](/help/using/add-delete.md#delete-assets)   | Details           | Image zoom | [Recently Viewed](/help/using/navigate-view.md) |
@@ -42,7 +43,8 @@ The various file types have different degrees of support for the use cases and f
 | PSD, AI, PSB, and INDD | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003; &Dagger; | &minus;    | &#10003;        |
 | Other binary files | &#10003; | &#10003; | &#10003; | &minus;  | &#10003; | &#10003; | &minus; | &#10003;        |
 
-<!-- Hiding CC Libraries (considered beta) as per PM feedback.
+<!-- 
+Hiding CC Libraries (considered beta) as per PM feedback.
 | CC Libraries  | &#10003; | &minus;  | &#10003; | &#10003; | &#10003; | &#10003; | &minus;    | &minus;         |
 -->
 
@@ -98,7 +100,8 @@ The various file types have different degrees of support for the use cases and f
 
 Users of [!DNL Adobe Asset Link] can upload and check-in (upload a new version) files into the [!DNL Assets Essentials] repository from the supported [!DNL Adobe Creative Cloud] desktop applications.
 
-<!-- TBD: Saving the template table separately for later use.
+<!-- 
+TBD: Saving the template table separately for later use.
 | Asset type    | Features |
 |---------------|----------|
 | Raster images |          |

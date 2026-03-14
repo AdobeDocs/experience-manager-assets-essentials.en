@@ -164,11 +164,13 @@ You can also view the **[!UICONTROL Saved Imports]** and **[!UICONTROL Scheduled
 
 ![Save bulk import configuration](assets/bulk-import-options.png)
 
-<!-- If you select to save and run the import, the import configuration displays in the **[!UICONTROL Executed Imports]** tab.
+<!-- 
+If you select to save and run the import, the import configuration displays in the **[!UICONTROL Executed Imports]** tab.
 
 ![Save bulk import configuration](assets/bulk-import-executed.png)
 
-If you schedule an import, it displays in the **[!UICONTROL Scheduled Imports]** tab.  -->
+If you schedule an import, it displays in the **[!UICONTROL Scheduled Imports]** tab.  
+-->
 
 ## Edit bulk import configuration {#edit-import-configuration}
 
