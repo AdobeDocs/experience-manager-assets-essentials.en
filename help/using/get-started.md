@@ -88,6 +88,7 @@ To provide feedback for documentation, click [!UICONTROL Edit this page] ![edit 
 >* [Understand the user interface](/help/using/navigate-view.md).
 >* [Release notes and known issues](/help/using/release-notes.md).
 
-<!-- TBD: 
+<!-- 
+TBD: 
 >* [Supported file types](/help/using/supported-file-formats.md).
 -->

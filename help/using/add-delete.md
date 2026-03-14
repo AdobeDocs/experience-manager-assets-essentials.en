@@ -13,7 +13,8 @@ You can use the following methods to upload one or more assets or a folder conta
 * Drag assets or folders on the user interface and follow the on-screen instructions.
 * Click **[!UICONTROL Add Assets]** option from the toolbar and add some files to the upload dialog.
 
-<!-- TBD: Update this GIF
+<!-- 
+TBD: Update this GIF
 ![Asset and nested folder upload demo](assets/do-not-localize/upload-assets.gif) 
 -->
 

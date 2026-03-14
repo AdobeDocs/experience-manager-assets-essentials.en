@@ -421,7 +421,9 @@ In addition, [!DNL Adobe Asset Link] extension for Creative Cloud (Photoshop, Il
 
 * Adobe deploys Assets Essentials automatically after completing the provisioning process. The administrators do not need to perform additional steps to deploy Assets Essentials using [!DNL Cloud Manager] user interface. This automatic deployment will be available for environments provisioned after 6 January 2022.
 * New versions of Creative Cloud plugins working with Assets Essentials are available on Adobe Exchange - [Adobe Asset Link for Adobe XD v 2.1.0](https://exchange.adobe.com/creativecloud/plugindetails.html/app/cc/61d229b9) and [Adobe Asset Link for Photoshop / InDesign / Illustrator v 3.1.65](https://exchange.adobe.com/creativecloud.details.106875.adobe-asset-link-cep.html).
-* Various bugfixes and product enhancements, including previous known issues (folders now display correctly in the left navigation tree after upload<!-- CQ-4337638 -->, drag and drop upload allows user to select either current folder or any subfolder when dropping for upload<!-- CQ-4327753 -->).
+* Various bugfixes and product enhancements, including previous known issues (folders now display correctly in the left navigation tree after upload<!-- CQ-4337638 -->, drag and drop upload allows user to select either current folder or any subfolder when dropping for upload).
+
+<!-- CQ-4327753 -->
 
 ### 2021.8.0 release {#august2021}
 

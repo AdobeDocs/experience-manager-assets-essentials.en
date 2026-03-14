@@ -53,7 +53,7 @@ Hiding CC Libraries (considered beta) as per PM feedback.
 | Asset type    | [Download](/help/using/manage-organize.md#download) | Drag and drop | [Image editor](/help/using/edit-images.md) | [Search](/help/using/search.md)   | [Smart Tags](/help/using/metadata.md#tags) | [Rename](/help/using/manage-organize.md)   | [Versions](/help/using/manage-organize.md#versions-of-assets) |
 |---------------|----------|---------------|--------------|----------|------------|----------|----------|
 | Raster images | &#10003; | &#10003;      | &#10003;     | &#10003; | &#10003;   | &#10003; | &#10003; |
-| RAW files     | &#10003; | &#10003; | &minus; |  &#10003;   | &#10003; | &#10003;          | &#10003;   | &#10003;        |
+| RAW files     | &#10003; | &#10003;      | &minus;      |  &#10003; | &#10003;  | &#10003; | &#10003; |
 | Folders       | &#10003; | &#10003;      | &minus;      | &#10003; | &minus;    | &#10003; | &#10003;  |
 | Videos        | &#10003; | &#10003;      | &minus;      | &#10003; | &#10003;   | &#10003; | &#10003;  |
 | CC Libraries  | &minus;  | &minus;       | &minus;      | &minus;  | &minus;    | &#10003; | &#10003;  |
