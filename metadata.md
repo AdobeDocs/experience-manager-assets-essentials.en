@@ -1,11 +1,13 @@
 ---
 cloud: Experience Cloud
 solution: Experience Manager, Experience Manager Assets
+landing-page-name: experience-manager
+landing-page-breadcrumb-title: AEM
 product: adobe experience manager
 type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-assets-essentials.en
 mini-toc-levels: 1
-index: yes
+index: true
 recommendations: noDisplay
 ---
 
