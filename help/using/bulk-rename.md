@@ -3,6 +3,16 @@ title: Rename and bulk assets rename in [!DNL Assets Essentials]
 description: Learn how to bulk rename assets using the new Assets UI (Assets Essentials). It provides the ability to rename multiple assets at once.
 role: User
 exl-id: 5d18950f-1863-46c0-83d7-079ae95a6320
+TQID: https://experienceleague.adobe.com/NEmoIDy8etw5vhpxRbf9RyVnT1TKfoOvK4tpPrGHP-Q
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Rename asset or folder in [!DNL Assets Essentials] {#rename-single-asset-or-folder}
 

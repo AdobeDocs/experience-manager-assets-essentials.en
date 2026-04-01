@@ -3,6 +3,16 @@ title: Edit images
 description: Edit images using [!DNL Adobe Express] powered options and save updated images as versions.
 role: User
 exl-id: fc21a6ee-bf23-4dbf-86b0-74695a315b2a
+TQID: https://experienceleague.adobe.com/DAhAV4RClHSyCj-NgVALulD0gzddSip5f56LsUq0bHU
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
+    internal-label: Content reuse
 ---
 # Edit images in [!DNL Assets Essentials] {#edit-images-in-assets-essentials}
 

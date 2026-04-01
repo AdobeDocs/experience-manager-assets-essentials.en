@@ -2,6 +2,18 @@
 title: Bulk import assets using Assets Essentials
 description: Learn how to bulk import assets using the new Assets UI (Assets Essentials). It provides administrators with the ability to import a large number of assets from a data source to AEM Assets.
 exl-id: 5f5fc15e-959b-48b6-834a-42b213512b49
+TQID: https://experienceleague.adobe.com/6Fq368rg7WeWVL4E098y0skHagS8y1kTbEcvgVn9l94
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
 ---
 # Bulk import assets using Assets Essentials   {#bulk-import-essentials}
 
