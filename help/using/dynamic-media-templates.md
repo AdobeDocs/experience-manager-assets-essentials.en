@@ -1,7 +1,8 @@
 ---
 title: How to manage Dynamic Media templates?
 description: Learn how to create Dynamic Media templates using a WYSIWYG template editor and include multiple images and text layers to quickly create banners and flyers and use them in downstream applications.
-hide: yes
+hide: true
+hidefromtoc: true
 role: User
 exl-id: 07de648e-4ae2-4524-8e05-3cf10bb6006d
 ---
@@ -45,7 +46,7 @@ To create a Dynamic Media template, you must have:
 
 1. Access to Dynamic Media.
 1. [Synced the images available in your AEM Assets instance with Dynamic Media to use them for creating the template](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm).
-1. verified the following in the Touch UI:
+1. Verified the following on the Touch UI:
    * On the **[!UICONTROL Edit Dynamic Media Configuration page]**, **[!UICONTROL Dynamic Media sync mode]** that is set to **[!UICONTROL Disabled by default]**, is not applied to all AEM folders (**[!UICONTROL Sync all content]** is unchecked). See [configuring Dynamic Media Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) for more information.
    * **[!UICONTROL Dynamic Media sync mode]** is set to **[!UICONTROL Enable for subfolders]** for the destination folder or subfolder where you will save the template after creation. See [configuring Dynamic Media Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/config-dm) for more information.
 
