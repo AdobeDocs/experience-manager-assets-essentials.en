@@ -2,6 +2,15 @@
 title: How to manage permissions for folders in AEM Assets Essentials?
 description: Assets Essentials allows the administrators to manage the access levels for folders available in the repository. Create user groups and assign permissions to those groups to manage access levels. As an administrator, you can also delegate the permission management privileges to user groups at the folder-level.
 exl-id: 5ef01dbc-87c0-4013-9367-5da3774f4f20
+TQID: https://experienceleague.adobe.com/fWLQ3XI2WVIbouGb7QXznoGhEoB-pHiHw-8P-Fo4128
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 ---
 # Manage permissions for folders {#manage-permissions}
 

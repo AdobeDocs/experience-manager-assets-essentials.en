@@ -5,6 +5,15 @@ role: User
 feature: Collaboration,Asset Management
 solution: Experience Manager, Experience Manager Assets
 exl-id: db3c30e4-a0c2-4686-a291-36a959fc3d05
+TQID: https://experienceleague.adobe.com/BIGrPj6x-EjokkE23Kg4gYU-2QA1PAUikAA1tvMZv1k
+product_v2:
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Asset relations {#related-assets}
 

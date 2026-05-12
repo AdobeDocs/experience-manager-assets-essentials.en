@@ -3,6 +3,19 @@ title: Integration with other Adobe solutions
 description: "[!DNL Assets Essentials] integrates with other Adobe solutions and provides an embedded experience from within the native application."
 role: User
 exl-id: bc43a59e-f295-44d2-a14d-854174f91e41
+TQID: https://experienceleague.adobe.com/TFjf7jmmlN5iuoWzFg32WqfNuLMIdf29d-SkrO6Ar58
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+feature_v2:
+  - id: ae478996-b206-4712-9b0c-dc78a2644453
+    internal-label: Integrations
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Integration with other Adobe solutions {#integrations}
 
