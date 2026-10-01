@@ -96,9 +96,9 @@ To [create a folder](/help/using/add-delete.md) under **[!UICONTROL Dynamic Medi
 Click ![template to create flyers rapidly](/help/using/assets/show-layers-list.svg) **>** more options (![](/help/using/assets/three-dots.svg)) on the Canvas layer to edit the canvas dimensions anytime while creating the template.
 ![](/help/using/assets/edit-canvas1.png)
 
-   >[!NOTE]
-   >
-   > Templates allow a maximum of 20 layers, including the Canvas.
+>[!NOTE]
+>
+> Templates allow a maximum of 20 layers, including the Canvas.
 
 ### Add images to the canvas{#add-images-to-the-canvas}
 
@@ -120,9 +120,9 @@ Execute these steps to add text layers to the canvas:
 
 See the [**[!UICONTROL Properties Panel]**](#reposition-resize-delete-a-layer) to reposition, resize, rotate or delete the layer. Format your text to your desired font, size, color, style, alignment (in the layer) by changing their values in the respective fields under the **[!UICONTROL Text]** section of the panel.
 
-   >[!NOTE]
-   >
-   > To use a font other than the default Adobe Sans F2 font family, you need to upload and publish the font file to AEM Assets and Dynamic Media. If you have some old fonts in your instance, ensure to [reprocess](/help/using/reprocessing.md) to view them in the Template editor.
+>[!NOTE]
+>
+> To use a font other than the default Adobe Sans F2 font family, you need to upload and publish the font file to AEM Assets and Dynamic Media. If you have some old fonts in your instance, ensure to [reprocess](/help/using/reprocessing.md) to view them in the Template editor.
 
 ### Edit or delete a layer {#edit-or-delete-a-layer}
 
@@ -232,9 +232,9 @@ Execute these steps to preview and publish the template and copy the delivery UR
    <br>
 1. To publish the template on the preview page, click **[!UICONTROL Publish]**  and confirm to publish. Publish Complete message displays and the publish status updates to Published.
 
- >[!NOTE]
- >
- >Publishing the template requires the template images to be published first.
+>[!NOTE]
+>
+>Publishing the template requires the template images to be published first.
 
 ### Copy the delivery URL
 
