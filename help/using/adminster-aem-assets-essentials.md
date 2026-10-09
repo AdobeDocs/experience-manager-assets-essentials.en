@@ -2,6 +2,11 @@
 title: Administer Experience Manager Assets Essentials
 description: Configure the access to the Assets Essentials application using the Admin Console and then manage the tasks that can be performed after logging to the Assets Essentials application.
 exl-id: ffd65741-21b7-47cd-9779-63a7903879e6
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
 ---
 # Administer Experience Manager Assets Essentials {#administer-assets-essentials}
 
