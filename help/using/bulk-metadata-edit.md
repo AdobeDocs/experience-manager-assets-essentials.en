@@ -2,10 +2,12 @@
 title: Bulk metadata edit in Assets Essentials
 description: Learn how you can update a predefined set of standard metadata fields for multiple assets available on Assets Essentials simultaneously.
 exl-id: 17185160-6c51-4581-a716-77b365ef3dd9
-TQID: https://experienceleague.adobe.com/zfRAzwQWEhdCwSVuWKDz-ndudFtv-mIhmjzyNkg8sOQ
+TQID: 'https://experienceleague.adobe.com/zfRAzwQWEhdCwSVuWKDz-ndudFtv-mIhmjzyNkg8sOQ'
 product_v2:
   - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
     internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
 feature_v2:
   - id: a01bfd36-4ab8-4bf8-9dc0-5b45b890552e
     internal-label: APIs
