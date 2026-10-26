@@ -50,7 +50,7 @@ Assets Essentials enables you to:
 
 Assets Essentials offers a standalone web user interface for end users and administrators, giving them access to all the solution's capabilities. Users of other Adobe solutions can also access and work with assets from Assets Essentials via an embedded experience, which is available in Creative Cloud for enterprise, Adobe Journey Optimizer, and Adobe Workfront applications.
 
-![Integrations with other solutions](assets/assets-essentials-integration.svg)
+![Integrations with other solutions](assets/assets-essentials-integration.png)
 
 ## Why Assets Essentials? {#assets-essentials-features}
 

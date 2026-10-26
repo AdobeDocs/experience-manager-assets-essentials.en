@@ -25,7 +25,7 @@ topic_v2:
 
 The following data flow diagram illustrates the sequence of tasks that an administrator must perform to configure and manage Assets Essentials:
 
-![Deploy Assets Essentials](assets/deploy-assets-essentials.svg)
+![Deploy Assets Essentials](assets/deploy-assets-essentials.png)
 
 ## Access the Admin Console {#access-admin-console}
 
@@ -119,7 +119,7 @@ Create a folder structure that works well with the business objectives for the o
 
 There are various possible folder structure types that you can use for your organization. The following are a few examples of typical folder structures: 
 
-![Typical folder structures](assets/folder-structure.svg)
+![Typical folder structures](assets/folder-structure-new.png)
 
 >[!NOTE]
 >
