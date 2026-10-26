@@ -47,7 +47,7 @@ In case of deployment into two Admin Consoles, an additional configuration step 
 
 To integrate Creative Cloud and Assets Essentials applications, the users that are available in Admin Console for Creative Cloud must be made available in Admin Console for Experience Cloud. To make the users available in Experience Cloud Admin Console, create a directory to establish [directory trusting](https://helpx.adobe.com/enterprise/using/set-up-identity.html#directory-trusting) between the two admin consoles.
 
-![Creative Cloud Users](assets/creative-cloud-users.svg)
+![Creative Cloud Users](assets/creative-cloud-users.png)
 
 As depicted in the diagram, the Creative Cloud users are automatically made available in the Experience Cloud Admin Console based on a trust relationship between the two consoles. You can then add the users to Assets Essentials product profiles. As a result, the Creative Cloud users can access the Adobe Asset Link application that can interact with the Assets Essentials repository. For more information, see [Integrate Assets Essentials with Creative Cloud applications](integrate-with-creative-cloud.md).
 

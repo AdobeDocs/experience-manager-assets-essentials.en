@@ -25,7 +25,7 @@ product_v2:
 
 The following data flow diagram illustrates the sequence of tasks that an administrator must perform to configure and manage Assets Essentials:
 
-![Assets Essentials admin flow](assets/permissions-management-cce-next.svg)
+![Assets Essentials admin flow](assets/permission-management-cce-next.png)
 
 ## Access the Admin Console {#access-admin-console}
 
@@ -80,7 +80,7 @@ Create user groups and then assign your users to the user groups. These user gro
 
 You can add users to user groups (1) and [users to Assets Essentials Product Profiles (2)](#add-admin-users). However, you cannot add user groups directly to Assets Essentials Product Profiles (3).
 
-![Add users to groups and product profiles](assets/user-groups-product-profiles.svg)
+![Add users to groups and product profiles](assets/user-group-product-profiles.png)
 
 For information on how to manage user groups, see `Create user groups` and `Edit user groups` available at [Manage user groups](https://helpx.adobe.com/enterprise/using/user-groups.html).
 
@@ -132,7 +132,7 @@ Consider the following points when you start planning to create a folder structu
 
 There are various possible folder structure types that you can use for your organization. The following are a few examples of typical folder structures: 
 
-![Typical folder structures](assets/folder-structure.svg)
+![Typical folder structures](assets/folder-structure-new.png)
 
 ### Manage permissions for folders {#manage-permissions-for-folders}
 

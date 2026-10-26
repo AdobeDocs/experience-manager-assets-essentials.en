@@ -46,7 +46,7 @@ The AEM Assets Essentials environment offers comprehensive reporting capabilitie
 **To create a report:** 
 
 1. Navigate to **Reports** and click **Create report** (from the top right). The **create report** dialog box displays the below fields: 
-![create-report](/help/using/assets/executed-reports1.svg)
+![create-report](/help/using/assets/executed-reports1.png)
 
    **In Configuration tab:** 
 
@@ -148,7 +148,7 @@ To schedule a report, follow the steps below:
    1. **Description**: Add an optional description to the report. 
    1. **Select folder path:** Select a folder path to generate a report for assets that will be uploaded to or downloaded from that specific folder in the future. 
    1. Toggle **Schedule report:** Toggle to schedule the report for a later time or for its repeated occurrence.
-   ![schedule report](/help/using/assets/schedule-reports1.svg) 
+   ![schedule report](/help/using/assets/schedule-reports1.png) 
 
    1. **Choose frequency:** Specify the interval for generating the report (for example, daily, weekly, monthly, yearly, or once) and set the date and time to run the report along with the end date for recurrence. For a one-time report, select the date range for the report on the selected activity type in the AEM environment. For example, if you need a report on downloaded assets from the 10th to the 29th (future dates) of a specific month, select these dates in the **Select date interval** field.  
 
@@ -192,21 +192,21 @@ Assets Essentials enables you to view real-time data for your Assets Essentials 
 Click **[!UICONTROL Insights]** available in the left navigation pane to view the following automatically generated charts:
 
 * **Downloads**: The number of assets downloaded from the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
-![downloads](/help/using/assets/insights-downloads2341.svg)
+![downloads](/help/using/assets/insights-downloads2341.png)
 
 * **Uploads**: The number of assets uploaded to the Assets Essentials environment in the last 30 days or 12 months represented using a line chart.
-![uploads](/help/using/assets/insights-uplods2.svg)
+![uploads](/help/using/assets/insights-uplods2.png)
 
 <!--* **Asset Count by Size**: The division of count of assets based on their range of various sizes from 0 MB to 100 GB.-->
 
 * **Storage usage**: The storage usage, in bytes, for the Assets Essentials environment represented using a bar chart.
-![storage usage](/help/using/assets/insights-storage-usage1.svg)
+![storage usage](/help/using/assets/insights-storage-usage1.png)
 <!--* **Delivery**: The graph depicts the count of assets as the delivery dates.-->
 
 <!--* **Asset Count by Asset Type**: Represents count of various MIME types of the available assets. For example, application/zip, image/png, video/mp4, application/postscripte.-->
 
 * **Top Searches**: View top searched terms along with the number of times those terms are searched within your Assets Essentials environment in the last 30 days or 12 months represented in a tabular format.
-![storage usage](/help/using/assets/insights-top-search.svg)
+![storage usage](/help/using/assets/insights-top-search.png)
 
   <!--
    ![Insights](assets/insights1.png)
@@ -214,8 +214,8 @@ Click **[!UICONTROL Insights]** available in the left navigation pane to view th
    -->
 
 * **Asset Count by size:** Segments the total asset count in your Assets essentials environment into different size ranges, highlighting the count and percentage of assets in each size range, represented by a donut chart.
-![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.svg)
+![insights-assets-count-by-size](/help/using/assets/insights-assets-count-by-size.png)
 
 * **Asset Count by Asset Type:** Segments the total asset count in your Assets essentials environment, highlighting the count and percentage of assets based on their file types, represented by a donut chart.
-![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.svg)
+![insights-assets-count-by-size](/help/using/assets/insights-assest-count-by-asset-type1.png)
 
