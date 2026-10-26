@@ -135,7 +135,7 @@ To add new assets to work with, upload a few assets from your local file system.
 
 Assets Essentials allows the administrators to manage the access levels for folders available in the repository. As an administrator, you can create user groups and assign permissions to those groups to manage access levels. You can also delegate the permission management privileges to user groups at the folder level.
 
- >[!VIDEO](https://video.tv.adobe.com/v/341104)
+>[!VIDEO](https://video.tv.adobe.com/v/341104)
 
 For more information, see [Manage permissions for folders](manage-permissions.md).
 

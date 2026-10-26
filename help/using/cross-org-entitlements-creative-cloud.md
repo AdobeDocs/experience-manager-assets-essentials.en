@@ -2,6 +2,11 @@
 title: Cross Org entitlements in AEM Assets for Creative Cloud integrations
 description: Learn how to configure Cross Org entitlements in AEM Assets for Creative Cloud integrations. Connect to a Creative Cloud entitlement that is provisioned to a different IMS organization in order to easily use the latest Creative Cloud integrations in AEM Assets, including Express and Creative Cloud Libraries.
 exl-id: 5a39b640-4195-4149-9757-2733ed70e616
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: d09181b5-a36a-43de-ba01-36641440bc43
+    internal-label: Experience Manager Assets
 ---
 # Cross Org entitlements for Creative Cloud integrations  {#cross-org-entitlements}
 
