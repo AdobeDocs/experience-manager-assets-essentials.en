@@ -84,8 +84,8 @@ You can assign the following permissions to the user groups or users. Adobe does
 
 | Permission Name | Description |
 |-----|------|
-| Can View |<ul><li>Read-access to view and navigate folders </li><li>Preview assets</li><li>Download assets</li><li>Copy assets</li><li>Share links to assets</li><ul>  |
-| Can Edit |<ul><li>All privileges available for Can View permissions </li><li>Create folders</li><li>Remove folders</li><li>Rename folders</li><li>Create assets</li><li>Update assets</li><li>Remove assets</li><li>Move assets</li><li>Rename assets</li><ul>  |
+| Can View |<ul><li>Read-access to view and navigate folders </li><li>Preview assets</li><li>Download assets</li><li>Copy assets</li><ul>  |
+| Can Edit |<ul><li>All privileges available for Can View permissions </li><li>Create folders</li><li>Remove folders</li><li>Rename folders</li><li>Create assets</li><li>Update assets</li><li>Remove assets</li><li>Move assets</li><li>Rename assets</li><li>Share links to assets</li><ul>  |
 | Owner |  <ul><li>All privileges available for Can Edit permissions</li><li>Manage permissions on a folder and its subfolders</li>This permission allows the administrators to delegate the administrator privileges to others for a folder and its subfolders.<ul>|
 | Deny access | Remove Can View, Can Edit, and Owner permissions for a folder and its subfolders. |
 
